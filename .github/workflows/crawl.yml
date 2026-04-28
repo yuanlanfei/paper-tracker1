@@ -1,13 +1,13 @@
 name: Daily Paper Crawler
-
+permissions:
+  contents: write
 on:
   # 每天早上 8 点自动运行
   schedule:
     - cron: '0 0 * * *'
   # 也可以手动触发
   workflow_dispatch:
-permissions:
-  contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
