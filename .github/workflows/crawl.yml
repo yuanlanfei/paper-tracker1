@@ -1,0 +1,46 @@
+name: Daily Paper Crawler
+
+on:
+  # 每天早上 8 点自动运行
+  schedule:
+    - cron: '0 0 * * *'
+  # 也可以手动触发
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run crawler
+        run: |
+          python scripts/crawler.py
+        env:
+          EMAIL: ${{ secrets.OPENALEX_EMAIL }}
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add data/papers.json data/data.json
+            git commit -m "Update papers: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
