@@ -37,6 +37,10 @@ jobs:
         env:
           EMAIL: ${{ secrets.OPENALEX_EMAIL }}
 
+      - name: Export data
+        run: |
+          python scripts/export.py
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
