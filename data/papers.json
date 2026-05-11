@@ -219420,5 +219420,505 @@
       "Chulin Yu"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160719441",
+    "title": "Numerical analysis of intra-granular and inter-granular fission gas swelling in UO2 fuel",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114982",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114982",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fission",
+      "Swelling",
+      "Fission products",
+      "Numerical analysis",
+      "Nuclear fuel",
+      "Diffusion",
+      "Pressurized water reactor",
+      "Nuclear reactor core"
+    ],
+    "authors": [
+      "S. Khajian",
+      "A. Zolfaghari",
+      "M. Aghaie",
+      "A. Minuchehr"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160722946",
+    "title": "First-principles investigation on diffusion behavior of atomic tritium in bulk Fe3O4",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114984",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114984",
+    "cited_by_count": 0,
+    "keywords": [
+      "Tritium",
+      "Diffusion",
+      "Hydrogen",
+      "Oxide",
+      "Activation energy",
+      "Atomic diffusion",
+      "Atom (system on chip)",
+      "Binding energy",
+      "Ab initio"
+    ],
+    "authors": [
+      "Lijing Huang",
+      "Wenyi Wang",
+      "Zhongyi Zou",
+      "Aixing Wang",
+      "Jianzhu Cao",
+      "C Li"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160717728",
+    "title": "Microstructural characteristics and evolution mechanisms of oxide layers in 316L austenitic stainless steel exposed to oxygen-saturated lead-bismuth eutectic (LBE)",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114989",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114989",
+    "cited_by_count": 0,
+    "keywords": [
+      "Oxide",
+      "Spinel",
+      "Eutectic system",
+      "Microstructure",
+      "Internal oxidation",
+      "Corrosion",
+      "Austenitic stainless steel",
+      "Isothermal process",
+      "Austenite"
+    ],
+    "authors": [
+      "Lidan Yu",
+      "Wandong Yang",
+      "Yiyou Tu",
+      "Junlin Huang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160701650",
+    "title": "Three-way decision-based security-by-design and physical protection optimization for small reactors",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112440",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112440",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scram",
+      "Work (physics)",
+      "Current (fluid)",
+      "Minification"
+    ],
+    "authors": [
+      "Jian Liu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160704078",
+    "title": "Development and validation of a segregated newton iteration-based subchannel numerical algorithm for buoyancy-driven flow analysis",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104408",
+    "doi": "https://doi.org/10.1016/j.net.2026.104408",
+    "cited_by_count": 0,
+    "keywords": [
+      "Development (topology)",
+      "Flow (mathematics)",
+      "Newton's method",
+      "Data flow model"
+    ],
+    "authors": [
+      "Kui Gao",
+      "YunZhi Liu",
+      "Tian Wang",
+      "Bo Zhang",
+      "Miao Gui",
+      "Jianqiang Shan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160708107",
+    "title": "Overshoot-resolved transition modeling based on field inversion and symbolic regression",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-10",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128935",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128935",
+    "cited_by_count": 0,
+    "keywords": [
+      "Inversion (geology)",
+      "Field (mathematics)",
+      "Regression",
+      "Regression analysis",
+      "Symbolic regression"
+    ],
+    "authors": [
+      "Lei Wu",
+      "Zuoli Xiao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160704627",
+    "title": "Predicting critical heat flux using localized sensing at invisible vapor-liquid interfaces",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128960",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128960",
+    "cited_by_count": 0,
+    "keywords": [
+      "Boiling",
+      "Capacitive sensing",
+      "Nucleate boiling",
+      "Heat flux",
+      "Planar",
+      "Bubble",
+      "Temporal resolution",
+      "Nucleation",
+      "Amplitude"
+    ],
+    "authors": [
+      "Yuchen Shen",
+      "Feifei Wu",
+      "Fangying Chen",
+      "Kuwin Wyke",
+      "Kesava  Vardhan Pegallapati",
+      "Xianming Dai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160717246",
+    "title": "Numerical investigation of single-phase and subcooled flow boiling in manifold TPMS heat sink fabricated via electrochemical additive manufacturing",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128952",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128952",
+    "cited_by_count": 0,
+    "keywords": [
+      "Subcooling",
+      "Heat sink",
+      "Microchannel",
+      "Boiling",
+      "Heat transfer",
+      "Heat transfer coefficient",
+      "Thermal",
+      "Thermal resistance"
+    ],
+    "authors": [
+      "W.S. Huang",
+      "H.Y. Ning",
+      "GH Tang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160716965",
+    "title": "Effect of anion symmetry on the interfacial thermal resistance at CO₂/ionic liquid–electrode interface via entropic insight",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128959",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128959",
+    "cited_by_count": 0,
+    "keywords": [
+      "Ion",
+      "Interface (matter)",
+      "Thermal",
+      "Interfacial thermal resistance",
+      "Symmetry (geometry)",
+      "Thermal resistance"
+    ],
+    "authors": [
+      "Zireng Qi",
+      "Hongwei Chen",
+      "Chunmei Wu",
+      "Yangfan Song",
+      "Zhuo Liu",
+      "Xiang Wei"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160714316",
+    "title": "A molecular dynamics study on leakage mechanisms of supercritical carbon dioxide in nanoslit structures",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128897",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128897",
+    "cited_by_count": 0,
+    "keywords": [
+      "Leakage (economics)",
+      "Molecular dynamics",
+      "Supercritical fluid",
+      "Trapping",
+      "Microscale chemistry",
+      "Intermolecular force",
+      "Kinetic energy",
+      "Supercritical carbon dioxide"
+    ],
+    "authors": [
+      "Liu Z",
+      "Shuang Wu",
+      "Chaofan Yao",
+      "Lichun Bai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160719484",
+    "title": "Condensation-induced vibrations during subcooled flow boiling in solid sensible heat storage systems for steam generation",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128939",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128939",
+    "cited_by_count": 0,
+    "keywords": [
+      "Subcooling",
+      "Sensible heat",
+      "Boiling",
+      "Flow (mathematics)",
+      "Thermal energy storage",
+      "Vibration",
+      "Flow boiling"
+    ],
+    "authors": [
+      "Yifan Tang",
+      "Keyu Weng",
+      "Fumin Zhao",
+      "Liang Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160692849",
+    "title": "Novel and improved approaches for multiphysics modeling of a thermoelectric generator system using internal combustion engine exhaust heat",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131378",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131378",
+    "cited_by_count": 0,
+    "keywords": [
+      "Multiphysics",
+      "Thermoelectric generator",
+      "Mass flow rate",
+      "Internal combustion engine",
+      "Coupling (piping)",
+      "Thermoelectric effect",
+      "Combustion",
+      "Stirling engine",
+      "Exhaust gas recirculation",
+      "Power (physics)"
+    ],
+    "authors": [
+      "Minh Quang Pham",
+      "Luc Van Nguyen",
+      "Thong Duc Hong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160702406",
+    "title": "Anti-gravity outflow testing of a screen channel liquid acquisition device in liquid nitrogen",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131315",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131315",
+    "cited_by_count": 0,
+    "keywords": [
+      "Liquid nitrogen",
+      "Outflow",
+      "Channel (broadcasting)",
+      "Nitrogen",
+      "Liquid water",
+      "Liquid flow"
+    ],
+    "authors": [
+      "Yuan Ma",
+      "Rongda Zhang",
+      "Yunlong Wang",
+      "Xiaowei Wang",
+      "Jinjia Wei",
+      "Fushou Xie"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160700834",
+    "title": "Experimental study of spray–wall impingement of E85 and gasoline fuels under cold-start conditions for direct injection applications",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131305",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131305",
+    "cited_by_count": 0,
+    "keywords": [
+      "Gasoline",
+      "Gasoline direct injection",
+      "Octane rating",
+      "Fuel injection"
+    ],
+    "authors": [
+      "Anurag Gaur",
+      "Santu Dolui",
+      "M. Venkata Koti",
+      "K.  A. Subramanian",
+      "Kaushik Saha"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160706302",
+    "title": "A generative fusion framework for cross-scenario Spatio-temporal thermal process modeling of tunnel fires",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131368",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131368",
+    "cited_by_count": 0,
+    "keywords": [
+      "Process (computing)",
+      "Thermal",
+      "Fusion",
+      "Process modeling",
+      "Work in process"
+    ],
+    "authors": [
+      "Pengfei Wang",
+      "Jihong Ye"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160715809",
+    "title": "Modeling and performance evaluation of crossflow microchannel heat exchangers for natural gas liquefaction systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131366",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131366",
+    "cited_by_count": 0,
+    "keywords": [
+      "Microchannel",
+      "Heat exchanger",
+      "Liquefaction",
+      "Liquefied natural gas",
+      "Natural gas",
+      "Micro heat exchanger",
+      "Heat transfer"
+    ],
+    "authors": [
+      "Brunno Abreu da Fonseca Vargas",
+      "Fábio Toshio Kanizawa"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160692049",
+    "title": "Unraveling thermal oscillations in electric double layer capacitors: Linking interfacial ion overscreening and dielectric decrement to device performance via multi-scale electro-thermal approach",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131304",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131304",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Dielectric",
+      "Ion",
+      "Double layer (biology)",
+      "Layer (electronics)",
+      "Thermal fluctuations"
+    ],
+    "authors": [
+      "Xuejin Wang",
+      "Bing-Ang Mei",
+      "Muhammad Hamza",
+      "Boru Jia",
+      "Zhengxing Zuo",
+      "Huihua Feng"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160700060",
+    "title": "Inverse design of NURBS metasurfaces via deep learning for angular thermal emission control",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.110988",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.110988",
+    "cited_by_count": 0,
+    "keywords": [
+      "Inverse",
+      "Inverse problem",
+      "Thermal",
+      "Deep learning",
+      "Thermal emission"
+    ],
+    "authors": [
+      "Kaipeng Liu",
+      "J. Y. Zhao",
+      "Huagen Li",
+      "Zifu Xu",
+      "Yuanjian Wan",
+      "Anjia Di",
+      "Yueling Zhang",
+      "Hao Wang",
+      "Junliang Jia",
+      "Longqiu Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160701374",
+    "title": "Experimental and numerical investigation of the thermophysical properties of lattices based on triply periodic minimal surfaces",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-05-09",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.110979",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.110979",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal conductivity",
+      "Gyroid",
+      "Porosity",
+      "Minimal surface",
+      "Thermal conduction",
+      "Surface (topology)",
+      "Work (physics)",
+      "Thermal",
+      "Heat sink"
+    ],
+    "authors": [
+      "D.M. Bragin",
+      "A.I. Popov",
+      "I.D. Karpilov",
+      "S.A. Zinina",
+      "A.S. Popkova",
+      "A. V. Eremin"
+    ],
+    "category": "heat-transfer"
   }
 ]
