@@ -220400,5 +220400,499 @@
       "Yong Gap Park"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160850109",
+    "title": "Flow pattern classification and flow resistance correlation of cross flow over inline tube bundles",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-12",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114986",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114986",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flow (mathematics)",
+      "Flow resistance",
+      "Tube (container)",
+      "Cross-correlation",
+      "Correlation",
+      "Flow conditions"
+    ],
+    "authors": [
+      "Xiaoyang Xie",
+      "Yunhao Luo",
+      "Houjian Zhao",
+      "Xiaowei Li",
+      "Xinxin Wu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160857291",
+    "title": "Designing a solid-fuelled salt-cooled fuel performance experiment in the Jules Horowitz Reactor, Part II: Optimisation",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114981",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114981",
+    "cited_by_count": 0,
+    "keywords": [
+      "Design of experiments",
+      "Fuel efficiency",
+      "Performance prediction"
+    ],
+    "authors": [
+      "Patrick T. Carter-Cortez",
+      "Geoff Parks"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160859863",
+    "title": "Performance of low-Reynolds-number URANS closures in the computation of vertical heater vertical cooler natural circulation loops",
+    "abstract": "Here we present 3-D simulations of the flow dynamics and thermal behaviour in Natural Circulation Loop (NCL) systems relevant to the passive cooling of current and next generation nuclear reactors. The heating and cooling arrangements consist of a vertical heater and cooler on opposite side legs of the loop at operating conditions for a fully turbulent flow, relevant to the primary circuit of Pressurized Water Reactors. The thermal resistance of the solid material to the conduction heat transfer mode is considered, using conjugate heat transfer analysis, and the working fluid is water in single-phase. This study extends the investigations of this type of natural convection loop to heating rates, and consequently Grashof number levels, over an order of magnitude higher than those of earlier studies. More specifically, we produce simulations of a vertically heated and vertically cooled natural convection loop at heating rates of 1 kW, 5 kW and 25 kW, with the cooler at a uniform temperature of 34 o C . For the lower heating rate case of 1 kW, which had been extensively looked at in earlier studies, only the low-Reynolds-number Launder-Sharma model has been employed. At the medium heating rate of 5 kW, which has not been examined before, three turbulence models are employed: the Launder-Sharma k − ε , the k − ω SST and the Elliptic-Blending Reynolds stress model (EBRSM). This allows us to extend the model assessment of earlier studies to this higher Grashof number. For the highest heating rate of 25 kW, the Launder-Sharma k - ε , validated at the lower heating rate, has been used. Comparisons with the same model's predictions at the two lower heating rates provide this unique opportunity to assess the Grashof number effect on natural convection loops, to levels relevant to reactor conditions. The validity of the Launder-Sharma k - ε -ε is confirmed through detailed local flow and thermal comparisons with LES predictions for the heating rate of 1 kW and through global parameter comparisons with experimental data and empirical correlations for all heating rates. Comparisons of the simulations of the three models at the heating rate of 5 kW agree with the findings of similar earlier comparisons at the lower heating rate of 1 kW, with the Launder-Sharma and EBRSM returning similar results to each other. The most important original contribution is the information generated on the flow and thermal evolutions as the Grashof number is progressively raised by over an order of magnitude, to levels that approach reactor operating conditions. As the heating rate increases, it takes longer for steady-state conditions to be established, instabilities during the transient stage become stronger, and the rate of turbulence enhancement goes up. This has strong consequences on the hydrodynamic and thermal performance of the loop. The rate of increase of the loop mean dimensionless temperature with the Grashof number becomes weaker at higher Grashof numbers, while the dimensionless mass flow rate shows the reverse trend. Finally, at all heating rates, the centreline temperature variation around the loop suggests that the use of an overall energy balance to deduce the loop mass flow rate from local temperature measurements at the heater inlet and outlet is susceptible to significant error. • Widely used low- Re and advanced Reynolds stress transport models have been assessed in capturing the flow features of natural circulation loops and validated against recent LES data. • Dean vortices were captured by the RANS models due to the interaction between the centrifugal pressure gradient and the boundary layer fluid, and their effect on the flow development has been demonstrated. • Heating power, conjugate heat transfer and the geometric parameters influence the near-wall heat transfer and the development of 3-D structures within the loops. • The low- Re k-ε LS and EBRSM laminarised the flow compared to the k-ω SST, though all models agreed overall with the experimental data, consistent with the trend of the turbulent correlation.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114966",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114966",
+    "cited_by_count": 0,
+    "keywords": [
+      "Grashof number",
+      "Natural circulation",
+      "Natural convection",
+      "Turbulence",
+      "Heat transfer",
+      "Thermal conduction",
+      "Reynolds stress",
+      "Thermal",
+      "Convection"
+    ],
+    "authors": [
+      "Constantinos Katsamis",
+      "Dean R. Wilson",
+      "Tim Craft",
+      "Hector Iacovides",
+      "JUAN C. URIBE"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160824494",
+    "title": "Design and performance evaluation of a centrifugal compressor operating with He–N2 gas mixture for a gas-cooled reactor closed brayton cycle",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114985",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114985",
+    "cited_by_count": 0,
+    "keywords": [
+      "Brayton cycle",
+      "Centrifugal compressor",
+      "Gas compressor",
+      "Gas turbines"
+    ],
+    "authors": [
+      "Arif Aziz",
+      "Qun Zheng",
+      "Adil Malik",
+      "Muhammad Haris",
+      "Muhammad Adnan",
+      "Peiqiang Chen",
+      "Amir Munir"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160857630",
+    "title": "A 1D Modelica-based nuclear-thermo-hydro-mechanical coupled model for fuel rod C-shaped bowing prediction in PWRs and MMRs",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.114993",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.114993",
+    "cited_by_count": 0,
+    "keywords": [
+      "Burnup",
+      "Deformation (meteorology)",
+      "Bowing",
+      "Research reactor",
+      "Sensitivity (control systems)",
+      "Pressurized water reactor",
+      "Rod",
+      "Nuclear reactor core",
+      "Coolant"
+    ],
+    "authors": [
+      "Xiaokun Jin",
+      "Bin Liu",
+      "X F Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160826279",
+    "title": "Design and dynamic operation characteristics of static gravimetric flow calibration facility for lead–bismuth eutectic",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-05-12",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112449",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112449",
+    "cited_by_count": 0,
+    "keywords": [
+      "Eutectic system",
+      "Calibration",
+      "Gravimetric analysis",
+      "Flow (mathematics)",
+      "Flow measurement"
+    ],
+    "authors": [
+      "Tianji Peng",
+      "Siyuan Huang",
+      "Zijun Zou",
+      "Yucheng Zhu",
+      "Xukai Fan",
+      "Qian Sun",
+      "Wangsheng Tian",
+      "Yanze Tang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160838993",
+    "title": "Regression-based thermal prediction and heat transfer efficiency evaluation for square subchannels in SMRs",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106445",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106445",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nusselt number",
+      "Computational fluid dynamics",
+      "Adiabatic process",
+      "Pressure drop",
+      "Turbulence",
+      "Reynolds number",
+      "Heat transfer",
+      "Entropy (arrow of time)",
+      "Turbulence kinetic energy"
+    ],
+    "authors": [
+      "Sabyasachi Roy",
+      "Afroza Shelley"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160869728",
+    "title": "Comprehensive computational fluid dynamic assessment of shrouded nozzles for radioactive aerosol sampling: Sensitivity analysis and validation",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106431",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106431",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nozzle",
+      "Sensitivity (control systems)",
+      "Aerosol",
+      "Computational fluid dynamics",
+      "Model validation"
+    ],
+    "authors": [
+      "R. Gharari",
+      "R. Ahangari",
+      "M.H. Porhemmat"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160823378",
+    "title": "A Nonlinear Diffusion Acceleration Scheme for the S N Transport Equation with Anisotropic Scattering Using the Local Discontinuous Galerkin Method",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1080/00295639.2026.2660002",
+    "doi": "https://doi.org/10.1080/00295639.2026.2660002",
+    "cited_by_count": 0,
+    "keywords": [
+      "Discontinuous Galerkin method",
+      "Nonlinear system",
+      "Acceleration",
+      "Convection–diffusion equation",
+      "Scheme (mathematics)",
+      "Diffusion",
+      "Neutron transport",
+      "Scattering"
+    ],
+    "authors": [
+      "Rikuto Kasama",
+      "Tomohiro Endo",
+      "Akio Yamamoto"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160837745",
+    "title": "An Integrated Tool Set for Spent Nuclear Fuel Pool Sabotage Assessment: Coupling DEPO-Based Physical Protection Effectiveness with WSPEEDI Consequence Modeling",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1080/00295450.2026.2661154",
+    "doi": "https://doi.org/10.1080/00295450.2026.2661154",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coupling (piping)",
+      "Spent nuclear fuel",
+      "Set (abstract data type)",
+      "Nuclear fuel",
+      "Spent fuel pool"
+    ],
+    "authors": [
+      "Hamza El-Asaad"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160827485",
+    "title": "Revised neutron capture cross section of 204 Pb by combining activation method and high-precision thermal ionization mass spectrometry",
+    "abstract": "",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1080/00223131.2026.2666320",
+    "doi": "https://doi.org/10.1080/00223131.2026.2666320",
+    "cited_by_count": 0,
+    "keywords": [
+      "Mass spectrometry",
+      "Thermal ionization mass spectrometry",
+      "Cross section (physics)",
+      "Thermal ionization",
+      "Analytical Chemistry (journal)",
+      "Neutron temperature",
+      "Neutron cross section",
+      "Ionization"
+    ],
+    "authors": [
+      "Shoji Nakamura",
+      "Yuji Shibahara",
+      "T. Shizuma",
+      "Atsushi Kimura",
+      "Shunsuke Endo",
+      "Rovira Gerard"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160829010",
+    "title": "Experimental research on flow patterns of liquid-solid two-phase thermocapillary convection inside a liquid bridge",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-12",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128953",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128953",
+    "cited_by_count": 0,
+    "keywords": [
+      "Experimental research",
+      "Flow (mathematics)",
+      "Convection",
+      "Bridge (graph theory)",
+      "Natural convection",
+      "Liquid flow"
+    ],
+    "authors": [
+      "Ruquan Liang",
+      "Yutao Zhang",
+      "Baosheng Zhao",
+      "Shaojie Wang",
+      "Jingjing Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160820406",
+    "title": "Impact of pin-fin profiles on high-effectiveness printed circuit heat exchangers",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-12",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128962",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128962",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat exchanger",
+      "Printed circuit board",
+      "Heat spreader",
+      "Micro heat exchanger",
+      "3d printed",
+      "Thermal management of electronic devices and systems"
+    ],
+    "authors": [
+      "Zixin Zhang",
+      "Liang Chen",
+      "Hongyu Lv",
+      "Sicheng Li",
+      "Shuangtao Chen",
+      "Yu Hou"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160826847",
+    "title": "Experimental investigation of two-phase jet-impingement flow boiling performance of a novel hybrid microchannel heat sink with divergent outlet manifolds using HFE-7000",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128961",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128961",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat sink",
+      "Heat flux",
+      "Microchannel",
+      "Mass flux",
+      "Nucleate boiling",
+      "Boiling",
+      "Critical heat flux",
+      "Pressure drop"
+    ],
+    "authors": [
+      "Aqbal Ahmad",
+      "Mohammed W. Sulaiman",
+      "Chi-Chuan Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160874457",
+    "title": "Coupling photothermal water evaporation and water vapor photocatalysis for efficient solar hydrogen generation",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128951",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128951",
+    "cited_by_count": 0,
+    "keywords": [
+      "Photocatalysis",
+      "Photothermal therapy",
+      "Water vapor",
+      "Evaporation",
+      "Hydrogen production",
+      "Coupling (piping)",
+      "Hydrogen"
+    ],
+    "authors": [
+      "Haoen Tang",
+      "Yubo Tan",
+      "Yiqing Wang",
+      "Chengzhen Sun",
+      "Shaohua Shen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160855617",
+    "title": "On-Chip additive manufacturing for enhanced boiling heat transfer",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131340",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131340",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Fabrication",
+      "Thermal",
+      "Boiling",
+      "Enhanced heat transfer",
+      "Heat exchanger",
+      "Heat transfer coefficient",
+      "Transfer printing",
+      "Thermal resistance"
+    ],
+    "authors": [
+      "Maroosol Yun",
+      "Dong Il Shim",
+      "Wei-Ting Hsu",
+      "Hyung Hee Cho"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160866012",
+    "title": "Molten solar salt experimental studies on steam generation, leakage and spill behaviors",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.131397",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131397",
+    "cited_by_count": 0,
+    "keywords": [
+      "Molten salt",
+      "Heat transfer coefficient",
+      "Heat transfer",
+      "Thermal",
+      "Boiling",
+      "Heat flux",
+      "Flow (mathematics)",
+      "Oscillation (cell signaling)"
+    ],
+    "authors": [
+      "Mingfu He",
+      "Bao Nguyen",
+      "Minghui Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160862129",
+    "title": "Natural convection study on the novel large-scale vertical partially open-duct heatsink",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.110989",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.110989",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat sink",
+      "Thermal",
+      "Natural convection",
+      "Thermal management of electronic devices and systems",
+      "Computational fluid dynamics",
+      "Dissipation",
+      "Chimney (locomotive)",
+      "Heat transfer",
+      "Computation",
+      "Boundary layer"
+    ],
+    "authors": [
+      "Cheng-Pu Yang",
+      "Shwin-Chung Wong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7160846277",
+    "title": "Conditional emissivity prior for improved Bayesian pyrometry estimates of advanced high strength steel",
+    "abstract": "Inferring steel strip temperature through non-contact radiometric measurements involves solving a set of underdetermined equations, so additional information must be specified to obtain a unique and stable solution. The Bayesian pyrometry approach provides steelmakers with a rigorous framework for including this information in a way that accounts for the fact that that the radiative properties are imperfectly known. While Bayesian methods often use fixed priors, this study presents a conditional stochastic prior that captures covariate dependence of the radiative properties on annealing dew point and brightness temperature. The technique is evaluated on dual-phase AHSS steel alloys (DP780 and DP980) and extra deep drawing steel (EDDS) grade IF steel annealed in an N 2 -5% vol. H 2 reducing atmosphere at various dew points. The findings show that defining a conditional spectral emissivity prior improves the precision of the prior information, while accounting for the variability in emissivity caused by changing annealing parameters.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-05-11",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.110959",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.110959",
+    "cited_by_count": 0,
+    "keywords": [
+      "Emissivity",
+      "Pyrometer",
+      "Radiative transfer",
+      "Bayesian probability",
+      "Dew point",
+      "Simulated annealing",
+      "Brightness"
+    ],
+    "authors": [
+      "Fatima K. Suleiman",
+      "Nishant S. Narayanan",
+      "Michiyo Kagaya",
+      "Kyle J. Daun"
+    ],
+    "category": "heat-transfer"
   }
 ]
