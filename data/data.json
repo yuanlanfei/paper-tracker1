@@ -221985,14 +221985,292 @@
         "Chandan Kumar"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161048274",
+      "title": "Leakage flow implementation in a porous media modeling for fluid–structure interaction in PWR fuel assemblies",
+      "abstract": "The proposed article addresses the complex issue of fluid–structure interaction (FSI) in Pressurized Water Reactors (PWR) fuel assemblies under dynamic excitations. The study focuses on modeling leakage flow in porous media, crucial for understanding fuel assembly behavior during seismic events. The paper aims to model strongly coupled FSI in congested media like PWR fuel assemblies, where traditional models like Darcy’s law are insufficient. The approach involves filtering local fluid equations, designing a structural model, coupling fluid and structural variables, and solving the coupled problem numerically. The study extends an existing methodology validated for the dynamic response of PWR fuel assemblies under axial flow and external loading. The research introduces a leakage flow model to account for gaps of variable thickness between fuel assemblies. The porous medium approach defines an equivalent fluid model over the entire space occupied by the fuel assemblies, providing equations for equivalent velocity and pressure, and forces applied by the fluid onto the structure. The by-pass model considers the fluid domain between fuel assemblies, assuming a flat planar shape of variable thickness. The Navier–Stokes equations are integrated over the by-pass thickness to derive governing equations for the flow. The discrete problem is solved using finite element methods, with time and space discretizations for both the porous medium and the by-pass models. The solution involves iterative procedures to handle the coupled fluid–structure problem. The model is validated through tests and comparisons with experimental, including data from full scale tests on the HERMES facility, demonstrating its ability to capture key physical phenomena. The study successfully validates the wall by-pass model, showing satisfactory results without calibration, relying solely on geometric parameters. Future work could extend the model to include corner by-passes and refine grid effects. • Two new models, for flow between fuel assemblies are proposed. • Numerical implementation is proposed to handle the nonlinear coupled problem. • Validity of the model is supported by experimental comparisons.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114963",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114963",
+      "cited_by_count": 0,
+      "keywords": [
+        "Porous medium",
+        "Finite element method",
+        "Leakage (economics)",
+        "Flow (mathematics)",
+        "Fluid dynamics",
+        "Nuclear fuel",
+        "Coupling (piping)",
+        "Pressurized water reactor"
+      ],
+      "authors": [
+        "Guillaume Ricciardi",
+        "Vincent Faucher"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161036885",
+      "title": "Accuracy of ultrasonic measurements for 1D assessment of flow-induced grid vibrations in Pressurized Water Reactors",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114997",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114997",
+      "cited_by_count": 0,
+      "keywords": [
+        "Turbulence",
+        "Ultrasonic sensor",
+        "Reflection (computer programming)",
+        "Displacement (psychology)",
+        "Vibration",
+        "Vortex",
+        "Dispersion (optics)",
+        "Flow (mathematics)",
+        "Core (optical fiber)",
+        "Ultrasonic testing"
+      ],
+      "authors": [
+        "Aubin Paveyranne",
+        "Florian Baudry",
+        "Didier Laux",
+        "Franck Augereau",
+        "Eric Rosenkrantz",
+        "Philippe Latil",
+        "Guillaume Ricciardi",
+        "Jean-Yves Ferrandis"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161035108",
+      "title": "Computational fluid dynamics simulation of gas-solid flow behavior in mini spouted bed reactor for TRISO fuel particle coating process",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115005",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115005",
+      "cited_by_count": 0,
+      "keywords": [
+        "Computational fluid dynamics",
+        "Coating",
+        "Process (computing)",
+        "Particle (ecology)",
+        "Flow (mathematics)",
+        "Fluid dynamics",
+        "Particle flow"
+      ],
+      "authors": [
+        "Hanif Ghufron",
+        "Ridho Irwansyah",
+        "Djarot Sulistio Wisnubroto",
+        "Sugeng Rianto",
+        "Praditya Vankabo",
+        "Muhammad Ilham Bayquni"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161030258",
+      "title": "Boiling bubble oscillations in a simulated offshore floating nuclear plant",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114979",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114979",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear plant",
+        "Boiling",
+        "Bubble",
+        "Submarine pipeline",
+        "Nuclear power plant",
+        "Boiling water reactor"
+      ],
+      "authors": [
+        "Yutaka Ikeda",
+        "Shota Ueda",
+        "Takahiro Arai",
+        "Riichiro Okawa",
+        "Kenetsu Shirakawa",
+        "Masahiro Furuya",
+        "Atsushi Ui"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7160996783",
+      "title": "Foreword Special Issue on Advancements in Uncertainty and Sensitivity Analyses: Current Status and Perspectives",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1080/00295450.2026.2668311",
+      "doi": "https://doi.org/10.1080/00295450.2026.2668311",
+      "cited_by_count": 0,
+      "keywords": [
+        "Current (fluid)",
+        "Sensitivity (control systems)"
+      ],
+      "authors": [
+        "Fulvio Mascari",
+        "F. Gabrielli"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161041025",
+      "title": "Experimental investigation of the ice-melting behavior of a fractal microtube bundle heat exchange element",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128968",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128968",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bundle",
+        "Fractal",
+        "Heat exchanger",
+        "Heat transfer",
+        "Finite element method"
+      ],
+      "authors": [
+        "Ze Wu",
+        "Tao Fang",
+        "Han Xiao",
+        "Xiaolei Li",
+        "Xin-Lin Xia"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161062100",
+      "title": "High-resolution nanoengineered superbiphilic patterned surfaces for evaporation enhancement",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128927",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128927",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporation",
+        "Deposition (geology)",
+        "Process (computing)",
+        "Nanoparticle"
+      ],
+      "authors": [
+        "Caihong Li",
+        "Yishun Zhu",
+        "Run Tang",
+        "Huihe Qiu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161042626",
+      "title": "Dual-length-scale attenuation of hot electron-mediated polaritons in ternary hyperbolic superlattices",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128902",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128902",
+      "cited_by_count": 0,
+      "keywords": [
+        "Polariton",
+        "Attenuation",
+        "Ternary operation",
+        "Superlattice",
+        "Absorption (acoustics)"
+      ],
+      "authors": [
+        "Yuk Ming Wong",
+        "Satoshi Ishii"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161013065",
+      "title": "Dual-domain optimization multi-objective phonon grouping for non-fourier heat conduction",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128957",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128957",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal conduction",
+        "Phonon",
+        "Specific heat",
+        "Work (physics)",
+        "Thermal conductivity"
+      ],
+      "authors": [
+        "Songcheng Li",
+        "Chengdi Xiao",
+        "Wei Li",
+        "Yipeng Wu",
+        "ZHANG Haitao",
+        "Xixin Rao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160991466",
+      "title": "Spatiotemporal coupling of wall heat-flux mechanisms and melting–interface dynamics in a phase change material",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128903",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128903",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dynamics (music)",
+        "Coupling (piping)",
+        "Phase change",
+        "Phase (matter)",
+        "Phase transition"
+      ],
+      "authors": [
+        "Hanieh Khaliliparam",
+        "Mohammad Jadidi",
+        "Somchai Wongwises",
+        "Yasser Mahmoudi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161003732",
+      "title": "Three-dimensional melting and heat transfer dynamics in a shell-and-tube unit under axially varying heat load",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128941",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128941",
+      "cited_by_count": 0,
+      "keywords": [
+        "Axial symmetry",
+        "Heat transfer",
+        "Heat load",
+        "Dynamics (music)",
+        "Unit (ring theory)",
+        "Heat transfer coefficient"
+      ],
+      "authors": [
+        "Boyu Li",
+        "R. Deepak Selvakumar",
+        "Ahmed K. Alkaabi",
+        "Jian Wu"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 8656,
+    "total": 8667,
     "journals": 275,
-    "last_update": "2026-05-14 04:03:53",
-    "reactor-thermal_count": 404,
-    "heat-transfer_count": 616,
+    "last_update": "2026-05-15 04:08:52",
+    "reactor-thermal_count": 409,
+    "heat-transfer_count": 622,
     "today": 0,
     "by_journal": [
       {
@@ -222001,7 +222279,7 @@
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 160
+        "count": 166
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -222152,12 +222430,12 @@
         "count": 73
       },
       {
-        "name": "American Journal of Epidemiology",
-        "count": 68
+        "name": "Nuclear Engineering and Design",
+        "count": 69
       },
       {
-        "name": "Nuclear Engineering and Design",
-        "count": 65
+        "name": "American Journal of Epidemiology",
+        "count": 68
       },
       {
         "name": "Information Communication & Society",
@@ -222221,7 +222499,7 @@
       },
       {
         "name": "Nuclear Technology",
-        "count": 44
+        "count": 45
       },
       {
         "name": "International Journal of Epidemiology",
@@ -223098,10 +223376,6 @@
     ],
     "trend": [
       {
-        "date": "2026-04-15",
-        "count": 177
-      },
-      {
         "date": "2026-04-16",
         "count": 177
       },
@@ -223211,10 +223485,14 @@
       },
       {
         "date": "2026-05-13",
-        "count": 1
+        "count": 12
       },
       {
         "date": "2026-05-14",
+        "count": 0
+      },
+      {
+        "date": "2026-05-15",
         "count": 0
       }
     ]
@@ -223433,5 +223711,5 @@
       }
     ]
   },
-  "export_time": "2026-05-14T04:03:53.193590"
+  "export_time": "2026-05-15T04:08:52.456371"
 }
