@@ -222263,27 +222263,785 @@
         "Jian Wu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161142612",
+      "title": "BISON analyses of TRISO fuel performance, its dependence on time-at-temperature, and possible implications for fuel design and qualification",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-15",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114999",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114999",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fuel element failure",
+        "Fuel cycle",
+        "Materials testing",
+        "Nuclear fuel"
+      ],
+      "authors": [
+        "Jacob A. Hirschhorn",
+        "Chaitanya V. Bhave",
+        "Ryan T. Sweet",
+        "William F. Skerjanc",
+        "Paul A. Demkowicz"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161116974",
+      "title": "High-fidelity neutron transport simulation for high flux reactor (HFR) in HNET",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112441",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112441",
+      "cited_by_count": 0,
+      "keywords": [
+        "Neutron flux",
+        "Flux (metallurgy)",
+        "Neutron transport",
+        "Neutron",
+        "Transport theory",
+        "Research reactor"
+      ],
+      "authors": [
+        "Hengyi Guan",
+        "Hao Chen",
+        "Ziqing Huang",
+        "Zerong Wang",
+        "Ning Xu",
+        "Yizhen Wang",
+        "Wen Yin"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161149758",
+      "title": "Preliminary uncertainty quantification for predicting microreactor safeguards parameters using surrogate models",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112412",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112412",
+      "cited_by_count": 0,
+      "keywords": [
+        "Robustness (evolution)",
+        "Uncertainty quantification",
+        "Measurement uncertainty",
+        "Uncertainty analysis",
+        "Gaussian",
+        "Sensitivity (control systems)",
+        "Nuclear power",
+        "Uncertainty reduction theory"
+      ],
+      "authors": [
+        "Ryan Stewart",
+        "Emerald Ryan",
+        "Ishita Trivedi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161116406",
+      "title": "Transient fuel behavior analysis of annular UN fuel with anisotropic SiC/SiCf-mSiC cladding based on multiphysics method",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112453",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112453",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Cladding (metalworking)",
+        "Anisotropy",
+        "Transient (computer programming)",
+        "Transient analysis"
+      ],
+      "authors": [
+        "Shuze Gan",
+        "Rong Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161158798",
+      "title": "Improved RELAP5-3D molten salt reactor design with a model predictive controller for reactivity control using Python GEKKO",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112399",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112399",
+      "cited_by_count": 0,
+      "keywords": [
+        "Python (programming language)",
+        "Control theory (sociology)",
+        "Controller (irrigation)",
+        "Model predictive control",
+        "Control system",
+        "Reactivity (psychology)"
+      ],
+      "authors": [
+        "Jackson Ivory",
+        "John Hedengren",
+        "Matthew Memmott"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161161059",
+      "title": "Theoretical and numerical study on discontinuous Galerkin flux reconstruction method in thermal-hydraulic analysis",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112397",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112397",
+      "cited_by_count": 0,
+      "keywords": [
+        "Discontinuous Galerkin method",
+        "Discretization",
+        "Numerical analysis",
+        "Boundary value problem",
+        "Dirichlet boundary condition",
+        "Stability (learning theory)",
+        "Numerical stability",
+        "Speedup"
+      ],
+      "authors": [
+        "Wen Zhibo",
+        "Li X",
+        "D H Zhang",
+        "Qiao Pengrui",
+        "Tian Wenxi",
+        "Qiu Suizheng",
+        "Su Guanghui"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161165835",
+      "title": "Analysis of the performance characteristics of reactor coolant pump under complete pump behavior",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112458",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112458",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Boiler feedwater pump",
+        "Pressurizer",
+        "Heat pump"
+      ],
+      "authors": [
+        "Ye Daoxing",
+        "Zhu Zhengcheng",
+        "Wen Tian",
+        "Xiang Song",
+        "Yongkang Liu",
+        "Han Difeng"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161168882",
+      "title": "Impact of nuclear data uncertainty on the TBR of the CFETR helium-cooled ceramic breeder blanket",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112459",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112459",
+      "cited_by_count": 0,
+      "keywords": [
+        "Blanket",
+        "Breeder (animal)",
+        "Ceramic",
+        "Nuclear data",
+        "Materials testing"
+      ],
+      "authors": [
+        "Tengfei Zhang",
+        "Zhoutong Cai",
+        "Sicheng Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161161087",
+      "title": "Experimental evaluation of a high-temperature shaft seal under Molten Salt Reactor operating conditions",
+      "abstract": "Developing reliable high-temperature molten salt pumps remains a technical challenge for the advancement of Molten Salt Reactors (MSRs). A critical component of these pumps is the shaft seal, which is essential for preventing salt leakage and the release of radionuclides. To support the development of shaft seal technologies, this study investigated a commercially available promising candidate: circumferential bushing seals. A high-temperature molten salt Shaft Seal Test Facility (SSTF) was designed and constructed to evaluate the static and dynamic performance of the bushing seal. In SSTF, the bushing seal was exposed to FLiNaK salt vapor and cover gas mixtures at temperatures and gauge pressures up to 550 °C and 67 kPa, respectively, with varying shaft rotation speeds up to 1500 RPM. A series of experiments was conducted to evaluate the static and dynamic performance of the bushing seal under MSR operating conditions. A 10-day wear-in (transition) phase was observed, during which graphite bushing wear influenced the pressure field. At steady state, both shaft speed and temperature exhibited negligible impacts on seal performance. Experiments using three different cover gases, i.e., nitrogen, helium, and argon, indicated argon was preferred as it maintained higher pressure at the same flow rate and lower cost. Transient experiments showed that shaft ramping speed and profile had negligible impacts. • A high-temperature molten salt pump shaft seal test facility was developed. • A graphite circumferential bushing seal showed reliable performance. • Initial wear-in phase led to radial clearance growth. • Both shaft speed and temperature demonstrated negligible impacts on seal performance. • Argon exhibited superior performance under the conditions investigated as cover gas.",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106447",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106447",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bushing",
+        "Seal (emblem)",
+        "Graphite",
+        "Molten salt",
+        "Service life",
+        "Argon",
+        "Rotational speed"
+      ],
+      "authors": [
+        "Shuai Che",
+        "Muyue Li",
+        "Adam Burak",
+        "Minghui Chen",
+        "Xiaodong Sun"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161178110",
+      "title": "Reference Fuel Development for Non-Aluminum Spent Nuclear Fuel Management",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1080/00295639.2026.2659987",
+      "doi": "https://doi.org/10.1080/00295639.2026.2659987",
+      "cited_by_count": 0,
+      "keywords": [
+        "Spent nuclear fuel",
+        "Spent fuel pool",
+        "Nuclear fuel",
+        "Nuclear power",
+        "Nuclear reactor",
+        "Fuel cycle",
+        "Nuclear fuel cycle"
+      ],
+      "authors": [
+        "Milo Scheulen",
+        "Christian Sifuentes"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161111543",
+      "title": "A Factorization Approach Using Adaptive Proper Orthogonal Decomposition for Kinetics Calculations",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1080/00295639.2026.2666739",
+      "doi": "https://doi.org/10.1080/00295639.2026.2666739",
+      "cited_by_count": 0,
+      "keywords": [
+        "Factorization",
+        "Decomposition",
+        "Proper orthogonal decomposition",
+        "Kinetics",
+        "Matrix decomposition",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Kosuke Tsujita",
+        "Tomohiro Endo",
+        "Akio Yamamoto"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161127486",
+      "title": "Dosimetric comparison of 6-MV flattened and flattening filter-free photon beams using Monte Carlo simulation",
+      "abstract": "Flattening filter-free (FFF) photon beams offer significant dosimetric advantages over conventional flattened (FF) beams for modern radiotherapy; however, their inherently elevated surface dose remains a clinical concern that has not been adequately addressed through validated mitigation strategies. This study presents a systematic Monte Carlo (MC) investigation of 6-MV FF and FFF photon beams from a Varian TrueBeam linear accelerator, employing dual independent simulation platforms (GAMOS (v6.2) and GATE (v9.1)) benchmarked against ionization chamber measurements in water. Five clinically relevant field sizes (3 × 3 to 30 × 30 cm 2 ) were evaluated for percentage depth dose (PDD), lateral beam profiles, photon energy spectra, out-of-field dose (OFD), head scatter correction factor (HSCF), and total scatter correction factor (TSCF). FFF beams delivered 2.3-fold higher dose rates (3.81 versus 1.60 Gy/min), reduced OFD by approximately 25% at 3.5 cm beyond the field edge, and exhibited 8.5% narrower penumbra widths compared with FF beams. Field-size-dependent scatter factor analysis revealed that removal of the flattening filter eliminates approximately 60% of head scatter, with HSCF values converging toward unity for FFF beams (1.008–1.024) versus substantially elevated values for FF beams (1.015–1.062), quantitatively explaining the observed reductions in peripheral dose and improved dose conformity. Conversely, FFF beams manifested 15% higher surface doses and 13% shallower depth of maximum dose ( d max ), attributable to the softer photon energy spectrum in the absence of beam hardening. To mitigate this limitation, a novel helium gas substitution strategy (replacing the air column between secondary collimator jaws and the phantom surface) was investigated, demonstrating efficacy in reducing the FFF-to-FF surface dose ratio from 1.16 to 1.07 and recovering 50% of the d max difference, while preserving penumbra sharpness and out-of-field dose characteristics. Cross-validation between GAMOS and GATE yielded mean inter-platform differences below 1.2%, with gamma index pass rates exceeding 98% (2%/2 mm criteria) against experimental data. These findings provide a validated dual-platform computational framework for FFF beam commissioning and introduce helium substitution as a proof-of-principle strategy for surface dose normalization, supporting evidence-based beam modality selection in stereotactic radiosurgery, stereotactic body radiotherapy, and hypofractionated treatment paradigms.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.net.2026.104383",
+      "doi": "https://doi.org/10.1016/j.net.2026.104383",
+      "cited_by_count": 0,
+      "keywords": [
+        "Truebeam",
+        "Monte Carlo method",
+        "Linear particle accelerator",
+        "Imaging phantom",
+        "Collimator",
+        "Ionization chamber",
+        "Beam (structure)",
+        "Photon"
+      ],
+      "authors": [
+        "Ali H.D. Alshehri",
+        "Jamal Al-Zain"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161131674",
+      "title": "A Broadband Sustainable Shielding Index (SSI) for Multi-Radiation Fields: Quantifying Performance – Environment Trade-offs in Composite Shielding Materials",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104414",
+      "doi": "https://doi.org/10.1016/j.net.2026.104414",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electromagnetic shielding",
+        "Broadband",
+        "Composite number",
+        "Index (typography)",
+        "Radiation shielding"
+      ],
+      "authors": [
+        "Asmaa E. Abu-Rayan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161169484",
+      "title": "Energy uncertainty and its heterogeneous impacts on nuclear energy production and hydrogen technology",
+      "abstract": "Energy uncertainty has emerged as a key factor influencing the transition toward clean and sustainable energy systems. Indeed, the uninterrupted and clean supply of energy is crucial for the sustainable development of the globe. Both nuclear and hydrogen energy can replace carbon-intensive fossil fuels, but the literature on how energy uncertainty shapes their development is limited. This analysis aims to fill this gap by examining the influence of energy uncertainty on nuclear energy production and hydrogen energy technology using the novel method of the moments quantile regression (MMQR). The results indicate that energy uncertainty adversely affects nuclear energy production from lower-medium to the highest levels, indicating its constraining effect at most levels. On the other hand, energy uncertainty promotes hydrogen technology from the lower to the middle quantiles, suggesting its role in encouraging innovation in emerging energy systems. In addition, financial development and research and development expenditures are vital determinants of both nuclear energy production and hydrogen energy technology. Lastly, stringent environmental policies enhance nuclear energy production and hydrogen energy technology at most levels. Policymakers should integrate nuclear and hydrogen energy strategies within broader energy policy frameworks to ensure a stable and sustainable energy transition under uncertainty.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104413",
+      "doi": "https://doi.org/10.1016/j.net.2026.104413",
+      "cited_by_count": 0,
+      "keywords": [
+        "Production (economics)",
+        "Hydrogen technologies",
+        "Energy (signal processing)",
+        "Sustainable development",
+        "Energy development",
+        "Energy supply",
+        "Hydrogen fuel",
+        "Energy engineering",
+        "Energy accounting",
+        "Renewable energy"
+      ],
+      "authors": [
+        "Naif Alsagr"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161152995",
+      "title": "Experimental Proof of Concept of an ANN-Based Directional Radiation Monitoring System",
+      "abstract": "Determination of radiation source direction is important for rapid response in radiation monitoring and security applications. Because the count distribution measured by multiple detectors varies nonlinearly with source direction and shielding conditions, data-driven approaches can be effective for directional estimation. This study experimentally verified the concept of an artificial neural network (ANN)-based directional radiation monitoring system. The proposed system consists of four 3″×3″ NaI(Tl) detectors arranged in a square configuration with wall-type collimators to enhance direction-dependent count-ratio patterns. Detector count ratios were used as input features for an ANN regression model trained with a simulation-based database generated using Monte Carlo simulation. Experimental measurements were conducted with a 137 Cs source at 6 m over source directions from 0° to 90°. The experimental count-ratio patterns agreed with simulation results, supporting the validity of the simulation-based training data. The ANN model achieved a mean angular error of 5.55° and a maximum error of 11.32° for the experimental dataset, although the 6 m condition was outside the training distance range of 50–400 m. In addition, performance became relatively stable when total counts exceeded approximately 500. These results demonstrate the feasibility of the proposed system and support further development of directional radiation monitoring systems.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104415",
+      "doi": "https://doi.org/10.1016/j.net.2026.104415",
+      "cited_by_count": 0,
+      "keywords": [
+        "Detector",
+        "Monte Carlo method",
+        "Radiation",
+        "Range (aeronautics)",
+        "Electromagnetic shielding",
+        "Artificial neural network"
+      ],
+      "authors": [
+        "Yoon Soo Chung",
+        "Yoon Soo Chung",
+        "Hee-Kyun Baek",
+        "Yongju Lee",
+        "Yu-Sung Jang",
+        "Sang-Yong Kim",
+        "Yong Hyun Chung",
+        "Yong Hyun Chung"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161121657",
+      "title": "Optical Properties and Multi-Radiation Shielding Performance of Cement Dust Incorporated Bismuth-Vanadium-Borate Glasses",
+      "abstract": "Abstract : A series of glass composites of (55 – x) B 2 O 3 -15 Bi 2 O 3 -5 V 2 O 5 -25 Na 2 O -x (CBD) (where x = 0, 1, 5, 7.5, and 10 mol%) were synthesized by melt-quenching method. This study investigates the dual benefit of industrial waste valorization and multi-radiation shielding performance against gamma photons, neutrons, and charged particles (α, p + , β - ). To ensure theoretical precision, shielding parameters were modeled using MCNP5, WINXCOM, SRIM, and ESTAR across a wide energy range. Findings reveal that a 10 mol% Cement Bypass Dust (CBD) exhibits a glass density range of 2.65 to 2.83 g/cm3 and increases the effective atomic number (Zeff), thereby improving gamma-ray shielding by approximately 10%. Furthermore, while the substitution leads to a calculated 18% reduction in thermal neutron macroscopic cross-section (Σ T ), the fast-neutron removal cross-section (Σ R ) remains stable due to scattering from CBD constituents. Charged-particle analysis shows stable stopping power (MSP) and reduced projected ranges (PR, CSDA), with minimal secondary radiation yield (Y R ). Adding CBD increases the optical dielectric constant (ε opt. ) and improves nonlinear optical properties, including third-order susceptibilities (χ (3) ) and refractive index (n 2 ). These results highlight CBD-modified glasses as a sustainable, eco-friendly, high-performance alternative protection for advanced optoelectronic and shielding applications.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104416",
+      "doi": "https://doi.org/10.1016/j.net.2026.104416",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electromagnetic shielding",
+        "Dielectric",
+        "Refractive index",
+        "Yield (engineering)",
+        "Stopping power",
+        "Effective atomic number",
+        "Cement",
+        "Range (aeronautics)",
+        "Shielding effect"
+      ],
+      "authors": [
+        "K.R.M. Abdelgawad",
+        "Hisham A. Saleh",
+        "R.L. Elwa",
+        "A.M. Fayad",
+        "R. M. Ahmed"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161152712",
+      "title": "Real-time assessment of internal pressure effects on Zircaloy-4 cladding ballooning and rupture under LBLOCA reflood conditions using the ICARUS facility",
+      "abstract": "Accurate prediction of fuel cladding integrity during LOCA reflood requires time-resolved data that couple thermal-hydraulic conditions with thermo-mechanical response, especially for high-burnup rods under elevated internal pressure. Two out-of-pile large-break LOCA (LBLOCA) reflood experiments with initial rod internal pressures of 30 bar (LP) and 50 bar (HP) were conducted at the ICARUS facility (KAERI) by using Zircaloy-4 cladding under quasi-similar conditions. These LOCA experiments produced simultaneous measurements of cladding surface temperature, rod internal pressure, collapsed water level, and cladding deformation. The HP test ruptured earlier (104 s) than the LP test (186 s) at a lower normalized rupture temperature ( T* ) of 0.70 and 0.72, respectively, indicating a reduced time and thermal margin of cladding failure at higher pressure. The creep-driven ballooning continued during the early reflood, and the collapsed water level remained below the rupture elevations (0.76 – 0.77 m) until failure, indicating steam-dominated cooling at the failure location. Cladding post-test 3D measurements showed nearly identical rupture elevations for both cases, with a larger opening area in HP, and higher circumferential strain in LP. The resulting integral dataset supports validation and improvement of coupled LOCA analysis models for cladding creep, ballooning, and burst.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104412",
+      "doi": "https://doi.org/10.1016/j.net.2026.104412",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cladding (metalworking)",
+        "Ballooning",
+        "Internal pressure",
+        "Rod",
+        "Pressurized water reactor",
+        "ICARUS"
+      ],
+      "authors": [
+        "Rahmatika Intan Ali",
+        "김종록",
+        "Kihwan Kim",
+        "Sang-Ki Moon",
+        "S H Kim",
+        "Jae Bong Lee"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161116285",
+      "title": "A Substructure-Based Response Spectrum Methodology for Seismic Assessment of Large-Scale Tokamak Components: Implementation and Validation on the CFETR Vacuum Vessel",
+      "abstract": "Seismic safety represents a critical design challenge for large-scale tokamak components in fusion reactors, necessitating robust yet computationally efficient analytical methods. This paper presents a substructure-based response spectrum methodology specifically developed for the seismic assessment of massive tokamak structures, integrating Component Mode Synthesis (CMS) and the Square Root of the Sum of the Squares (SRSS) modal combination scheme within the ANSYS finite element environment. The proposed approach partitions the global structure into manageable substructures, condenses their dynamic characteristics via fixed-interface modal reduction, and efficiently assembles the system response using CMS. Validation against conventional full-model analysis, conducted on the China Fusion Engineering Test Reactor (CFETR) vacuum vessel under multi-directional seismic excitation, demonstrates that the substructure method achieves high computational efficiency, with calculation times reduced by 52.1% to 54.6% across different seismic directions compared to the conventional approach, while maintaining accuracy within acceptable nuclear engineering tolerances. Key results show deviations of less than 1.6% in displacements and 5.5% in stresses compared to full-model benchmarks, with successful identification of critical response regions such as support attachments and port openings. The methodology significantly reduces solution time and resource requirements, offering a practical tool for iterative design and optimization of fusion components without compromising safety standards.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104417",
+      "doi": "https://doi.org/10.1016/j.net.2026.104417",
+      "cited_by_count": 0,
+      "keywords": [
+        "Tokamak",
+        "Seismic analysis",
+        "Substructure",
+        "Modal",
+        "Incremental Dynamic Analysis",
+        "Modal analysis",
+        "Finite element method",
+        "Response spectrum",
+        "Component (thermodynamics)"
+      ],
+      "authors": [
+        "倪小军",
+        "Xiangyu Pan",
+        "Songbo Han"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7160390796",
+      "title": "Design optimization of half-wave resonator (HWR) with a machine learning-based framework using Gaussian process regression and multi-objective genetic algorithms",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1016/j.net.2026.104393",
+      "doi": "https://doi.org/10.1016/j.net.2026.104393",
+      "cited_by_count": 0,
+      "keywords": [
+        "Process (computing)",
+        "Gaussian process",
+        "Genetic algorithm",
+        "Kriging",
+        "Regression",
+        "Gaussian",
+        "Regression analysis"
+      ],
+      "authors": [
+        "Jeong-Jeung Dang",
+        "Sungbin Park",
+        "Youngkwon Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161177407",
+      "title": "The influence of thermal radiation absorption on the interaction of transient transfer processes for a water droplet evaporating in a high-temperature gas flow",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128972",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128972",
+      "cited_by_count": 0,
+      "keywords": [
+        "Transient (computer programming)",
+        "Thermal radiation",
+        "Absorption (acoustics)",
+        "Heat transfer",
+        "Radiation",
+        "Thermal",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Gintautas Miliauskas",
+        "Monika Maziukienė",
+        "Robertas Poškas",
+        "Egidijus Puida",
+        "Hussam Jouhara"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161153515",
+      "title": "Peridynamics modeling of freezing problems with applications in phase change materials",
+      "abstract": "Freezing processes are ubiquitous in both natural phenomena and engineering applications, yet their accurate prediction remains complex across multiple spatiotemporal scales. In this study, a novel peridynamic (PD) framework for transient heat conduction with solid–liquid phase change is developed and systematically verified. The enthalpy method is integrated into the discrete PD formulation to model freezing and melting processes within a unified framework. Governing equations are established for Cartesian, cylindrical, and spherical coordinates, and higher-dimensional problems are analytically reduced to one-dimensional or quasi-one-dimensional forms under symmetry conditions to improve computational efficiency without compromising physical accuracy. Explicit relationships between PD micro-conductivity and macroscopic thermal conductivity are derived for different geometries by imposing non-self-interaction constraints, providing a rigorous basis for parameter calibration. The proposed model is verified with the analytical solution of the classical Stefan problem and conventional numerical solutions, ensuring its accuracy. Applications to phase change materials (PCMs) with diverse thermophysical properties further corroborate the generality, stability, and robustness of the framework. The developed approach offers a consistent and computationally efficient non-local modeling tool for phase change heat transfer and thermal energy storage systems. • Integration of the enthalpy method into peridynamics for solid–liquid phase change problems. • Formulated and developed 1D equivalent PD models for Cartesian, cylindrical, and spherical coordinates. • New relationships derived between micro-conductivity and macroscopic thermal properties for phase change. • Verified with the analytical and conventional numerical solutions and applied to PCMs for energy storage.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128942",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128942",
+      "cited_by_count": 0,
+      "keywords": [
+        "Peridynamics",
+        "Thermal conduction",
+        "Phase change",
+        "Thermal conductivity",
+        "Phase-change material",
+        "Thermal",
+        "Robustness (evolution)",
+        "Heat transfer",
+        "Enthalpy"
+      ],
+      "authors": [
+        "Zhaorui Yang",
+        "Minghan Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161116462",
+      "title": "Experiments onboard the international space station: Effect of inlet quality and condensate mass velocity on flow condensation heat transfer in microgravity",
+      "abstract": "Mechanically pumped two-phase loops are strong candidates for future spacecraft thermal control, but condenser performance under long-duration microgravity is not yet well quantified. This work reports condensation heat-transfer measurements for n-perfluorohexane in a tube-in-tube annulus operated onboard the International Space Station. nPFH flows in a 7.24 mm inner tube with water coolant in a 12.70 mm annulus over a 574.5 mm active condensation length, with a water mass velocity of G w = 226 . 79 ± 0 . 04 kg m −2 s −1 . A 36-point matrix combines six nPFH mass velocities ( G nPFH ≈ 60 –182 kg m −2 s −1 ) with two inlet categories: saturated two-phase inlets with x e,in ≈ 0 . 29 , 0.67, and 0.96, and superheated vapor inlets with x e,in ≈ 1 . 07 , 1.12, and 1.16. Axial wall and coolant temperatures are fitted with smooth profiles to reconstruct local heat flux, inner-wall temperature, thermodynamic equilibrium quality, and heat transfer coefficient. The saturated two-phase length L tp increases strongly with G nPFH and is extended by higher inlet quality, ranging from roughly 90 to 550 mm and approaching the full test-section length at the highest mass velocities, where L tp is truncated by the 574.5 mm active length. In both inlet modes, the largest local heat transfer coefficients occur near the upstream end of the saturated region, then decay monotonically as quality decreases, while the downstream subcooled segment exhibits much lower and weakly varying coefficients. When reorganized in terms of local thermodynamic equilibrium quality, the saturated-region data show that, at fixed G nPFH , superheated and saturated inlets follow common h tp ( x e ) and q tp ( x e ) trends, indicating that, for a given mass velocity, local condensation performance is controlled mainly by local quality rather than inlet quality. Seven Earth-gravity correlations are assessed against the two-phase heat transfer coefficients. The correlations of Boyko and Kruzhilin, Kim and Mudawar, and Cavallini and Zecchin reproduce the ISS data with mean absolute percentage errors of about 6%–8%, whereas Akers et al. and Wang et al. exhibit larger positive biases and Shah and Dobson–Chato yield intermediate errors. The results provide a well-characterized microgravity dataset for an annular condenser relevant to spacecraft thermal control and identify which existing condensation models offer the most reliable starting point for mechanically pumped two-phase loop design in low gravity. • Long-duration ISS experiments quantify n-perfluorohexane condensation in microgravity. • Saturated two-phase length increases with nPFH mass velocity and inlet quality. • Local condensation HTC peaks near the upstream saturated region and decreases downstream. • At fixed mass velocity, local quality governs condensation more strongly than inlet condition. • Boyko–Kruzhilin, Kim–Mudawar, and Cavallini–Zecchin provide the closest predictions.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128966",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128966",
+      "cited_by_count": 0,
+      "keywords": [
+        "Subcooling",
+        "Annulus (botany)",
+        "Inlet",
+        "Coolant",
+        "Reynolds number",
+        "Heat transfer",
+        "Mass flow",
+        "Work (physics)",
+        "Condensation"
+      ],
+      "authors": [
+        "Farshad Barghi Golezani",
+        "Jayachandran K. Narayanan",
+        "R. Balasubramaniam",
+        "Henry K. Nahra",
+        "Jeffrey R. Mackey",
+        "Logan M. Pirnstill",
+        "Chirag Kharangate"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160908646",
+      "title": "In-situ visualization and heat transfer enhancement of subcooled flow boiling on hybrid micro-nano structured surfaces under high heat fluxes",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131365",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131365",
+      "cited_by_count": 0,
+      "keywords": [
+        "Subcooling",
+        "Boiling heat transfer",
+        "Visualization",
+        "Boiling",
+        "Heat transfer",
+        "Heat transfer enhancement",
+        "High heat",
+        "Flow boiling"
+      ],
+      "authors": [
+        "Bowen Zhao",
+        "Zhanru Zhou",
+        "Shenghong Huang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160926763",
+      "title": "Data-driven diffusion framework for electric vehicle battery thermal management integrating probabilistic hotspot prediction and adaptive cooling control under aging dynamics",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131409",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131409",
+      "cited_by_count": 0,
+      "keywords": [
+        "Probabilistic logic",
+        "Electric vehicle",
+        "Control theory (sociology)",
+        "Reinforcement learning",
+        "Adaptive control",
+        "Redundancy (engineering)",
+        "Energy management",
+        "Energy consumption",
+        "Battery pack",
+        "Battery (electricity)"
+      ],
+      "authors": [
+        "Natrayan Lakshmaiya"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160942222",
+      "title": "An efficient cascade high temperature heat pump for heat production in the range of 200 °C to 300 °C",
+      "abstract": "High temperature heat pumps (HTHPs) are critical technologies for industrial electrification and decarbonization. This work investigates an innovative configuration that produces useful industrial heat in the range of 200 °C to 300 °C, driven by electricity and low-grade waste heat in the range from 90 °C to 130 °C. Specifically, the present work studies a cascade HTHP which includes an absorption heat transformer with LiBr/water working pair in the low-stage and a water/steam mechanical compression heat pump in the upper stage. The system is optimized aiming to maximize its exergy efficiency. The analysis is conducted with a developed and verified model in Engineering Equation Solver. The results showed that the suggested system outperforms other HTHPs according to the literature evidence. The reported system coefficient of performance is found to range from 1.81 to 9.41, while the exergy efficiency ranges from 58.78% to 66.24%. Also, a comparative analysis with a conventional natural gas boiler, the environmental and economic superiority of the suggested examined system was reported. Specifically, the levelized cost of heating for the boiler case was found to be 0.1017 €/kWh, while that of the present system was in the range of 0.0372 to 0.0876 €/kWh. • Cascade HTHP delivers industrial heat at 200–300 °C using electricity and waste heat. • System integrates LiBr/H₂O absorption and water/steam compression heat pump. • Exergy-optimized design achieves efficiencies up to 66.24%. • Coefficient of performance ranges from 1.81 to 9.41. • Levelized heating cost is up to 63% lower than a natural gas boiler.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131343",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131343",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coefficient of performance",
+        "Heat pump",
+        "Absorption heat pump",
+        "Cascade",
+        "Hybrid heat",
+        "Exergy efficiency",
+        "Waste heat",
+        "Exergy",
+        "Boiler (water heating)",
+        "Waste heat recovery unit"
+      ],
+      "authors": [
+        "Evangelos Bellos"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160754189",
+      "title": "Experimental study on combustion and emission characteristics of different combustion modes in ammonia-diesel dual-direct injection engines",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131415",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131415",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustion",
+        "Fuel injection",
+        "Homogeneous charge compression ignition",
+        "Combustion chamber",
+        "Internal combustion engine"
+      ],
+      "authors": [
+        "Tianlong Lu",
+        "Haoye Liu",
+        "Tianyou Wang",
+        "Kai Sun",
+        "Tiejian Lin",
+        "Zhiqin Jia",
+        "Hui Wang",
+        "Yang Song",
+        "Shiwu Yu",
+        "Xianyue Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161108819",
+      "title": "Interface creep behavior of energy anchor with varying asymmetrical temperature conditions of heat-exchange pipes",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131472",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131472",
+      "cited_by_count": 0,
+      "keywords": [
+        "Creep",
+        "Interface (matter)",
+        "Energy (signal processing)",
+        "Characteristic energy",
+        "Energy method"
+      ],
+      "authors": [
+        "Genbao Zhang",
+        "Xiao Luo",
+        "Gangqiang Kong",
+        "Changfu Chen",
+        "Zhengdong Luo",
+        "Shimin Zhu",
+        "Yibing Liu",
+        "Changjie Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161134344",
+      "title": "A spatially resolved method for measuring heat transfer coefficients of water-sheet sprays at sub-saturation wall temperatures",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111771",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111771",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat transfer",
+        "Heat transfer coefficient",
+        "Temperature measurement",
+        "Thermocouple",
+        "Heat flux"
+      ],
+      "authors": [
+        "Alexandros Peteinaris",
+        "Charles Touitou",
+        "Alexandros Terzis"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161173428",
+      "title": "Erosion-dominated mechanisms of silicone rubber-based composites subjected to laser irradiation under static and hypersonic environments",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.110945",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.110945",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ablation",
+        "Hypersonic speed",
+        "Aerodynamic heating",
+        "Irradiation",
+        "Laser",
+        "Silicone",
+        "Laser ablation",
+        "Thermal",
+        "Hypersonic flight"
+      ],
+      "authors": [
+        "Gaojie Wang",
+        "Wu Yuan",
+        "Ruixing Wang",
+        "Ma Tc",
+        "Hongwei Song"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 8667,
+    "total": 8696,
     "journals": 275,
-    "last_update": "2026-05-15 04:08:52",
-    "reactor-thermal_count": 409,
-    "heat-transfer_count": 622,
+    "last_update": "2026-05-16 03:51:04",
+    "reactor-thermal_count": 428,
+    "heat-transfer_count": 632,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 318
+        "count": 323
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 166
+        "count": 169
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 103
+        "count": 104
       },
       {
         "name": "Science",
@@ -222330,6 +223088,10 @@
         "count": 99
       },
       {
+        "name": "Nuclear Engineering and Technology",
+        "count": 99
+      },
+      {
         "name": "Energy Policy",
         "count": 98
       },
@@ -222355,6 +223117,10 @@
       },
       {
         "name": "Environmental Research",
+        "count": 97
+      },
+      {
+        "name": "Annals of Nuclear Energy",
         "count": 97
       },
       {
@@ -222402,14 +223168,6 @@
         "count": 91
       },
       {
-        "name": "Nuclear Engineering and Technology",
-        "count": 91
-      },
-      {
-        "name": "Annals of Nuclear Energy",
-        "count": 90
-      },
-      {
         "name": "Management Science",
         "count": 86
       },
@@ -222431,7 +223189,7 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 69
+        "count": 70
       },
       {
         "name": "American Journal of Epidemiology",
@@ -222454,16 +223212,20 @@
         "count": 53
       },
       {
+        "name": "Nuclear Science and Engineering",
+        "count": 53
+      },
+      {
         "name": "Journal of Development Economics",
         "count": 52
       },
       {
-        "name": "Nuclear Science and Engineering",
-        "count": 51
-      },
-      {
         "name": "Small Business Economics",
         "count": 49
+      },
+      {
+        "name": "Progress in Nuclear Energy",
+        "count": 47
       },
       {
         "name": "Journal of Public Economics",
@@ -222471,10 +223233,6 @@
       },
       {
         "name": "Public Administration Review",
-        "count": 46
-      },
-      {
-        "name": "Progress in Nuclear Energy",
         "count": 46
       },
       {
@@ -222758,6 +223516,10 @@
         "count": 23
       },
       {
+        "name": "Experimental Thermal and Fluid Science",
+        "count": 23
+      },
+      {
         "name": "Journal of Financial Economics",
         "count": 22
       },
@@ -222775,10 +223537,6 @@
       },
       {
         "name": "British Journal of Management",
-        "count": 22
-      },
-      {
-        "name": "Experimental Thermal and Fluid Science",
         "count": 22
       },
       {
@@ -223376,10 +224134,6 @@
     ],
     "trend": [
       {
-        "date": "2026-04-16",
-        "count": 177
-      },
-      {
         "date": "2026-04-17",
         "count": 153
       },
@@ -223433,11 +224187,11 @@
       },
       {
         "date": "2026-04-30",
-        "count": 70
+        "count": 71
       },
       {
         "date": "2026-05-01",
-        "count": 143
+        "count": 151
       },
       {
         "date": "2026-05-02",
@@ -223473,7 +224227,7 @@
       },
       {
         "date": "2026-05-10",
-        "count": 8
+        "count": 9
       },
       {
         "date": "2026-05-11",
@@ -223481,7 +224235,7 @@
       },
       {
         "date": "2026-05-12",
-        "count": 21
+        "count": 24
       },
       {
         "date": "2026-05-13",
@@ -223489,10 +224243,14 @@
       },
       {
         "date": "2026-05-14",
-        "count": 0
+        "count": 15
       },
       {
         "date": "2026-05-15",
+        "count": 1
+      },
+      {
+        "date": "2026-05-16",
         "count": 0
       }
     ]
@@ -223711,5 +224469,5 @@
       }
     ]
   },
-  "export_time": "2026-05-15T04:08:52.456371"
+  "export_time": "2026-05-16T03:51:04.059934"
 }
