@@ -224219,35 +224219,315 @@
         "Guodong Xia"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161387989",
+      "title": "Neutronic assessment of FeCrAl alloys in a PWR-based small modular reactor",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114995",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114995",
+      "cited_by_count": 0,
+      "keywords": [
+        "Modular design",
+        "Modular construction",
+        "Materials testing",
+        "Iron alloys"
+      ],
+      "authors": [
+        "Lucas Chaves",
+        "Isabella R. Magalhães",
+        "Samuel Fernandes",
+        "R. Miró",
+        "Cláubia Pereira"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161411344",
+      "title": "Prediction of U-235 nuclide density distribution in HTR-PM operation history using long short-term memory networks",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-16",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112421",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112421",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclide",
+        "Burnup",
+        "Approximation error",
+        "Distribution (mathematics)",
+        "Generalization",
+        "Inference"
+      ],
+      "authors": [
+        "Ziwen Zhang",
+        "Zhongkai Sheng",
+        "Bing Xia",
+        "Ding She",
+        "Z D Zhang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161387299",
+      "title": "A Collaborative Layout Method for Cable Trays Driven by Cable Paths in Nuclear Power Plants",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104421",
+      "doi": "https://doi.org/10.1016/j.net.2026.104421",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear power",
+        "Nuclear power plant",
+        "Power (physics)",
+        "Nuclear plant"
+      ],
+      "authors": [
+        "Hailong Du",
+        "Kai Tang",
+        "Xiuan Zhou",
+        "Jie Cheng",
+        "Di Wu",
+        "Meng Wang",
+        "Lei Wang",
+        "Jianjun Wang",
+        "Puzhen Gao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7160019268",
+      "title": "Assessing structural integrity of thick-walled vessels: An integrated experimental and numerical study on crack arrest in 18MND5 steel",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1016/j.net.2026.104350",
+      "doi": "https://doi.org/10.1016/j.net.2026.104350",
+      "cited_by_count": 0,
+      "keywords": [
+        "Structural integrity",
+        "Failure assessment",
+        "Structural failure",
+        "Finite element method"
+      ],
+      "authors": [
+        "Mingya Chen",
+        "Chi Cao",
+        "Min Yu",
+        "Weiwei Yu",
+        "Wanxiang Zhao",
+        "Shuiyong Wang",
+        "G.W. Ma",
+        "QuanJia Peng"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7160154160",
+      "title": "Enhanced resonance treatment for AIC control rods in neutron transport code STREAM",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-04-30",
+      "url": "https://doi.org/10.1016/j.net.2026.104392",
+      "doi": "https://doi.org/10.1016/j.net.2026.104392",
+      "cited_by_count": 0,
+      "keywords": [
+        "Rod",
+        "Control rod",
+        "Code (set theory)",
+        "Neutron transport",
+        "Resonance (particle physics)"
+      ],
+      "authors": [
+        "Wonkyeong Kim",
+        "Changhyun Lim",
+        "Wisoo Jeong",
+        "Deokjung Lee"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161411522",
+      "title": "Coupled effects of microstructural confinement and electric field on the growth of condensed droplets: A molecular dynamics simulation",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128998",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128998",
+      "cited_by_count": 0,
+      "keywords": [
+        "Molecular dynamics",
+        "Electric field",
+        "Field (mathematics)",
+        "Dynamics (music)",
+        "Microstructure"
+      ],
+      "authors": [
+        "Shao-Yu Wang",
+        "Zi-Jie Wang",
+        "Yan-Ru Yang",
+        "Congliang Huang",
+        "Xiao-Dong Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161385415",
+      "title": "Multiphase flow and moisture transport in thermophysiologically functional knitted fabrics",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-16",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128978",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128978",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphase flow",
+        "Moisture",
+        "Flow (mathematics)",
+        "Two-phase flow",
+        "Porosity"
+      ],
+      "authors": [
+        "Murphy M. Peksen",
+        "C. Candan",
+        "B. Koyuncu",
+        "B. Nergis"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161405091",
+      "title": "Pseudo-three-dimensional topology optimization of cold plates: Parameter influence mechanisms and dual numerical–experimental validation",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-16",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128980",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128980",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dual (grammatical number)",
+        "Topology optimization",
+        "Topology (electrical circuits)",
+        "Control theory (sociology)",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Zhaohao Xu",
+        "Yibo Shen",
+        "Yu Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161409991",
+      "title": "Molecular dynamics investigation on anomalous electrical conductivity variations of NaCl-KCl molten salts",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-16",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128984",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128984",
+      "cited_by_count": 0,
+      "keywords": [
+        "Molecular dynamics",
+        "Conductivity",
+        "Molten salt",
+        "Eutectic system",
+        "Electrical resistivity and conductivity",
+        "Work (physics)",
+        "Diffusion",
+        "Ionic conductivity"
+      ],
+      "authors": [
+        "Linwei Zhang",
+        "Yinsheng Yu",
+        "Weizhuo Li",
+        "Chengyang Yuan",
+        "Dongwei Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161152692",
+      "title": "Temperature and densification nonuniformity during ultrafast high-temperature sintering",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131403",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131403",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sintering",
+        "Thermal",
+        "Radiative transfer",
+        "Thermal radiation",
+        "Heat transfer",
+        "Multi-mode optical fiber",
+        "Ultrashort pulse",
+        "Temperature measurement"
+      ],
+      "authors": [
+        "Andrew Caratenuto",
+        "David R. Clarke"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160948945",
+      "title": "Conquering CO2 emissions: advanced capture from aggressive industrial streams",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-12",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131419",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131419",
+      "cited_by_count": 0,
+      "keywords": [
+        "STREAMS",
+        "Work (physics)",
+        "Production (economics)",
+        "Process (computing)"
+      ],
+      "authors": [
+        "Chanathip Hongkhamdee",
+        "Vikas Verma",
+        "Rusdan Aditya Aji Nugroho",
+        "Shun-Po Hsu",
+        "Gontee Chuenchoophol",
+        "Wei-Cheng Wang",
+        "Jeong Gil Seo"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 8742,
+    "total": 8753,
     "journals": 275,
-    "last_update": "2026-05-17 04:09:20",
-    "reactor-thermal_count": 442,
-    "heat-transfer_count": 664,
+    "last_update": "2026-05-18 04:21:33",
+    "reactor-thermal_count": 447,
+    "heat-transfer_count": 670,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 335
+        "count": 337
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 181
+        "count": 185
       },
       {
         "name": "International Journal of Thermal Sciences",
         "count": 110
       },
       {
-        "name": "Annals of Nuclear Energy",
-        "count": 104
+        "name": "Nuclear Engineering and Technology",
+        "count": 106
       },
       {
-        "name": "Nuclear Engineering and Technology",
-        "count": 103
+        "name": "Annals of Nuclear Energy",
+        "count": 105
       },
       {
         "name": "Science",
@@ -224387,7 +224667,7 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 72
+        "count": 73
       },
       {
         "name": "American Journal of Epidemiology",
@@ -225332,10 +225612,6 @@
     ],
     "trend": [
       {
-        "date": "2026-04-18",
-        "count": 79
-      },
-      {
         "date": "2026-04-19",
         "count": 73
       },
@@ -225381,11 +225657,11 @@
       },
       {
         "date": "2026-04-30",
-        "count": 72
+        "count": 74
       },
       {
         "date": "2026-05-01",
-        "count": 155
+        "count": 156
       },
       {
         "date": "2026-05-02",
@@ -225429,7 +225705,7 @@
       },
       {
         "date": "2026-05-12",
-        "count": 26
+        "count": 27
       },
       {
         "date": "2026-05-13",
@@ -225437,7 +225713,7 @@
       },
       {
         "date": "2026-05-14",
-        "count": 23
+        "count": 24
       },
       {
         "date": "2026-05-15",
@@ -225445,10 +225721,14 @@
       },
       {
         "date": "2026-05-16",
-        "count": 3
+        "count": 7
       },
       {
         "date": "2026-05-17",
+        "count": 2
+      },
+      {
+        "date": "2026-05-18",
         "count": 0
       }
     ]
@@ -225667,5 +225947,5 @@
       }
     ]
   },
-  "export_time": "2026-05-17T04:09:20.481224"
+  "export_time": "2026-05-18T04:21:34.000331"
 }
