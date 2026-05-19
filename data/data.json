@@ -224499,14 +224499,222 @@
         "Jeong Gil Seo"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161477994",
+      "title": "Simulation of ACP100 deaerator operation and response analysis under accident conditions in the secondary circuit system",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115000",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115000",
+      "cited_by_count": 0,
+      "keywords": [
+        "Deaerator",
+        "Boiler feedwater",
+        "Feedwater heater",
+        "Electronic circuit",
+        "Process (computing)"
+      ],
+      "authors": [
+        "Bingbing Wang",
+        "Jie Yang",
+        "Li X",
+        "Yu Yu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161481709",
+      "title": "Efficient simulation of massive scenario sets via redundant timeline identification and reuse",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106451",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106451",
+      "cited_by_count": 0,
+      "keywords": [
+        "Timeline",
+        "Reuse",
+        "Identification (biology)",
+        "Work (physics)",
+        "Redundancy (engineering)"
+      ],
+      "authors": [
+        "Kyeong Seo Kim",
+        "Junyong Bae",
+        "Wooseok Jo",
+        "Dong-San Kim",
+        "Seung Jin Lee"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161472913",
+      "title": "Numerical study of geometry-induced slug flow and energy dissipation in pipelines at low superficial velocities",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128979",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128979",
+      "cited_by_count": 0,
+      "keywords": [
+        "Slug",
+        "Slug flow",
+        "Slugging",
+        "Dissipation",
+        "Kinetic energy",
+        "Backflow",
+        "Amplitude"
+      ],
+      "authors": [
+        "Fadong Gu",
+        "Yubo Jin",
+        "Guangxin Ding",
+        "Desheng Zhang",
+        "Junlian Yin",
+        "Hyoung-Bum Kim"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161486529",
+      "title": "Evaporation performance under high irradiation density: Modulation of absorbing coating thickness and thermal conductivity of evaporator",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129014",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129014",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporation",
+        "Irradiation",
+        "Coating",
+        "Thermal conductivity",
+        "Evaporator",
+        "Thermal",
+        "Work (physics)",
+        "Power density"
+      ],
+      "authors": [
+        "Jiajun An",
+        "Yu Yang",
+        "Jiahui Ma",
+        "Shaoyu Wang",
+        "Congliang Huang",
+        "X L Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161487766",
+      "title": "Enhanced thermal performance of radiant floor heating systems using integrated heatsink structures: Experimental validation and TRNSYS simulation analysis",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128983",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.128983",
+      "cited_by_count": 0,
+      "keywords": [
+        "TRNSYS",
+        "Heat sink",
+        "Radiant heating",
+        "Thermal",
+        "Thermal comfort",
+        "Heating system",
+        "Heat transfer",
+        "Thermal energy storage",
+        "Passive cooling"
+      ],
+      "authors": [
+        "Xiguan Liang",
+        "Jisoo Shim",
+        "Doosam Song"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161494102",
+      "title": "An experimental study on the heat transfer characteristics of air–water mist jet impingement on a flat surface at high heat flux",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-05-01",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111774",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111774",
+      "cited_by_count": 0,
+      "keywords": [
+        "Mist",
+        "Heat transfer",
+        "Heat flux",
+        "Flat surface",
+        "Heat transfer coefficient",
+        "High heat",
+        "Jet (fluid)"
+      ],
+      "authors": [
+        "Arjun Sikka",
+        "Dushyant Singh",
+        "Subhash Chander"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161487380",
+      "title": "A research on melting, energy storage, and entropy generation in a vertical shell-tube latent heat storage system with different fin models and laminar flow regimes",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111009",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111009",
+      "cited_by_count": 0,
+      "keywords": [
+        "Phase-change material",
+        "Thermal energy storage",
+        "Laminar flow",
+        "Heat transfer",
+        "Fin",
+        "Heat exchanger",
+        "Latent heat",
+        "Energy storage"
+      ],
+      "authors": [
+        "Emrehan Gürsoy"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161493039",
+      "title": "Design and theoretical simulation of a thermally tunable VO2-based triple-band terahertz metamaterial absorber for far-infrared region applications",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-17",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111003",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111003",
+      "cited_by_count": 0,
+      "keywords": [
+        "Terahertz radiation",
+        "Metamaterial absorber",
+        "Metamaterial",
+        "Absorption (acoustics)",
+        "Computer simulation"
+      ],
+      "authors": [
+        "K. Vasu Babu",
+        "Gorre Naga Jyothi Sree",
+        "Sudipta Das",
+        "Tanvir Islam",
+        "Abeer D. Algarni",
+        "Mohammed El Ghzaoui"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 8753,
+    "total": 8761,
     "journals": 275,
-    "last_update": "2026-05-18 04:21:33",
-    "reactor-thermal_count": 447,
-    "heat-transfer_count": 670,
+    "last_update": "2026-05-19 04:17:16",
+    "reactor-thermal_count": 449,
+    "heat-transfer_count": 676,
     "today": 0,
     "by_journal": [
       {
@@ -224515,11 +224723,11 @@
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 185
+        "count": 188
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 110
+        "count": 112
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -224658,15 +224866,15 @@
         "count": 79
       },
       {
+        "name": "Nuclear Engineering and Design",
+        "count": 74
+      },
+      {
         "name": "Ecological Economics",
         "count": 73
       },
       {
         "name": "Journal of Business Ethics",
-        "count": 73
-      },
-      {
-        "name": "Nuclear Engineering and Design",
         "count": 73
       },
       {
@@ -224703,7 +224911,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 47
+        "count": 48
       },
       {
         "name": "Journal of Public Economics",
@@ -224942,6 +225150,10 @@
         "count": 26
       },
       {
+        "name": "Experimental Thermal and Fluid Science",
+        "count": 26
+      },
+      {
         "name": "Journal of Monetary Economics",
         "count": 25
       },
@@ -224951,10 +225163,6 @@
       },
       {
         "name": "Government Information Quarterly",
-        "count": 25
-      },
-      {
-        "name": "Experimental Thermal and Fluid Science",
         "count": 25
       },
       {
@@ -225612,10 +225820,6 @@
     ],
     "trend": [
       {
-        "date": "2026-04-19",
-        "count": 73
-      },
-      {
         "date": "2026-04-20",
         "count": 151
       },
@@ -225661,7 +225865,7 @@
       },
       {
         "date": "2026-05-01",
-        "count": 156
+        "count": 157
       },
       {
         "date": "2026-05-02",
@@ -225725,10 +225929,14 @@
       },
       {
         "date": "2026-05-17",
-        "count": 2
+        "count": 9
       },
       {
         "date": "2026-05-18",
+        "count": 0
+      },
+      {
+        "date": "2026-05-19",
         "count": 0
       }
     ]
@@ -225947,5 +226155,5 @@
       }
     ]
   },
-  "export_time": "2026-05-18T04:21:34.000331"
+  "export_time": "2026-05-19T04:17:16.255381"
 }
