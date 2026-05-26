@@ -230413,5 +230413,86 @@
       "Jianyao Yao"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7162257499",
+    "title": "An adaptive cross-section clustering framework for ultra-fine group transport analysis of broad-spectrum assemblies",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-05-24",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112470",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112470",
+    "cited_by_count": 0,
+    "keywords": [
+      "Cluster analysis",
+      "Robustness (evolution)",
+      "Reduction (mathematics)",
+      "Compression (physics)",
+      "Data compression",
+      "Compression ratio",
+      "Data reduction"
+    ],
+    "authors": [
+      "Wei Cao",
+      "Xuefeng Fu",
+      "Jinchao Zhang",
+      "Mingtao He",
+      "Xuezhong Li",
+      "Changyou Zhao",
+      "Qian Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7162244470",
+    "title": "Development and performance evaluation of a high-speed gamma-ray imaging system",
+    "abstract": "Gamma-ray imaging is an emerging technology for radiation surveillance at customs sites, supporting critical homeland security operations. However, existing handheld and vehicle-borne systems face challenges in balancing the high sensitivity and mobility required in complex customs environments. To address these limitations, we developed a fast gamma imager (FGI) comprising a high-sensitivity gamma-ray imaging system based on large-area monolithic NaI(Tl) scintillators integrated onto a motorized trolley platform. The FGI achieved an energy resolution of 6.6% and an angular resolution of 8.0° for 137 Cs (662 keV). Owing to its enhanced detection volume, it demonstrated high sensitivity, identifying and localizing a 10 μCi 137 Cs source at 1 m in only 0.044 ± 0.034 s and 0.55 ± 0.42 s ( k = 2 ), respectively. These response times were approximately 350 and 150 times faster than those of the commercial handheld imager H420 (H3D, Inc.) and were comparable to those of a large vehicle-borne system under identical conditions. Field tests at a bonded warehouse in Korea validated the FGI’s capability to localize concealed sources and track a moving source on a conveyor belt. While further refinements are ongoing, the FGI shows strong potential for improving radiation surveillance efficiency in safeguarding global logistics.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-05-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104444",
+    "doi": "https://doi.org/10.1016/j.net.2026.104444",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scintillator",
+      "Mobile device",
+      "Homeland security",
+      "Imaging technology",
+      "Track (disk drive)",
+      "Sensitivity (control systems)",
+      "High resolution"
+    ],
+    "authors": [
+      "Goeun Lee",
+      "Taehyeon Eom",
+      "Jaeho Cho",
+      "Sehyun Jang",
+      "Hyun Su Lee",
+      "Jong Hwi Jeong",
+      "Junyoung Lee",
+      "Chan Hyeong Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7162240527",
+    "title": "A discrete unified gas kinetic scheme for micro-scale vapour–liquid phase-change flows",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-05-25",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129027",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129027",
+    "cited_by_count": 0,
+    "keywords": [
+      "Kinetic energy",
+      "Scheme (mathematics)",
+      "Kinetic scheme",
+      "Work (physics)",
+      "Kinetic theory"
+    ],
+    "authors": [
+      "Chunyi Li",
+      "Zhaoli Guo"
+    ],
+    "category": "heat-transfer"
   }
 ]
