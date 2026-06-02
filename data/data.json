@@ -235401,35 +235401,299 @@
         "Qingsheng Wang"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162957135",
+      "title": "Analysis of flow characteristics in the rotor clearance of canned motor reactor coolant Pumps",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112499",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112499",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Rotor (electric)",
+        "Flow (mathematics)",
+        "Volumetric flow rate",
+        "Liquid flow"
+      ],
+      "authors": [
+        "Xiangrong Luo",
+        "Yun Long",
+        "Zhen Zhou"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7162937942",
+      "title": "An experimental and numerical study on particle deposition in a U-shaped ribbed cooling channel under high-temperature conditions",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129091",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129091",
+      "cited_by_count": 0,
+      "keywords": [
+        "Deposition (geology)",
+        "Particle deposition",
+        "Particle (ecology)",
+        "Reynolds number",
+        "Flow (mathematics)",
+        "Vortex",
+        "Thermal",
+        "Computational fluid dynamics",
+        "Turbine blade",
+        "Particle size"
+      ],
+      "authors": [
+        "Guohuang Cai",
+        "J H Li",
+        "Zheng Huang",
+        "Xing Yang",
+        "Yue Wang",
+        "Jiaxu Yao",
+        "Zhenping Feng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162669993",
+      "title": "Advances in numerical simulation and optimization of linear fresnel reflectors",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131659",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131659",
+      "cited_by_count": 0,
+      "keywords": [
+        "Computer simulation",
+        "Numerical models",
+        "Fresnel diffraction",
+        "Fresnel equations",
+        "Numerical analysis"
+      ],
+      "authors": [
+        "Jun Ma",
+        "Fang Liu",
+        "Tian Tian",
+        "Chenglong Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162792827",
+      "title": "Non-monotonic high-frequency pressure oscillation behavior in a diesel-ignited ammonia–methanol dual-fuel engine under medium-load conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131683",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131683",
+      "cited_by_count": 0,
+      "keywords": [
+        "Oscillation (cell signaling)",
+        "Pressure sensor",
+        "Control theory (sociology)",
+        "Pressure measurement"
+      ],
+      "authors": [
+        "Jingrui Li",
+        "Linlin Jin",
+        "Changchun Xu",
+        "Haifeng Liu",
+        "Xinyan Wang",
+        "Hua Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162571777",
+      "title": "Comprehensive assessment of the compression-assisted absorption refrigeration systems with new measured R32(difluoromethane)/NMP (N-Methyl-2-pyrrolidone) as working pair",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131669",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131669",
+      "cited_by_count": 0,
+      "keywords": [
+        "Refrigeration",
+        "Absorption refrigerator",
+        "Absorption (acoustics)",
+        "Refrigerant"
+      ],
+      "authors": [
+        "Fan Xia",
+        "Xiao Zhang",
+        "Jingyi Qiao",
+        "Liang Cai",
+        "Yadong Yu",
+        "Jun Zhang",
+        "Xiaosong Zhang",
+        "Xiaosong Zhang",
+        "Xiaosong Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7161766105",
+      "title": "Experimental investigation of transcritical CO2 convective heat transfer in serpentine tubes for cooling non-uniform heat sources under near-critical conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131578",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131578",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat transfer",
+        "Transcritical cycle",
+        "Convective heat transfer",
+        "Convection",
+        "Heat transfer coefficient",
+        "Water cooling"
+      ],
+      "authors": [
+        "He Liu",
+        "Dan Zhou",
+        "Yaosheng Zhang",
+        "Shixing Han"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162945492",
+      "title": "Study on the effect of particle deposition morphology on film cooling performance of turbine blade leading edges",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111049",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111049",
+      "cited_by_count": 0,
+      "keywords": [
+        "Deposition (geology)",
+        "Morphology (biology)",
+        "Turbine blade",
+        "Adhesion",
+        "Particle (ecology)",
+        "Turbine"
+      ],
+      "authors": [
+        "YuFeng He",
+        "Guangchao Li",
+        "Zhubing Chen",
+        "Changyu Zhao",
+        "Hao Fu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162956678",
+      "title": "Topology optimization method for conjugate natural convection with high solid-to-gas thermal conductivity ratios based on continuous adjoint method",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111044",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111044",
+      "cited_by_count": 0,
+      "keywords": [
+        "Topology optimization",
+        "Natural convection",
+        "Topology (electrical circuits)",
+        "Thermal conductivity",
+        "Conjugate gradient method",
+        "Conjugate",
+        "Convection"
+      ],
+      "authors": [
+        "Ritian Ji",
+        "Zhiguo Qu",
+        "Ruiwu Lei",
+        "Xinggang Wang",
+        "Hui Wang",
+        "Qiang Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162934688",
+      "title": "An evaluation on thermal runaway issues of typical commercial large-format energy storage cells by accelerating rate calorimetry",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111054",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111054",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal runaway",
+        "Explosive material",
+        "Thermal",
+        "Adiabatic process",
+        "Calorimetry",
+        "Range (aeronautics)",
+        "RADIUS"
+      ],
+      "authors": [
+        "Dongxu Ouyang",
+        "Yinan Shen",
+        "Jiaye Yao",
+        "Qian Cheng",
+        "Tao Zhao",
+        "Anthony Chun Yin Yuen",
+        "Z H Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162954396",
+      "title": "Correlation of Nusselt Number for Compressible Flow in Microtubes",
+      "abstract": "",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-05-31",
+      "url": "https://doi.org/10.1080/01457632.2026.2676919",
+      "doi": "https://doi.org/10.1080/01457632.2026.2676919",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Flow (mathematics)",
+        "Compressibility",
+        "Compressible flow",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Chungpyo Hong",
+        "Hiroshi KATANODA",
+        "Yutaka Asako",
+        "Mohammad Faghri"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 9166,
+    "total": 9176,
     "journals": 275,
-    "last_update": "2026-06-01 05:04:41",
-    "reactor-thermal_count": 568,
-    "heat-transfer_count": 962,
+    "last_update": "2026-06-02 04:50:49",
+    "reactor-thermal_count": 569,
+    "heat-transfer_count": 971,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 512
+        "count": 516
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 261
+        "count": 262
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 144
+        "count": 147
+      },
+      {
+        "name": "Annals of Nuclear Energy",
+        "count": 142
       },
       {
         "name": "Nuclear Engineering and Technology",
         "count": 142
-      },
-      {
-        "name": "Annals of Nuclear Energy",
-        "count": 141
       },
       {
         "name": "Science",
@@ -236100,6 +236364,10 @@
         "count": 15
       },
       {
+        "name": "Heat Transfer Engineering",
+        "count": 15
+      },
+      {
         "name": "Journal of Economic Geography",
         "count": 14
       },
@@ -236129,10 +236397,6 @@
       },
       {
         "name": "National Tax Journal",
-        "count": 14
-      },
-      {
-        "name": "Heat Transfer Engineering",
         "count": 14
       },
       {
@@ -236514,10 +236778,6 @@
     ],
     "trend": [
       {
-        "date": "2026-05-03",
-        "count": 2
-      },
-      {
         "date": "2026-05-04",
         "count": 21
       },
@@ -236583,7 +236843,7 @@
       },
       {
         "date": "2026-05-20",
-        "count": 27
+        "count": 28
       },
       {
         "date": "2026-05-21",
@@ -236611,7 +236871,7 @@
       },
       {
         "date": "2026-05-27",
-        "count": 25
+        "count": 26
       },
       {
         "date": "2026-05-28",
@@ -236619,7 +236879,7 @@
       },
       {
         "date": "2026-05-29",
-        "count": 9
+        "count": 11
       },
       {
         "date": "2026-05-30",
@@ -236627,10 +236887,14 @@
       },
       {
         "date": "2026-05-31",
-        "count": 0
+        "count": 6
       },
       {
         "date": "2026-06-01",
+        "count": 0
+      },
+      {
+        "date": "2026-06-02",
         "count": 0
       }
     ]
@@ -236849,5 +237113,5 @@
       }
     ]
   },
-  "export_time": "2026-06-01T05:04:41.647829"
+  "export_time": "2026-06-02T04:50:49.696778"
 }
