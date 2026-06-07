@@ -240188,35 +240188,596 @@
         "Ahmed K. Albdoor"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163645570",
+      "title": "Highlights from the 11th International Symposium on Supercritical Water-cooled Reactors",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.114998",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.114998",
+      "cited_by_count": 0,
+      "keywords": [
+        "Atomic energy",
+        "Supercritical fluid",
+        "Agency (philosophy)",
+        "Eleventh",
+        "Joint (building)",
+        "Member states",
+        "Event (particle physics)"
+      ],
+      "authors": [
+        "Walter Ambrosini",
+        "David Guzonas",
+        "Ivan Otić",
+        "Thomas Schulenberg",
+        "Monika Šípová"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163713603",
+      "title": "A simple 1-D model for activation of circulating fluids in nuclear reactors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112510",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112510",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Nuclear transmutation",
+        "Flow (mathematics)",
+        "Simple (philosophy)",
+        "Constant (computer programming)",
+        "Nuclear reactor core",
+        "Nuclear reactor",
+        "Neutron"
+      ],
+      "authors": [
+        "Daniele Tomatis",
+        "Matteo Zammataro",
+        "Andrea Lario"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163708457",
+      "title": "Numerical investigation of PCM-based thermal energy storage device of nuclear power plants containment using a fins configuration",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112532",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112532",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal energy storage",
+        "Phase-change material",
+        "Heat exchanger",
+        "Thermal",
+        "Latent heat",
+        "Containment (computer programming)",
+        "Cooling capacity",
+        "Fin",
+        "Passive cooling",
+        "Energy storage"
+      ],
+      "authors": [
+        "Muhammad Adnan",
+        "Hui Wang",
+        "Yue Wang",
+        "Xiaxin Cao",
+        "Hailemichael Guadie Mengsitu",
+        "Arif Aziz",
+        "Jamil Khan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163655302",
+      "title": "Multiphysics simulations of the Advanced Test Reactor using Pronghorn and Griffin",
+      "abstract": "The Advanced Test Reactor (ATR) at Idaho National Laboratory is used for the development of accident-tolerant fuels, isotope production, and other advanced nuclear applications. To support these missions, the reactor must accommodate frequent insertion of experimental materials, which introduces potential safety challenges. This paper evaluates the role of multiphysics simulations in predicting the core behavior of the ATR under various accident scenarios. The proposed multiphysics workflow integrates Pronghorn, a coarse mesh computational fluid dynamics code; Griffin, a deterministic reactor physics code; and OpenMC, a Monte Carlo neutronics code. OpenMC is used to generate homogenized cross sections at various temperatures, which are loaded in Griffin. Griffin computes the power distribution, which is then transferred to Pronghorn. Pronghorn then updates the temperature field, which is transferred back into Griffin until convergence is achieved. The Pronghorn model shows good agreement with the expected pressure drop and temperature values. Initial neutronics simulations using Griffin reveal reactivity differences of 284 pcm and 904 pcm for the 8-group and 18-group structures, compared to OpenMC. The discrepancies are primarily attributed to geometry homogenization and differences in energy group resolution. Moderator feedback effects show strong agreement with OpenMC results, supporting realistic safety transient simulations. The multiphysics coupling effects were found to be weak-to-moderate at the nominal steady-state operating point, showcasing 1%–3% shift in the power profile and a 1-2 K shift in the fuel temperature in a representative assembly. The transient scenarios presented in this paper, however, highlight the importance of capturing the coupling between thermal-hydraulics and neutronics.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112530",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112530",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Neutron transport",
+        "Monte Carlo method",
+        "Homogenization (climate)",
+        "Transient (computer programming)",
+        "Computational fluid dynamics",
+        "Nuclear reactor"
+      ],
+      "authors": [
+        "Guillaume Gesmier",
+        "Péter German",
+        "Mauricio Tano Retamales",
+        "Guillaume Giudicelli",
+        "Joshua Hanophy",
+        "Namjae Choi",
+        "Zachary M. Prince"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163678402",
+      "title": "Conceptual design and evaluation of a micro pebble-bed high-temperature gas-cooled reactor coupled with the He-Xe Brayton cycle for deep-sea electric power supply",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106466",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106466",
+      "cited_by_count": 0,
+      "keywords": [
+        "Brayton cycle",
+        "Conceptual design",
+        "Power (physics)",
+        "Electric power",
+        "Reactor design"
+      ],
+      "authors": [
+        "Haijie Wu",
+        "于连云",
+        "Xinhong Wang",
+        "Shenghui Liu",
+        "Yi Yang (116183)",
+        "Xiaoliang Zhu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163654114",
+      "title": "A Systematic Review of Physical Security Assessment Approaches for Nuclear Facilities",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1080/00295639.2026.2671648",
+      "doi": "https://doi.org/10.1080/00295639.2026.2671648",
+      "cited_by_count": 0,
+      "keywords": [
+        "Physical security",
+        "Risk assessment"
+      ],
+      "authors": [
+        "A. S. Ligam",
+        "IA Rahman",
+        "Mohd Idzat Idris",
+        "Julia Abdul Karim",
+        "Loviana Lenyu Dunstan Mandau"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163655879",
+      "title": "Exploratory validation of DVH-based radiobiological modeling in prostate SBRT: Associations between predicted TCP/NTCP and observed biochemical control and toxicity",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104471",
+      "doi": "https://doi.org/10.1016/j.net.2026.104471",
+      "cited_by_count": 0,
+      "keywords": [
+        "Toxicity",
+        "Prostate",
+        "Prostate cancer",
+        "Radiobiology",
+        "Maximum tolerated dose"
+      ],
+      "authors": [
+        "O. El mouden",
+        "H. Sekkat",
+        "H. Bendouro",
+        "A. Bannan",
+        "F. Chaara",
+        "Y. Berrada",
+        "R. El Baydaoui",
+        "M. Bougteb",
+        "M. Tahiri",
+        "O. El rhazouani",
+        "M. Mkimel"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163688103",
+      "title": "Molecular-scale mechanisms of saline freezing under high salinity and deep supercooling",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-06",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129112",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129112",
+      "cited_by_count": 0,
+      "keywords": [
+        "Supercooling",
+        "Salinity",
+        "Congelation",
+        "Saline",
+        "Saline water"
+      ],
+      "authors": [
+        "Yanhua Wang",
+        "Haoran Chen",
+        "Zhongyi Wang",
+        "Meng Wang (124646)",
+        "Fei Duan",
+        "Xiaohu Chen",
+        "Wanqiang Wu",
+        "Haimeng Zhou",
+        "Lianfeng Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163683560",
+      "title": "Multi-objective optimization of continuous manifold system branch port structures based on flow distribution and energy loss",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-06",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129101",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129101",
+      "cited_by_count": 0,
+      "keywords": [
+        "Manifold (fluid mechanics)",
+        "Flow (mathematics)",
+        "Port (circuit theory)",
+        "Distribution (mathematics)",
+        "Energy (signal processing)",
+        "Control theory (sociology)"
+      ],
+      "authors": [
+        "美玲 秦",
+        "Zhonghua Li",
+        "Jun Deng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163644957",
+      "title": "Study on heat transfer performance of immersion phase-change cooling based on HFE-7100/HFE-7000 zeotropic mixed working fluid",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129126",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129126",
+      "cited_by_count": 0,
+      "keywords": [
+        "Immersion (mathematics)",
+        "Zeotropic mixture",
+        "Working fluid",
+        "Heat transfer",
+        "Heat transfer coefficient"
+      ],
+      "authors": [
+        "Haoxian Zhu",
+        "Yanxin Hu",
+        "Tingting Wu",
+        "Zhonghao Rao",
+        "Bian Chen",
+        "Minghan Zhu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163664584",
+      "title": "A monolithic enthalpy-based model for the simulation of in-flight ice accretion on heated bodies using moving finite elements",
+      "abstract": "With aircraft icing occurring in more and more complex environments, its modelling and simulation remains a challenging task. This is particularly the case for ice crystal icing on a heated substrate where effects such as liquid–solid phase change and imbibition can take place. In this work an unsteady model for ice accretion and melting on a heated substrate is presented. The model is based on an enthalpy formulation that accounts for temperature and liquid volume fraction gradients inside the accretion layer. It also takes into account heat conduction inside the considered substrate. The model is formulated in terms of a partial differential equation expressed on the time-evolving domain, that is solved using an existing moving finite element method. After describing the model and numerical resolution scheme, a verification case based on the Stefan problem is performed. The method is then used to simulate a heated flat plate configuration in ice crystal icing conditions, for which experimental data is available. The simulations are first performed in one dimension and several properties of the methodology are assessed. In particular, the effect of taking the imbibition process into account is investigated. The capabilities of the proposed methodology are then demonstrated with a two dimensional simulation of the heated plate. The results show that the methodology is an interesting way forward for the numerical investigation of icing on heated bodies.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129085",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129085",
+      "cited_by_count": 0,
+      "keywords": [
+        "Icing",
+        "Thermal conduction",
+        "Finite volume method",
+        "Stefan problem",
+        "Work (physics)",
+        "Accretion (finance)",
+        "Thermal",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Lokman Bennani",
+        "Ghislain Blanchard",
+        "Maxime Bouyges"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163663669",
+      "title": "Flow boiling heat transfer correlations in horizontal circular tubes: A review",
+      "abstract": "Two-phase flow boiling is fundamental in the design of heat exchangers across diverse applications, from refrigeration to power generation systems. With the continuous growth of advanced power generation technologies, such as organic Rankine cycles (ORCs), this review systematically evaluates established correlation model approaches, assessing their physical foundations and predictive capabilities against experimental data representative of these applications. By analyzing each correlation type and examining its ability to capture the influence of key operating parameters (heat flux, mass velocity, and saturation temperature), this work demonstrates how the underlying assumptions of these models are rooted in the heat transfer mechanisms typical of refrigeration, characterized by low heat fluxes and low saturation temperatures, contrasting with the demanding operating conditions of power generation applications. Furthermore, this review compiles experimental results of the flow boiling heat transfer coefficient for low-GWP organic fluids in conventional tubes where existing correlations achieve acceptable accuracy ( MRAD < 20%) and presents them in an unconventional column-chart format that explicitly displays the operating and dimensionless parameter intervals characterizing each dataset. This visualization enables designers to identify which correlations are suitable for their specific operating conditions. The analysis reveals a critical finding: validated experimental datasets for all studied fluids cluster exclusively within the refrigeration-scale parameter space, with minimal representation of the high-heat flux, elevated-saturation temperature conditions typical of ORC systems. Consequently, for R1234yf , R1234ze(E) , R600a , and other low-GWP power-generation fluids, no ORC-relevant conditions for which there are validated correlations currently exist.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129037",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129037",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dimensionless quantity",
+        "Heat exchanger",
+        "Refrigeration",
+        "Heat transfer",
+        "Boiling",
+        "Heat transfer coefficient",
+        "Work (physics)",
+        "Organic Rankine cycle",
+        "Degree Rankine"
+      ],
+      "authors": [
+        "Rodrigo C. Branco",
+        "João S. Pereira",
+        "José B. Ribeiro"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163653554",
+      "title": "Granular rearrangement-based analysis of hydrate dissociation front propagation, heat transfer and constitutive behavior in multilayered formations",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129065",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129065",
+      "cited_by_count": 0,
+      "keywords": [
+        "Hydrate",
+        "Dissociation (chemistry)",
+        "Granular material",
+        "Heat transfer",
+        "Nucleation",
+        "Clathrate hydrate",
+        "Metastability",
+        "Constitutive equation"
+      ],
+      "authors": [
+        "Rui Zhou",
+        "Bing Bai"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163676514",
+      "title": "Synergistic and competitive mechanisms of oxidation and pyrolysis in the microscopic evolution of coal spontaneous combustion",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131800",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131800",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pyrolysis",
+        "Combustion",
+        "Coal",
+        "Spontaneous combustion",
+        "Process (computing)"
+      ],
+      "authors": [
+        "Yumo Wu",
+        "Guohua Chen",
+        "Dan Zhao",
+        "Jinzhang Jia"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163670331",
+      "title": "Integrated techno-economic assessment of blue hydrogen production via steam methane reforming and autothermal reforming with carbon capture",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131712",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131712",
+      "cited_by_count": 0,
+      "keywords": [
+        "Methane reformer",
+        "Steam reforming",
+        "Hydrogen production",
+        "Methane",
+        "Carbon dioxide reforming",
+        "Production (economics)",
+        "Hydrogen"
+      ],
+      "authors": [
+        "Benjamin Kanz",
+        "Alessio Tafone",
+        "Balkumar  Basant Kumar Pillai",
+        "Ovi Lian Ding",
+        "Tobias Massier",
+        "Harald Klein"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162689288",
+      "title": "Multi-objective design optimization of a pulsating heat pipe for lithium-ion battery thermal management",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131627",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131627",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat pipe",
+        "Thermal management of electronic devices and systems",
+        "Thermal",
+        "Battery (electricity)",
+        "Pipe",
+        "Nominal Pipe Size"
+      ],
+      "authors": [
+        "Chunshi Wu",
+        "Ruihe Chen",
+        "Meng Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162789542",
+      "title": "Miniature vapor-compression refrigeration system with capillary evaporator for portable cooling devices",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131601",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131601",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporator",
+        "Refrigeration",
+        "Capillary action",
+        "Water cooling",
+        "Refrigerant"
+      ],
+      "authors": [
+        "Xiang Ma",
+        "Zhanxiao Kang",
+        "Yonghai Zhang",
+        "Hong Yang",
+        "Jinjia Wei",
+        "Jintu Fan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7162522970",
+      "title": "Heat transfer enhancement of finned-tube heat exchangers by novel fins with interrupted toroidal dimples and protrusions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-05-27",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131624",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131624",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dimple",
+        "Heat exchanger",
+        "Heat transfer",
+        "Heat transfer enhancement",
+        "Toroid",
+        "Fin",
+        "Micro heat exchanger",
+        "Plate fin heat exchanger"
+      ],
+      "authors": [
+        "Wei Dang",
+        "YuQiang Wan",
+        "Jian Song",
+        "KeWei Song",
+        "Yi Ding"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163692706",
+      "title": "Detailed spatiotemporal analysis of shortwave radiation variability in an urban context using higher-order orthogonal decomposition",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111050",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111050",
+      "cited_by_count": 0,
+      "keywords": [
+        "Shortwave",
+        "Irradiance",
+        "Context (archaeology)",
+        "Shortwave radiation",
+        "Radiative transfer",
+        "Principal component analysis",
+        "Monte Carlo method",
+        "Spatial variability",
+        "Singular value decomposition"
+      ],
+      "authors": [
+        "Guillaume Le Gall",
+        "Martin Thebault",
+        "Valeria Simoncini",
+        "Julien Ramousse"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163717363",
+      "title": "Free-surface lattice Boltzmann modeling of the impact effects of droplets on heat and solute transport in the vacuum arc remelting process",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111053",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111053",
+      "cited_by_count": 0,
+      "keywords": [
+        "Lorentz force",
+        "Buoyancy",
+        "Ingot",
+        "Lattice Boltzmann methods",
+        "Multiphysics",
+        "Convection",
+        "Lorentz transformation",
+        "Transport phenomena"
+      ],
+      "authors": [
+        "D J Li",
+        "D J Y Sun",
+        "Junjie Li",
+        "S L Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163650962",
+      "title": "Simulation of Frost Formation on Cylinders Under Natural Convection Using Lattice Boltzmann Method",
+      "abstract": "The formation of frost has substantial impacts on various industries such as aviation, refrigeration, and air conditioning. This process is highly intricate, involving transient heat and mass transfer. Recently, significant attention has been given to the periods of frost growth through physical, mathematical, and experimental approaches. The lattice Boltzmann method has recently gained recognition as an effective tool for simulating complex phenomena. Despite the widespread use of circular cylinders in the refrigeration industry under natural convection conditions, research on frost growth on these surfaces has been limited. Therefore, this study aims to explore the characteristics of frost growth on circular cylinders using the lattice Boltzmann method. The findings indicate that although the computational time for the lattice Boltzmann method is less than twice that of the finite volume method, its implementation is significantly simpler and requires less coding time. Also, in problems where the system has phase changes and mass transfer, in addition to simplification and less coding time, the computational time of the lattice Boltzmann method is also much less than that of the finite volume methods. In conventional Computational fluid dynamics approaches such as the finite-volume method, modeling phase-change phenomena typically requires additional closure relations, interface-tracking schemes, or empirical correlations, which introduce uncertainties and complexity. In contrast, the lattice Boltzmann method inherently captures microscale transport mechanisms without relying on such auxiliary models, resulting in a simpler formulation and more accurate prediction of frost evolution on the cylindrical surface. Finally, the results demonstrate that the relative error between experimental outcomes and the numerical model ranges from 5 to 20%, with the finite volume method exhibiting a similar order of error.",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-06-05",
+      "url": "https://doi.org/10.1080/01457632.2026.2676923",
+      "doi": "https://doi.org/10.1080/01457632.2026.2676923",
+      "cited_by_count": 0,
+      "keywords": [
+        "Lattice Boltzmann methods",
+        "Microscale chemistry",
+        "Computational fluid dynamics",
+        "Natural convection",
+        "Frost (temperature)",
+        "Boltzmann constant",
+        "Convection",
+        "Finite volume method"
+      ],
+      "authors": [
+        "Ghasem Niazmand",
+        "Ali Reza Tahavvor",
+        "Fatemeh Khamoushi Abarghouei"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 9347,
+    "total": 9368,
     "journals": 275,
-    "last_update": "2026-06-06 04:11:09",
-    "reactor-thermal_count": 605,
-    "heat-transfer_count": 1106,
+    "last_update": "2026-06-07 04:47:34",
+    "reactor-thermal_count": 612,
+    "heat-transfer_count": 1120,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 607
+        "count": 612
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 287
+        "count": 293
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 160
+        "count": 162
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 157
+        "count": 160
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 149
+        "count": 150
       },
       {
         "name": "Science",
@@ -240303,6 +240864,10 @@
         "count": 96
       },
       {
+        "name": "Nuclear Engineering and Design",
+        "count": 96
+      },
+      {
         "name": "International Journal of Hospitality Management",
         "count": 95
       },
@@ -240316,10 +240881,6 @@
       },
       {
         "name": "Resources Conservation and Recycling",
-        "count": 95
-      },
-      {
-        "name": "Nuclear Engineering and Design",
         "count": 95
       },
       {
@@ -240364,7 +240925,7 @@
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 64
+        "count": 65
       },
       {
         "name": "Information Communication & Society",
@@ -240372,7 +240933,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 62
+        "count": 63
       },
       {
         "name": "Environmental Science & Policy",
@@ -240815,6 +241376,10 @@
         "count": 18
       },
       {
+        "name": "Heat Transfer Engineering",
+        "count": 18
+      },
+      {
         "name": "Journal of the European Economic Association",
         "count": 17
       },
@@ -240832,10 +241397,6 @@
       },
       {
         "name": "Child Maltreatment",
-        "count": 17
-      },
-      {
-        "name": "Heat Transfer Engineering",
         "count": 17
       },
       {
@@ -241301,10 +241862,6 @@
     ],
     "trend": [
       {
-        "date": "2026-05-08",
-        "count": 24
-      },
-      {
         "date": "2026-05-09",
         "count": 13
       },
@@ -241378,7 +241935,7 @@
       },
       {
         "date": "2026-05-27",
-        "count": 32
+        "count": 33
       },
       {
         "date": "2026-05-28",
@@ -241386,7 +241943,7 @@
       },
       {
         "date": "2026-05-29",
-        "count": 18
+        "count": 20
       },
       {
         "date": "2026-05-30",
@@ -241398,7 +241955,7 @@
       },
       {
         "date": "2026-06-01",
-        "count": 89
+        "count": 93
       },
       {
         "date": "2026-06-02",
@@ -241414,10 +241971,14 @@
       },
       {
         "date": "2026-06-05",
-        "count": 1
+        "count": 13
       },
       {
         "date": "2026-06-06",
+        "count": 2
+      },
+      {
+        "date": "2026-06-07",
         "count": 0
       }
     ]
@@ -241636,5 +242197,5 @@
       }
     ]
   },
-  "export_time": "2026-06-06T04:11:09.431207"
+  "export_time": "2026-06-07T04:47:34.135411"
 }
