@@ -246094,23 +246094,273 @@
         "Necdet Özbalta"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164674302",
+      "title": "Pulsing amplitude measurement in air pulsed disc and doughnut column: Experimental and numerical study",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-06-13",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106402",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106402",
+      "cited_by_count": 0,
+      "keywords": [
+        "Amplitude",
+        "Pulse (music)",
+        "Duty cycle",
+        "Phase (matter)",
+        "Pulse-amplitude modulation",
+        "Pulse repetition frequency",
+        "Approximation error",
+        "Ultrasonic sensor"
+      ],
+      "authors": [
+        "Snehasish Barman Roy",
+        "Nirvik Sen",
+        "Sourav Sarkar",
+        "S. K. Gupta",
+        "K.K. Singh",
+        "S.R. Shimjith"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7164644724",
+      "title": "Fundamental study on design margin for fast reactor plant with seismic isolation system",
+      "abstract": "A sodium-cooled fast reactor plant uses liquid metal sodium as a coolant. Sodium has a high boiling point and excellent heat transfer capabilities. These properties allow the reactor to operate at low pressure. However, thermal fatigue occurs due to repeated thermal expansion and contraction within the creep temperature range. Accordingly, the fast reactor’s components and piping are designed with thin walls. Seismic isolation systems are used to reduce the seismic loads acting on components. Seismic isolation systems are used to reduce the seismic loads acting on components. Research and development of seismic design methods is progressing. Applying seismic isolation to nuclear power plants requires clarifying the design margin approach for equipment in fast reactor plants and seismic isolation devices. Here, the design margin refers to the margin relative to the design criteria for components or seismic isolation systems, i.e. the ratio of seismic response to the design criteria for the design basis ground motion, The design margin should be set to a value equal to or greater than the safety margin. Here, the safety margin is defined as the minimum margin specified in regulatory requirements and standards. This report proposes an approach for determining design margins for fast reactor plants with the horizontal seismic isolation system. We conducted the seismic response analysis of the reactor building and created the fragility curve with buckling evaluation of the reactor vessel. Based on these results, an approach for determining design margins of the components and the horizontal seismic isolation system was investigated.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-06-12",
+      "url": "https://doi.org/10.1080/00223131.2026.2680222",
+      "doi": "https://doi.org/10.1080/00223131.2026.2680222",
+      "cited_by_count": 0,
+      "keywords": [
+        "Piping",
+        "Seismic loading",
+        "Seismic analysis",
+        "Margin (machine learning)",
+        "Fragility",
+        "Sodium-cooled fast reactor",
+        "Conceptual design",
+        "Nuclear power plant"
+      ],
+      "authors": [
+        "Shigeki OKAMURA",
+        "Risako Nakashima",
+        "T. Hirayama",
+        "Masaki Yukawa",
+        "Shotaro Watanabe",
+        "Satoshi Fujita",
+        "Akira Yamaguchi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7164660439",
+      "title": "Simulations of heat transfer in corrugated channels using LES and RANS with algebraic flux models",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129143",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129143",
+      "cited_by_count": 0,
+      "keywords": [
+        "Reynolds-averaged Navier–Stokes equations",
+        "Heat transfer",
+        "Heat flux",
+        "Algebraic number",
+        "Flux (metallurgy)",
+        "Heat transfer coefficient"
+      ],
+      "authors": [
+        "Nicolas Montiel",
+        "Pierre Horgue",
+        "Mathieu Courtial",
+        "Benoît Sénéchal",
+        "Julien Sebilleau",
+        "Rémi Zamansky"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164123579",
+      "title": "Thermo-economic multi-objective optimization of a triple-tube heat exchanger using non-dominated sorting genetic algorithm-II",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-11",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131719",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131719",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat exchanger",
+        "Sorting",
+        "Genetic algorithm",
+        "System optimization",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Sunil Kumar Gaur",
+        "Rashmi Rekha Sahoo",
+        "Jahar Sarkar"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164147155",
+      "title": "Predictive thermal comfort and economic control of space heating systems via hierarchical state machine methodology: dynamic modeling, techno-economic assessment, and grid impact analysis",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131479",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131479",
+      "cited_by_count": 0,
+      "keywords": [
+        "Photovoltaic system",
+        "Thermal energy storage",
+        "Sizing",
+        "Renewable energy",
+        "Cost of electricity by source",
+        "Grid",
+        "Energy storage",
+        "Distributed generation",
+        "Computer data storage",
+        "Heat pump"
+      ],
+      "authors": [
+        "Guiping Wang",
+        "Hong Luo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164050662",
+      "title": "A hybrid machine learning-mechanistic modeling framework for zeotropic ORC systems: Unraveling composition-property-heat transfer-performance pathways",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131828",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131828",
+      "cited_by_count": 0,
+      "keywords": [
+        "Zeotropic mixture",
+        "Hybrid system",
+        "Process (computing)",
+        "Component (thermodynamics)"
+      ],
+      "authors": [
+        "Bo Liu",
+        "Pei Lu",
+        "Xianglong Luo",
+        "Yingzong Liang",
+        "Zhi Yang",
+        "Jianyong Chen",
+        "Ying Chen (9697)"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164025629",
+      "title": "Thermo-aerodynamic regulation of cylindrical and conical solar evaporators via bio-inspired helical structures for mass transfer enhancement",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131819",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131819",
+      "cited_by_count": 0,
+      "keywords": [
+        "Conical surface",
+        "Mass transfer",
+        "Solar energy",
+        "Heat transfer enhancement",
+        "Power (physics)",
+        "Heat transfer"
+      ],
+      "authors": [
+        "H. S. Mao",
+        "Jiyue Wang",
+        "Bo Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164027123",
+      "title": "Numerical study on proton exchange membrane fuel cell thermal management using phase change material-air compound cooling",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-09",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131920",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131920",
+      "cited_by_count": 0,
+      "keywords": [
+        "Proton exchange membrane fuel cell",
+        "Phase change",
+        "Thermal",
+        "Thermal management of electronic devices and systems",
+        "Fuel cells",
+        "Phase-change material",
+        "Phase (matter)",
+        "Heat exchanger"
+      ],
+      "authors": [
+        "Longda Liu",
+        "Chao Chang",
+        "Wenlei Xiao",
+        "姜青翱",
+        "Jixian Wang",
+        "Huafeng Zhou",
+        "Zongyu Wang",
+        "Jifeng Zhang",
+        "Fengmin Su",
+        "Yulong Ji"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164682386",
+      "title": "Experimental investigation of the coupled effects of vibration and spray parameters on spray cooling heat transfer",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-13",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111093",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111093",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nozzle",
+        "Spray nozzle",
+        "Spray characteristics",
+        "Heat transfer",
+        "Vibration",
+        "Heat exchanger",
+        "Heat transfer coefficient",
+        "Flow (mathematics)",
+        "Thermal"
+      ],
+      "authors": [
+        "Xinwen Chen",
+        "Yang Shen",
+        "Meng Zhang",
+        "Xingnan Liu",
+        "Zhaohua Li",
+        "Aimin Du",
+        "Kun Liang"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 9572,
+    "total": 9581,
     "journals": 275,
-    "last_update": "2026-06-14 04:57:42",
-    "reactor-thermal_count": 681,
-    "heat-transfer_count": 1255,
+    "last_update": "2026-06-15 05:16:30",
+    "reactor-thermal_count": 683,
+    "heat-transfer_count": 1262,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 695
+        "count": 700
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 328
+        "count": 329
       },
       {
         "name": "Annals of Nuclear Energy",
@@ -246118,7 +246368,7 @@
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 176
+        "count": 177
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -246258,7 +246508,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 75
+        "count": 76
       },
       {
         "name": "Ecological Economics",
@@ -246797,6 +247047,10 @@
         "count": 15
       },
       {
+        "name": "Journal of Nuclear Science and Technology",
+        "count": 15
+      },
+      {
         "name": "Journal of Economic Geography",
         "count": 14
       },
@@ -246826,10 +247080,6 @@
       },
       {
         "name": "National Tax Journal",
-        "count": 14
-      },
-      {
-        "name": "Journal of Nuclear Science and Technology",
         "count": 14
       },
       {
@@ -247207,10 +247457,6 @@
     ],
     "trend": [
       {
-        "date": "2026-05-16",
-        "count": 23
-      },
-      {
         "date": "2026-05-17",
         "count": 23
       },
@@ -247304,26 +247550,30 @@
       },
       {
         "date": "2026-06-09",
-        "count": 17
-      },
-      {
-        "date": "2026-06-10",
-        "count": 24
-      },
-      {
-        "date": "2026-06-11",
         "count": 20
       },
       {
+        "date": "2026-06-10",
+        "count": 25
+      },
+      {
+        "date": "2026-06-11",
+        "count": 21
+      },
+      {
         "date": "2026-06-12",
-        "count": 23
+        "count": 24
       },
       {
         "date": "2026-06-13",
-        "count": 0
+        "count": 3
       },
       {
         "date": "2026-06-14",
+        "count": 0
+      },
+      {
+        "date": "2026-06-15",
         "count": 0
       }
     ]
@@ -247542,5 +247792,5 @@
       }
     ]
   },
-  "export_time": "2026-06-14T04:57:42.166570"
+  "export_time": "2026-06-15T05:16:30.632018"
 }
