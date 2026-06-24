@@ -252653,39 +252653,959 @@
         "Sudev Das"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165569331",
+      "title": "Ultra-high vacuum compatible AA6061-SS316L tubular transition joint",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115065",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115065",
+      "cited_by_count": 0,
+      "keywords": [
+        "Joint (building)",
+        "Finite element method",
+        "Transition (genetics)"
+      ],
+      "authors": [
+        "A.Bhardwaj",
+        "P. Ganesh",
+        "P. Gupta",
+        "M.K. Swami",
+        "A. Kumar",
+        "C.R. Das"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165576725",
+      "title": "Intensity measures for the seismic assessment of non-structural components in nuclear power plants",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115067",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115067",
+      "cited_by_count": 0,
+      "keywords": [
+        "Acceleration",
+        "Spectral acceleration",
+        "Range (aeronautics)",
+        "Intensity (physics)",
+        "Peak ground acceleration",
+        "Nuclear power",
+        "Fragility",
+        "Dispersion (optics)"
+      ],
+      "authors": [
+        "Angeliki Gerontati",
+        "Nikolaos Karaferis",
+        "Georgios Triantafyllou",
+        "Irmela Zentner",
+        "Dzifa Kudawoo",
+        "Dimitrios Vamvatsikos"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165579844",
+      "title": "Leakage control mechanism and performance optimization analysis of hydraulically controllable mechanical seal for nuclear reactor coolant pumps",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115064",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115064",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Leakage (economics)",
+        "Seal (emblem)",
+        "Mechanism (biology)",
+        "Nuclear reactor"
+      ],
+      "authors": [
+        "Bingqing Wang",
+        "Mingjun Xu",
+        "Y Yin Li",
+        "Yuan Chen",
+        "X F Li",
+        "Jiliang Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165532272",
+      "title": "Numerical investigation of the hydrothermal performance and entropy generation rate of dimpled-protruded tubes in the intermediate heat exchange of a SCO2 gas fast reactor",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112590",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112590",
+      "cited_by_count": 0,
+      "keywords": [
+        "Hydrothermal circulation",
+        "Heat exchanger",
+        "Entropy (arrow of time)",
+        "Hydrothermal reaction",
+        "Chemical reactor"
+      ],
+      "authors": [
+        "Samuel Oke",
+        "Puzhen Gao",
+        "Olatomide Gbenga Fadodun",
+        "John Ngige Njoroge"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165521896",
+      "title": "Numerical study on thermal–hydraulic of liquid LBE in spiral-fin fuel rod bundle channels under radial non-uniform power distribution",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112584",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112584",
+      "cited_by_count": 0,
+      "keywords": [
+        "Distribution (mathematics)",
+        "Bundle",
+        "Power (physics)",
+        "Liquid fuel",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Shengcai Zhang",
+        "Qian Li",
+        "Xuelong Li",
+        "Siwei Cai",
+        "Xuechen Liu",
+        "N Zhang",
+        "Chen Hu",
+        "Xian Zeng",
+        "Yulong Mao",
+        "Weihua Cai"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165538784",
+      "title": "Nuclear decommissioning as a new beginning: Evolving practices, emerging opportunities, and the next phase of the nuclear lifecycle",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106501",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106501",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear decommissioning",
+        "Nuclear reactor",
+        "Nuclear fuel cycle",
+        "Core model",
+        "Modular design",
+        "Sustainability",
+        "Radioactive waste",
+        "System lifecycle"
+      ],
+      "authors": [
+        "Charlotta E. Sanders",
+        "Mark C. Sanders"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165568660",
+      "title": "Multi-actuator coordinated fault-tolerant water level control for a U-tube steam generator under main regulating valve faults",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106502",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106502",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boiler (water heating)",
+        "Water level",
+        "Generator (circuit theory)",
+        "Control valves",
+        "Control system",
+        "Control (management)"
+      ],
+      "authors": [
+        "Yongwei Chen",
+        "Lei Wang",
+        "Hua Tu",
+        "Xinwei Zhai",
+        "Hai Zhang",
+        "Xinxing Zhou",
+        "Qianfan Jiang",
+        "Ying Song"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165560699",
+      "title": "Uranium Interaction in a Porous ZrO 2 -MgO Matrix",
+      "abstract": "During the fabrication of fuel elements for research reactors, uranium silicide alloys are melted at temperatures close to 1800°C using porous ZrO2-MgO crucibles. The controlled porosity required to withstand thermal shock also promotes infiltration of approximately 1% to 2% of the molten alloy into the pore network, retaining uranium within the ceramic matrix. In the present work, the interaction between a molten U-Si alloy and porous stabilized zirconia was investigated through microstructural, crystallographic, and diffusion analyses.The ZrO2-MgO matrix exhibited a total porosity of ~18%, while molten alloy infiltration reached nearly 50% of the crucible wall thickness. X-ray microtomography revealed the preferential filling of larger pores, reducing the maximum equivalent pore diameter from ~400 to ~250 µm after infiltration, with a geometric tortuosity of τ = 1.907. The uranium concentration profiles obtained by energy-dispersive X-ray spectroscopy allowed for the estimation of an effective diffusion coefficient on the order of 10−5 cm2/s. X-ray diffraction and Rietveld refinement revealed the formation of a previously unreported disordered cubic pyrochlore–type structure crystallizing in the Fd3̅m space group with stoichiometry Zr2(Zr0.8125 U0.1875)2Si3O4.The results indicate that uranium infiltration is primarily governed by metallostatic pressure and pore connectivity, while simultaneous diffusion and chemical interaction promote the formation of uranium-containing pyrochlore/defective fluorite–type structures relevant for actinide immobilization applications.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1080/00295639.2026.2683946",
+      "doi": "https://doi.org/10.1080/00295639.2026.2683946",
+      "cited_by_count": 0,
+      "keywords": [
+        "Porosity",
+        "Uranium",
+        "Alloy",
+        "Ceramic",
+        "Rietveld refinement",
+        "Diffusion",
+        "Actinide",
+        "Infiltration (HVAC)"
+      ],
+      "authors": [
+        "Marcos Rodriguez",
+        "Diego Lionello",
+        "Daniel Vega",
+        "Mariano Escobar"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165559610",
+      "title": "A Predictor-Corrector Approach Based on CMFD for Reactor Kinetics Calculations",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1080/00295639.2026.2682677",
+      "doi": "https://doi.org/10.1080/00295639.2026.2682677",
+      "cited_by_count": 0,
+      "keywords": [
+        "Kinetics",
+        "Work (physics)",
+        "Stability (learning theory)",
+        "Neutron flux",
+        "Chemical kinetics"
+      ],
+      "authors": [
+        "Dean Wang",
+        "Thales Figueiredo",
+        "Colin Voorhis"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165553376",
+      "title": "Functional Expansion Tallies for Kinetic Monte Carlo Variance Reduction",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1080/00295450.2026.2669451",
+      "doi": "https://doi.org/10.1080/00295450.2026.2669451",
+      "cited_by_count": 0,
+      "keywords": [
+        "Monte Carlo method",
+        "Variance reduction",
+        "Kinetic Monte Carlo",
+        "Reduction (mathematics)",
+        "Variance (accounting)",
+        "Kinetic energy",
+        "Dynamic Monte Carlo method"
+      ],
+      "authors": [
+        "Martin Skretteberg",
+        "Mikolaj Kowalski",
+        "Paul Cosgrove"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165553384",
+      "title": "Uncertainty and Global Sensitivity Analysis of Multiphysics Parameters in the Primary Circuit System of the Molten Salt Reactor",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1080/00295450.2026.2669457",
+      "doi": "https://doi.org/10.1080/00295450.2026.2669457",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Sensitivity (control systems)",
+        "Molten salt reactor",
+        "Molten salt",
+        "Primary (astronomy)",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Zheng Li",
+        "Chuqi Chen",
+        "Mengfei Liu",
+        "Lang Li",
+        "Xiping Han"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165568774",
+      "title": "Uncertainty and Sensitivity Analysis of a LBLOCA Transient in the CALLISTO Test Facility Using a Statistical Approach",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1080/00295450.2026.2676363",
+      "doi": "https://doi.org/10.1080/00295450.2026.2676363",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sensitivity (control systems)",
+        "Transient (computer programming)",
+        "Statistical analysis",
+        "Calibration",
+        "Test site"
+      ],
+      "authors": [
+        "A. Hadjam",
+        "Djillali Saad",
+        "Hamid Boucherit",
+        "Hamid Aı̈t Abderrahim",
+        "Patrice Jacquet",
+        "Philipe Gouat",
+        "Amina Lyria Cheridi",
+        "Mohammed Bouaouina"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165536103",
+      "title": "Radiation exposure in interventional cardiology: Implications for patients and healthcare workers",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.net.2026.104488",
+      "doi": "https://doi.org/10.1016/j.net.2026.104488",
+      "cited_by_count": 0,
+      "keywords": [
+        "Radiation exposure",
+        "Health care",
+        "Occupational exposure",
+        "Healthcare worker",
+        "Patient care"
+      ],
+      "authors": [
+        "H.A. Abdel Ghany",
+        "Asmaa Salah",
+        "H.M. Diab"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165561204",
+      "title": "Structural analysis of helically coiled once-through steam generator tubes in small modular reactors under density wave oscillation—part I: Numerical formulation",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104513",
+      "doi": "https://doi.org/10.1016/j.net.2026.104513",
+      "cited_by_count": 0,
+      "keywords": [
+        "Modular design",
+        "Generator (circuit theory)",
+        "Boiler (water heating)",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Kyucheol Jeong",
+        "Gyeonghyeon Cho",
+        "Kang-Heon Lee",
+        "Seongmin Chang",
+        "Jae‐Yoon Jeong",
+        "Kwanghyun Ahn",
+        "Hun Sik Han",
+        "Jonghun Yoon"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165552064",
+      "title": "Enhanced Seismic Performance of Standard Control Cabinets in Nuclear Power Plants using a Tuned Mass Damper",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104514",
+      "doi": "https://doi.org/10.1016/j.net.2026.104514",
+      "cited_by_count": 0,
+      "keywords": [
+        "Tuned mass damper",
+        "Nuclear power",
+        "Damper",
+        "Power (physics)",
+        "Nuclear power plant"
+      ],
+      "authors": [
+        "Jae-Hong Kim",
+        "Jung-Dae Son",
+        "Jung Han Kim",
+        "Do-Young Kim",
+        "Kwang-Jae Heo",
+        "Ji-Yeon Lee",
+        "Il-Hwan Moon",
+        "Dookie Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165543535",
+      "title": "Molecular insights into thermal conductivity alteration of graphene oxide-Nafion nanocomposite membranes",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129189",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129189",
+      "cited_by_count": 0,
+      "keywords": [
+        "Graphene",
+        "Membrane",
+        "Thermal conductivity",
+        "Nanocomposite",
+        "Conductivity",
+        "Thermal"
+      ],
+      "authors": [
+        "Mahsheed Rayhani",
+        "Cuiying Jian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165550133",
+      "title": "Modelling the role of surface roughness in pool boiling",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129194",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129194",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boiling",
+        "Surface roughness",
+        "Surface finish",
+        "Surface (topology)",
+        "Heat transfer",
+        "Boiling heat transfer"
+      ],
+      "authors": [
+        "Zhuo Li",
+        "Vladan Prodanovic",
+        "Matthias Militzer"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165522041",
+      "title": "A coupled thermo–hydraulic model with phase change and local thermal nonequilibrium for simulating freeze–thaw dynamics in fractured porous media",
+      "abstract": "Seasonal freeze–thaw cycles pose major challenges to underground infrastructures in cold regions, where rock fractures exert strong control over subsurface fluid flow, heat transfer, and ice formation. However, the role of fracture–matrix interactions during freezing and thawing remains poorly understood. In this study, we develop a coupled thermo–hydraulic (TH) model with phase change and local thermal non-equilibrium (LTNE), formulated within a finite element framework, to investigate these processes in fractured porous media. The model is based on the discrete fracture network approach, where fractures are represented as lower-dimensional entities embedded within a permeable porous matrix. It can capture ice–water phase change, LTNE heat exchange between fracture fluid and the surrounding rock matrix, as well as latent heat effects and phase-dependent permeability in both fracture and matrix domains. Model verification is conducted against four benchmark problems, addressing fracture–matrix heat exchange under LTNE conditions, ice–water phase change under freezing and melting, and lower-dimensional fracture representation implemented in the proposed TH modeling framework. The model is further applied to problems of increasing complexity, from a single fracture to intersecting fractures and ultimately to a fracture network, to systematically elucidate the roles of freeze–thaw processes in fracture-scale permeability evolution and network-scale flow reorganization. Our results reveal a self-reinforcing feedback mechanism in which freezing blocks secondary pathways, focusing flow into major channels, which in turn suppress further freezing and sustain preferential flow. These findings have important implications for many hydrological, geophysical, and geotechnical applications in cold regions.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129185",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129185",
+      "cited_by_count": 0,
+      "keywords": [
+        "Porous medium",
+        "Fracture (geology)",
+        "Permeability (electromagnetism)",
+        "Thermal",
+        "Porosity",
+        "Fluid dynamics",
+        "Heat exchanger",
+        "Latent heat",
+        "Matrix (chemical analysis)"
+      ],
+      "authors": [
+        "Jia-Jing Lin",
+        "Chuanyin Jiang",
+        "Chin-Fu Tsang",
+        "Auli Niemi",
+        "Patrik Vidstrand",
+        "Qinghua Lei"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165573201",
+      "title": "Engineering thermal safety in solid-state lithium batteries: Mechanisms, transport limitations, and mitigation strategies",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129170",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129170",
+      "cited_by_count": 0,
+      "keywords": [
+        "Lithium (medication)",
+        "Thermal",
+        "Thermal engineering",
+        "Thermal runaway"
+      ],
+      "authors": [
+        "Yongbiao Mu",
+        "Huicun Gu",
+        "Hanshun Lai",
+        "Z Zhang",
+        "Lin Zeng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165548426",
+      "title": "Study on the optimization of the oscillating tube jet structure and performance for the axial gas wave refrigerator",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129192",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129192",
+      "cited_by_count": 0,
+      "keywords": [
+        "Refrigerator car",
+        "Jet (fluid)",
+        "Tube (container)",
+        "Pulse tube refrigerator",
+        "Standing wave"
+      ],
+      "authors": [
+        "Weiwei Li",
+        "Yiming Zhao",
+        "Dapeng Hu",
+        "Liu X"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165548311",
+      "title": "Interaction dynamics of an off-center cavitation bubble in a millimeter-scale oil-surrounded water droplet",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129195",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129195",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cavitation",
+        "Bubble",
+        "Dynamics (music)",
+        "Liquid bubble",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Xiaolong He",
+        "Qian Yang",
+        "Jianmin Zhang",
+        "Zhong Tian",
+        "Weilin Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165378897",
+      "title": "Experimental study of buoyancy-driven flame propagation in near-limit H2–O2 mixtures",
+      "abstract": "Near-limit H 2 -O 2 flame propagation under normal gravity is strongly affected by buoyancy, but the morphology transition, its coupling with pressure evolution and flame-speed reduction, and the applicability of spherical flame evaluation methods remain insufficiently clarified. In this study, H 2 -O 2 flames near the lower flammability limit (LFL) were experimentally investigated in a constant-volume chamber using high-speed schlieren imaging. Image-derived geometric parameters were used to classify propagation regimes, evaluate buoyancy effects using the Richardson number (Ri) , analyze buoyant rising velocity ( v rise ), and assess spherical-flame stretch extrapolation. As the H 2 concentration decreased from 15 vol% to 5 vol%, the flame behavior changed from instability-controlled spherical propagation at 15–12 vol% to a transition regime at 10–7 vol%, and finally to buoyancy-induced near-limit propagation with jellyfish-like and split flame structures at 6.5–5 vol%. The maximum pressure ( P max ), decreased by more than 70% between 10 vol% and 8 vol%, coinciding with suppressed downward propagation and incomplete mixture consumption. Under these conditions, conventional spherical flame stretch extrapolation produced deviations exceeding 50% due to flame deformation and upward drift. Ri analysis showed that buoyancy effects intensified with flame growth and decreasing H 2 concentration, while the equivalent radius ( R eq. ), best matched the morphology-based regime classification. v rise analysis further indicated that a constant drag coefficient ( C D ) bubble analogy is insufficient, as the C D varied with flame regime. These findings provide a quantitative basis for interpreting buoyancy-induced near-limit H 2 -O 2 flame propagation and demonstrate the need for a new evaluation framework for flame-speed determination under normal-gravity near-limit conditions.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132063",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132063",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustion",
+        "Temperature measurement",
+        "Work (physics)",
+        "Mathematical model"
+      ],
+      "authors": [
+        "Weisheng Chu",
+        "Masato Nakazawa",
+        "Hongliang Luo",
+        "Wookyung Kim"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165405870",
+      "title": "Experimental study on the low-temperature ignition characteristics of RP-3 aviation kerosene impinging sprays",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132061",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132061",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ignition system",
+        "Kerosene",
+        "Aviation",
+        "Combustion"
+      ],
+      "authors": [
+        "Ziman Wang",
+        "Fengting Sun",
+        "Jiahao Zhang",
+        "Zhicheng Shi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165371054",
+      "title": "915 MHz microwave heated fluidised-bed reactor for methane pyrolysis: Design, risk assessment and operational performance",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132024",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132024",
+      "cited_by_count": 0,
+      "keywords": [
+        "Methane",
+        "Microwave",
+        "Risk assessment",
+        "Methane emissions",
+        "Microwave heating"
+      ],
+      "authors": [
+        "Marilena Radoiu",
+        "Ariel Mello",
+        "Emmanuel Landrivon",
+        "David Farrusseng",
+        "N. Guilhaume",
+        "Robert Cherbański",
+        "Andrzej Stankiewicz"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165141382",
+      "title": "Research on combustion characteristics of kerosene cascaded injection in supersonic combustor",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131865",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131865",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustor",
+        "Supersonic speed",
+        "Combustion",
+        "Injector",
+        "Fuel injection",
+        "Ignition system",
+        "Body orifice",
+        "Mixing (physics)",
+        "Kerosene"
+      ],
+      "authors": [
+        "Chaoyu Yan",
+        "Jialing Le",
+        "Wen Shi",
+        "Ran Wei",
+        "Ye Tian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165205820",
+      "title": "Multi-objective design optimization of triangular fins in flat-plate solar collector with hybrid nanofluids",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-18",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132001",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132001",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanofluid",
+        "Pressure drop",
+        "Thermal",
+        "Fin",
+        "Thermal efficiency",
+        "Renewable energy",
+        "Volumetric flow rate",
+        "Work (physics)",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Mohanad A.Alfellag",
+        "Haslinda Mohamed Kamar",
+        "S.N. Kazi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164995235",
+      "title": "Comparative study on thermal runaway debris and residue of LiFePO4 battery triggered by different causes",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131998",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131998",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal runaway",
+        "Debris",
+        "Residue (chemistry)",
+        "Thermal"
+      ],
+      "authors": [
+        "Zihan Gong",
+        "Junli Sun",
+        "Huaibin Wang",
+        "Botao Qin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165000924",
+      "title": "Using machine learning algorithms to predict the transient two-phase flow pressure drop during cryogenic quenching heat transfer in a tube",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132010",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132010",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pressure drop",
+        "Heat transfer",
+        "Quenching (fluorescence)",
+        "Transient (computer programming)",
+        "Flow (mathematics)",
+        "Tube (container)"
+      ],
+      "authors": [
+        "Narottama Esser",
+        "Bohan Huang",
+        "J. N. Chung",
+        "Jason Hartwig",
+        "Alok Majumdar"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164817770",
+      "title": "Polydimethylsiloxane based transparent and reflective materials for passive daytime radiative cooling",
+      "abstract": "Passive daytime radiative cooling (PDRC) dissipates heat by emitting infrared radiation through the atmospheric transparency window (8–13 μm), enabling sub-ambient temperatures under direct sunlight without energy input. Polydimethylsiloxane (PDMS) is widely used in PDRC because it combines high emissivity in the 8–13 μm range with high transmittance (low absorption) in the solar spectrum (0.3–2.5 μm), while also being easy to fabricate. This study presents a systematic investigation of flat PDMS-based PDRC materials with thicknesses from around 1 μm to around 1000 μm deposited on either highly-transparent fused silica substrates or highly-reflective commercial sunlight reflector substrates. These configurations target applications such as cooling for transparent roofs and outdoor electronic enclosures. For a 58-μm-thick PDMS layer on silica, the sample shows a solar spectrum transmittance of 92.8%, absorption of 1.1%, and an emissivity of 94.4% in the 8–13 μm range, resulting in a net cooling power of 78.5 W/m 2 . For this transparent configuration, the cooling power remains nearly unchanged for PDMS thicknesses from 1.7 μm to 121 μm, indicating a broad thickness tolerance for practical fabrication. For the PDMS-coated sunlight reflector sample with 60-μm-thick PDMS thickness, the absorption reaches 6.2%, which reduces the net cooling power to only 17.5 W/m 2 . For this reflective configuration, an optimal PDMS thickness of around 60 μm is identified, but the cooling performance is strongly limited by the increased solar absorption of the reflector-based structure. This work highlights the potential of PDMS-based transparent and reflective materials for simple and scalable PDRC systems, while clarifying the influence of thickness and substrate choice on their cooling performance.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131972",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131972",
+      "cited_by_count": 0,
+      "keywords": [
+        "Transmittance",
+        "Infrared window",
+        "Emissivity",
+        "Polydimethylsiloxane",
+        "Radiative cooling",
+        "Low emissivity",
+        "Absorption (acoustics)",
+        "Infrared",
+        "Passive cooling",
+        "Sunlight"
+      ],
+      "authors": [
+        "Zesen Su",
+        "Prit Patel",
+        "Haiying Cheng",
+        "Bryce S. Richards",
+        "Gan Huang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164812950",
+      "title": "Research on the regulation of electrochromic vehicle windows balancing thermal comfort and energy consumption",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131971",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131971",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal comfort",
+        "Energy consumption",
+        "Electrochromism",
+        "Thermostat",
+        "Transient (computer programming)",
+        "Energy (signal processing)",
+        "Energy management",
+        "Work (physics)",
+        "Thermal"
+      ],
+      "authors": [
+        "Ruizhuo Zhou",
+        "Bijun Yang",
+        "Shihao Dong",
+        "Y Zhang",
+        "Guohua Wang",
+        "Zhe Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164523600",
+      "title": "Experimental study on the thermal performance of the isobutane in lubricants for refrigeration and air conditioning applications",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131956",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131956",
+      "cited_by_count": 0,
+      "keywords": [
+        "Isobutane",
+        "Refrigeration",
+        "Air conditioning",
+        "Thermal",
+        "Refrigerant"
+      ],
+      "authors": [
+        "Zhaoning Hou",
+        "Zhao Yang",
+        "Hongxia He",
+        "Yanfeng Zhao",
+        "Shuping Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165555399",
+      "title": "Optimization design of Y-fractal channels in cooling plates for electric vehicle battery thermal management",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-23",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111112",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111112",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electric vehicle",
+        "Thermal management of electronic devices and systems",
+        "Thermal",
+        "Electric-vehicle battery",
+        "Battery (electricity)",
+        "Water cooling"
+      ],
+      "authors": [
+        "Haorui Liao",
+        "Boyang Fan",
+        "Mengwen Huang",
+        "Yidong Lu",
+        "Kaixuan Gu",
+        "Huikun Cai"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165549435",
+      "title": "Thermal performance improvement of heat sink by ellipsoidal dimple-protrusions",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111108",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111108",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat sink",
+        "Ellipsoid",
+        "Thermal",
+        "Performance prediction",
+        "Performance improvement",
+        "Heat transfer",
+        "Heat flux"
+      ],
+      "authors": [
+        "RuiRu Li",
+        "QiuXia Yang",
+        "Q C Zhang",
+        "Xiang Wu",
+        "Kun Zhang",
+        "Wei Dang",
+        "KeWei Song"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165518358",
+      "title": "Effect of the liquid-cooling plate with a novel bionic wing-vein channels on heat dissipation performance for the lithium-ion battery pack",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111104",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111104",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dissipation",
+        "Thermal management of electronic devices and systems",
+        "Battery (electricity)",
+        "Heat transfer",
+        "Heat generation"
+      ],
+      "authors": [
+        "Na Liu",
+        "JingBin Huang",
+        "YeChao Tan",
+        "YueMing Jiang",
+        "Zhuang Sun",
+        "Hongchang Wu",
+        "Sivan Ding"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165548612",
+      "title": "Performance of immersion liquid-cooled battery thermal management system for cylindrical lithium-ion battery module",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-22",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111120",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111120",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Immersion (mathematics)",
+        "Thermal",
+        "Baffle",
+        "Thermal conductivity",
+        "Parametric statistics",
+        "Heat generation",
+        "Water cooling",
+        "Volumetric flow rate"
+      ],
+      "authors": [
+        "Zhou Haobing",
+        "功 大隅",
+        "Weifeng Li",
+        "Kelong Zhang",
+        "Xiaofeng Guo",
+        "Hongwei Yang"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 9818,
+    "total": 9853,
     "journals": 275,
-    "last_update": "2026-06-23 04:11:55",
-    "reactor-thermal_count": 763,
-    "heat-transfer_count": 1419,
+    "last_update": "2026-06-24 04:15:07",
+    "reactor-thermal_count": 778,
+    "heat-transfer_count": 1439,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 800
+        "count": 810
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 356
+        "count": 362
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 201
+        "count": 205
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 199
+        "count": 201
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 187
+        "count": 190
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 121
+        "count": 124
       },
       {
         "name": "Science",
@@ -252800,12 +253720,12 @@
         "count": 92
       },
       {
-        "name": "The Science of The Total Environment",
-        "count": 91
+        "name": "Progress in Nuclear Energy",
+        "count": 92
       },
       {
-        "name": "Progress in Nuclear Energy",
-        "count": 90
+        "name": "The Science of The Total Environment",
+        "count": 91
       },
       {
         "name": "Management Science",
@@ -252828,12 +253748,12 @@
         "count": 73
       },
       {
-        "name": "Nuclear Science and Engineering",
-        "count": 69
+        "name": "Nuclear Technology",
+        "count": 72
       },
       {
-        "name": "Nuclear Technology",
-        "count": 69
+        "name": "Nuclear Science and Engineering",
+        "count": 71
       },
       {
         "name": "American Journal of Epidemiology",
@@ -253766,10 +254686,6 @@
     ],
     "trend": [
       {
-        "date": "2026-05-25",
-        "count": 34
-      },
-      {
         "date": "2026-05-26",
         "count": 27
       },
@@ -253795,7 +254711,7 @@
       },
       {
         "date": "2026-06-01",
-        "count": 198
+        "count": 200
       },
       {
         "date": "2026-06-02",
@@ -253843,7 +254759,7 @@
       },
       {
         "date": "2026-06-13",
-        "count": 10
+        "count": 11
       },
       {
         "date": "2026-06-14",
@@ -253851,7 +254767,7 @@
       },
       {
         "date": "2026-06-15",
-        "count": 35
+        "count": 37
       },
       {
         "date": "2026-06-16",
@@ -253859,19 +254775,19 @@
       },
       {
         "date": "2026-06-17",
-        "count": 35
+        "count": 37
       },
       {
         "date": "2026-06-18",
-        "count": 21
-      },
-      {
-        "date": "2026-06-19",
         "count": 22
       },
       {
+        "date": "2026-06-19",
+        "count": 23
+      },
+      {
         "date": "2026-06-20",
-        "count": 15
+        "count": 18
       },
       {
         "date": "2026-06-21",
@@ -253879,10 +254795,14 @@
       },
       {
         "date": "2026-06-22",
-        "count": 0
+        "count": 21
       },
       {
         "date": "2026-06-23",
+        "count": 2
+      },
+      {
+        "date": "2026-06-24",
         "count": 0
       }
     ]
@@ -254101,5 +255021,5 @@
       }
     ]
   },
-  "export_time": "2026-06-23T04:11:55.781439"
+  "export_time": "2026-06-24T04:15:07.545223"
 }
