@@ -257151,39 +257151,1065 @@
         "C. Balaji"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166347672",
+      "title": "Investigation of the influence of additional turbine power on the efficiency of using a latent heat thermal energy storage at a power unit of a nuclear power plant with a water-cooled power reactor",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115073",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115073",
+      "cited_by_count": 0,
+      "keywords": [
+        "Latent heat",
+        "Thermal energy storage",
+        "Nuclear power plant",
+        "Steam turbine",
+        "Turbine",
+        "Power station",
+        "Energy storage",
+        "Boiler (water heating)",
+        "Nuclear power",
+        "Thermal power station"
+      ],
+      "authors": [
+        "R.Z. Aminov",
+        "V.E. Yurin",
+        "D.M. Anoshin"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166320548",
+      "title": "Comprehensive overview of external hazard assessment international and national guidelines for siting of Small Modular Reactors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-28",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112527",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112527",
+      "cited_by_count": 0,
+      "keywords": [
+        "Modular design",
+        "Hazard analysis",
+        "Hazard",
+        "Risk assessment",
+        "Modular construction"
+      ],
+      "authors": [
+        "Camille Ferreira",
+        "Lancelot Max",
+        "Ondřej Novák",
+        "Jan Kozic",
+        "Ján Rataj"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166294838",
+      "title": "Experimental study on two-phase flow instability in parallel helical coils under axially non-uniform heating conditions",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-28",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112588",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112588",
+      "cited_by_count": 0,
+      "keywords": [
+        "Axial symmetry",
+        "Instability",
+        "Flow (mathematics)",
+        "Axial compressor",
+        "Stability (learning theory)"
+      ],
+      "authors": [
+        "Jiajia Liu",
+        "Maolong Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166331737",
+      "title": "Improvement of the phase velocity prediction in the MARS-KS code for upward air–water flows in bubbly and slug flow regimes",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-28",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112587",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112587",
+      "cited_by_count": 0,
+      "keywords": [
+        "Slug flow",
+        "Flow (mathematics)",
+        "Code (set theory)",
+        "Phase (matter)",
+        "Two-phase flow"
+      ],
+      "authors": [
+        "Adnan Wisudhaputra",
+        "Jeongmin Moon",
+        "Manh Long Doan",
+        "Jae Jun Jeong",
+        "Byongjo Yun"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166317517",
+      "title": "Numerical analysis of the dynamic characteristics and fluid force response fluctuations of check valve in main feedwater system",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-28",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112608",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112608",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boiler feedwater",
+        "Numerical analysis",
+        "Feedwater heater",
+        "Check valve",
+        "Control theory (sociology)",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Xueguan Song",
+        "Xinyu Miao",
+        "X F",
+        "Xiping Li",
+        "Jiale Zuo",
+        "Yong Pang",
+        "Longxiang Wang",
+        "Hongpu Wei"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166309210",
+      "title": "Screening key site-specific parameters for radiological on-site exposure dose from hypothetical contamination at the planned Ninh Thuan NPP site using the MEPAS module",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-06-28",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112602",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112602",
+      "cited_by_count": 0,
+      "keywords": [
+        "Radiological weapon",
+        "Contamination",
+        "Radiation dose",
+        "Radioactive contamination",
+        "Effective dose (radiation)",
+        "Key (lock)"
+      ],
+      "authors": [
+        "Bui Thi Hoa",
+        "Jun-Yeop Lee"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166323189",
+      "title": "Comparative Benchmarking of ENDF/B-VIII.1, ENDF/B-VIII.0, and ENDF/B-VII.1 Libraries for Criticality, Depletion, and Uncertainty Analyses with McCARD",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-06-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104529",
+      "doi": "https://doi.org/10.1016/j.net.2026.104529",
+      "cited_by_count": 0,
+      "keywords": [
+        "Benchmarking"
+      ],
+      "authors": [
+        "Ho Jin Park",
+        "Kiyun Bang",
+        "Hoseong Yoo"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7166346056",
+      "title": "Inverse heat conduction in multilayer walls via partial Singular Value Decomposition",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129201",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129201",
+      "cited_by_count": 0,
+      "keywords": [
+        "Singular value decomposition",
+        "Regularization (linguistics)",
+        "Heat flux",
+        "Thermal conduction",
+        "Cutoff",
+        "Inverse",
+        "Deflagration",
+        "Inverse problem",
+        "Partial differential equation"
+      ],
+      "authors": [
+        "Athanasios Skevas",
+        "Georgios Koutsakis"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166350139",
+      "title": "Prediction and uncertainty quantification of saturated flow boiling heat transfer coefficients in mini/micro-channels using Gaussian Process Regression",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129196",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129196",
+      "cited_by_count": 0,
+      "keywords": [
+        "Uncertainty quantification",
+        "Heat transfer",
+        "Uncertainty analysis",
+        "Kriging",
+        "Latent heat",
+        "Gaussian process",
+        "Covariance",
+        "Calibration",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Jihun Jung",
+        "Arshad Afzal",
+        "Seunghyun Lee",
+        "Sung-Min Kim",
+        "Issam Mudawar"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166304618",
+      "title": "Decoupled and coupled aerodynamic–thermal mechanisms of plasma actuation for aircraft anti-icing",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129205",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129205",
+      "cited_by_count": 0,
+      "keywords": [
+        "Plasma",
+        "Plasma actuator",
+        "Actuator",
+        "Control theory (sociology)",
+        "Mechanism (biology)"
+      ],
+      "authors": [
+        "C. Li",
+        "Zhuoling Ran",
+        "Lin Tang",
+        "Dongyu Zhu",
+        "Xuanshi Meng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166392060",
+      "title": "Recalescence characteristics of supercooled sessile water droplets under shear airflow",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129215",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129215",
+      "cited_by_count": 0,
+      "keywords": [
+        "Recalescence",
+        "Supercooling",
+        "Airflow",
+        "Dendrite (mathematics)",
+        "Shear force",
+        "Nucleation"
+      ],
+      "authors": [
+        "Yiqing Guo",
+        "Xuan Zhang",
+        "Xin Liu",
+        "Xiaomin Wu",
+        "Jingchun Min"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166043034",
+      "title": "Heat-flux-matched adaptive design and thermo-hydraulic performance analysis of microchannel cooling for non-uniform heat flux distributions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132100",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132100",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microchannel",
+        "Piecewise",
+        "Amplitude",
+        "Thermal resistance",
+        "Gaussian",
+        "Heat flux",
+        "Control theory (sociology)",
+        "Flow (mathematics)",
+        "Sensitivity (control systems)"
+      ],
+      "authors": [
+        "Linghua Zheng",
+        "Jing Zhao",
+        "Y Zhang",
+        "Junyu Dong",
+        "Kewei 科伟 TAO 陶",
+        "Fen Fu",
+        "Heng Zhang",
+        "L Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166166189",
+      "title": "Synergistic thermohydraulic enhancement and correlation development for ZnO/H₂O nanofluid flow in an elliptical Dimpled Square tube",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132107",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132107",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanofluid",
+        "Laminar flow",
+        "Nusselt number",
+        "Dimple",
+        "Reynolds number",
+        "Heat transfer enhancement",
+        "Heat flux",
+        "Heat transfer",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Furkan Yıldırım",
+        "Büşra Yıldırım",
+        "Mehmet Gürdal",
+        "Yasin Özcan",
+        "Adnan Berber"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166014877",
+      "title": "Thermal management of thermoelectric generators: A thermal-resistance-chain perspective",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132135",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132135",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat sink",
+        "Thermoelectric generator",
+        "Thermoelectric effect",
+        "Thermal resistance",
+        "Heat transfer",
+        "Thermoelectric cooling",
+        "Leakage (economics)",
+        "Scalability"
+      ],
+      "authors": [
+        "Wenlong Yang",
+        "Wenchao Zhu",
+        "Bingxin Guo",
+        "Haokang Zhang",
+        "Xinan Zhang",
+        "Changjun Xie"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166169689",
+      "title": "Multi-parameter thermal runaway and staged gas explosion characteristics of a 228 ah mining lithium-ion battery",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132092",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132092",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal runaway",
+        "Battery (electricity)",
+        "Gas explosion",
+        "Thermal"
+      ],
+      "authors": [
+        "Yong Shen",
+        "Xiangfeng Zhang",
+        "Keyi Zou",
+        "C H Wang",
+        "Weiyu Cai",
+        "Fengjin Cao",
+        "Long Liang",
+        "Jie Zhang",
+        "Dong Liu",
+        "Yukang Yang",
+        "Liangqian Xiong",
+        "Min Peng",
+        "Jin Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166165819",
+      "title": "Thermally induced mechanical response of asphalt pavements with embedded wireless power transfer systems: influence of mixture properties",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132099",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132099",
+      "cited_by_count": 0,
+      "keywords": [
+        "Asphalt",
+        "Viscoelasticity",
+        "Ultimate tensile strength",
+        "Stiffness",
+        "Slab",
+        "Tensile strain",
+        "Thermocouple",
+        "Coupling (piping)"
+      ],
+      "authors": [
+        "Pedram Balooch Sirgani",
+        "Rajib B. Mallick",
+        "Soheil Nazarian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165954850",
+      "title": "Ambient pressure and supercooling effects on droplet impact freezing",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132124",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132124",
+      "cited_by_count": 0,
+      "keywords": [
+        "Supercooling",
+        "Ambient pressure",
+        "High pressure",
+        "Pressure sensor"
+      ],
+      "authors": [
+        "Linhao Li",
+        "Liangzhi Jiang",
+        "Ke Xu",
+        "Jianmin Wu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165856597",
+      "title": "Noise characteristics of shell-and-tube heat exchanger under thermal-fluid-structure-acoustic coupling effect: An experimental research",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132102",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132102",
+      "cited_by_count": 0,
+      "keywords": [
+        "Experimental research",
+        "Heat exchanger",
+        "Coupling (piping)",
+        "Noise (video)",
+        "Experimental data"
+      ],
+      "authors": [
+        "Wang Han",
+        "Yipeng Cao",
+        "C Liu",
+        "Mengqi Liao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165953435",
+      "title": "Experimental and numerical investigation of stable boron nitride nanosheet-based dielectric nanofluids for immersion cooling of lithium-ion batteries",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132088",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132088",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanofluid",
+        "Immersion (mathematics)",
+        "Boron nitride",
+        "Dielectric",
+        "Nitride",
+        "Boron"
+      ],
+      "authors": [
+        "A.P. Asna",
+        "V. Sajith"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165858339",
+      "title": "Experimental study on combustion and knock characteristics of a methanol engine with pre-chamber jet ignition",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132130",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132130",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ignition system",
+        "Combustion",
+        "Jet (fluid)",
+        "Homogeneous charge compression ignition",
+        "Engine knocking",
+        "Jet engine",
+        "Mixing (physics)"
+      ],
+      "authors": [
+        "Jingyi Hu",
+        "Fangxi Xie",
+        "Yu Liu",
+        "Kaichang Lai",
+        "Xiaoxiao Jiang",
+        "Jiakun Du",
+        "H Z Chen",
+        "Zhe Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165840152",
+      "title": "Surface wettability effect on the impact behavior of wind-driven water droplets",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132149",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132149",
+      "cited_by_count": 0,
+      "keywords": [
+        "Wetting",
+        "Surface (topology)",
+        "Contact angle",
+        "Current (fluid)"
+      ],
+      "authors": [
+        "Chen Hu",
+        "Zhile Han",
+        "Zichen Zhang",
+        "Nianhong Han",
+        "Xinchun Tian",
+        "Linchuan Tian",
+        "Wei Tian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165935916",
+      "title": "Thermohydraulic analysis of a new plate-fin heat exchanger with pseudo 3D topology optimized fin designs",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132104",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132104",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fin",
+        "Pressure drop",
+        "Heat exchanger",
+        "Annular fin",
+        "Heat transfer",
+        "Topology optimization",
+        "Plate fin heat exchanger",
+        "Volume fraction",
+        "Heat transfer enhancement"
+      ],
+      "authors": [
+        "Yejian Qian",
+        "Kangwei Wu",
+        "Xiaofei Wei",
+        "Duode Qian",
+        "Zhihua Zheng",
+        "Yingtao Li",
+        "Zhen Gong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165919062",
+      "title": "Effect of lambda and fuel injection timing on the combustion and emission characteristics of a 2.0 T spark ignited direct injection natural gas engine under different loads",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132155",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132155",
+      "cited_by_count": 0,
+      "keywords": [
+        "SPARK (programming language)",
+        "Combustion",
+        "Natural gas",
+        "Lambda",
+        "Engine knocking",
+        "Internal combustion engine",
+        "Combustion chamber"
+      ],
+      "authors": [
+        "Zhongshu Wang",
+        "Jiarui Li",
+        "Wenjun Chen",
+        "Yue Yu",
+        "A. Diya",
+        "Yaodong Du"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165930567",
+      "title": "Performance evaluation and optimization of a refrigeration system with an evaporative condenser: a digital twin approach",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.131977",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.131977",
+      "cited_by_count": 0,
+      "keywords": [
+        "Refrigeration",
+        "Evaporative cooler",
+        "Refrigerant",
+        "System optimization"
+      ],
+      "authors": [
+        "Yanpeng Li",
+        "Yuanzhang Zhao",
+        "Huijun Miao",
+        "C H Wang",
+        "Zhilong He",
+        "Ziwen Xing"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165968930",
+      "title": "Construction of highly thermally conductive epoxy composites via magnetic field-induced alignment of multi-dimensional hybrid BN/CNT fillers",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132116",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132116",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electrical conductor",
+        "Epoxy",
+        "Filler (materials)",
+        "Composite number",
+        "Electrically conductive"
+      ],
+      "authors": [
+        "Yue Luo",
+        "Bo He",
+        "Mingzhe He",
+        "Yuzhuo Shan",
+        "Ruitao Peng",
+        "Xiaoxiang He",
+        "H B Jiang",
+        "Xiangwu Xiao",
+        "瞿金平"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165941398",
+      "title": "Thermo-economic analysis of water-power cogeneration system based on low-temperature desalination and nuclear power plant",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132015",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132015",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cogeneration",
+        "Desalination",
+        "Nuclear power plant",
+        "Geothermal desalination",
+        "Nuclear power",
+        "Power station"
+      ],
+      "authors": [
+        "Yuqian Wang",
+        "Xiaxin Cao",
+        "Zehua Guo",
+        "Ming Ding"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165940316",
+      "title": "Study on the flow and combustion characteristics of an advanced vortex combustor under nonuniform inlet velocity profiles",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132145",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132145",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustor",
+        "Inlet",
+        "Combustion",
+        "Vortex",
+        "Flow (mathematics)",
+        "Combustion chamber"
+      ],
+      "authors": [
+        "Q Wang",
+        "W D Fan",
+        "Meilin Liu",
+        "Yi Jia",
+        "Chen Chen",
+        "Peiliang Yan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165921857",
+      "title": "Evaluating alternative steam generation pathways in the food industry",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132120",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132120",
+      "cited_by_count": 0,
+      "keywords": [
+        "Food industry",
+        "Boiler (water heating)",
+        "Food processing",
+        "Electricity generation"
+      ],
+      "authors": [
+        "Aline Banboukian",
+        "Kristina Armstrong",
+        "Senthil Sundaramoorthy",
+        "Riyaz Papar",
+        "Sachin Nimbalkar",
+        "Joe Cresko"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165943807",
+      "title": "Integrated solar-assisted carbon capture and hydrogen pathways for low-carbon urea production: a techno-economic and exergy assessment",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132090",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132090",
+      "cited_by_count": 0,
+      "keywords": [
+        "Exergy",
+        "Hydrogen",
+        "Carbon fibers",
+        "Urea",
+        "Hydrogen production",
+        "Greenhouse gas",
+        "Carbon dioxide"
+      ],
+      "authors": [
+        "GholamReza Aghdami",
+        "Farzin Hosseinifard",
+        "Mona Zamani Pedram",
+        "Mohsen Salimi",
+        "Majid Amidpour"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165812452",
+      "title": "Thermal management and loss optimization of axial flux machine for vacuum-operated flywheel energy storage",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132085",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132085",
+      "cited_by_count": 0,
+      "keywords": [
+        "Flywheel",
+        "Thermal management of electronic devices and systems",
+        "Thermal",
+        "Flywheel energy storage",
+        "Thermal energy storage",
+        "Energy storage"
+      ],
+      "authors": [
+        "Mingxin Sun",
+        "Yanliang Xu",
+        "Yongsheng Li",
+        "Bin Han",
+        "Enguang Hou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165797126",
+      "title": "Performance analysis of photovoltaic-thermal modules with serpentine infrared liquid beam splitter and luminescent glass",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132106",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132106",
+      "cited_by_count": 0,
+      "keywords": [
+        "Infrared",
+        "Beam splitter",
+        "Luminescence",
+        "Splitter",
+        "Beam (structure)",
+        "Integrated optics"
+      ],
+      "authors": [
+        "Tiancheng Ju",
+        "Hanyi Wang",
+        "Z Li",
+        "Yating Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165787032",
+      "title": "Reinforced dendritic copper architectures for superior pool boiling heat transfer",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132117",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132117",
+      "cited_by_count": 0,
+      "keywords": [
+        "Copper",
+        "Boiling",
+        "Heat transfer",
+        "Boiling heat transfer",
+        "Enhanced heat transfer"
+      ],
+      "authors": [
+        "En-Chia Liu",
+        "Jie-Hau Liao",
+        "Heng-Chieh Chien",
+        "Chao-Yang Chiang",
+        "Po-Hsun He",
+        "Ming-Chi Tai",
+        "Hong-Zhao Weng",
+        "Chien‐Neng Liao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165767136",
+      "title": "Machine learning-assisted multi-objective optimization of twisted fin tube-embedded PCM thermal storage systems: Balancing thermal performance and manufacturability",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132098",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132098",
+      "cited_by_count": 0,
+      "keywords": [
+        "Design for manufacturability",
+        "Fin",
+        "Thermal",
+        "Thermal energy storage",
+        "Thermal engineering",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Songzhen Tang",
+        "Dongliang Zhang",
+        "Ming Guo",
+        "F L Wang",
+        "Xuehong Wu",
+        "Jin Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165381409",
+      "title": "Effects of multiple simultaneous soft faults in variable-speed rooftop units: Experimental analysis and criticisms in detection and diagnosis",
+      "abstract": "Soft faults in cooling systems, such as heat exchanger fouling or improper refrigerant charge, commonly arise from inadequate maintenance practices. To mitigate energy performance degradation, effective fault detection and diagnosis techniques must be implemented. However, diagnosing multiple simultaneous faults remains particularly challenging, especially in variable-speed systems, where control-induced interactions can significantly distort conventional fault signatures originally established for constant-speed operation. Based on the outcomes of previous experimental investigations on single faults, this study experimentally investigates the combined effects of evaporator fouling, condenser fouling, and refrigerant undercharge in a 17.5 kW c variable-speed rooftop unit. The analysis examines how individual fault signatures interact, dominate, compensate for one another, or deviate from linear superposition. The results indicate that sensible cooling capacity degradation is primarily driven by evaporator fouling, with reductions of 14.1% and 18.4% observed under evaporator fouling alone and under combined evaporator and condenser fouling conditions, respectively. An additional 3–4% decrease in capacity is observed when refrigerant undercharge is further introduced. In terms of thermodynamic variables capable of detecting the anomalies, the discharge pressure and the subcooling remain condenser fouling-dominated in the fouled unit with correct refrigerant charge; conversely, the undercharge induces nonlinear and competing effects, such as a mitigation of the discharge pressure increase (with residuals up to 2.4 bar). A symptom matrix is proposed to classify linear dominance, nonlinear contributions, and competing interactions under multiple-fault conditions, revealing that diagnostic rules derived under single-fault or fixed-speed assumptions cannot be directly extended to variable-speed systems operating under concurrent disturbances, where control-induced compensation reshapes fault observability.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132028",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132028",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fault detection and isolation",
+        "Soft computing",
+        "Fault (geology)",
+        "Condition monitoring"
+      ],
+      "authors": [
+        "P. Catrini",
+        "A. Piacentino"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165403950",
+      "title": "Experimental study on the thermal performance of a pulsating heat pipe inspired by the cactus spines under inclined and vibrational conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132045",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132045",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat pipe",
+        "Thermal",
+        "Cactus",
+        "Micro-loop heat pipe",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Yuewen Liu",
+        "Mingshan Wei",
+        "Dan Dan",
+        "Jixian Sun",
+        "Yihang Zhao",
+        "Qingfa Peng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165361991",
+      "title": "Numerical investigation of the influence of the degree of unsaturation on ignition behavior, emissions, and dilution tolerance in a light-duty diesel engine",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132059",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132059",
+      "cited_by_count": 0,
+      "keywords": [
+        "Degree of unsaturation",
+        "Dilution",
+        "Ignition system",
+        "Degree (music)",
+        "Diesel engine",
+        "Diesel fuel",
+        "Particulates"
+      ],
+      "authors": [
+        "Zhefeng Guo",
+        "Yang Han",
+        "Huangchang Ji",
+        "Timothy H.Lee"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7165358322",
+      "title": "Coupled fire spread behavior of green walls under different Ignition Heights based on experimental and numerical investigation",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-06-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132051",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132051",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ignition system",
+        "Computer simulation",
+        "Flame spread",
+        "Numerical models"
+      ],
+      "authors": [
+        "Zhen Ni",
+        "Denvid Lau",
+        "Cheuk Lun Chow"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166338884",
+      "title": "Physics-informed neural networks for two-phase immersion cooling of electronic packages",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111116",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111116",
+      "cited_by_count": 0,
+      "keywords": [
+        "Immersion (mathematics)",
+        "Artificial neural network",
+        "Water cooling",
+        "Electronic packaging",
+        "Electronics"
+      ],
+      "authors": [
+        "Zahra Hashemi",
+        "Maysam Gholampour",
+        "Ramin Jalali",
+        "Ming Wu",
+        "Chuan Yi Liang",
+        "Chi‐Chuan Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7166344796",
+      "title": "Experimental and numerical investigation of air flat-plate film cooling with mist injections for different film hole shapes",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-06-27",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111135",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111135",
+      "cited_by_count": 0,
+      "keywords": [
+        "Mist",
+        "Turbulence",
+        "Adiabatic process",
+        "Vortex",
+        "Cylinder",
+        "Heat transfer",
+        "Flow (mathematics)",
+        "Thermal"
+      ],
+      "authors": [
+        "Dehai Kong",
+        "W Chen",
+        "Wen Guo",
+        "Song Liu",
+        "Q Wang",
+        "Cheng Sun",
+        "Yuting Liao",
+        "Cunliang Liu"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 9985,
+    "total": 10024,
     "journals": 275,
-    "last_update": "2026-06-28 04:41:13",
-    "reactor-thermal_count": 816,
-    "heat-transfer_count": 1533,
+    "last_update": "2026-06-29 04:49:55",
+    "reactor-thermal_count": 823,
+    "heat-transfer_count": 1565,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 868
+        "count": 894
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 384
-      },
-      {
-        "name": "International Journal of Thermal Sciences",
-        "count": 214
+        "count": 388
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 213
+        "count": 218
+      },
+      {
+        "name": "International Journal of Thermal Sciences",
+        "count": 216
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 203
+        "count": 204
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 127
+        "count": 128
       },
       {
         "name": "Science",
@@ -258264,16 +259290,12 @@
     ],
     "trend": [
       {
-        "date": "2026-05-30",
-        "count": 21
-      },
-      {
         "date": "2026-05-31",
         "count": 6
       },
       {
         "date": "2026-06-01",
-        "count": 211
+        "count": 212
       },
       {
         "date": "2026-06-02",
@@ -258349,7 +259371,7 @@
       },
       {
         "date": "2026-06-20",
-        "count": 29
+        "count": 33
       },
       {
         "date": "2026-06-21",
@@ -258365,22 +259387,26 @@
       },
       {
         "date": "2026-06-24",
-        "count": 28
+        "count": 32
       },
       {
         "date": "2026-06-25",
-        "count": 10
+        "count": 23
       },
       {
         "date": "2026-06-26",
-        "count": 17
+        "count": 22
       },
       {
         "date": "2026-06-27",
-        "count": 4
+        "count": 11
       },
       {
         "date": "2026-06-28",
+        "count": 5
+      },
+      {
+        "date": "2026-06-29",
         "count": 0
       }
     ]
@@ -258599,5 +259625,5 @@
       }
     ]
   },
-  "export_time": "2026-06-28T04:41:13.509607"
+  "export_time": "2026-06-29T04:49:55.279348"
 }
