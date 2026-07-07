@@ -264951,5 +264951,184 @@
       "Jianhua Xiang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167423175",
+    "title": "Sampling Based Methods for Estimating Functional Failure Probability of Passive Safety Systems",
+    "abstract": "Passive Safety Systems (PSSs) in nuclear power plants, although characterized by lower driving forces than active safety systems, can achieve high reliability due to their operation mechanisms being based on natural phenomena, which are inherently less prone to failure. However, because the operation of PSSs relies on complex Thermal–Hydraulic (TH) phenomena, they may fail to satisfy the required performance under various conditions, leading to functional failures caused by the combined effects of TH behavior and operating conditions even in the absence of mechanical component failures. Therefore, the reliability quantification of PSSs should consider both mechanical failure probability and functional failure probability. The latter typically requires repeated TH analyses and entails a significant computational cost. To address this challenge, the present study improves computational efficiency by simplifying input–output calculations based on the independence of variables and the principle of superposition. Although these definitions may cause discrepancies between actual system behavior and the approximated results during the sampling process, a conservative approach was adopted to compensate for potential errors. In particular, noting that recently designed Small Modular Reactors (SMRs) predominantly employ PSSs as their primary safety features, this study analyzes a model based on an SMR design incorporating such PSSs.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104543",
+    "doi": "https://doi.org/10.1016/j.net.2026.104543",
+    "cited_by_count": 0,
+    "keywords": [
+      "Reliability (semiconductor)",
+      "Modular design",
+      "Independence (probability theory)",
+      "Component (thermodynamics)",
+      "Sampling (signal processing)",
+      "System safety",
+      "Power (physics)",
+      "Random variable"
+    ],
+    "authors": [
+      "Y M Lee",
+      "Gyunyoung Heo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167435548",
+    "title": "Transient analysis of electrowetting-on-dielectric droplet gas-liquid interface oscillations and evaporation under alternating current",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132231",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132231",
+    "cited_by_count": 0,
+    "keywords": [
+      "Transient (computer programming)",
+      "Evaporation",
+      "Alternating current",
+      "Interface (matter)",
+      "Transient analysis",
+      "Current (fluid)"
+    ],
+    "authors": [
+      "Weifeng He",
+      "Jirong Zhang",
+      "Longdi Ni",
+      "Dong Han"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167420622",
+    "title": "Pore-scale investigation of transport properties and two-phase flow in compressed gas diffusion layers using an integrated FEM-CFD framework",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132250",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132250",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flow (mathematics)",
+      "Diffusion",
+      "Compressed natural gas",
+      "Compression (physics)",
+      "Two-phase flow"
+    ],
+    "authors": [
+      "Zhuo Zhang",
+      "Wei-Dong Bao",
+      "Hong-Bing Quan",
+      "Eunseop Yeom",
+      "L F Chen",
+      "Wen-Quan Tao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167423868",
+    "title": "Magnetic-regulated flow instability and heat transfer characteristics of composite phase change materials under centrifugal force in microgravity condition",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132246",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132246",
+    "cited_by_count": 0,
+    "keywords": [
+      "Buoyancy",
+      "Centrifugal force",
+      "Heat transfer",
+      "Marangoni effect",
+      "Convection",
+      "Magnetic field",
+      "Convective heat transfer",
+      "Natural convection"
+    ],
+    "authors": [
+      "Weiwei Li",
+      "Yijie Zhuang",
+      "Pan Jia",
+      "Wangfang Du"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167419047",
+    "title": "An integrated waste heat recovery and heat pump system for sustainable hydrothermal carbonization of high-moisture organic waste",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132213",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132213",
+    "cited_by_count": 0,
+    "keywords": [
+      "Waste heat recovery unit",
+      "Heat pump",
+      "Hydrothermal carbonization",
+      "Waste heat",
+      "Carbonization",
+      "Biodegradable waste"
+    ],
+    "authors": [
+      "Ruikun Wang",
+      "Tao Yang",
+      "Jinli Ren",
+      "Qianqian Yin",
+      "Peng Gao",
+      "Jiandong Jia",
+      "Zhenghui Zhao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167430532",
+    "title": "Thermal performance and mechanism of PCM-integrated cross-flow microchannel cold plates",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132226",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132226",
+    "cited_by_count": 0,
+    "keywords": [
+      "Microchannel",
+      "Mechanism (biology)",
+      "Thermal",
+      "Thermal management of electronic devices and systems",
+      "Thermal resistance"
+    ],
+    "authors": [
+      "Xiaotong Ding",
+      "Yu Wang",
+      "Kainaat Jamil",
+      "Xiaolei Yuan"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7166700606",
+    "title": "Dynamic response of a single-tube falling-film distillation column thermally integrated with a biphasic thermosyphon: Pilot-scale experiments and data-driven modeling",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-06-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132197",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132197",
+    "cited_by_count": 0,
+    "keywords": [
+      "Column (typography)",
+      "Fractionating column",
+      "Distillation",
+      "Vacuum distillation"
+    ],
+    "authors": [
+      "José Luiz Francisco Alves",
+      "Eduardo Valdemar Silva",
+      "Guilherme Davi Mumbach",
+      "Ricardo Antonio Francisco Machado",
+      "Cintia Marangoni"
+    ],
+    "category": "heat-transfer"
   }
 ]
