@@ -266119,5 +266119,549 @@
       "Ya-Ling He"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167583792",
+    "title": "Numerical parametric study on local dry zone in underwater laser cutting for thick steel with supersonic assist gas from a dual nozzle",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112618",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112618",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nozzle",
+      "Supersonic speed",
+      "Underwater",
+      "Jet (fluid)",
+      "Laser cutting",
+      "Shock (circulatory)",
+      "Laser",
+      "Turbulence",
+      "Front (military)"
+    ],
+    "authors": [
+      "Hakseon Lee",
+      "Young Keon Gong",
+      "오창종",
+      "Sang Hyuk Nam",
+      "Seongwon Kang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167615435",
+    "title": "Study on deterministic envelope of crack instability in key parts of small reactor pressure vessels based on coupled dynamic load spectra",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112621",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112621",
+    "cited_by_count": 0,
+    "keywords": [
+      "Envelope (radar)",
+      "Instability",
+      "Inertia",
+      "Internal pressure",
+      "Pressure vessel",
+      "Welding",
+      "Fracture mechanics",
+      "Fracture (geology)",
+      "Reactor pressure vessel"
+    ],
+    "authors": [
+      "Jilong Guo",
+      "Xinwen Zhao",
+      "Y L Zhang",
+      "Meng Jiao",
+      "Kang Zhu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167627246",
+    "title": "First-principles study of cesium and strontium adsorption on U3Si2 surfaces",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106519",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106519",
+    "cited_by_count": 0,
+    "keywords": [
+      "Strontium",
+      "Caesium",
+      "Adsorption",
+      "Analytical Chemistry (journal)",
+      "Alkali metal"
+    ],
+    "authors": [
+      "Zhongyi Zou",
+      "Aixing Wang",
+      "Qianglin Wei",
+      "Wenyi Wang",
+      "Lijing Huang",
+      "Chuan Li"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167575281",
+    "title": "A Study on the Dependence of Neutron Emission on Plasma Performance Following the Transition from Graphite to Tungsten Divertor in KSTAR",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104551",
+    "doi": "https://doi.org/10.1016/j.net.2026.104551",
+    "cited_by_count": 0,
+    "keywords": [
+      "Divertor",
+      "KSTAR",
+      "Graphite",
+      "Tungsten",
+      "Plasma",
+      "Neutron"
+    ],
+    "authors": [
+      "Jong-Gu. Kwak",
+      "M.H. Woo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7166660579",
+    "title": "Lightweight design of an SNF disposal canister copper lid via topology optimization with stress linearization",
+    "abstract": "The development of a Korean-type spent nuclear fuel (SNF) disposal canister based on the KBS-3 concept faces a challenge due to excessive copper consumption, as copper is a strategic material for corrosion resistance in deep geological environments. Since the lid accounts for a substantial portion of the copper used in the canister, a lightweight design is essential. However, ensuring structural integrity is challenging because stress singularities occur at sharp corners under handling loads. This study proposes a systematic two-step procedure combining density-based topology optimization and ASME Section VIII stress linearization to reduce the mass of the copper lid while ensuring structural safety. First, a baseline stress linearization was performed under a 3g lifting load to establish an allowable stress criterion independent of numerical singularities. Using this criterion as a post-optimization validation guide, lightweight candidate geometries were generated via compliance-minimization topology optimization and subsequently verified. As a result, the 48% material volume fraction model was selected as a suitable candidate design satisfying the allowable primary stress limits. This study presents a lightweight conceptual model that achieves a 52% reduction in copper mass under handling loads and suggests the potential for future implementation using metal additive manufacturing.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-06-30",
+    "url": "https://doi.org/10.1016/j.net.2026.104535",
+    "doi": "https://doi.org/10.1016/j.net.2026.104535",
+    "cited_by_count": 0,
+    "keywords": [
+      "Topology optimization",
+      "Linearization",
+      "Stress (linguistics)",
+      "Topology (electrical circuits)",
+      "Copper"
+    ],
+    "authors": [
+      "Chang‐Yeong Lee",
+      "Seok Yoon",
+      "Gil-Eon Jeong"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167589247",
+    "title": "Study on the Flow and Mechanical Properties of the Control Rod Guide Tube Assembly",
+    "abstract": "",
+    "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.jandt.2026.07.002",
+    "doi": "https://doi.org/10.1016/j.jandt.2026.07.002",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flow (mathematics)",
+      "Tube (container)",
+      "Deformation (meteorology)",
+      "Control system"
+    ],
+    "authors": [
+      "Jianbang Wu",
+      "Yu Zhao",
+      "Wei Zhang",
+      "Wenyu Mao",
+      "Xiaoxuan Kang",
+      "Yicheng Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167573582",
+    "title": "A one-dimensional semi-theoretical solution for phase-change transpiration cooling in porous media",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129236",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129236",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Heat flux",
+      "Mass flux",
+      "Porous medium",
+      "Mass flow rate",
+      "Transpiration",
+      "Flow (mathematics)",
+      "Thermal"
+    ],
+    "authors": [
+      "Wanting Gao",
+      "Zhenxun Gao",
+      "J Y Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167613467",
+    "title": "Graph-theory-based flow path optimization in baffled TPMS heat exchangers",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132134",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132134",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat exchanger",
+      "Flow (mathematics)",
+      "Path (computing)",
+      "Heat transfer",
+      "Heat flow",
+      "Plate fin heat exchanger"
+    ],
+    "authors": [
+      "Xin Yan",
+      "Ruonan Wang",
+      "Xiaowei Duan",
+      "Yonghao Liu",
+      "Weizheng Zhang",
+      "Bingteng Sun",
+      "Qiang Du",
+      "Lin Lü"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167644921",
+    "title": "Performance analysis and operational optimization of porous ceramic interfacial evaporators in solar-driven seawater desalination",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132255",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132255",
+    "cited_by_count": 0,
+    "keywords": [
+      "Seawater",
+      "Desalination",
+      "Porosity",
+      "Water desalination",
+      "Evaporator"
+    ],
+    "authors": [
+      "Can Chen",
+      "Zheng Zhang",
+      "Zhicheng Zhu",
+      "Jiguang Huang",
+      "Heng Zhang",
+      "Dan Gao",
+      "H Z Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167574672",
+    "title": "Numerical investigation on a multi-objective topology optimization for a liquid cold plate design reflecting thermal-hydraulic performance in high-power pouch-type lithium-ion batteries",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132267",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132267",
+    "cited_by_count": 0,
+    "keywords": [
+      "Topology optimization",
+      "Thermal",
+      "Heat generation",
+      "Parametric statistics",
+      "Pressure drop",
+      "Reynolds number",
+      "Computer cooling",
+      "Topology (electrical circuits)"
+    ],
+    "authors": [
+      "Hyun Jin Kwon",
+      "Young Woo Son",
+      "Sein Oh",
+      "Seok-Teak Yun",
+      "Jinwoo Kim"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167598744",
+    "title": "Dynamic event-triggered multi-agent dispatch for hybrid electrothermal systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132236",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132236",
+    "cited_by_count": 0,
+    "keywords": [
+      "Process (computing)",
+      "Control theory (sociology)",
+      "Hybrid system"
+    ],
+    "authors": [
+      "Xiaojuan Lu",
+      "Y Zhang",
+      "Duojin Fan",
+      "X F Yu",
+      "Yiheng Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167609040",
+    "title": "Enhancement of combustion and propulsion performance in a wavy-walled axisymmetric scramjet",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132275",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132275",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scramjet",
+      "Propulsion",
+      "Combustion",
+      "Rotational symmetry",
+      "Combustor"
+    ],
+    "authors": [
+      "C H Wang",
+      "Suodangran Li",
+      "Yu Yuan",
+      "Dapeng Xiong",
+      "Yongchao Sun",
+      "Zhenyu Hu",
+      "Zhou Z",
+      "Qi Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167642367",
+    "title": "Comparative thermal and hydraulic performance of Type-22 panel radiators under continuous and pulsating flow",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132288",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132288",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Flow (mathematics)",
+      "Thermal hydraulics",
+      "Heat flow",
+      "Flat panel"
+    ],
+    "authors": [
+      "Hüseyin Köksal",
+      "Mehmet Akif Ceviz",
+      "Burak Muratçobanoğlu",
+      "Emre Mandev"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167639636",
+    "title": "A hybrid modeling scheme and dual-layer GPC design for coal-fired power plant under full operating conditions",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132273",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132273",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scheme (mathematics)",
+      "Power (physics)",
+      "Power station",
+      "Hybrid power",
+      "Control theory (sociology)",
+      "Component (thermodynamics)"
+    ],
+    "authors": [
+      "Yan Xie",
+      "Haoyang Yu",
+      "Jiyu Chen",
+      "Qinghua Wang",
+      "Yuguang Niu",
+      "Deliang Zeng",
+      "J X Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167635762",
+    "title": "Bridging additive manufacturing and radiative cooling: 3D-printed thermoplastic polyurethane emitters for practical deployment",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132271",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132271",
+    "cited_by_count": 0,
+    "keywords": [
+      "Bridging (networking)",
+      "Software deployment",
+      "Thermoplastic polyurethane",
+      "Polyurethane",
+      "Thermoplastic",
+      "Radiative transfer"
+    ],
+    "authors": [
+      "Muhammad I. Rashad",
+      "Lama A. Elsdeek",
+      "M Zaytoun Mostafa",
+      "Mohamed M. Elsabahy",
+      "Shehab Ahmed",
+      "Ramy Rabie"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7166720826",
+    "title": "Rotation-induced drag suppression and thermal response around a pair of porous-wrapped cylinders",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-06-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132200",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132200",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Drag",
+      "Drag coefficient",
+      "Cylinder",
+      "Thermal resistance"
+    ],
+    "authors": [
+      "Saqib Jamshed",
+      "Hardikkumar Tulshibhai Mavani",
+      "Naveen Tiwari"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167636879",
+    "title": "Photovoltaic panel thermal management utilizing solid-solid phase change material and aluminum fins",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111160",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111160",
+    "cited_by_count": 0,
+    "keywords": [
+      "Aluminium",
+      "Phase change",
+      "Photovoltaic system",
+      "Phase-change material",
+      "Thermal management of electronic devices and systems",
+      "Thermal",
+      "Phase (matter)"
+    ],
+    "authors": [
+      "Çetin Akçay",
+      "Özgür Bayer",
+      "İsmail Solmaz"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167595726",
+    "title": "Research on the heat transfer and flow characteristics of lithium-ion battery module with a multi-channel air-cooled structure",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111151",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111151",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Flow (mathematics)",
+      "Battery (electricity)",
+      "Heat flow",
+      "Heat transfer coefficient",
+      "Transfer (computing)"
+    ],
+    "authors": [
+      "Yating Mei",
+      "Guofu Li",
+      "Kaidi Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167641961",
+    "title": "Physics-informed neural networks for an advection–diffusion model applied to a brake disc with time-dependent speed and heat flux",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111137",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111137",
+    "cited_by_count": 0,
+    "keywords": [
+      "Disc brake",
+      "Artificial neural network",
+      "Brake",
+      "Heat flux",
+      "Flux (metallurgy)"
+    ],
+    "authors": [
+      "Mohamed Salim Bidou",
+      "A. Dehmani"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167592534",
+    "title": "Thermal response of crosslinked encapsulated phase change materials in an aqueous environment: A molecular dynamics study",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111155",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111155",
+    "cited_by_count": 0,
+    "keywords": [
+      "Aqueous solution",
+      "Molecular dynamics",
+      "Phase change",
+      "Thermal",
+      "Phase-change material",
+      "Phase (matter)",
+      "Dynamics (music)"
+    ],
+    "authors": [
+      "Kai Qi",
+      "Guangtong Zhang",
+      "Chenzhen Liu",
+      "Xinjian Liu",
+      "Zhonghao Rao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167608724",
+    "title": "Temperature-dependent diffusion properties of three tropical wood species: Experimental measurements and numerical modeling",
+    "abstract": "Wood is a hygroscopic material whose moisture transport behavior strongly influences dimensional stability, structural performance, and long-term durability in construction applications. Temperature also plays a crucial role in the diffusion process, as it alters the material properties and affects moisture migration mechanisms. Therefore, a thorough understanding of these coupled phenomena is essential for the reliable design and optimization of timber structural elements. In this context, the aim of this paper is to investigate the moisture diffusion properties of three tropical wood species, namely Ayous ( Triplochiton scleroxylon K. Schum.), Iatandza ( Albizia ferruginea Benth.), and Osanga ( Pteleopsis hylodendron Mildbr.) in different anisotropic planes and to evaluate the impact of heat treatments at 160 ∘ C and 200 ∘ C on these parameters. To this end, experiments were carried out using a low-cost diffusion setup under controlled hygrometric conditions, and moisture uptake data were analyzed using both an analytical approximation and an inverse numerical identification of Fick’s law. The results show strong hygroscopic anisotropy, with moisture diffusion occurring more rapidly along the longitudinal direction than in the radial-tangential plane. The diffusion coefficient generally increased with temperature, while the surface emission coefficient showed a more complex and less regular evolution depending on species, thickness, and thermal state. Among the investigated treatments, 160 ∘ C provides the best overall compromise for practical use, whereas 200 ∘ C leads to stronger modification of moisture transport behavior and a greater reduction in hygroscopicity. The results provide insight into the hygroscopic behavior of thermal-treated tropical woods and contribute to a better assessment of their dimensional stability and durability for timber construction applications.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-07",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111124",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111124",
+    "cited_by_count": 0,
+    "keywords": [
+      "Moisture",
+      "Diffusion",
+      "Anisotropy",
+      "Thermal diffusivity",
+      "Durability",
+      "Thermal"
+    ],
+    "authors": [
+      "Nouemsi Soubgui Epiphanie",
+      "Loïc Chrislin Nguedjio",
+      "Séverin Keumeka Jiofack",
+      "Elie Kamseu",
+      "Pamphile Ntanga",
+      "Mamba Mpelé",
+      "Rostand Moutou Pitti"
+    ],
+    "category": "heat-transfer"
   }
 ]
