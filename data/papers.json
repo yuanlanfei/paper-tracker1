@@ -266663,5 +266663,522 @@
       "Rostand Moutou Pitti"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167671541",
+    "title": "Autonomous in-process inspection of plasma cutting for nuclear decommissioning using air-coupled ultrasonic A0 Lamb wave",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115085",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115085",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear decommissioning",
+      "Lamb waves",
+      "Ultrasonic sensor",
+      "Ultrasonic testing",
+      "Level measurement"
+    ],
+    "authors": [
+      "James Christian Anderson",
+      "W. Galbraith",
+      "Charles MacLeod",
+      "Charalampous Loukas",
+      "Keiran Agnew",
+      "Aasim Mohamed",
+      "Joshua Price"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167714555",
+    "title": "Quadrature based dynamic event tree construction using FMU-driven piecewise deterministic Markov process for dynamic probabilistic risk assessment",
+    "abstract": "Dynamic Probabilistic Risk Assessment (DPRA) methods are increasingly important to evaluate nuclear plant systems characterized by strong coupling between continuous physical dynamics, digital control logic, and stochastic component failures. Conventional sampling-based approaches, including Monte Carlo and next-event Piecewise Deterministic Markov Process (PDMP) methods, often require a prohibitive number of system simulations to resolve rare, time-dependent failure sequences. This work introduces a Quadrature based Dynamic Event Tree (QDET) framework that deterministically constructs weighted event-tree trajectories by discretizing hazard space rather than sampling failure times. The method preserves deterministic system evolution by coupling to a Functional Mock-up Unit (FMU) representation of the plant and control system and uses snapshot-based state restoration to avoid redundant simulations. The approach is formulated within a PDMP framework and enforces strict probability mass conservation while controlling combinatorial tree growth through quadrature, pruning, and cause ranking. The QDET method is validated against analytical solutions and Monte Carlo results using cold-standby and time-dependent K-out-of-N examples, demonstrating accurate probability estimation with orders-of-magnitude fewer system evaluations. The framework is further applied to the NRC Digital Feedwater Control System (DFWCS) benchmark under a realistic 24-hour power maneuver. The results show order-of-magnitude agreement with published benchmark failure probabilities and identify physically interpretable dominant risk contributors for both high- and low-level failure modes. These results demonstrate that QDET provides an efficient, deterministic, and scalable DPRA methodology suitable for high-fidelity digital control systems and advanced reactor applications.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112620",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112620",
+    "cited_by_count": 0,
+    "keywords": [
+      "Event tree",
+      "Importance sampling",
+      "Probabilistic logic",
+      "Monte Carlo method",
+      "Piecewise",
+      "Benchmark (surveying)",
+      "Event (particle physics)",
+      "Uncertainty quantification",
+      "Particle filter"
+    ],
+    "authors": [
+      "Mohamed Elhareef",
+      "Man‐Sung Yim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167662013",
+    "title": "Molten Salt Contaminant Detection Part I: Feature Selection on Cyclic-Voltammetry Data for Digital Asset Management",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2678100",
+    "doi": "https://doi.org/10.1080/00295450.2026.2678100",
+    "cited_by_count": 0,
+    "keywords": [
+      "Selection (genetic algorithm)",
+      "Feature (linguistics)",
+      "Feature selection",
+      "Salt (chemistry)",
+      "Asset (computer security)",
+      "Molten salt"
+    ],
+    "authors": [
+      "Ramon K. Yoshiura",
+      "Guoping Cao",
+      "Aditya Moudgal",
+      "Dylan McDowell",
+      "Takanori Kajihara",
+      "Omobolade A. Odedoyin"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167697805",
+    "title": "Developing a Monte Carlo–Based Fault Tree Quantification Module for SAPHIRE Targeting Seismic Probabilistic Risk Assessments",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2672881",
+    "doi": "https://doi.org/10.1080/00295450.2026.2672881",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fault tree analysis",
+      "Probabilistic logic",
+      "Monte Carlo method",
+      "Uncertainty quantification",
+      "Probabilistic risk assessment",
+      "Tree (set theory)"
+    ],
+    "authors": [
+      "Kotaro Kubo",
+      "Keita Fujiwara",
+      "Ken Muramatsu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167728991",
+    "title": "STANDARDS Capability for Expedient Calculations of Used Nuclear Fuel Storage System and Transportation Package Dose Rates Using the On-the-Fly Shielding Analysis Method",
+    "abstract": "The dose rates for used nuclear fuel storage systems and transportation packages are typically calculated using three-dimensional Monte Carlo (MC) computer codes such as Monte Carlo N-Particle (MCNP) or Standardized Computer Analyses for Licensing Evaluation (SCALE)/Monaco with Automated Variance Reduction using Importance Calculations (MAVRIC). As these are heavily shielded deep-penetration problems, the MC calculations require a significant number of particle histories to produce statistically acceptable estimates for the external dose rates. Even with the variance reduction techniques available with these programs, the runtimes for a single calculation often take days to achieve acceptably low statistical uncertainties. The “on-the-fly” method is being developed for the Storage, Transportation and Disposal Analysis Resource and Data System (STANDARDS) code system. It is named “on-the-fly” to describe how dose rate calculations can be performed quickly, reducing runtimes of days to just minutes. This is achieved by performing the MC calculations ahead of time on a per-particle and per-particle-energy basis for each axial burnup zone within each assembly location for many locations of interest around a specific spent nuclear fuel (SNF) storage system or transportation package design. Once the loading of a system or package is determined, the radiation source terms for gamma rays and neutrons emitted by the irradiated fuel, as well as for 60Co in the activated fuel assembly hardware, are calculated using the Transport Rigor Implemented with Time-dependent Operation for Neutronic depletion (TRITON)/Oak Ridge Isotope GENeration (ORIGEN) Assembly Isotopics (ORIGAMI) codes in the SCALE code system. The source term strength and spectra for each assembly are used with the on-the-fly libraries to quickly calculate the dose rate of the SNF storage system or transportation package. Although this method consists of a significant effort to generate libraries ahead of time, it results in the ability to save significant time when a specific system or loading pattern needs to be analyzed in the future. This paper presents the implementation of on-the-fly libraries into STANDARDS.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2678773",
+    "doi": "https://doi.org/10.1080/00295450.2026.2678773",
+    "cited_by_count": 0,
+    "keywords": [
+      "Burnup",
+      "Oak Ridge National Laboratory",
+      "Monte Carlo method",
+      "Variance reduction",
+      "Spent nuclear fuel",
+      "Neutron transport",
+      "Electromagnetic shielding",
+      "Nuclear data",
+      "Reduction (mathematics)"
+    ],
+    "authors": [
+      "Nicholas Kucinski",
+      "Georgeta Radulescu",
+      "Kaushik Banerjee"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167711152",
+    "title": "Stabilization of Research Reactor Spent Nuclear Fuels: Fuel Types and Oxidation in Air",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2675131",
+    "doi": "https://doi.org/10.1080/00295450.2026.2675131",
+    "cited_by_count": 0,
+    "keywords": [
+      "Spent fuel pool",
+      "Spent nuclear fuel",
+      "Nuclear fuel",
+      "Nuclear reactor core",
+      "Nuclear power",
+      "Nuclear reactor"
+    ],
+    "authors": [
+      "Anil Prasad",
+      "Raymond Dickson",
+      "James Crigger",
+      "Aaron Barry",
+      "E. Geiger",
+      "Madalena Spencer",
+      "A. Bergeron",
+      "Kaylee Rich",
+      "Taylor Spengen",
+      "Avik Bakshi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167707359",
+    "title": "United States Nuclear Power Reactor Used Nuclear Fuel Database and Applications",
+    "abstract": "The U.S. Department of Energy develops and maintains the Unified Database (UDB) within STANDARDS. The UDB serves as the foundational data infrastructure for managing the United States’ used nuclear fuel inventory of 329 237 discharged assemblies totaling 95 190 metric tons of heavy metal. The database organizes this inventory through approximately 200 interconnected tables. The schema is structured into eight primary attribute categories, supporting integrated analyses across storage, transportation, and disposal domains. Data enters the UDB through the GC-859 Nuclear Fuel Data Survey. The survey transitioned to web-based collection in 2023, improving data quality through real-time validation. The UDB enables automated generation of input files for nuclear analyses, reducing preparation time while maintaining traceability. Applications include national inventory reporting, Certificate of Compliance assessments, and facility optimization. The database distribution model balances accessibility with security requirements for federal agencies, national laboratories, and research organizations. The UDB provides essential data infrastructure as used fuel management transitions from site-specific to integrated national campaigns.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2678102",
+    "doi": "https://doi.org/10.1080/00295450.2026.2678102",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear fuel",
+      "Nuclear data",
+      "Nuclear power",
+      "Data quality",
+      "Certificate",
+      "Nuclear material",
+      "Spent nuclear fuel",
+      "Data collection"
+    ],
+    "authors": [
+      "Peter Stefanovic",
+      "Kaushik Banerjee",
+      "Cole Hudson",
+      "Paul Miller"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167708944",
+    "title": "Aqueous Dissolution Characteristics and Off-Gas of U-10Mo Scrap Material for Uranium Recovery",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2672845",
+    "doi": "https://doi.org/10.1080/00295450.2026.2672845",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scrap",
+      "Uranium",
+      "Dissolution",
+      "Aqueous solution",
+      "Leaching (pedology)",
+      "Uranium oxide"
+    ],
+    "authors": [
+      "Jarrod M. Gogolski",
+      "William Daniel",
+      "Tracy Rudisill",
+      "Patrick O’Rourke",
+      "Lisa Ward",
+      "Andrew Fellinger",
+      "Catherine Housley"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167685080",
+    "title": "Stepwise Uncertainty Analysis Methodology: First Insights",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00295450.2026.2692286",
+    "doi": "https://doi.org/10.1080/00295450.2026.2692286",
+    "cited_by_count": 0,
+    "keywords": [
+      "Uncertainty analysis",
+      "Uncertainty quantification",
+      "Sensitivity analysis",
+      "Propagation of uncertainty",
+      "Measurement uncertainty"
+    ],
+    "authors": [
+      "Rafael Bocanegra",
+      "Víctor Martínez-Quiroga",
+      "Marina Pérez-Ferragut"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167687454",
+    "title": "Fractional lagrangian modeling of non-Fickian radionuclide transport in heterogeneous geological media for Nuclear waste repository safety",
+    "abstract": "The ability to accurately predict long-term radionuclide migration represents a key challenge for the safety assessment of the geological disposal of nuclear waste. The conventional transport models have successfully reproduced radionuclide migration in many repository studies. These models used the processes such as matrix diffusion, sorption, and fracture – matrix interactions. Anomalous transport behavior observed in some heterogeneous geological systems has motivated the exploration of alternative modeling frameworks. This study develops a fractional-order Lagrangian framework to examine the potential influence of sub-diffusion and super-diffusion on radionuclide plume evolution. The framework combines fractional advection-dispersion theory and particle-tracking modeling to yield mechanistic insights into Anomalous Transport. Example results show that memory effects lead to longer breakthrough curves, earlier arrivals than previously anticipated, and longer plumes tailing. Similarly, risk analysis showed that fractional dynamics also led to increased probabilities of exposure within the environment on longer time frames than classical models. Overall, the results indicate that memory effects in fractional dynamics lead to earlier radionuclide arrival times and longer tailing effects compared to classical behavior. As a result, environmental exposure is more probable over longer timescales. This study highlights that the safety assessment of deep geological repositories should account for memory effects. Adopting this approach is essential for creating a rational, defensible, and scientifically credible protection strategy to protect human health and the environment over the millennia following the disposal of nuclear waste. The presented approach offers a complementary framework for investigating anomalous transport behavior and memory effects that may not be explicitly represented in conventional formulations.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1080/00223131.2026.2701388",
+    "doi": "https://doi.org/10.1080/00223131.2026.2701388",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radioactive waste",
+      "Radionuclide",
+      "Plume",
+      "Spent nuclear fuel",
+      "Yield (engineering)",
+      "Lead (geology)",
+      "Matrix (chemical analysis)",
+      "Lagrangian"
+    ],
+    "authors": [
+      "Zubair Muhammad",
+      "Muhammad Aamir"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7166741232",
+    "title": "Radioisotope identification under spectral variability using convolutional neural network with structured 2-D transformed gamma spectra",
+    "abstract": ": To achieve reliable radioisotope identification (RIID) under field-realistic spectral variability, we develop a convolutional neural network (CNN)-based RIID framework that reshapes one-dimensional (1-D) CsI(Tl) spectra into a structured two-dimensional (2-D) representation and applies 2-D convolutional structure to expand the effective receptive field and capture both local and global spectral correlations. Using experimentally measured single-isotope spectra, we synthesize 11,928 composite spectra across nine classes (eight RIs plus background), and augment for spectral variability via temperature-induced gain shifts (≈0–35 °C) and total-count ranges (1,000–200,000). We train paired models on 1-D versus reshaped 2-D inputs for multi-output regression of class contributions and evaluate them using mean squared error (MSE), mean magnitude of relative error (MMRE). Under these field-realistic conditions, the model trained on reshaped 2-D inputs (2-D model) outperforms its 1-D counterpart (1-D model), indicating not only higher identification accuracy but also enhanced robustness against spectral variability. Integrated Gradients analysis, validated by a model parameter randomization sanity check, confirms that both models rely on physically meaningful photopeaks; however, the 2-D model more systematically incorporates non-target spectral features as negative evidence against the target RI. Additional analyses demonstrate that the performance gain arises from both the two-dimensional input reshaping and the multi-directional convolutional operations that exploit it, enabling effective joint modeling of local spectral features and global inter-RI dependencies under the unity-sum constraint.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-06-30",
+    "url": "https://doi.org/10.1016/j.net.2026.104532",
+    "doi": "https://doi.org/10.1016/j.net.2026.104532",
+    "cited_by_count": 0,
+    "keywords": [
+      "Convolutional neural network",
+      "Robustness (evolution)",
+      "Pattern recognition (psychology)",
+      "Mean squared error",
+      "Representation (politics)",
+      "Identification (biology)",
+      "Spectral line",
+      "Spectral shape analysis"
+    ],
+    "authors": [
+      "Yong Hyun Kim",
+      "Chan Joong Kim",
+      "양한철",
+      "Dong Geon Kim",
+      "Yong Kyun Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7167713059",
+    "title": "Numerical study of fouling effects in asymmetric flow field-flow fractionation for nanoparticle separation",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129251",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129251",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fouling",
+      "Nanoparticle",
+      "Fractionation",
+      "Flow (mathematics)",
+      "Separation (statistics)",
+      "Ultrafiltration (renal)"
+    ],
+    "authors": [
+      "Yixin Chen",
+      "Yue Wang",
+      "Fengzhou Fang",
+      "Nan Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167669752",
+    "title": "Net heat-flux measurement method for passive radiative cooling materials with ambient self-tracking",
+    "abstract": "Passive Radiative Cooling (PRC) materials can efficiently dissipate thermal energy to outer space through the atmospheric window (8–14 µm), while reflecting most incident solar radiation, enabling sub-ambient cooling under direct sunlight. This work presents RAFT (Radiative Ambient-referenced Flux Testbed), a compact device for accurate outdoor PRC materials characterization. RAFT employs a heat flux meter to directly measure net heat flux, with the PRC sample mounted on the sensing surface and thermally coupled to an ambient-tracked reservoir via a compact fan-based convective heat exchanger integrated with heat pipes. Outdoor experiments demonstrated reliable ambient temperature tracking and accurate net heat flux measurements, which were further verified using an openly-released numerical model. Compared with conventional resistive heater-based outdoor setups, RAFT overcomes key limitations: it eliminates the need for feedback-control, shortens the measurement chain, reduces measurement noise when sample temperature approaches ambient, and enables quantification of both cooling and heating net fluxes with a total measurement uncertainty of ±1.8 W m -2 . Relative to liquid-flow-based systems, RAFT offers improved portability and avoids the complexities of fluid handling. The proposed setup provides a robust and practical framework for outdoor evaluation of PRC materials, addressing the current lack of standardized protocols for direct heat flux measurement.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132228",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132228",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat flux",
+      "Passive cooling",
+      "Heat transfer",
+      "Heat exchanger",
+      "Active cooling",
+      "Work (physics)",
+      "Radiative flux",
+      "Temperature measurement",
+      "Convection",
+      "Radiative cooling"
+    ],
+    "authors": [
+      "F. Bertiglia",
+      "Davide Forte",
+      "Giuseppina Lopardo",
+      "F. Girard",
+      "Matteo Fasano",
+      "Lorenzo Pattelli"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167711231",
+    "title": "Temperature-aware intelligent energy management for fuel-cell heavy-duty trucks in cold climates",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132233",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132233",
+    "cited_by_count": 0,
+    "keywords": [
+      "Truck",
+      "Energy management",
+      "Cold climate",
+      "Energy (signal processing)",
+      "Cold chain",
+      "Cold winter",
+      "Energy consumption"
+    ],
+    "authors": [
+      "Yuheng Jiang",
+      "Weichao Zhuang",
+      "Qun Wang",
+      "Huaiyu Wang",
+      "Fei Ju"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167706963",
+    "title": "Machine-learning based thermal comfort prediction and adaptive HVAC control in semi-arid smart buildings",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132263",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132263",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal comfort",
+      "HVAC",
+      "Building automation",
+      "Control (management)",
+      "Adaptive control",
+      "Air conditioning"
+    ],
+    "authors": [
+      "Rachid Kidari",
+      "Amine Tilioua"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167684579",
+    "title": "Experimental analysis of the heat transfer performance of trailing-edge cutback with rib-truncated configurations",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132286",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132286",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Nusselt number",
+      "Coolant",
+      "Heat flux",
+      "Heat transfer coefficient",
+      "Convection",
+      "Heat transfer enhancement"
+    ],
+    "authors": [
+      "Lin Ye",
+      "Xuyang Ji",
+      "Rong Huang",
+      "Mengjiao Han",
+      "Cunliang Liu",
+      "Tao Guo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167661400",
+    "title": "Performance enhancement of a domestic refrigerator integrating a rotary-baffle curved-channel electronic expansion valve and liquid-suction IHX",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132276",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132276",
+    "cited_by_count": 0,
+    "keywords": [
+      "Refrigerator car",
+      "Thermal expansion valve",
+      "Refrigerant",
+      "Gas compressor",
+      "Heat exchanger",
+      "Heat transfer",
+      "Refrigeration",
+      "Adaptability",
+      "Heat transfer enhancement"
+    ],
+    "authors": [
+      "Hengxuan Gao",
+      "Tongrui Xu",
+      "Siyuan Wu",
+      "Rijing Zhao",
+      "Dong Huang",
+      "Yikun Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167687960",
+    "title": "Mechanism and ignition-combustion characteristics of 0# diesel under the combined effects of high-intensity impact and ambient temperature",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111161",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111161",
+    "cited_by_count": 0,
+    "keywords": [
+      "Diesel fuel",
+      "Ignition system",
+      "Inert",
+      "Mechanism (biology)",
+      "Activation energy",
+      "Thermal",
+      "Shock wave",
+      "Shock (circulatory)",
+      "Battlefield"
+    ],
+    "authors": [
+      "Haoning Sun",
+      "Enling Tang",
+      "Huapeng Cui",
+      "Ruizhi Wang",
+      "Yafei Han",
+      "Chuang Chen",
+      "Mengzhou Chang",
+      "Kai Guo",
+      "Liping He"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167662257",
+    "title": "Identifying the spectral radiative properties of micro-porous materials based on transmittance/reflectance",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-08",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111162",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111162",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radiative transfer",
+      "Scattering",
+      "Transmittance",
+      "Opacity",
+      "Atmospheric radiative transfer codes",
+      "Molar absorptivity",
+      "Single-scattering albedo"
+    ],
+    "authors": [
+      "Wenqiang Gao",
+      "Yu Shi",
+      "Jiaqi Li",
+      "Qinglin Niu",
+      "Xin‐Lin Xia"
+    ],
+    "category": "heat-transfer"
   }
 ]
