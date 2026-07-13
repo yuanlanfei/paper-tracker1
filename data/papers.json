@@ -269523,5 +269523,450 @@
       "Adrien Toutant"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168034269",
+    "title": "Numerical investigation of single bubble evaporation in a continuously and uniformly heated liquid",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112636",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112636",
+    "cited_by_count": 0,
+    "keywords": [
+      "Evaporation",
+      "Bubble",
+      "Air bubble",
+      "Liquid bubble",
+      "Computer simulation"
+    ],
+    "authors": [
+      "Yue Wang",
+      "Zhuang Miao",
+      "Aoxiang Qin",
+      "Ruifeng Tian",
+      "Sichao Tan",
+      "Jiming Wen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7168033119",
+    "title": "Collision probability-based partial current discontinuity factor for mitigating multi-group equivalence effect in resonance self-shielding calculations",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112627",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112627",
+    "cited_by_count": 0,
+    "keywords": [
+      "Equivalence (formal languages)",
+      "Discontinuity (linguistics)",
+      "Resonance (particle physics)",
+      "Collision",
+      "Homogenization (climate)",
+      "Current (fluid)",
+      "Iterative method",
+      "Boundary (topology)"
+    ],
+    "authors": [
+      "Siyu Yi",
+      "ZG Liu",
+      "Liangzi Wang",
+      "Jiale Qi",
+      "Tianzhou Xie",
+      "Shengjie Qin",
+      "Qingming He"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7168027065",
+    "title": "Novel single crystalline Li2CaSiO4:Eu2+ high light yield scintillator for thermal neutron detection",
+    "abstract": "For the first time, Li 2 CaSiO 4 :Eu 2+ single crystalline scintillation material has been grown and evaluated for the scintillation properties. Samples are grown by high temperature solution-melt method; a mixture of LiF–LiCl is used as a solvent. Density of the material is measured to be 2.55 g/cm 3 . Samples demonstrate light output under neutron irradiation of 25000 ph/neutron, which is 4.3 times higher than commercial Ce-doped lithium glass GS20. Its effective scintillation decay constant is estimated to be 180 ns. These findings demonstrate that the obtained combination of the scintillation parameters, even for the first samples, makes the material highly promising for thermal neutron measurement and monitoring in the nuclear power industry.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104559",
+    "doi": "https://doi.org/10.1016/j.net.2026.104559",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scintillation",
+      "Scintillator",
+      "Neutron",
+      "Yield (engineering)",
+      "Neutron temperature",
+      "Irradiation",
+      "Thermal"
+    ],
+    "authors": [
+      "M. Korzhik",
+      "I. Komendo",
+      "Dmitry Vorontsov",
+      "Anna Zakharova",
+      "A. A. Konakov",
+      "S Senthamizh Raja",
+      "J. Heinrich Pierson",
+      "M. Arivanandhan",
+      "Ganapathy Sasikala",
+      "E. Borisevich",
+      "A. Bondarau",
+      "V. A. Kozhemyakin",
+      "Ilya Lagutskiy",
+      "Vitaly Mechinsky",
+      "Igor Avetissov"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7168030916",
+    "title": "Integration scenario of a distributed Traveling Wave Antenna in European DEMO",
+    "abstract": "A preliminary engineering feasibility study of the integration of a Traveling Wave Antenna (TWA) in European DEMO is presented. Unlike conventional ICRF antennas in vacuum vessel ports, the TWA is embedded in blanket segments, avoiding the dimensional constraints imposed by such ports. Thus, a substantial increase in the antenna surface area can be achieved, thereby reducing the surface power density. This is particularly important for larger machines like DEMO, where higher power levels are needed for plasma heating. This work presents initial assessments of how this integration affects tritium breeding, thermo-hydraulic performance, and remote-handling compatibility of the blanket. The analysis indicated a reduction in the blanket’s tritium breeding ratio by only 2%. Thermo-hydraulic analysis indicated that the maximum temperatures obtained remain below 550 ° C for a Eurofer based antenna, and the pressure drop in the antenna cooling circuit generally remains below 5 kPa. The structural checks of the antenna straps indicated compliance with the RCC-MRx design rules for monotonic damage modes under standard operating loads. The compatibility of the antenna with remote handling of the blanket segment was assessed and no fundamental incompatibility was identified for the present configuration. This early screening-level study aims to pave the way for further engineering refinement of the integration of TWA in DEMO.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104548",
+    "doi": "https://doi.org/10.1016/j.net.2026.104548",
+    "cited_by_count": 0,
+    "keywords": [
+      "Blanket",
+      "Antenna (radio)",
+      "Compatibility (geochemistry)",
+      "System integration",
+      "Electromagnetic compatibility",
+      "Pressure drop"
+    ],
+    "authors": [
+      "Amro Bader",
+      "Francisco A. Hernandez",
+      "R. Ragona",
+      "Guangming Zhou"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7166646097",
+    "title": "A design and experimental investigation of thermal characterization of a high-power lithium target under proton-beam-equivalent loading for accelerator-based boron neutron capture therapy (BNCT)",
+    "abstract": "In this study, the thermal management of a high-power lithium target utilized in accelerator-based boron neutron capture therapy (BNCT) is systematically investigated through numerical simulations and experimental validation. A modular-designed thermal experimental platform is developed, capable of operating under a wide range of flow rates, temperatures, and cooling capacities, ensuring precise control and repeatability for high-power target characterization. A 15.8 kW prototype target with a unit heat flux density of 1.58 MW/m 2 is constructed, employing microchannel-cooled copper substrates and electric heating rods to simulate proton beam heat deposition; the beam effect is represented by a beam-equivalent thermal load. Three microchannel configurations were evaluated using Computational Fluid Dynamics (CFD) models coupled with the SST k-ω turbulence model, validated against experimental data for Reynolds numbers spanning 560–18,700. The optimized 1 mm microchannel design demonstrated superior thermal performance, achieving 93.2% heat removal efficiency at 3.6 m/s coolant velocity while maintaining 28% lower pressure drop compared to conventional designs. Transient analysis of pulsed proton beam operation revealed attenuated temperature fluctuations in the lithium layer, attributable to efficient substrate cooling and thermal buffering by the anti-blistering layer. The numerical model is established in accordance with the thermal mock-up configuration, and the experimental measurements show good agreement with the CFD predictions, confirming the reliability of the proposed thermal management strategy. These findings establish a validated framework for thermal characterization of high-power BNCT targets, providing essential design guidelines and operational insights for managing extreme thermal loads in next generation neutron sources.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-06-30",
+    "url": "https://doi.org/10.1016/j.net.2026.104539",
+    "doi": "https://doi.org/10.1016/j.net.2026.104539",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Microchannel",
+      "Thermal",
+      "Neutron capture",
+      "Computational fluid dynamics",
+      "Lithium (medication)",
+      "Pressure drop",
+      "Computer cooling",
+      "Heat flux"
+    ],
+    "authors": [
+      "Jianfei Tong",
+      "J. C. Chen",
+      "Ruiqiang Zhang",
+      "Youlian Lu",
+      "Congju Yao",
+      "Bin Zhou",
+      "Tianjiao Liang",
+      "Shikui Dong"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7168033135",
+    "title": "Multi-objective optimization of flow and heat transfer characteristics of phase change material slurry in a twisted tape-enhanced tube based on machine learning and MOGWO algorithm",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129270",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129270",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Reynolds number",
+      "Nusselt number",
+      "Flow (mathematics)",
+      "Computational fluid dynamics",
+      "Slurry",
+      "Inverse",
+      "Perceptron"
+    ],
+    "authors": [
+      "Sha Mi",
+      "J P Liu",
+      "Lingling Cai",
+      "Kaiyi Li",
+      "Zhenxiang He",
+      "Chao Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168044053",
+    "title": "High-level numerical modelling of complex heating loops with heat pumps and Thermal Energy Storage for energy flexibility analysis",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132261",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132261",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal energy storage",
+      "Flexibility (engineering)",
+      "Energy (signal processing)",
+      "Heat pump",
+      "Thermal",
+      "Thermal energy"
+    ],
+    "authors": [
+      "Lorenzo Pellizzon",
+      "Matteo Bilardo",
+      "Enrico Fabrizio",
+      "Marco Perino"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168039567",
+    "title": "Revealing multiscale mechanical mechanisms of lithium-ion batteries under immersion liquid cooling through experiments and thermo–electro–mechanical coupled modelling",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132308",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132308",
+    "cited_by_count": 0,
+    "keywords": [
+      "Swelling",
+      "Digital image correlation",
+      "Immersion (mathematics)",
+      "Displacement (psychology)",
+      "Thermal",
+      "Computer cooling",
+      "Graphite",
+      "Mica"
+    ],
+    "authors": [
+      "Y N Wu",
+      "Anthony Chun Yin Yuen",
+      "Chongmao Mo",
+      "Qian Chen",
+      "Yanghan Su",
+      "Jingwen Weng",
+      "Xinyan Huang",
+      "Bo Lu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168018036",
+    "title": "Study on a self-heating and palladium membrane-based system for hydrogen-heat cogeneration by supercritical water gasification of biomass",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132339",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132339",
+    "cited_by_count": 0,
+    "keywords": [
+      "Cogeneration",
+      "Exergy",
+      "Biomass (ecology)",
+      "Supercritical fluid",
+      "Raw material",
+      "Renewable energy",
+      "Hydrogen production",
+      "Hydrogen"
+    ],
+    "authors": [
+      "C H Wang",
+      "Zhuoya Li",
+      "Qichen Hou",
+      "Jingli Sun",
+      "Pengqian Wang",
+      "Yanzhen Wei",
+      "BoBai",
+      "H Huang Jin"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168034604",
+    "title": "Immersion-cooled 1U power supply unit for fanless, warm-liquid-cooled data centers",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132309",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132309",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Active cooling",
+      "Computer cooling",
+      "Free cooling",
+      "Heat sink",
+      "Water cooling",
+      "Boiling",
+      "Boiling point",
+      "Internal combustion engine cooling"
+    ],
+    "authors": [
+      "Haoyun Qiu",
+      "Vivek S. Garimella",
+      "Chengyan Li",
+      "S. N. Joshi",
+      "Rishav Roy",
+      "Manohar Bongarala",
+      "David J. Apigo",
+      "Sarwesh N. Parbat",
+      "Syed Faisal",
+      "Todd Salamon",
+      "Nenad Miljkovic"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168027852",
+    "title": "Experimental study and mechanistic analysis on suppressing thermal runaway propagation of large capacity lithium-ion battery modules: A comparison of two typical water-based strategies",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132335",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132335",
+    "cited_by_count": 0,
+    "keywords": [
+      "Mist",
+      "Thermal runaway",
+      "Battery (electricity)",
+      "Flood myth",
+      "Water cooling",
+      "Thermal",
+      "Dissipation",
+      "Thermal energy storage"
+    ],
+    "authors": [
+      "Yuejiu Zheng",
+      "X Y Wang",
+      "Chao Zhou",
+      "Guohao Zhang",
+      "Zhou Yi",
+      "Guoxin Yu",
+      "Xin Lai",
+      "Dawei Li",
+      "Shiding Zhou",
+      "Weijin Wu",
+      "Kai Shen",
+      "X Xiuzhen Feng",
+      "Xiangqi Meng"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168052022",
+    "title": "Numerical investigation on the effect of heating methods on flow excursion for saturated-outlet and superheated-outlet evaporation tubes",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132312",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132312",
+    "cited_by_count": 0,
+    "keywords": [
+      "Superheating",
+      "Convection",
+      "Excursion",
+      "Evaporation",
+      "Boiler feedwater",
+      "Boiling",
+      "Mass flow rate",
+      "Heat flux",
+      "Flow (mathematics)",
+      "Internal heating"
+    ],
+    "authors": [
+      "Su Yang",
+      "Haiwei Fan",
+      "Xiaowei Li",
+      "Hao Zhu",
+      "J Q Zhao",
+      "Xinxin Wu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168036379",
+    "title": "The role of cooling plate–battery contact angle in liquid-cooled cylindrical battery packs",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111177",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111177",
+    "cited_by_count": 0,
+    "keywords": [
+      "Battery (electricity)",
+      "Water cooling",
+      "Contact angle",
+      "Work (physics)",
+      "Finite element method"
+    ],
+    "authors": [
+      "Soner Birinci",
+      "Melisa Albayrak",
+      "Buğra Sarper",
+      "Mustafa Yusuf Yazıcı",
+      "Mehmet Saglam",
+      "Orhan Aydın"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168023228",
+    "title": "Numerical investigation of parallel-jet array impingement cooling of a high-temperature thin-walled cylinder",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111159",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111159",
+    "cited_by_count": 0,
+    "keywords": [
+      "Cylinder",
+      "Computer simulation",
+      "Numerical analysis",
+      "Heat transfer",
+      "Computational fluid dynamics"
+    ],
+    "authors": [
+      "Yaru Yan",
+      "C L Li",
+      "Jinbo Yu",
+      "Xu Liu",
+      "Xuemin Ye"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168031445",
+    "title": "An experimental study of mass burning rate, flame morphology, streak formation, and intermittent pulsation dynamics in turbulent wind-driven flames",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-11",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111153",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111153",
+    "cited_by_count": 0,
+    "keywords": [
+      "Freestream",
+      "Turbulence",
+      "Strouhal number",
+      "Laminar flow",
+      "Dimensionless quantity",
+      "Turbulence kinetic energy",
+      "Flame structure",
+      "Mass flow rate"
+    ],
+    "authors": [
+      "B.V. Sandeep",
+      "Alankrit Srivastava",
+      "Ajay V. Singh"
+    ],
+    "category": "heat-transfer"
   }
 ]
