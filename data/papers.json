@@ -269968,5 +269968,107 @@
       "Ajay V. Singh"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168104900",
+    "title": "Enhanced Thermal Management via Phase Change Energy Storage Radiator a Numerical Study",
+    "abstract": "Based on the enthalpy-porosity model, this study establishes a numerical framework for simulating phase change material (PCM) melting and solidification in a thermal energy storage radiator, addressing increased thermal dissipation demands from high-performance electronic devices. The influence of PCM melting temperature on heat storage performance under transient heat flux is examined, along with heat storage/release characteristics under periodic high/low heat flux and pulsed intermittent heating. Results indicate that the PCM radiator effectively mitigates initial thermal shocks and substantially extends the safe operational time of the heat source. Under exponentially increasing heat flux, the thermal buffering capacity is highly dependent on matching the PCM melting temperature with the transient thermal load to maximize latent heat utilization. Furthermore, under periodic and pulsed intermittent heating, increasing the cycle frequency significantly enhances the overall cooling performance. Higher frequencies prevent severe thermal accumulation and lower the peak heat source temperature, as the shortened heating intervals and subsequent off-periods allow for effective heat dissipation and partial PCM solidification recovery. Overall, this study provides generalized guidelines for optimizing PCM-based heat sinks under complex, highly transient thermal loads.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-07-12",
+    "url": "https://doi.org/10.1080/01457632.2026.2697385",
+    "doi": "https://doi.org/10.1080/01457632.2026.2697385",
+    "cited_by_count": 0,
+    "keywords": [
+      "Phase-change material",
+      "Radiator (engine cooling)",
+      "Thermal energy storage",
+      "Heat flux",
+      "Transient (computer programming)",
+      "Heat sink",
+      "Thermal",
+      "Latent heat",
+      "Thermal reservoir",
+      "Passive cooling"
+    ],
+    "authors": [
+      "Yaping Zhang",
+      "Yige Wang",
+      "Ruijia Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168087265",
+    "title": "Temperature Separation and Flow Analysis in an Annular Vortex Tube",
+    "abstract": "Energy separation between co-axial swirling flows is a common phenomenon in counter-flow vortex tube. In this study, the energy analysis involving the terms of work and heat transfers is carried out with a help of a separator tube to verify the cooling process inside the vortex tube. The separator tube forms a novel part of this work, which gives a hint in verifying the theories of heat transfer and shear viscous work across the core and peripheral flow layers. The energy separation or Ranque-Hilsch effect is verified for different materials of separator tube, while the tube length remains constant across all operating conditions. Heat transfer by turbulent convection and shear work term are reported to understand the significance of contribution to energy separation. Separator tube suppresses the tangential work transfer from 130 W to 14 W, where almost 9/10 of the net energy transfer is decreased. It is found that 58% reduction in temperature separation with separator tube. This effect is increased to 77% and 90% with aluminum and poly vinyl chloride materials as separator tubes. It is found that predominant effect of temperature separation arises from tangential work transfer as compared to axial shear work and heat transfer.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-07-12",
+    "url": "https://doi.org/10.1080/01457632.2026.2697389",
+    "doi": "https://doi.org/10.1080/01457632.2026.2697389",
+    "cited_by_count": 0,
+    "keywords": [
+      "Separator (oil production)",
+      "Heat transfer",
+      "Vortex",
+      "Vortex tube",
+      "Work (physics)",
+      "Turbulence",
+      "Heat transfer coefficient",
+      "Separation process"
+    ],
+    "authors": [
+      "R. Manimaran"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168093326",
+    "title": "An Asymptotic Solution for Thermal Response in Biological Tissue Induced by Pulsed Laser Based on Dual-Phase-Lag Model",
+    "abstract": "This study presents an asymptotic solution for predicting the thermal response in biological tissues subjected to pulsed laser irradiation using the dual-phase-lag bio-heat transfer model. By applying the Laplace transform coupled with the initial-value theorem, a simplified time-domain solution is derived that effectively captures non-Fourier thermal behavior and clearly reveals qualitative relationships between key parameters and the thermal response. Results show that the ratio of phase lag times critically influences the thermal profile, with smaller values of the ratio of phase lag times reducing peak temperature and enhancing heat uniformity. Furthermore, for constant total energy input, higher-power and shorter-pulse laser configurations induce greater peak temperatures and more extensive thermal damage near the tissue surface. These findings provide theoretical insight into laser-tissue interactions and offer practical guidance for optimizing clinical laser procedures toward minimally invasive and energy-efficient treatments.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-07-12",
+    "url": "https://doi.org/10.1080/01457632.2026.2697388",
+    "doi": "https://doi.org/10.1080/01457632.2026.2697388",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Laser",
+      "Laplace transform",
+      "Pulsed laser",
+      "Lag",
+      "Biological tissue",
+      "Phase (matter)",
+      "Heat transfer"
+    ],
+    "authors": [
+      "Mingfang Liu",
+      "Yingze Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168100763",
+    "title": "Variable Properties in Fouling Estimation in Heat Exchanger Networks with Fouling",
+    "abstract": "Fouling in shell-and-tube heat exchangers reduces heat recovery efficiency in industrial processes, increasing fuel consumption and operational costs. Most studies assume constant physical properties throughout the heat exchanger network (HEN) and over time, despite the impact of temperature-dependent properties on heat transfer and fouling behavior. This work proposes a variable-property framework for HEN simulation with fouling, assuming pseudo-stationary fouling behavior within each time step. Physical properties are updated through a direct substitution approach based on estimated temperatures, with iterative convergence. Temperature-dependent effects on mixing and furnace duty are also incorporated. Results indicate that the proposed approach predicts lower initial fouling rates and outlet temperatures. However, over time, reduced fouling leads to higher predicted outlet temperatures compared to the constant-property approach. Overall, the variable-property model results in a 14.4% increase in estimated operational costs, indicating that constant-property models may underestimate true operating costs. Convergence is achieved in approximately three iterations on average, indicating a favorable tradeoff between improved model fidelity and computational effort.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-07-12",
+    "url": "https://doi.org/10.1080/01457632.2026.2697387",
+    "doi": "https://doi.org/10.1080/01457632.2026.2697387",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fouling",
+      "Heat exchanger",
+      "Work (physics)",
+      "Variable (mathematics)",
+      "Heat transfer",
+      "Convergence (economics)",
+      "Mixing (physics)"
+    ],
+    "authors": [
+      "João Pedro Vidotti De Cesaro",
+      "Mauro Antonio da Silva Sá Ravagnani",
+      "Caliane Bastos Borba Costa"
+    ],
+    "category": "heat-transfer"
   }
 ]
