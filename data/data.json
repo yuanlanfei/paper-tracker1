@@ -270992,23 +270992,709 @@
         "Almıla G. Yazıcıoğlu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168243076",
+      "title": "Assessment of dynamic response and damage in nuclear containment under complex extreme seismic scenarios",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115101",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115101",
+      "cited_by_count": 0,
+      "keywords": [
+        "Containment (computer programming)",
+        "Containment building",
+        "Nuclear power",
+        "Damage mechanics",
+        "Finite element method",
+        "Failure assessment"
+      ],
+      "authors": [
+        "Zheng Lu",
+        "Tianyi Lou",
+        "Qiaoqiao Fan",
+        "Xinghua Li",
+        "Bin Zhao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168276637",
+      "title": "Nuclear data sensitivity analysis of the effective multiplication factor for a two-region damaged reactor model",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112647",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112647",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sensitivity (control systems)",
+        "Multiplication (music)",
+        "Nuclear data",
+        "Nuclear reactor",
+        "Experimental data"
+      ],
+      "authors": [
+        "Hoang Hai Nguyen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168302695",
+      "title": "Numerical optimization of the equivalent ring source criterion in dual detector improved segmented gamma scanning",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112571",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112571",
+      "cited_by_count": 0,
+      "keywords": [
+        "Detector",
+        "Dual (grammatical number)",
+        "Ring (chemistry)",
+        "Computer simulation",
+        "Numerical analysis",
+        "Numerical models"
+      ],
+      "authors": [
+        "Shiwei Liao",
+        "Weiguo Gu",
+        "Dezhong Wang",
+        "Liandong Zhang",
+        "Yufei Han"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168294908",
+      "title": "A dynamically-truncated integral transport matrix low-order method for solving neutral particle transport problems",
+      "abstract": "We develop a new low-order method for solving neutral particle transport problems, namely the Low-order Integral Transport Matrix Method (LITMM), and verify that the method can efficiently generate solutions akin to high-order S N transport operators. At this proof-of-principle stage, we used the Arbitrarily High Order Transport method of the Nodal type with 0th order local expansions (AHOT-N0) in 2-D Cartesian coordinates as the spatial discretization method in the derivation and in the numerical tests. Nevertheless, the method is applicable to any high-order method and can be implemented in production-level neutron transport codes. The low-order method is based on truncating elements of the integral transport matrix (ITM) below a user-specified threshold. The truncation process eliminates more elements as the optical thickness of the cells increases, resulting in a sparse ITM, denoted as the low-order operator, LITM. In this work, we develop a dynamic truncation algorithm that reduces the computational cost of assembling the LITM compared with constructing the full ITM and then truncating. We employed the Biconjugate Gradient Stabilized (BiCGSTAB) and Arnoldi iterations to solve fixed-source and eigenvalue problems. We tested LITMM in fixed-source configurations and for criticality benchmark problems by comparing the accuracy of LITMM’s results against high-order-operator solutions. We also evaluated LITMM’s computational performance against a matrix-free Krylov iterative method. The comparisons revealed that the low-order method is feasible and yields solutions comparable to those of their high-order operator counterparts, with remarkable computational efficiency, especially for the considered eigenvalue problems.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112623",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112623",
+      "cited_by_count": 0,
+      "keywords": [
+        "Discretization",
+        "Eigenvalues and eigenvectors",
+        "Neutron transport",
+        "Truncation (statistics)",
+        "Matrix (chemical analysis)",
+        "Operator (biology)",
+        "Cartesian coordinate system",
+        "Biconjugate gradient stabilized method",
+        "Benchmark (surveying)"
+      ],
+      "authors": [
+        "Gökhan Pediz",
+        "Yousry Y. Azmy"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168283800",
+      "title": "Transient safety assessment and time-limited response strategy for S-CO2 recompression Brayton cycle",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112635",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112635",
+      "cited_by_count": 0,
+      "keywords": [
+        "Brayton cycle",
+        "Transient (computer programming)",
+        "Control theory (sociology)",
+        "Scram",
+        "Transient response"
+      ],
+      "authors": [
+        "Kaiwen Shi",
+        "Cheng Peng",
+        "Jiang Wu",
+        "Jian Deng"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168287788",
+      "title": "Limitations and challenges of Bayesian calibration in complex fuel performance modeling scenarios",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112628",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112628",
+      "cited_by_count": 0,
+      "keywords": [
+        "Calibration",
+        "Bayesian probability",
+        "Key (lock)",
+        "Bayesian inference"
+      ],
+      "authors": [
+        "Sara Maccario",
+        "Gustav Robertson",
+        "Alessandro Scolaro",
+        "Mathieu Hursin"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168268758",
+      "title": "Feasibility study of titanium and chromium beryllides as neutron reflector in nuclear reactors",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106507",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106507",
+      "cited_by_count": 0,
+      "keywords": [
+        "Beryllium",
+        "Chromium",
+        "Titanium",
+        "Neutron",
+        "Helium",
+        "Fusion power",
+        "Tritium",
+        "Impurity",
+        "Nuclear reactor"
+      ],
+      "authors": [
+        "D.S. Sairanbayev",
+        "A.A. Shaimerdenov",
+        "T.V. Kulsartov",
+        "S.V. Udartsev"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168258628",
+      "title": "Feasibility Study of History-Based Batch Method for Coupled Monte Carlo–Thermal-Hydraulics Analysis Using the iMC Code",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1080/00295639.2026.2696183",
+      "doi": "https://doi.org/10.1080/00295639.2026.2696183",
+      "cited_by_count": 0,
+      "keywords": [
+        "Monte Carlo method",
+        "Code (set theory)",
+        "Source code",
+        "Control theory (sociology)",
+        "Nuclear data"
+      ],
+      "authors": [
+        "Taesuk Oh",
+        "Jaehyeong Jang",
+        "Inyup Kim",
+        "Yonghee Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168281178",
+      "title": "Using Sampler and IRPhE Benchmark Data to Test the Nuclear Data Adjustment Code TSURFER",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1080/00295450.2026.2690559",
+      "doi": "https://doi.org/10.1080/00295450.2026.2690559",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear data",
+        "Benchmark (surveying)",
+        "Code (set theory)",
+        "Test data",
+        "Test (biology)",
+        "Sampling (signal processing)"
+      ],
+      "authors": [
+        "Stephen N. Marshall",
+        "David R. Novog"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168301062",
+      "title": "A Brief on the Verification and Validation Efforts for DOE’s Stakeholder Tool for Assessing Radioactive Transportation",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1080/00295450.2026.2688696",
+      "doi": "https://doi.org/10.1080/00295450.2026.2688696",
+      "cited_by_count": 0,
+      "keywords": [
+        "Stakeholder",
+        "Radioactive waste",
+        "Verification and validation",
+        "Stakeholder engagement"
+      ],
+      "authors": [
+        "Harish Reddy Gadey",
+        "Caitlin Condon",
+        "Matthew Murphy-Sweet",
+        "Tristan Hay",
+        "Sara Hogan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W4409110691",
+      "title": "Machine Learning Methods for Predicting Mean and Uncertainty in Nodal Cross-Section Libraries",
+      "abstract": "This study presents a comparative analysis of regression techniques for modeling few-group cross-section libraries as a function of state parameters, with prediction targets that include both mean values and covariance matrices to represent aleatoric uncertainty from nuclear data perturbations. Beyond absolute accuracy, the primary focus is convergence performance: whether the prediction error decreases monotonically as the number of unique training samples Nbranch increases. The results show that the convergence behavior differs substantially across the methods. In particular, the transformed neural network model exhibits inconsistent, nonmonotonic convergence with respect to Nbranch, indicating limited robustness. In contrast, the transformed polynomial regression (tp-PR) model shows stable convergence and achieves the best performance at the largest training set (Nbranch = 1024) with a kinf error of 0.015%. A comparison of the predicted and reference keff distributions further shows that the tp-PR model was able to reproduce uncertainty induced by nuclear data uncertainty.",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1080/00295450.2026.2687339",
+      "doi": "https://doi.org/10.1080/00295450.2026.2687339",
+      "cited_by_count": 0,
+      "keywords": [
+        "Section (typography)",
+        "Computer science",
+        "Cross section (physics)",
+        "NODAL",
+        "Artificial intelligence",
+        "Machine learning",
+        "Physics",
+        "Operating system",
+        "Medicine"
+      ],
+      "authors": [
+        "Yimeng Chan",
+        "Jan Dufek"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168268811",
+      "title": "Impacts of long-term changes in materials of disposal canister and engineered barrier on underground criticality after disposal of spent nuclear fuel",
+      "abstract": "In the present study, we conducted criticality analysis using a model that incorporates material changes occurring in disposal environments. The goal was to evaluate post-closure criticality of engineered barrier system for direct disposal of spent nuclear fuels with reasonable conservatism of material changes, avoiding excessive margins. The analyzed material changes included corrosion of fuel cladding, IT/GT tube (an Instrumentation Tube and a control rod Guide Tube), canister, and the resulting evolution of buffer materials. The reactivity was evaluated for those individual material changes and maximum reactivity was also evaluated considering the combination of their effects. The results show that the effective multiplication factor keff remained below the upper subcritical limit of 0.95 and was lower than the keff calculated by the previous conservative model. This result suggests that introducing realistic material changes, including those that potentially cause higher reactivity in geological environments, reduces the predicted likelihood of criticality when compared against the purely conservative model.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1080/00223131.2026.2701390",
+      "doi": "https://doi.org/10.1080/00223131.2026.2701390",
+      "cited_by_count": 0,
+      "keywords": [
+        "Criticality",
+        "Spent nuclear fuel",
+        "Radioactive waste",
+        "Nuclear material",
+        "Decay heat",
+        "Reactivity (psychology)",
+        "Waste disposal",
+        "Corrosion"
+      ],
+      "authors": [
+        "Fumio Hirano",
+        "Masaharu Kataoka",
+        "Peng Hong Liem",
+        "Masaya Seki",
+        "Yuya Ishiguro",
+        "Yoshibumi Mitsumoto",
+        "Shingo Watari"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168259500",
+      "title": "Multidimensional affective orientations and nuclear energy acceptance: integrating self- and threat-oriented negative affect and affective disengagement into the risk perception paradigm",
+      "abstract": "Public acceptance of nuclear energy has traditionally been explained through the risk perception paradigm, which emphasizes cognitive evaluations of risks, benefits, trust, and knowledge. Yet emotional responses remain conceptually under-specified and frequently operationalized as undifferentiated negative affect. This study advances a multidimensional framework of affective orientation by distinguishing among self-oriented negative affect, threat-oriented negative affect, and affective disengagement. Self-oriented negative affect, measured through guilt and depression, is interpreted cautiously as inwardly directed affect that may involve moral burden, responsibility attribution, or perceived helplessness rather than direct emotion toward nuclear technology alone. Drawing on survey data from 1,970 Korean adults collected in June-July 2025, we examine how these affective orientations shape both personal acceptance (willingness to bear local exposure) and social acceptance (support for national nuclear policy). Hierarchical regression and interaction analyses show that emotional differentiation improves explanatory precision beyond conventional cognitive predictors. Threat-oriented negative affect consistently reduces both personal and social acceptance, self-oriented negative affect is positively associated with personal – but not social – acceptance, and affective disengagement facilitates passive social acceptance while exhibiting limited influence on personal acceptance. These findings demonstrate that emotions do not operate as a uniform barrier to nuclear energy. Instead, affective orientations shape technological acceptance through distinct functional pathways and by structuring the cognitive processing of risk information. Incorporating emotional heterogeneity into the risk perception paradigm offers a more precise theoretical account of energy technology acceptance and suggests that policy communication strategies should be calibrated to specific emotional profiles rather than relying solely on technical risk information.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1080/00223131.2026.2703156",
+      "doi": "https://doi.org/10.1080/00223131.2026.2703156",
+      "cited_by_count": 0,
+      "keywords": [
+        "Disengagement theory",
+        "Affect (linguistics)",
+        "Operationalization",
+        "Cognitive appraisal",
+        "Perception",
+        "Cognition",
+        "Social acceptance",
+        "Risk perception"
+      ],
+      "authors": [
+        "Dagyum Jung",
+        "Seoyong Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168266607",
+      "title": "AtomicGPT: A Domain-Adapted Large Language Model for Secure On-Premises Applications in Nuclear Engineering",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104565",
+      "doi": "https://doi.org/10.1016/j.net.2026.104565",
+      "cited_by_count": 0,
+      "keywords": [
+        "Modeling language",
+        "Model-driven architecture",
+        "Model checking",
+        "Data modeling"
+      ],
+      "authors": [
+        "Seungdon Yeom",
+        "KyungTae Lim",
+        "Yonggyun Yu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168267548",
+      "title": "Domain-attention enhanced multi-source transfer learning towards small-sample and cross-structural prediction of heat pipe thermal performance",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129267",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129267",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat pipe",
+        "Heat transfer",
+        "Thermal",
+        "Thermosiphon",
+        "Embedding",
+        "Representation (politics)",
+        "Domain (mathematical analysis)",
+        "Thermal conduction"
+      ],
+      "authors": [
+        "Xianling Wang",
+        "Meiqi Zhai",
+        "Yang Liu",
+        "Shuai Teng",
+        "Zhangyuan Wang",
+        "Xudong Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168290456",
+      "title": "Dimensionless step-response identification of adsorber thermal dynamics",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129259",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129259",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dimensionless quantity",
+        "Dynamics (music)",
+        "Thermal",
+        "Identification (biology)",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Amir Zivariravan",
+        "Alessia Arteconi",
+        "Giulio Santori"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168283094",
+      "title": "Annular graded and twisted TPMS lattice architectures for accelerating melting of phase change material in shell-tube thermal energy storage system",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129288",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129288",
+      "cited_by_count": 0,
+      "keywords": [
+        "Porosity",
+        "Phase-change material",
+        "Twist",
+        "Lattice (music)",
+        "Thermal",
+        "Power density",
+        "Thermal energy storage",
+        "Melting temperature",
+        "Crystal structure"
+      ],
+      "authors": [
+        "Changda Nie",
+        "Haitao Wang",
+        "Hongyang Li",
+        "Xinjian Liu",
+        "Jiangwei Liu",
+        "Zhonghao Rao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168286310",
+      "title": "A study on the optimization of thermal performance for an electrically heated solid-particle thermal energy storage device",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129264",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129264",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal",
+        "Thermal energy storage",
+        "Thermal energy",
+        "Energy storage",
+        "Energy (signal processing)",
+        "Thermal management of electronic devices and systems"
+      ],
+      "authors": [
+        "Qiyu Lin",
+        "Cunxian Chen",
+        "Zihan Lan",
+        "Huaan Li",
+        "Hao Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168288004",
+      "title": "Numerical investigation on multi-inner-tube co-rotating tube-in-tube spiral heat exchanger in cold energy transfer of cryogenic hydrogen",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129281",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129281",
+      "cited_by_count": 0,
+      "keywords": [
+        "Plate heat exchanger",
+        "Heat exchanger",
+        "Heat transfer",
+        "Plate fin heat exchanger",
+        "Shell and tube heat exchanger",
+        "Heat transfer coefficient",
+        "Micro heat exchanger",
+        "Heat spreader",
+        "Concentric tube heat exchanger"
+      ],
+      "authors": [
+        "Wenshuo Wang",
+        "Xuhui Na",
+        "Lingxiao Zhang",
+        "Nan Meng",
+        "Huifang Kang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W4416939850",
+      "title": "An adaptive dual-iterative scheme for surface heating in multi-layer media with heterogeneous microstructures",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129229",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129229",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat flux",
+        "Thermal conductivity",
+        "Thermal conduction",
+        "Thermal",
+        "Surface (topology)",
+        "Fourier transform",
+        "Stencil",
+        "Function (biology)",
+        "Convergence (economics)"
+      ],
+      "authors": [
+        "Kuanyu Liu",
+        "Pu Li",
+        "Bozheng Yang",
+        "Feodor M. Borodich",
+        "Xiaoqing Jin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168181955",
+      "title": "An experimental evaluation of thermohydraulic performance of hybrid polymer heat exchangers",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132363",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132363",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Pressure drop",
+        "Laminar flow",
+        "Reynolds number",
+        "Heat exchanger",
+        "Heat transfer",
+        "Heat transfer coefficient",
+        "Heat transfer enhancement",
+        "Hydraulic diameter"
+      ],
+      "authors": [
+        "Muhammad Azeem Ghouri",
+        "Tingwen Li",
+        "Dong Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168120659",
+      "title": "Plasma-synthesized TiO2-x-based fabric evaporator for efficient solar desalination with excellent salt resistance",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132372",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132372",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporator",
+        "Desalination",
+        "Solar desalination",
+        "Evaporation",
+        "Titanium dioxide",
+        "Layer (electronics)",
+        "Crystallization",
+        "Latent heat"
+      ],
+      "authors": [
+        "Yujie Zhang",
+        "Yuanjiang Dong",
+        "Dan An",
+        "Huacheng Jin",
+        "Yuge Ouyang",
+        "Junmei Fan",
+        "Ming‐Shui Yao",
+        "Bo Li",
+        "Fangli Yuan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168157396",
+      "title": "Center-wall thermal-field sensing and Smith-predictor-assisted MPC cut-back control for multi-zone LPCVD tube furnaces",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132296",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132296",
+      "cited_by_count": 0,
+      "keywords": [
+        "Overshoot (microwave communication)",
+        "Thermocouple",
+        "Setpoint",
+        "Chemical vapor deposition",
+        "Process control",
+        "Temperature control",
+        "Controller (irrigation)",
+        "Actuator",
+        "Tube (container)"
+      ],
+      "authors": [
+        "Xinyan Huang",
+        "Wen Jiang",
+        "Haiqiao Liu",
+        "Bao Chen",
+        "Kamal Al‐Haddad",
+        "Hui Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168183667",
+      "title": "The effects of heat and mass transfer mechanisms in a high-temperature roadway under deep-seated hydrothermal migration on mine thermal environment control",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132336",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132336",
+      "cited_by_count": 0,
+      "keywords": [
+        "Geothermal gradient",
+        "Heat transfer",
+        "Hydrothermal circulation",
+        "Ventilation (architecture)",
+        "Thermal",
+        "Convection",
+        "Convective heat transfer",
+        "Geothermal energy",
+        "Airflow"
+      ],
+      "authors": [
+        "Hongbin Zhao",
+        "Shihao Tu",
+        "Hongsheng Tu",
+        "Kaijun Miao",
+        "Long Tang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168268731",
+      "title": "Stabilizing ultra-low-load combustion in tangentially fired boiler via oxygen-enriched air staging",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132399",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132399",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boiler (water heating)",
+        "Combustion",
+        "Combustion chamber",
+        "Staged combustion",
+        "Stage (stratigraphy)"
+      ],
+      "authors": [
+        "Yuanlu Li",
+        "Xuejiao Liu",
+        "Xi Chen",
+        "Guanwen Zhou",
+        "Hong Zhang",
+        "Yonghua Gu",
+        "Zhenming Zhang",
+        "Wenqi Zhong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168287804",
+      "title": "Experimental analysis of a VAWT airfoil featuring trailing edge serrations for performance enhancement and noise reduction",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111812",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111812",
+      "cited_by_count": 0,
+      "keywords": [
+        "Performance enhancement",
+        "Trailing edge",
+        "Airfoil",
+        "Noise reduction",
+        "Noise (video)",
+        "Reduction (mathematics)"
+      ],
+      "authors": [
+        "Dana Rodriguez-Garcia",
+        "Luis Santamaría",
+        "Manuel Garcia-Diaz",
+        "Sandra Velarde-Suárez",
+        "Katia María Argüelles Díaz"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 10503,
+    "total": 10529,
     "journals": 275,
-    "last_update": "2026-07-15 03:16:54",
-    "reactor-thermal_count": 992,
-    "heat-transfer_count": 1875,
+    "last_update": "2026-07-16 03:23:56",
+    "reactor-thermal_count": 1006,
+    "heat-transfer_count": 1887,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1094
+        "count": 1099
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 439
+        "count": 445
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -271016,23 +271702,23 @@
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 259
+        "count": 264
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 241
+        "count": 242
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 155
-      },
-      {
-        "name": "Progress in Nuclear Energy",
-        "count": 107
+        "count": 156
       },
       {
         "name": "Nuclear Technology",
-        "count": 107
+        "count": 110
+      },
+      {
+        "name": "Progress in Nuclear Energy",
+        "count": 108
       },
       {
         "name": "Science",
@@ -271160,7 +271846,7 @@
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 80
+        "count": 81
       },
       {
         "name": "World Development",
@@ -271203,15 +271889,15 @@
         "count": 49
       },
       {
+        "name": "Experimental Thermal and Fluid Science",
+        "count": 47
+      },
+      {
         "name": "Journal of Public Economics",
         "count": 46
       },
       {
         "name": "Public Administration Review",
-        "count": 46
-      },
-      {
-        "name": "Experimental Thermal and Fluid Science",
         "count": 46
       },
       {
@@ -271363,6 +272049,10 @@
         "count": 29
       },
       {
+        "name": "Journal of Nuclear Science and Technology",
+        "count": 29
+      },
+      {
         "name": "Heat Transfer Engineering",
         "count": 29
       },
@@ -271412,10 +272102,6 @@
       },
       {
         "name": "Strategic Management Journal",
-        "count": 27
-      },
-      {
-        "name": "Journal of Nuclear Science and Technology",
         "count": 27
       },
       {
@@ -272105,10 +272791,6 @@
     ],
     "trend": [
       {
-        "date": "2026-06-16",
-        "count": 29
-      },
-      {
         "date": "2026-06-17",
         "count": 43
       },
@@ -272166,7 +272848,7 @@
       },
       {
         "date": "2026-07-01",
-        "count": 169
+        "count": 172
       },
       {
         "date": "2026-07-02",
@@ -272214,14 +272896,18 @@
       },
       {
         "date": "2026-07-13",
-        "count": 20
+        "count": 27
       },
       {
         "date": "2026-07-14",
-        "count": 2
+        "count": 16
       },
       {
         "date": "2026-07-15",
+        "count": 2
+      },
+      {
+        "date": "2026-07-16",
         "count": 0
       }
     ]
@@ -272440,5 +273126,5 @@
       }
     ]
   },
-  "export_time": "2026-07-15T03:16:54.246429"
+  "export_time": "2026-07-16T03:23:56.277721"
 }
