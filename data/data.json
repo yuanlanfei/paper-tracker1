@@ -271678,27 +271678,437 @@
         "Katia María Argüelles Díaz"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168397676",
+      "title": "Alchemy: A model-based approach for 2D to 3D autonomous nuclear system design",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115100",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115100",
+      "cited_by_count": 0,
+      "keywords": [
+        "Systems design",
+        "Control system",
+        "Nuclear power",
+        "Nuclear industry"
+      ],
+      "authors": [
+        "Harleen Kaur Sandhu",
+        "Nicholas Cole Crowder",
+        "Peter Anton Suyderhoud",
+        "Abhinav Gupta",
+        "Adam Pluth",
+        "Samantha Thueson",
+        "Drew Rizk",
+        "Maria Eduarda Montezzo Coelho"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168398412",
+      "title": "Microstructurally informed modeling of high burnup structure formation in UO2 fuel",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115098",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115098",
+      "cited_by_count": 0,
+      "keywords": [
+        "Burnup",
+        "Structure formation",
+        "Finite element method",
+        "Fuel element failure",
+        "Mockup"
+      ],
+      "authors": [
+        "Walter C. Brinkley",
+        "Casey McKinney",
+        "Nathan Capps",
+        "Brian D. Wirth"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168408723",
+      "title": "Parameterized cross-section library generation with the SERPENT 2 code using novel parameterization methods and testing in VVER-1200 core geometry with the KIKO3DMG nodal solver",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115104",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115104",
+      "cited_by_count": 0,
+      "keywords": [
+        "Parameterized complexity",
+        "Solver",
+        "Serpent (symbolism)",
+        "Core (optical fiber)",
+        "Code (set theory)",
+        "Mesh generation"
+      ],
+      "authors": [
+        "Dániel Sebestény",
+        "Zoltán István Böröczki",
+        "István Pataki",
+        "István Panka"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168428708",
+      "title": "CALINS: A New ASNR Software for Nuclear Data Sensitivity Analysis, Uncertainty Propagation, and Assimilation of Integral Experiments",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1080/00295639.2026.2694300",
+      "doi": "https://doi.org/10.1080/00295639.2026.2694300",
+      "cited_by_count": 0,
+      "keywords": [
+        "Data assimilation",
+        "Sensitivity (control systems)",
+        "Software",
+        "Assimilation (phonology)",
+        "Nuclear data",
+        "Computer software"
+      ],
+      "authors": [
+        "Barthélémi Petillon",
+        "Arthur Peron",
+        "Romain Vuiart",
+        "Vaibhav Jaiswal",
+        "Mariya Brovchenko"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168383233",
+      "title": "Optimization of 89 Zr Production For Immuno-PET Applications",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1080/00295450.2026.2692322",
+      "doi": "https://doi.org/10.1080/00295450.2026.2692322",
+      "cited_by_count": 0,
+      "keywords": [
+        "Production (economics)",
+        "Zirconium",
+        "Raw material"
+      ],
+      "authors": [
+        "Ezgi Tantoğlu",
+        "Caner Yalçın"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168340595",
+      "title": "Mask design with non-uniform thickness for artifact suppression in coded-aperture gamma-ray imaging: A Monte Carlo study",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104558",
+      "doi": "https://doi.org/10.1016/j.net.2026.104558",
+      "cited_by_count": 0,
+      "keywords": [
+        "Artifact (error)",
+        "Monte Carlo method"
+      ],
+      "authors": [
+        "Yuhang Qiu",
+        "Tiantian Dai",
+        "Qingyang Wei"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7168369639",
+      "title": "Numerical study of the ignition dynamics of a base bleed unit during the interior ballistics phase",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129268",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129268",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ballistics",
+        "Base (topology)",
+        "Ignition system",
+        "Internal ballistics",
+        "Dynamics (music)",
+        "Phase (matter)",
+        "Unit (ring theory)"
+      ],
+      "authors": [
+        "G. Guermonprez",
+        "T. Gaillard",
+        "J. Dupays",
+        "R. Demarthon",
+        "M. Zeidler"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168368335",
+      "title": "Flow boiling of HFE-7000 in a microchannel array — Relation between heat transfer dynamics and flow patterns",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129250",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129250",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microchannel",
+        "Flow (mathematics)",
+        "Heat transfer",
+        "Flow boiling",
+        "Boiling",
+        "Dynamics (music)",
+        "Boiling heat transfer",
+        "Heat transfer coefficient"
+      ],
+      "authors": [
+        "Stanislawa Halon"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168403765",
+      "title": "Flow boiling heat transfer and instability suppression in minichannels with bifurcated structures and Tesla valves",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129283",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129283",
+      "cited_by_count": 0,
+      "keywords": [
+        "Instability",
+        "Heat transfer",
+        "Flow (mathematics)",
+        "Boiling",
+        "Flow boiling",
+        "Boiling heat transfer",
+        "Nucleate boiling"
+      ],
+      "authors": [
+        "Yijie Fan",
+        "Xiaoping Luo",
+        "Cong Deng",
+        "Dongling Liu",
+        "Jinxin Zhang",
+        "Weiqiang Chen",
+        "Yuntian Hou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168367457",
+      "title": "Coupled heat and mass transfer in internally cooled silica gel-coated aluminum foam heat exchangers for dehumidification",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129269",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129269",
+      "cited_by_count": 0,
+      "keywords": [
+        "Desiccant",
+        "Silica gel",
+        "Mass transfer",
+        "Heat exchanger",
+        "Humidity",
+        "Water vapor",
+        "Heat transfer",
+        "Relative humidity",
+        "Latent heat",
+        "Moisture"
+      ],
+      "authors": [
+        "Easwaran Krishnan",
+        "Jubair A. Shamim",
+        "Huixin Jiang",
+        "Kai Li",
+        "Vivek Rao",
+        "Shaodong Zhang",
+        "Xiangyu Li",
+        "Kashif Nawaz"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168254391",
+      "title": "Independent computation of Nusselt and Sherwood numbers for LNG boil-off: Fill-fraction-controlled departure from the Chilton–Colburn analogy",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132304",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132304",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Scaling",
+        "Lewis number",
+        "Mass flux",
+        "Heat transfer",
+        "Heat flux",
+        "Sherwood number",
+        "Enclosure"
+      ],
+      "authors": [
+        "Arun K. Eswara",
+        "Pavitra Sandilya"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168177961",
+      "title": "A method for energy efficiency diagnosis of heavy-duty gas turbines under variable operating conditions driven by integrating physical mechanisms and data-driven approach",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132280",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132280",
+      "cited_by_count": 0,
+      "keywords": [
+        "Variable (mathematics)",
+        "Gas turbines",
+        "Efficient energy use",
+        "Energy (signal processing)",
+        "Wind power",
+        "Combined cycle"
+      ],
+      "authors": [
+        "Yulong Ying",
+        "Jingchao Li",
+        "Bin Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168124090",
+      "title": "Condensation architecture and scale-up performance in solar thermal desalination",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132375",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132375",
+      "cited_by_count": 0,
+      "keywords": [
+        "Condensation",
+        "Condenser (optics)",
+        "Desalination",
+        "Solar desalination",
+        "Thermal",
+        "Solar still",
+        "Relative humidity",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Jaymin Patel",
+        "Goral Nakum",
+        "Rahul Prajapati"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168121473",
+      "title": "Thermo-hydraulic simulation of Nanofluids in two-phase hydrophobic channels",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132334",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132334",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanofluid",
+        "Nusselt number",
+        "Pressure drop",
+        "Microchannel",
+        "Heat transfer",
+        "Reynolds number",
+        "Heat transfer enhancement",
+        "Thermal"
+      ],
+      "authors": [
+        "Arghavan Shahsavari",
+        "Amin Didehban",
+        "Ali Moosavi",
+        "Hossein Pakzad"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168028223",
+      "title": "Comprehensive thermodynamic screening of low-GWP refrigerant mixtures for micro-scale vapour compression refrigerators and heat pumps",
+      "abstract": "As the demand for high-performance micro and power electronics grows, micro-scale vapour compression refrigeration (VCR) systems and heat pumps (VCHP) have emerged as critical technologies for active heating and cooling. However, the progressive phase-down of hydrofluorocarbon refrigerants under international environmental regulations, necessitates the identification of low-global warming potential alternatives specifically optimized for the unique constraints of small-scale hardware, such as limited compressor displacement and low refrigerant charge. This study presents a comprehensive and systematic thermodynamic screening of approximately 30,000 refrigerant compositions, including pure fluids, binary, and ternary mixtures, specifically aimed at three key application scenarios: domestic and commercial micro-appliances, personal cooling systems for hostile environments, and reversible heat pumps for electric vehicle cabin and battery management. Using a multi-criteria decision-making approach based on the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) method to maximize simultaneously coefficient of performance and volumetric heating and cooling capacity, optimal candidates were identified across four practical scenarios: high-performance, safety-critical – low-flammability (A1), low-pressure, and a combined low-pressure/non-flammable scenario. Findings demonstrate that added complexity in ternary mixtures offer no significant thermodynamic advantage over simpler binary blends for micro-scale applications. Final recommendations for next-generation micro-VCR/VCHP systems include: R1270 and R290/RE170 (60/40)% for maximum performance; R1234yf/R1224yd(Z) (72/28)% for safety-critical (A1) applications; RE170/R600 (65/35)% and R600/R1270 (28/72)% for natural, low-pressure operation; and R1234ze(E)/R1233zd(E) (72/28)% or R1234ze(E)/R1224yd(Z) (68/32)% for combined constraints. This study establishes a structured roadmap to navigate the complex landscape of sustainable refrigerant selection in the micro-VCR/VCHP domain.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-11",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132282",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132282",
+      "cited_by_count": 0,
+      "keywords": [
+        "Refrigerant",
+        "Gas compressor",
+        "Coefficient of performance",
+        "Refrigeration",
+        "Vapor-compression refrigeration",
+        "Ternary operation",
+        "Ideal solution",
+        "Compression (physics)",
+        "Transcritical cycle"
+      ],
+      "authors": [
+        "Daniel Calleja-Anta",
+        "Katja Klinar",
+        "Urban Tomc",
+        "Andrej Kitanovski"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168367749",
+      "title": "Condensation-driven hydration of porous paperboard: coupled heat–mass transport, pore flooding, and climatic sensitivity",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111188",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111188",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sensitivity (control systems)",
+        "Porosity",
+        "Porous medium",
+        "Temperature measurement"
+      ],
+      "authors": [
+        "Raffaella De Piano",
+        "Diego Caccavo",
+        "Antonia Calabrese",
+        "Anna Angela Barba",
+        "Anette Larsson",
+        "Gaetano Lamberti"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 10529,
+    "total": 10545,
     "journals": 275,
-    "last_update": "2026-07-16 03:23:56",
-    "reactor-thermal_count": 1006,
-    "heat-transfer_count": 1887,
+    "last_update": "2026-07-17 03:26:51",
+    "reactor-thermal_count": 1012,
+    "heat-transfer_count": 1897,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1099
+        "count": 1104
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 445
+        "count": 449
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 267
+        "count": 268
       },
       {
         "name": "Annals of Nuclear Energy",
@@ -271706,15 +272116,15 @@
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 242
+        "count": 243
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 156
+        "count": 159
       },
       {
         "name": "Nuclear Technology",
-        "count": 110
+        "count": 111
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -271846,7 +272256,7 @@
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 81
+        "count": 82
       },
       {
         "name": "World Development",
@@ -272791,10 +273201,6 @@
     ],
     "trend": [
       {
-        "date": "2026-06-17",
-        "count": 43
-      },
-      {
         "date": "2026-06-18",
         "count": 24
       },
@@ -272848,7 +273254,7 @@
       },
       {
         "date": "2026-07-01",
-        "count": 172
+        "count": 173
       },
       {
         "date": "2026-07-02",
@@ -272888,7 +273294,7 @@
       },
       {
         "date": "2026-07-11",
-        "count": 6
+        "count": 7
       },
       {
         "date": "2026-07-12",
@@ -272896,18 +273302,22 @@
       },
       {
         "date": "2026-07-13",
-        "count": 27
+        "count": 30
       },
       {
         "date": "2026-07-14",
-        "count": 16
+        "count": 17
       },
       {
         "date": "2026-07-15",
-        "count": 2
+        "count": 12
       },
       {
         "date": "2026-07-16",
+        "count": 0
+      },
+      {
+        "date": "2026-07-17",
         "count": 0
       }
     ]
@@ -273126,5 +273536,5 @@
       }
     ]
   },
-  "export_time": "2026-07-16T03:23:56.277721"
+  "export_time": "2026-07-17T03:26:51.855100"
 }
