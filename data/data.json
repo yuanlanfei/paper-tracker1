@@ -272945,27 +272945,748 @@
         "Dipankar Bhanja"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169520714",
+      "title": "Experiment-based multi-objective optimal design of a disposal container for RI waste considering radiation shielding performance and structural integrity",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115109",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115109",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electromagnetic shielding",
+        "Finite element method",
+        "Container (type theory)",
+        "Structural integrity",
+        "Radioactive waste",
+        "Spent nuclear fuel",
+        "Boundary value problem",
+        "Radiation shielding"
+      ],
+      "authors": [
+        "Ji-Hoon Kang",
+        "Dong-Seok Lim",
+        "Hyun Chul Lee",
+        "Woo Young Jung",
+        "Ho-Seog Dho",
+        "Yu-Hwa Son"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169519901",
+      "title": "Cladding ballooning and burst testing capability with fragmented-pellet simulators and post-test wall thickness mapping",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115097",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115097",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ballooning",
+        "Cladding (metalworking)",
+        "Materials testing",
+        "Mockup",
+        "Penetration (warfare)"
+      ],
+      "authors": [
+        "Márton Király",
+        "Richárd Nagy",
+        "T. Szepesi",
+        "Zoltán Hózer",
+        "Péter Szabó"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169510310",
+      "title": "Intelligent anomaly detection for identifying co-occurring perturbations in nuclear reactors: a comparative multi-label classification study using neutron noise",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112664",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112664",
+      "cited_by_count": 0,
+      "keywords": [
+        "Noise (video)",
+        "Anomaly detection",
+        "Pattern recognition (psychology)",
+        "Anomaly (physics)",
+        "Neutron"
+      ],
+      "authors": [
+        "A. Kamkar",
+        "M. Abbasi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169575198",
+      "title": "A tensor train collision probability method for neutron transport equation",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106506",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106506",
+      "cited_by_count": 0,
+      "keywords": [
+        "Collision",
+        "Neutron transport",
+        "Transport theory",
+        "Tensor (intrinsic definition)",
+        "Convection–diffusion equation",
+        "Neutron",
+        "Radiation transport"
+      ],
+      "authors": [
+        "M. Lahdour",
+        "Khurrum Saleem Chaudri",
+        "Abdulla Alhajri",
+        "Thiago O. Maciel",
+        "Antonio Cammi",
+        "Mohamed Kamel Riahi",
+        "Noor  Jassem M. Faraj",
+        "Abdulla Naser Alkhoori",
+        "Mohammad Alrwashdeh",
+        "Leandro Aolita",
+        "Saeed A. Alameri"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169547961",
+      "title": "Comparing ASEAN nuclear research reactor operating cultures for supporting multinational human reliability analysis",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106530",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106530",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multinational corporation",
+        "Reliability (semiconductor)",
+        "Research reactor",
+        "Nuclear reactor",
+        "Human reliability",
+        "Human error"
+      ],
+      "authors": [
+        "Wasin Vechgama",
+        "Jinkyun Park",
+        "Joon-Eon Yang",
+        "Kanokporn Boonsirichai",
+        "Weerawat Pornroongruengchok",
+        "Kanokrat Tiyapun",
+        "Anantachai Pechrak",
+        "Saensuk Wetchagarun",
+        "Kampanart Silva",
+        "Pidpong Janta",
+        "Piyawan Krisanangkura",
+        "Julia Abdul Karim",
+        "Phongsakorn Prak Tom",
+        "Mazleha Maskin",
+        "Ridzuan Abdul Mutalib",
+        "Ahmad Hassan Sallehudin Mohd Sarif",
+        "Topan Setiadipura",
+        "Ratih Luhuring Tyas",
+        "Restu Maerani",
+        "Mohammad Subekti",
+        "Kien Cuong Nguyen",
+        "Doan Hai Dang Vo",
+        "Carlo Arcilla",
+        "Dan Mangulabnan",
+        "Eugene Gregorio"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169563446",
+      "title": "Detector-Targeted Weight Window Generation via Absorbing Markov Chain Reachability in Monte Carlo Transport",
+      "abstract": "This work presents a detector-targeted, data-driven weight window (WW) generation procedure based on an absorbing Markov chain surrogate of neutron transport. A collision-indexed transition model is estimated from track-based tallies on a discretized state space, after which a sparse reachability solve yields the probability that a history starting from each state will eventually reach a user-specified detector region before termination. This reachability probability is used as an importance proxy to construct WW bounds for production simulations. The method is demonstrated on two-dimensional labyrinth streaming configurations derived from the Protvino benchmark, including a modified geometry with an additional bend. The resulting WW estimators remain statistically consistent with analog sampling while improving efficiency by approximately 10× in figure of merit (FOM) for the reference case and near 400× for the modified case. These results indicate that reachability-based, detector-specific importances can provide an inexpensive and effective pathway to automated WW generation for labyrinth streaming problems.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1080/00295639.2026.2690567",
+      "doi": "https://doi.org/10.1080/00295639.2026.2690567",
+      "cited_by_count": 0,
+      "keywords": [
+        "Reachability",
+        "Markov chain",
+        "Figure of merit",
+        "Estimator",
+        "Markov chain Monte Carlo",
+        "Window (computing)",
+        "Discretization",
+        "Monte Carlo method",
+        "Markov process"
+      ],
+      "authors": [
+        "Jilang Miao",
+        "Miaomiao Jin",
+        "Ansel Kneier"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169602343",
+      "title": "Expert Insights into Challenges in the Probabilistic Risk Assessment for Advanced Nuclear Power Technologies",
+      "abstract": "The nuclear industry is advancing the design and deployment of new reactor technologies that incorporate safety-enhancing features. Meanwhile, weather-driven natural hazards can disrupt the operation of nuclear power plants (NPPs). Studies have indicated that the intensity, persistence, and frequency of these hazards are likely to increase over time. Given the limited operational experience with advanced nuclear technologies, it is essential to develop strategies to evaluate their safety and potential vulnerabilities under natural hazard conditions.To address these issues, we conducted a literature review and distributed a questionnaire to practitioners to gather insights into the effects of weather-related hazards on NPPs and the challenges of performing probabilistic risk assessments (PRAs) for advanced reactors. The collected responses were analyzed and synthesized to provide a consolidated perspective from the PRA community.Based on the respondents’ judgments, natural hazards capable of inundating NPP systems (e.g. flooding, severe storms, and hurricanes) are generally considered most significant for the safety of NPPs. These findings suggest respondents view the primary difficulties in developing a PRA for advanced reactors stemming from evolving designs and emerging technologies, rather than from limitations in the current PRA tools, techniques, standards, or guidance. Ultimately, these expert insights can inform research and development efforts aimed at enhancing PRA methods for advanced reactors.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1080/00295639.2026.2690569",
+      "doi": "https://doi.org/10.1080/00295639.2026.2690569",
+      "cited_by_count": 0,
+      "keywords": [
+        "Probabilistic risk assessment",
+        "Nuclear power",
+        "Risk assessment",
+        "Probabilistic logic",
+        "Hazard",
+        "Nuclear power industry",
+        "Software deployment",
+        "Nuclear power plant"
+      ],
+      "authors": [
+        "Kaveh Faraji Najarkolaie",
+        "Yunfei Zhao",
+        "Jennifer L. Irish",
+        "Mohammad Modarres",
+        "Michelle Bensi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169597169",
+      "title": "MARVEL Microreactor System Thermal-Hydraulic Design and Analysis",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1080/00295450.2026.2678096",
+      "doi": "https://doi.org/10.1080/00295450.2026.2678096",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microreactor",
+        "Reactor design",
+        "Yield (engineering)"
+      ],
+      "authors": [
+        "Carlo Parisi",
+        "Yasir Arafat"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169623958",
+      "title": "Dynamic probabilistic risk assessment of seismically induced internal flooding considering aftershock effects using physics-based flood propagation and fragility models",
+      "abstract": "This study develops a dynamic probabilistic risk assessment (PRA) method for combined earthquake and internal flooding events in nuclear power plants. The method explicitly integrates seismic fragility analysis with a flood propagation model, enabling evaluation of how earthquake-induced structural damage influences subsequent water intrusion, and vice versa, in a combined, interdependent manner. Seismic effects are evaluated using fragility functions across different ground-motion levels. These are implemented in a fault tree to estimate the failure probability of safety-related equipment. Internal flooding is evaluated by calculating the water level in each room and converting it into equipment failure probability using a water-level-dependent flood fragility model. The system behavior is treated as time-dependent. A state-transition-based dynamic PRA framework is used to update the probability of loss of function at each time step, consistent with a Markov-type state-transition formulation. Uncertainty in the leak rate and barrier damage is accounted for using a Monte Carlo simulation. By combining these models, the method can describe the progression of accident scenarios involving seismic damage and flooding. The results indicate that different scenarios can be governed by distinct mechanisms under different conditions. In some cases, seismic fragility is dominant, while in others, flooding becomes dominant. Mixed behavior is also observed. Therefore, this approach can be useful for evaluating complex scenarios that are difficult to treat with conventional PRA methods.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1080/00223131.2026.2705468",
+      "doi": "https://doi.org/10.1080/00223131.2026.2705468",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fragility",
+        "Flooding (psychology)",
+        "Probabilistic logic",
+        "Flood myth",
+        "Monte Carlo method",
+        "Aftershock",
+        "Risk assessment",
+        "Nuclear power plant"
+      ],
+      "authors": [
+        "Sunghyon Jang",
+        "Jaehyun Cho"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169582756",
+      "title": "Experimental validation of a statistical model for spectrometry with pileup rejection",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104572",
+      "doi": "https://doi.org/10.1016/j.net.2026.104572",
+      "cited_by_count": 0,
+      "keywords": [
+        "Statistical model",
+        "Statistical analysis",
+        "Mass spectrometry",
+        "Model validation",
+        "Experimental data",
+        "Design of experiments"
+      ],
+      "authors": [
+        "S. Pommé",
+        "Soren Cheng",
+        "Bruce Pierson",
+        "B. Archambault",
+        "M. Flaska",
+        "K. Pelczar"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169528427",
+      "title": "A plastic scintillator-based cosmic ray test platform",
+      "abstract": "Cosmic-ray test platforms play a crucial role in the prototyping, calibration, and characterization of particle detectors, providing a cost-effective and flexible complement to accelerator-based beam tests. In this work, we present the design and performance of a versatile cosmic-ray test platform based on triangular plastic scintillator bars. The core tracking system consists of four measurement planes, each comprising two orthogonal layers of scintillator arrays. To reduce readout complexity while preserving high spatial precision, a wavelength-shifting fiber encoding scheme is employed. At the device-under-test position, the system achieves a spatial resolution of approximately 0.5 mm through a charge-weighted center-of-gravity reconstruction method. Benchmarking with a fused silica module demonstrates the platform’s accuracy in quantifying position-dependent photon yields and detection efficiencies. Our work shows that the hardware design, integrated with high-precision tracking reconstruction, provides a robust platform for cosmic-ray reconstruction. Furthermore, this system is adaptable for tracking applications in future particle and nuclear experiments",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-07-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104560",
+      "doi": "https://doi.org/10.1016/j.net.2026.104560",
+      "cited_by_count": 0,
+      "keywords": [
+        "Scintillator",
+        "Tracking (education)",
+        "Image resolution",
+        "Benchmark (surveying)",
+        "Benchmarking",
+        "Tracking system",
+        "Cosmic ray",
+        "Complement (music)"
+      ],
+      "authors": [
+        "zj Song",
+        "D. Du",
+        "Li Gong",
+        "A. Q. Guo",
+        "Xiaoshen Kang",
+        "Cheng Li",
+        "Xin Li",
+        "Yutie Liang",
+        "Zheng Liang",
+        "C. X. Lin",
+        "D. X. Lin",
+        "Zebo Tang",
+        "Y Tian",
+        "Boqun Wang",
+        "Yue Wang",
+        "Y H Zhang",
+        "Y. X. Zhao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7169534067",
+      "title": "Unified analytical framework and regime map for capillary rise in cylindrical assemblies adjacent to a flat surface",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-18",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129286",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129286",
+      "cited_by_count": 0,
+      "keywords": [
+        "Flat surface",
+        "Capillary action",
+        "Surface (topology)",
+        "Capillary surface"
+      ],
+      "authors": [
+        "Milad Ebadi",
+        "Majid Bahrami"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169527199",
+      "title": "Effect of asymmetric opening characteristics on coupled natural convection and surface radiation heat transfer in a semi-enclosed cavity",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129287",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129287",
+      "cited_by_count": 0,
+      "keywords": [
+        "Natural convection",
+        "Heat transfer",
+        "Radiative transfer",
+        "Convective heat transfer",
+        "Convection",
+        "Thermal radiation",
+        "Combined forced and natural convection",
+        "Thermal"
+      ],
+      "authors": [
+        "Jiarui Liang",
+        "Shulin Xue",
+        "Qing Ai",
+        "Meng Liu",
+        "Wei Ma"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169523712",
+      "title": "Freckle prediction model incorporating mushy zone instability during directional solidification of single-crystal nickel-based superalloys",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129296",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129296",
+      "cited_by_count": 0,
+      "keywords": [
+        "Directional solidification",
+        "Superalloy",
+        "Instability",
+        "Convection",
+        "Microstructure"
+      ],
+      "authors": [
+        "Yu Li",
+        "Zhongqiu Liu",
+        "Yongtao Xiong",
+        "Gang wang",
+        "Wenbin Yang",
+        "Dong wang",
+        "Bo Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169579002",
+      "title": "Thermoelastic damping in micro/nanobeam resonators based on Eringen type nonlocal-dual-phase-lag theory",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129300",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129300",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermoelastic damping",
+        "Resonator",
+        "Type (biology)",
+        "Vibration",
+        "Normal mode"
+      ],
+      "authors": [
+        "Ning Li",
+        "Liu Y",
+        "Hongyue Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169591686",
+      "title": "Study on transient flow and thermal evolution of supercritical CO2 cooling in scramjets with pseudo-boiling theory",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129311",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129311",
+      "cited_by_count": 0,
+      "keywords": [
+        "Brayton cycle",
+        "Buoyancy",
+        "Scramjet",
+        "Supercritical fluid",
+        "Transient (computer programming)",
+        "Momentum (technical analysis)",
+        "Thermal conduction",
+        "Evaporation",
+        "Thermal"
+      ],
+      "authors": [
+        "Daoming Ye",
+        "Xinye Yan",
+        "Xiongzhou Xie",
+        "Jianyong Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169549951",
+      "title": "Enhancing heat transfer in Tesla valve microchannels: The impact of diverting island parameters on flow characteristics and thermal efficiency",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129294",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129294",
+      "cited_by_count": 0,
+      "keywords": [
+        "Flow (mathematics)",
+        "Heat transfer",
+        "Thermal",
+        "Thermal efficiency",
+        "Heat transfer coefficient"
+      ],
+      "authors": [
+        "Zhimin Yao",
+        "Hao Wu",
+        "Pengcheng Wen",
+        "Jie Yang",
+        "Jiang Yinhui",
+        "Zhihang Yao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169602103",
+      "title": "Inhibition of vapor backflow and enhanced nucleate boiling for high thermal performances of sintered porous Tesla microchannels",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129306",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129306",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microchannel",
+        "Backflow",
+        "Nucleate boiling",
+        "Boiling",
+        "Heat sink",
+        "Critical heat flux",
+        "Evaporation",
+        "Heat flux",
+        "Superheating"
+      ],
+      "authors": [
+        "Zhaoxuan Liu",
+        "Weiwei Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169504802",
+      "title": "A unified fractional two-field modeling for anomalous thermal transport and interfacial resistance",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129258",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129258",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal conduction",
+        "Decoupling (probability)",
+        "Heat flux",
+        "Thermal",
+        "Thermal contact conductance",
+        "Heat transfer",
+        "Thermal resistance",
+        "Stability (learning theory)"
+      ],
+      "authors": [
+        "Yueyang Sun",
+        "Tao Xue",
+        "Yue Wang",
+        "Xiaobing Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169541501",
+      "title": "Diffusion mechanism of plugging materials in gas-bearing fractures around underground gas extraction boreholes: Modeling, simulation and engineering verification",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129310",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129310",
+      "cited_by_count": 0,
+      "keywords": [
+        "Borehole",
+        "Diffusion",
+        "Slurry",
+        "Gaseous diffusion",
+        "Extraction (chemistry)",
+        "Coal mining",
+        "Leakage (economics)",
+        "Coalbed methane"
+      ],
+      "authors": [
+        "Zhen Lou",
+        "Guangchao Sun",
+        "Kai Wang",
+        "Feng Du",
+        "Wei Zhao",
+        "Jiwei Yue",
+        "Hengjie Qin",
+        "Jianhua Fu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169599792",
+      "title": "Effect of local hotspots with different wettability on nanoscale boiling process on heterogeneous surfaces",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129295",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129295",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanoscopic scale",
+        "Wetting",
+        "Boiling",
+        "Process (computing)",
+        "Boiling heat transfer",
+        "Scale (ratio)"
+      ],
+      "authors": [
+        "Peng Mao",
+        "Zhichun Liu",
+        "Wei Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7169138648",
+      "title": "Thermal dynamic performance analysis of thermocline packed-bed thermal energy storage systems with different configurations",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132398",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132398",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermocline",
+        "Sensible heat",
+        "Thermal energy storage",
+        "Intermittency",
+        "Thermal",
+        "Energy storage",
+        "Latent heat",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Zhimin Han",
+        "Xinming Zeng",
+        "Biao Su",
+        "Y Zhang",
+        "Zhewei Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168403203",
+      "title": "Logistics-aware supervisory temperature setpoint scheduling for industrial cold storage",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132306",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132306",
+      "cited_by_count": 0,
+      "keywords": [
+        "Setpoint",
+        "Scheduling (production processes)",
+        "Cold storage",
+        "Brayton cycle",
+        "Storage tank",
+        "Nozzle"
+      ],
+      "authors": [
+        "Mehdi Forouzanfar",
+        "Anna Pinnarelli",
+        "Luigino Filice"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168287795",
+      "title": "Effects of refrigerant charge on dynamic frosting performance of air-source heat pumps",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132408",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132408",
+      "cited_by_count": 0,
+      "keywords": [
+        "Refrigerant",
+        "Charge (physics)",
+        "Water chiller",
+        "Heat pump",
+        "Air source heat pumps"
+      ],
+      "authors": [
+        "Shiquan Wang",
+        "Wenzhe Wei",
+        "Shanshan Yuan",
+        "Wei Wang",
+        "Su Yan",
+        "Guoyuan Ma",
+        "Zhaoyang Li",
+        "Shiming Deng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168259767",
+      "title": "A climate-adaptive heat flux model for bridge thermal analysis in high-altitude cold regions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132381",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132381",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat flux",
+        "Thermal",
+        "Flux (metallurgy)",
+        "Solar irradiance",
+        "Irradiance",
+        "Convection",
+        "Cold climate",
+        "Boundary value problem",
+        "Temperature measurement",
+        "Thermal analysis"
+      ],
+      "authors": [
+        "Zhicheng Zhang",
+        "Xinyao Piao",
+        "He Zhang",
+        "Cun Zhang",
+        "Lei Sun",
+        "Haoqi Hong",
+        "Zhijing Shen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7168136965",
+      "title": "Experimental study of a reciprocating air compressor using water–copper foam coupled heat transfer",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132378",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132378",
+      "cited_by_count": 0,
+      "keywords": [
+        "Reciprocating compressor",
+        "Heat transfer",
+        "Reciprocating motion",
+        "Gas compressor",
+        "Air compressor",
+        "Airflow"
+      ],
+      "authors": [
+        "Bo Wu",
+        "Teng Ren",
+        "Lu Wang",
+        "Yong-Li Yan",
+        "Chang-Zheng Chen"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 10576,
+    "total": 10602,
     "journals": 275,
-    "last_update": "2026-07-18 03:15:42",
-    "reactor-thermal_count": 1027,
-    "heat-transfer_count": 1913,
+    "last_update": "2026-07-19 03:36:22",
+    "reactor-thermal_count": 1038,
+    "heat-transfer_count": 1928,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1111
+        "count": 1116
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 452
+        "count": 462
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 271
+        "count": 272
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -272973,19 +273694,19 @@
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 246
+        "count": 248
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 161
-      },
-      {
-        "name": "Nuclear Technology",
-        "count": 111
+        "count": 163
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 110
+        "count": 112
+      },
+      {
+        "name": "Nuclear Technology",
+        "count": 112
       },
       {
         "name": "Science",
@@ -273113,7 +273834,7 @@
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 82
+        "count": 84
       },
       {
         "name": "World Development",
@@ -273296,15 +274017,15 @@
         "count": 31
       },
       {
+        "name": "Journal of Nuclear Science and Technology",
+        "count": 31
+      },
+      {
         "name": "Heat Transfer Engineering",
         "count": 31
       },
       {
         "name": "European Journal of Marketing",
-        "count": 30
-      },
-      {
-        "name": "Journal of Nuclear Science and Technology",
         "count": 30
       },
       {
@@ -274058,10 +274779,6 @@
     ],
     "trend": [
       {
-        "date": "2026-06-19",
-        "count": 33
-      },
-      {
         "date": "2026-06-20",
         "count": 33
       },
@@ -274107,7 +274824,7 @@
       },
       {
         "date": "2026-07-01",
-        "count": 177
+        "count": 179
       },
       {
         "date": "2026-07-02",
@@ -274155,26 +274872,30 @@
       },
       {
         "date": "2026-07-13",
-        "count": 35
+        "count": 36
       },
       {
         "date": "2026-07-14",
-        "count": 18
+        "count": 20
       },
       {
         "date": "2026-07-15",
-        "count": 13
+        "count": 14
       },
       {
         "date": "2026-07-16",
-        "count": 17
+        "count": 18
       },
       {
         "date": "2026-07-17",
-        "count": 3
+        "count": 21
       },
       {
         "date": "2026-07-18",
+        "count": 1
+      },
+      {
+        "date": "2026-07-19",
         "count": 0
       }
     ]
@@ -274393,5 +275114,5 @@
       }
     ]
   },
-  "export_time": "2026-07-18T03:15:42.883273"
+  "export_time": "2026-07-19T03:36:22.676755"
 }
