@@ -273665,5 +273665,531 @@
       "Chang-Zheng Chen"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169649655",
+    "title": "Preliminary investigations of a testing method to examine additively manufactured materials under the influence of advanced reactor coolants",
+    "abstract": "Metals with low melting points are used as thermal fluids in thermodynamic applications, like cooling circuits of advanced nuclear power plants or high temperature heat pipes. For alkali metals such as sodium and potassium, there is a risk of spontaneous, highly exothermic reactions with oxygen or formation of an explosive hydrogen atmosphere when in contact with water. In the event of a leak or a complete rupture of e.g., a heat pipe, liquid alkali metals will be released into the environment. These highly exothermic or potentially explosive reactions pose a hazard potential, which is currently difficult to assess. An experimental setup was developed, in which potassium is heated up and then released suddenly into air in a controlled manner. As a basis for further experimental work, reactions of potassium released at high temperatures into air are qualitatively evaluated at different temperatures and potassium quantities. The experiments allow to draw conclusions on the hazard potential and to ensure safety of staff and surroundings during mechanical testing of specimens filled with liquid potassium. The experimental methodology is transferable to other highly heated reactive coolants.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115113",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115113",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Exothermic reaction",
+      "Alkali metal",
+      "Explosive material",
+      "Liquid metal",
+      "Flammability",
+      "Potassium",
+      "Hydrogen",
+      "Thermal runaway"
+    ],
+    "authors": [
+      "Sebastian Gürtler",
+      "Maximilian Friedrich",
+      "Martin Werz"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W4416934880",
+    "title": "Inductively charged spray droplets for enhanced submicron TiO₂ aerosol removal: Linking charged-droplet characteristics to aerosol removal performance",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-07-17",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115111",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115111",
+    "cited_by_count": 0,
+    "keywords": [
+      "Aerosol",
+      "Particle (ecology)",
+      "Charged particle",
+      "Electric field",
+      "Coulomb",
+      "Analytical Chemistry (journal)",
+      "Nanoparticle",
+      "Jet (fluid)",
+      "Velocimetry"
+    ],
+    "authors": [
+      "Y. Zhang",
+      "Yansong Wang",
+      "Hui Liang",
+      "Zhijun Sun",
+      "Kailiang Fan",
+      "Lei Tang",
+      "Lin Pu",
+      "Wan Zhao",
+      "Z.M. Su",
+      "Ming Ding",
+      "Zhongning Sun"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169674324",
+    "title": "Distribution and radiological hazard assessment of 226Ra, 232Th, and 40K in building materials: insights from multivariate statistical analysis",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112649",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112649",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radiological weapon",
+      "Radionuclide",
+      "Multivariate statistics",
+      "Statistical analysis",
+      "Principal component analysis",
+      "Radiation exposure",
+      "Hazard",
+      "Multivariate analysis"
+    ],
+    "authors": [
+      "Mounia Messouli",
+      "Ouafa El Hammoumi",
+      "Nezha Mejjad",
+      "Ahmed Fekri",
+      "Azzouz Benkdad",
+      "Abdelmourhit Laissaoui"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169657693",
+    "title": "Radioactive source anomaly monitoring method in nuclear material storage area based on the fusion of particle filtering and UWB",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112648",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112648",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear material",
+      "Tracking (education)",
+      "Detector",
+      "Position (finance)",
+      "Electromagnetic shielding",
+      "Anomaly detection",
+      "Radioactive source",
+      "Anomaly (physics)",
+      "Trajectory"
+    ],
+    "authors": [
+      "Dong Yan",
+      "Yufeng Xiao",
+      "Zhenyu Ren",
+      "Binyi Yang",
+      "Yaolong Zhao",
+      "S Guo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169661383",
+    "title": "Large-eddy simulation of heat-generating molten salt flows in wall-bounded geometries: Application to molten salt reactors",
+    "abstract": "Turbulent wall-bounded molten salt flows are encountered in Molten Salt Reactors (MSRs), where heat is generated volumetrically within the fluid due to nuclear reactions. This work aims to quantify the influence of volumetric heat generation on both Kolmogorov scales and large scales across different layers of turbulent molten salt flows characterized by low kinematic viscosity and high Prandtl numbers. For this purpose, turbulent channel flow of molten salt with variable thermophysical properties is modeled using Large-Eddy Simulation (LES). To verify the LES framework, a grid resolution study is first performed and the performance of five subgrid-scale (SGS) models (Smagorinsky, Turbulent Kinetic Energy (TKE), buoyancy-modified TKE, dynamic TKE, and WALE), together with an SGS-free approach are assessed through comparison with DNS data. The results demonstrate that the presence of a volumetric heat generation enhances SGS kinetic energy in the buffer layer (y+ < 40) while decreasing it in the outer layer. As a result, the Reynolds stress components increase in the near-wall region while decreasing at the channel center. Moreover, the mean Kolmogorov velocity scale ( u η ) decreases, while the mean Kolmogorov length scale ( η ) increases. Additionally, the results indicate that constant coefficient models, such as Smagorinsky and TKE fail to predict the solution accurately. Compared with the reference correlations, these models underpredict the friction factor by 39% and the Nusselt number by 82%, owing to their high dissipation rates and consequent inability to resolve small eddies. However, incorporating the buoyancy term into the TKE equation improves velocity predictions in the outer layers ( y + > 50 ).",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106532",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106532",
+    "cited_by_count": 0,
+    "keywords": [
+      "Turbulence",
+      "Nusselt number",
+      "Turbulence kinetic energy",
+      "Molten salt",
+      "Buoyancy",
+      "Prandtl number",
+      "Reynolds number",
+      "Work (physics)",
+      "Viscosity",
+      "Kolmogorov microscales"
+    ],
+    "authors": [
+      "Mahdi Aghili Nasr",
+      "Luca Marocco",
+      "Laura Savoldi",
+      "X F Wang",
+      "Antonio Cammi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169651047",
+    "title": "Design Characteristics and Preliminary Performance Analysis on Passive Safety Systems of i-SMR",
+    "abstract": "ABSTRACT An innovative small modular reactor (i-SMR) is being developed in the Republic of Korea with a fully passive safety concept comprising the passive auxiliary feedwater system (PAFS), passive containment cooling system (PCCS), and passive emergency core cooling system (PECCS). These systems are thermally and hydraulically coupled through the compact steel containment vessel (CV) and the emergency cooling tank (ECT), forming an integrated passive safety architecture. This study presents the design characteristics of the i-SMR passive safety systems and their preliminary thermal-hydraulic performance evaluated using MARS-KS. To investigate the integrated passive response, an inadvertent opening of one emergency depressurization valve (IOEDV), exhibiting thermal-hydraulic behavior similar to that of a loss-of-coolant accident, was analyzed. The results show rapid depressurization of the reactor coolant system, effective containment cooling, and subsequent gravity-driven recirculation from the CV to the reactor vessel through the PECCS. The CV pressure was reduced to less than one-half of its peak value within 24 h, and the primary system reached the safe shutdown condition within 36 h. Sustained natural circulation in the PAFS and PCCS and sufficient ECT inventory were maintained for 30 days without operator action, providing a system-level basis for future design verification and safety validation.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104574",
+    "doi": "https://doi.org/10.1016/j.net.2026.104574",
+    "cited_by_count": 0,
+    "keywords": [
+      "Cabin pressurization",
+      "Natural circulation",
+      "Containment (computer programming)",
+      "Pressurizer",
+      "Coolant",
+      "Modular design",
+      "Inherent safety",
+      "System safety",
+      "Water cooling"
+    ],
+    "authors": [
+      "Seong-Su Jeon",
+      "Youngjae Park",
+      "Sang Gyun Nam",
+      "Seokjong Yoon",
+      "Jisu KIM",
+      "Sukho Lee",
+      "Hyunsuk Nam",
+      "Sang Gyu Lim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169660429",
+    "title": "Control strategies for stabilizing transpiration cooling with phase change under high heat flux conditions",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129303",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129303",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Overshoot (microwave communication)",
+      "Temperature control",
+      "Water cooling",
+      "Heat flux",
+      "Volumetric flow rate",
+      "Transpiration",
+      "Water flow",
+      "Flow (mathematics)"
+    ],
+    "authors": [
+      "Hao Li",
+      "Ting He",
+      "Y T Song",
+      "Ruina Xu",
+      "Peixue Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169668986",
+    "title": "Thermodynamic origin of root-like architectures in topology-optimized porous electrodes",
+    "abstract": "Recent studies have shown that topology optimization can generate high-performing porous architectures, often exhibiting graded, branched, or root-like morphologies. However, the physical origin of these recurring structures remains unclear. In this work, we develop a theoretical framework linking reaction–diffusion transport, topology optimization, and nonequilibrium thermodynamics to explain the emergence of root-like porous electrodes. Starting from a simplified first-order reaction–diffusion model with porosity-dependent effective properties, classical relationships for effectiveness factor and characteristic penetration depth are revisited and extended to graded media. Scaling arguments are then proposed for branch spacing, root thickness, and root length by balancing axial reactant delivery with lateral consumption in the surrounding reactive matrix. A thermodynamic interpretation is further introduced in which the penetration depth represents a crossover distance beyond which transport-related irreversibility becomes increasingly dominant. Density-based topology optimization is then employed to maximize overall reaction rate under finite porosity constraints. The optimized structures evolve from uniform to hierarchical root-like networks, showing substantially improved utilization compared with conventional uniform porous layers. The predicted geometric trends are consistent with the optimized morphologies. These results suggest that root-like porous architectures are not arbitrary numerical artifacts, but physically meaningful responses to coupled transport, reaction, and thermodynamic constraints. The present framework provides mechanistic design principles for reaction-diffusion-limited porous electrodes.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129302",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129302",
+    "cited_by_count": 0,
+    "keywords": [
+      "Non-equilibrium thermodynamics",
+      "Porous medium",
+      "Porosity",
+      "Scaling",
+      "Crossover",
+      "Topology (electrical circuits)",
+      "Topology optimization"
+    ],
+    "authors": [
+      "Patcharawat Charoen‐amornkitt",
+      "M.B. Long",
+      "Paranyu Charoenmark",
+      "Takahiro Suzuki",
+      "Shohji Tsushima"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169651341",
+    "title": "Experimental study on burning rate and heat feedback of oil layer affected by built-in obstacle",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129307",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129307",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal conduction",
+      "Convection",
+      "Obstacle",
+      "Work (physics)",
+      "Fuel oil",
+      "Liquid fuel",
+      "Radiation",
+      "Thermal radiation"
+    ],
+    "authors": [
+      "C S Wang",
+      "Jie Ji",
+      "Fang Tang",
+      "Jingming Wan",
+      "J Q Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168780959",
+    "title": "Electro-hydro coupling energy management for a compact renewable electricity-heat‑hydrogen polygeneration system",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-16",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132417",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132417",
+    "cited_by_count": 0,
+    "keywords": [
+      "Proton exchange membrane fuel cell",
+      "Renewable energy",
+      "Hydrogen",
+      "Hydrogen fuel",
+      "Power to gas",
+      "Thermal energy",
+      "Exergy",
+      "Hydrogen economy",
+      "Modular design",
+      "Electric power"
+    ],
+    "authors": [
+      "Junjie Zhao",
+      "Zhengkai Tu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168598878",
+    "title": "CHF enhancement on a large heating surface in saturated pool boiling using combined porous structures",
+    "abstract": "This study explores the enhancement of critical heat flux (CHF) on a large heating surface (30 mm in diameter) during saturated pool boiling at atmospheric pressure. Although many CHF enhancement techniques have been developed, their performance tends to decline with larger heater sizes, leaving reliable methods for large heating surfaces limited. To address this challenge, we propose a two-layer structured boiling surface composed of a copper electrodeposited porous plate (EPP, lower layer) and a stainless-steel honeycomb porous plate (SUS-HPP, upper layer). This design synergizes capillary-driven liquid supply with improved vapor removal. The proposed structure allows for sustained nucleate boiling up to 5.5 MW/m 2 without reaching CHF, suggesting that the actual CHF exceeds this threshold. This represents a CHF enhancement of at least 4.5 times that of a plain copper surface and outperforms each layer when used independently. Our findings indicate that the combined effects of liquid retention and vapor removal in the upper layer, alongside robust capillary-driven liquid supply in the lower layer, significantly reduce CHF degradation on large heating surfaces. The proposed structure demonstrates higher CHF enhancement than previously reported values for 30-mm-diameter heaters (approximately 3.2 to 4.5 times higher), highlighting its potential as a scalable solution for high heat flux cooling applications involving large-area heaters.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-16",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132366",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132366",
+    "cited_by_count": 0,
+    "keywords": [
+      "Boiling",
+      "Critical heat flux",
+      "Nucleate boiling",
+      "Porosity",
+      "Copper",
+      "Heat flux",
+      "Flux (metallurgy)",
+      "Heating element",
+      "Nucleation"
+    ],
+    "authors": [
+      "Yuya HAYASHIDA",
+      "Yutaro Umehara",
+      "Atsuro Etoh",
+      "Shoji Mori"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168524762",
+    "title": "Dynamic characteristics of a coal-fired power plant integrated with multi-column temperature vacuum swing adsorption carbon capture",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-16",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132373",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132373",
+    "cited_by_count": 0,
+    "keywords": [
+      "Adsorption",
+      "Flue gas",
+      "Coal",
+      "Energy consumption",
+      "Idle",
+      "Renewable energy",
+      "Flexibility (engineering)",
+      "Thermal power station",
+      "Electricity generation",
+      "Power station"
+    ],
+    "authors": [
+      "W. Liu",
+      "Y. Huang",
+      "Xi Zhang",
+      "T R Wang",
+      "M.X. Fang",
+      "X.J. Lin",
+      "L. Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168713573",
+    "title": "Experimental and numerical study on accuracy improvement of wide-range dynamic burning rate testing of solid propellants under rapid pressurization",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-16",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132420",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132420",
+    "cited_by_count": 0,
+    "keywords": [
+      "Propellant",
+      "Cabin pressurization",
+      "Ignition system",
+      "Nozzle",
+      "Impulse (physics)",
+      "Burn rate (chemistry)",
+      "Work (physics)",
+      "Combustion",
+      "Transient (computer programming)"
+    ],
+    "authors": [
+      "Xi Zhang",
+      "Yinghong Wang",
+      "Yiqin Lv",
+      "Xiang Lv",
+      "Xianggeng Wei",
+      "F L Wang",
+      "Weiwei Li",
+      "Yuxin Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168937323",
+    "title": "Experimental research on the comparison of combustion and emissions characteristics between low-and high-pressure Ammonia injections in a marine dual-fuel engine",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-16",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132364",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132364",
+    "cited_by_count": 0,
+    "keywords": [
+      "Combustion",
+      "Ammonia",
+      "Nitrous oxide",
+      "Diesel fuel",
+      "Ignition system",
+      "Experimental research",
+      "Diesel engine",
+      "Dilution"
+    ],
+    "authors": [
+      "Kyunghoon Kim",
+      "Chansoo Park",
+      "Cheolwoong Park",
+      "Gyeongtae Park",
+      "Ilpum Jang",
+      "M N Kim",
+      "Hyeongjun Jang",
+      "D W Kim",
+      "Jeongwoo Lee"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7168169973",
+    "title": "Effect of the spray bars on droplet dispersion and heat transfer in an icing wind tunnel",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132384",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132384",
+    "cited_by_count": 0,
+    "keywords": [
+      "Icing",
+      "Heat transfer",
+      "Wind tunnel",
+      "Dispersion (optics)",
+      "Icing conditions"
+    ],
+    "authors": [
+      "Wei Ren",
+      "Bo Guan",
+      "Haibin Zhang",
+      "Bofeng Bai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169670516",
+    "title": "Application of data-driven surrogate-assisted evolutionary algorithm for optimization and heat transfer analysis of helical groove tubes",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111191",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111191",
+    "cited_by_count": 0,
+    "keywords": [
+      "Groove (engineering)",
+      "Heat transfer",
+      "Evolutionary algorithm",
+      "Transfer (computing)",
+      "Optimization algorithm",
+      "Transfer problem"
+    ],
+    "authors": [
+      "Shuo Wang",
+      "Lin Wan",
+      "Hongchao Wang",
+      "Gang Che",
+      "Y N Li",
+      "Shuguo He",
+      "You Xi",
+      "Mengke Huang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169671923",
+    "title": "Heat transfer performance and thermo-mechanical response of C/SiC-TC4 lattice core sandwich structures",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111197",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111197",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Core (optical fiber)",
+      "Lattice (music)",
+      "Heat transfer coefficient",
+      "Specific heat"
+    ],
+    "authors": [
+      "Mengzhou Chang",
+      "Xiaopan Yang",
+      "B X Wang",
+      "Feigao Fan",
+      "Xiaochu Lin",
+      "Enling Tang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7169667055",
+    "title": "Design and performance analysis of a combined fluidic oscillators liquid cooling plate for chip heat dissipation",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-07-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111190",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111190",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Computer cooling",
+      "Heat transfer",
+      "Fluidics",
+      "Heat flux",
+      "Dissipation",
+      "Pressure drop",
+      "Water cooling",
+      "Turbulence",
+      "Heat transfer enhancement",
+      "Thermal"
+    ],
+    "authors": [
+      "Minqiang Pan",
+      "Pengzhan Lu",
+      "J Huang"
+    ],
+    "category": "heat-transfer"
   }
 ]
