@@ -284219,31 +284219,665 @@
         "Li Jia"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171946580",
+      "title": "Neutronic and kinetic performance of thorium–U-233 and thorium–Plutonium fuel cycles in the SMART integral PWR",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115150",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115150",
+      "cited_by_count": 0,
+      "keywords": [
+        "Kinetic energy",
+        "Pressurized water reactor",
+        "Fuel cycle",
+        "Nuclear reactor"
+      ],
+      "authors": [
+        "Miranildo Cabral da Silva",
+        "Abel Gámez Rodríguez",
+        "Yaicel Gé Proenza",
+        "Fabian Luis Mena de la Noval",
+        "Jair de Lima Bezerra",
+        "Giovanni L. de Stefani",
+        "Carlos A. Brayner de Oliveira Lira",
+        "Daniel Milian Pérez"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171982823",
+      "title": "Review of radioactive aerosol behaviors and numerical methods in containments of PWRs under severe accidents",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115141",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115141",
+      "cited_by_count": 0,
+      "keywords": [
+        "Aerosol",
+        "Containment (computer programming)",
+        "Numerical models",
+        "Computer simulation",
+        "Numerical modeling",
+        "Numerical analysis"
+      ],
+      "authors": [
+        "Xiong Wang",
+        "Hui Wang",
+        "Hui Liang",
+        "Zhichao Qi",
+        "Ming Ding"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172024059",
+      "title": "LUT-guided grey-box neural networks for predicting critical heat flux in uniformly heated water-cooled circular tubes",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115112",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115112",
+      "cited_by_count": 0,
+      "keywords": [
+        "Artificial neural network",
+        "Heat flux",
+        "Flux (metallurgy)",
+        "Critical heat flux",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Han Yang",
+        "Dengke Li",
+        "Zhengkai Wang",
+        "Yucheng Yan",
+        "Feng Luan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171955942",
+      "title": "Heat transfer enhancement and entropy generation analysis of bionic fish-scale structures in narrow rectangular channels for plate-type fuel applications",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112686",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112686",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Heat transfer",
+        "Coolant",
+        "Entropy (arrow of time)",
+        "Vortex generator",
+        "Heat transfer enhancement",
+        "Thermal",
+        "Vortex",
+        "Aspect ratio (aeronautics)",
+        "Friction factor"
+      ],
+      "authors": [
+        "Xiaoya Liu",
+        "L. Ran",
+        "Xinwen Zhao",
+        "Hongguang Xiao",
+        "Yongfa Zhang",
+        "Ming Ding"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171979737",
+      "title": "Research on fault detection and diagnosis method of space thermionic reactor based on machine learning with generalization in power level and fault severity",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112680",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112680",
+      "cited_by_count": 0,
+      "keywords": [
+        "Generalization",
+        "Fault (geology)",
+        "Curse of dimensionality",
+        "Fault detection and isolation",
+        "Power (physics)",
+        "Fault indicator",
+        "Pattern recognition (psychology)",
+        "Novelty detection"
+      ],
+      "authors": [
+        "Zongyun Wu",
+        "T H Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172027190",
+      "title": "Reduced-order modeling and 1D–3D coupling method for reactor coolant pump coast-down",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112693",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112693",
+      "cited_by_count": 0,
+      "keywords": [
+        "Interfacing",
+        "Flow (mathematics)",
+        "Computational fluid dynamics",
+        "Field (mathematics)",
+        "Kriging",
+        "Reliability (semiconductor)",
+        "Coupling (piping)",
+        "Extrapolation"
+      ],
+      "authors": [
+        "Chen Xingyu",
+        "Chunhui Dai"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172003066",
+      "title": "Controlling the Laves phase morphology in FeCrAl alloy through Zr microalloying to balance strength, plasticity, and corrosion resistance",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112699",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112699",
+      "cited_by_count": 0,
+      "keywords": [
+        "Laves phase",
+        "Acicular",
+        "Alloy",
+        "Corrosion",
+        "Cladding (metalworking)",
+        "Passivation",
+        "Ultimate tensile strength",
+        "Structural material"
+      ],
+      "authors": [
+        "Yuhan Gao",
+        "Boyuan Zhou",
+        "Ruijie Li",
+        "Jiafeng Liao",
+        "Zhe Liu",
+        "Wenbo Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171964229",
+      "title": "Meta-analysis identifies high-fidelity models with accuracy-efficiency trade-offs across flow conditions in thermal striping prediction",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106540",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106540",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Grid",
+        "Data striping",
+        "Reliability (semiconductor)",
+        "Computational fluid dynamics",
+        "Thermal",
+        "Flow (mathematics)",
+        "Transient (computer programming)",
+        "Thermal hydraulics"
+      ],
+      "authors": [
+        "Mohsin Raza",
+        "Ikram Ui Haq",
+        "Tahsin Nawaz",
+        "Muzamil Abbas",
+        "Junliang Guo",
+        "Xiao-Bin Li",
+        "Yue Wang",
+        "Wei-Hua Cai",
+        "Shu-Qi Meng",
+        "Fang Chen",
+        "Feng‐Chen Li"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171919266",
+      "title": "Geant4-Based Radiological and Shielding Assessment of Plasma-Immobilized Intermediate-Level Radioactive Waste",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1080/00295450.2026.2703912",
+      "doi": "https://doi.org/10.1080/00295450.2026.2703912",
+      "cited_by_count": 0,
+      "keywords": [
+        "Radiological weapon",
+        "Radioactive waste",
+        "Electromagnetic shielding",
+        "Radiation shielding",
+        "Radiation protection",
+        "Radioactive contamination"
+      ],
+      "authors": [
+        "Youmna Ghoneim",
+        "Zaky A. Zaky",
+        "Arafa H. Aly",
+        "Alexander Karengin",
+        "I. K. Novoselov"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171928951",
+      "title": "Mitigation of steam-oxidation in uranium nitride fuel pellets by carbon addition",
+      "abstract": "Uranium nitride (UN) is an accident-tolerant fuel candidate for light-water reactors because of its high uranium density and thermal conductivity. During fabrication, oxygen- and carbon-related impurities can be introduced, yet their influence on the steam oxidation of UN has not been well quantified. To address this gap, we fabricated UN pellets with controlled additions of UO2 and carbon, and investigated their behavior under flowing steam at 350°C. Pristine UN pellets showed partial surface oxidation after 30 min, followed by complete disintegration after 90 min. UO2-added pellets were less stable and disintegrated within 45 min. In contrast, carbon addition markedly improved the steam oxidation tolerance, as evidenced by intact pellet surfaces with reduced spallation. UN pellets containing 0.25–1.40 wt% carbon retained their shapes and exhibited weight gains below 0.2% even after 240 min. Overall, our experimental results underscore the need to carefully control fabrication-related impurities, as minimizing oxygen contamination and moderately incorporating carbon are effective measures for improving the steam oxidation resistance of UN pellets.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1080/00223131.2026.2712383",
+      "doi": "https://doi.org/10.1080/00223131.2026.2712383",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pellets",
+        "Pellet",
+        "Carbon fibers",
+        "Uranium",
+        "Oxygen",
+        "Nitride",
+        "Pyrolysis"
+      ],
+      "authors": [
+        "Kyosuke Shibasaki",
+        "Yifan Sun",
+        "Nozomu Murakami",
+        "Yasunari Shinohara",
+        "Shigeru Kurematsu",
+        "Yuji Ohishi",
+        "Ken Kurosaki"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172006940",
+      "title": "Secondary flow and peripheral heat flux distribution in square channels with macroscopic random roughness",
+      "abstract": "We perform numerical simulations of conjugate heat transfer in square ducts for two representative rough surfaces (grit-blasted and graphite) and two fluid–solid conductivity ratios, using both DNS and RANS with the Spalart–Allmaras model. The effect of the QCR extension is also assessed, with a smooth-wall case serving as a baseline. DNS captures the altered heat-transfer distribution and secondary flows caused by roughness, whereas RANS tends to circularize velocity and temperature fields, yielding parabolic Nusselt profiles with limited sensitivity to geometric details. The QCR correction improves RANS predictions for grit-blasted roughness, where secondary flows resemble the smooth case, but degrades accuracy for the graphite surface, where eddy orientation is reversed. Despite local discrepancies, RANS agrees well with DNS in global metrics, with errors typically below 5%. For the first time, the heat-flux distribution along the duct perimeter is examined in detail, revealing that it depends not only on the roughness intensity but also on its morphological characteristics. These findings support the use of RANS for average heat-transfer prediction in rough-wall conjugate heat transfer, while underscoring the need for high-fidelity simulations to resolve the spatial complexity introduced by roughness.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129338",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129338",
+      "cited_by_count": 0,
+      "keywords": [
+        "Reynolds-averaged Navier–Stokes equations",
+        "Nusselt number",
+        "Heat flux",
+        "Surface finish",
+        "Conjugate gradient method",
+        "Heat transfer",
+        "Large eddy simulation",
+        "Secondary flow"
+      ],
+      "authors": [
+        "Matteo Fiore",
+        "D. ROSSI",
+        "Francesco Nasuti",
+        "Sergio Pirozzoli"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171924460",
+      "title": "Predictive thermal modeling for rough interfaces of Ti-6Al-4V chip and TiAlSiN-coated tool based on micro-contact analysis",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129361",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129361",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Coating",
+        "Parametric statistics",
+        "Surface roughness",
+        "Thermal",
+        "Surface finish",
+        "Heat flux",
+        "Heat generation",
+        "Heat sink"
+      ],
+      "authors": [
+        "Shichen Lv",
+        "Mai Yang",
+        "Mingquan Jiang",
+        "Baifeng Ji",
+        "Jian Peng",
+        "Song Zhang",
+        "Rong Tu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W4416381676",
+      "title": "Interface phonon modes governed ultrahigh thermal conductance of diamond/cubic boron nitride interfaces",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129245",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129245",
+      "cited_by_count": 0,
+      "keywords": [
+        "Phonon",
+        "Thermal conductivity",
+        "Boron nitride",
+        "Heterojunction",
+        "Thermal",
+        "Semiconductor",
+        "Ballistic conduction",
+        "Ideal (ethics)",
+        "Interface (matter)"
+      ],
+      "authors": [
+        "Xiaonan Wang",
+        "Xin Wu",
+        "Penghua Ying",
+        "Zheyong Fan",
+        "Jin Zhang",
+        "Huarui Sun"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171811817",
+      "title": "Fabrication and capillary performance of short cutting-fiber wick structure for phase-change heat transfer devices",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132608",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132608",
+      "cited_by_count": 0,
+      "keywords": [
+        "Capillary action",
+        "Fabrication",
+        "Capillary pressure",
+        "Porosity",
+        "Fiber",
+        "Sintering",
+        "Heat pipe",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Guangzhao Yang",
+        "Hao Wang",
+        "Yong Tang",
+        "Heng Tang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171668828",
+      "title": "Experimental and theoretical study on heat transfer characteristics of capillary heat exchanger under low velocity conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132598",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132598",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat exchanger",
+        "Heat transfer",
+        "Heat transfer coefficient",
+        "Plate heat exchanger",
+        "Capillary action",
+        "Dynamic scraped surface heat exchanger",
+        "Plate fin heat exchanger"
+      ],
+      "authors": [
+        "Jinfu Zheng",
+        "Mengying Dou",
+        "Changpeng Han",
+        "Hongcui Wu",
+        "Songtao Hu",
+        "Zhaoting Ren",
+        "Minghui Ning",
+        "Xiaojie Zhou",
+        "Yongming Ji",
+        "Ying Sun"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171490095",
+      "title": "Numerical study on the competitive mechanism of homogeneous and heterogeneous icing in supersonic flow of high-pressure air pressure reducing valves",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132574",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132574",
+      "cited_by_count": 0,
+      "keywords": [
+        "Icing",
+        "Homogeneous",
+        "Supersonic speed",
+        "Mechanism (biology)",
+        "Flow (mathematics)",
+        "Choked flow",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Jiahui Ren",
+        "Longlong Gao",
+        "Yuhao Fan",
+        "Yunxiang Fang",
+        "Baoren Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171495442",
+      "title": "Liquid sheet breakup and atomization of marine gas oil in a pressure-swirl atomizer: Experiments and viscosity-dependent prediction models",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132579",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132579",
+      "cited_by_count": 0,
+      "keywords": [
+        "Breakup",
+        "Predictive modelling",
+        "Model validation",
+        "Mathematical model",
+        "Fossil fuel",
+        "Performance prediction"
+      ],
+      "authors": [
+        "Won Choi",
+        "Yechan Seo",
+        "Jeekeun Lee"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171556682",
+      "title": "Fuel surrogate temperature prediction for microreactor using heat pipe under transient conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-28",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132596",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132596",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microreactor",
+        "Heat pipe",
+        "Transient (computer programming)",
+        "Thermal",
+        "Pipe",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Ik Jae Jin",
+        "In Cheol Bang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171245148",
+      "title": "Transient analysis of the salt charging process and optimization design of the distribution ring in molten salt storage tanks under multiple operating conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132552",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132552",
+      "cited_by_count": 0,
+      "keywords": [
+        "Transient (computer programming)",
+        "Process (computing)",
+        "Ring (chemistry)",
+        "Salt (chemistry)",
+        "Molten salt",
+        "Transient analysis"
+      ],
+      "authors": [
+        "Cunxian Chen",
+        "Qiyu Lin",
+        "Zhiyu Jiang",
+        "Hao Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7170221157",
+      "title": "Performance and frosting–defrosting characteristics of a CO₂ heat pump air conditioning system for electric vehicles",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132327",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132327",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat pump",
+        "Air conditioning",
+        "Air source heat pumps",
+        "Coefficient of performance"
+      ],
+      "authors": [
+        "Yidong Xu",
+        "Ni Liu",
+        "Dongming Li",
+        "Kang Li",
+        "Xiaoguang Yang",
+        "Hua Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171939617",
+      "title": "Effect of the pulsed discharge energy deposition on streamlined surface cooling",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111227",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111227",
+      "cited_by_count": 0,
+      "keywords": [
+        "Deposition (geology)",
+        "Surface (topology)",
+        "Energy (signal processing)",
+        "Surface energy",
+        "Water cooling"
+      ],
+      "authors": [
+        "Elizaveta Karnozova",
+        "Irina Znamenskaya",
+        "Tahir Kuli-Zade"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171977284",
+      "title": "Pressure-dependent pseudo-critical inlet window for supercritical CO2 microchannel cooling: A three-dimensional conjugate thermo-hydraulic analysis",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111213",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111213",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microchannel",
+        "Inlet",
+        "Supercritical fluid",
+        "Superheating",
+        "Heat transfer",
+        "Hydraulic diameter",
+        "Reynolds number",
+        "Offset (computer science)",
+        "Thermal"
+      ],
+      "authors": [
+        "Guangsheng Wu",
+        "Lanqing Qiao",
+        "Lu Liu",
+        "Kim Tiow Ooi",
+        "Junming Zhao",
+        "Jianyu Tan",
+        "Xiaoguang Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171997547",
+      "title": "Emissivity assessment of sandblasted surfaces: Methodology for decoupling roughness and surface chemistry effects using Physics-guided Neural Networks",
+      "abstract": "This study presents a physics-guided neural network model for predicting the spectral emissivity of sandblasted titanium surfaces. The proposed approach integrates Agababov’s model with a multi-parametric description of surface roughness and accounts for chemical contamination induced by corundum (Al 2 O 3 ) particle embedding. Fifteen Ti-6Al-4V samples were prepared using five abrasive grain sizes and three projection pressures, producing surfaces with arithmetic mean roughness ranging from 0.53 to 3.72 μ m. Emissivity measurements were performed in the spectral range of 2–23 μ m with a spectrometer. The proposed neural network architecture consists of two parallel branches. The first branch estimates the roughness factor using eight surface descriptors. The second branch predicts the evolution function of the material based on the parameters of the sandblasting process. A Fourier Amplitude Sensitivity Testing (FAST) analysis was employed to identify the most influential roughness parameters, revealing that the arithmetic mean peak curvature (Spc) and the developed interfacial area ratio (Sdr) exhibit the highest sensitivity indices. The model achieves an average prediction error below 2.5 ± 1.37 % on all tested surfaces, outperforming existing analytical approaches that rely on a limited number of roughness parameters and do not account for chemical contamination effects. Analysis reveals that corundum contamination contributes 35–50% of the increase in total emissivity depending on the sandblasting conditions. This finding emphasizes the necessity of accounting for chemical modifications in radiative property models for functionalized surfaces.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-07-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111217",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111217",
+      "cited_by_count": 0,
+      "keywords": [
+        "Emissivity",
+        "Surface finish",
+        "Surface roughness",
+        "Corundum",
+        "Artificial neural network",
+        "Sandpaper",
+        "Gloss (optics)",
+        "Decoupling (probability)",
+        "Mean squared error"
+      ],
+      "authors": [
+        "Gaudens Towanou",
+        "Marvin Nurit",
+        "Édouard Geslain",
+        "Cédric Pouvreau",
+        "Philippe Le Masson",
+        "Maxence Bigerelle",
+        "Gaëtan Le Goïc"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 10995,
+    "total": 11018,
     "journals": 277,
-    "last_update": "2026-08-01 03:38:29",
-    "reactor-thermal_count": 1165,
-    "heat-transfer_count": 2194,
+    "last_update": "2026-08-02 03:38:29",
+    "reactor-thermal_count": 1175,
+    "heat-transfer_count": 2207,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1269
+        "count": 1276
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 524
+        "count": 527
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 305
+        "count": 309
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 304
+        "count": 307
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -284251,15 +284885,15 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 186
+        "count": 189
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 124
+        "count": 125
       },
       {
         "name": "Nuclear Technology",
-        "count": 123
+        "count": 124
       },
       {
         "name": "Science",
@@ -284494,15 +285128,15 @@
         "count": 38
       },
       {
+        "name": "Journal of Nuclear Science and Technology",
+        "count": 38
+      },
+      {
         "name": "Review of Quantitative Finance and Accounting",
         "count": 37
       },
       {
         "name": "Environment and Planning B Urban Analytics and City Science",
-        "count": 37
-      },
-      {
-        "name": "Journal of Nuclear Science and Technology",
         "count": 37
       },
       {
@@ -285340,10 +285974,6 @@
     ],
     "trend": [
       {
-        "date": "2026-07-03",
-        "count": 16
-      },
-      {
         "date": "2026-07-04",
         "count": 10
       },
@@ -285425,11 +286055,11 @@
       },
       {
         "date": "2026-07-24",
-        "count": 28
+        "count": 29
       },
       {
         "date": "2026-07-25",
-        "count": 20
+        "count": 21
       },
       {
         "date": "2026-07-26",
@@ -285441,22 +286071,26 @@
       },
       {
         "date": "2026-07-28",
-        "count": 26
+        "count": 30
       },
       {
         "date": "2026-07-29",
-        "count": 17
+        "count": 18
       },
       {
         "date": "2026-07-30",
-        "count": 19
+        "count": 20
       },
       {
         "date": "2026-07-31",
-        "count": 1
+        "count": 13
       },
       {
         "date": "2026-08-01",
+        "count": 3
+      },
+      {
+        "date": "2026-08-02",
         "count": 0
       }
     ]
@@ -285675,5 +286309,5 @@
       }
     ]
   },
-  "export_time": "2026-08-01T03:38:29.793482"
+  "export_time": "2026-08-02T03:38:29.797968"
 }
