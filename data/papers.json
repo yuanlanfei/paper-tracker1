@@ -284852,5 +284852,423 @@
       "Gaëtan Le Goïc"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W4414193323",
+    "title": "Systematic literature review for in-vessel core degradation models during PWR severe accident",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-07-31",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115144",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115144",
+    "cited_by_count": 0,
+    "keywords": [
+      "Systematic review",
+      "Accident (philosophy)",
+      "Systematic error",
+      "Core (optical fiber)",
+      "Accident analysis",
+      "Accident investigation"
+    ],
+    "authors": [
+      "Nathália N. Araújo",
+      "Maritza Rodríguez Gual",
+      "Hugo da Costa Romberg",
+      "Henrique A. de Aquino",
+      "Marcos Coelho Maturana",
+      "Marcelo Ramos Martins"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7172091501",
+    "title": "Generation planning of small modular reactor based nuclear power plants in electrical grids",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112671",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112671",
+    "cited_by_count": 0,
+    "keywords": [
+      "Modular design",
+      "Nuclear power",
+      "Nuclear reactor",
+      "Power (physics)",
+      "Electricity generation",
+      "Nuclear power plant"
+    ],
+    "authors": [
+      "Bikash Poudel",
+      "Dipendra Subedi",
+      "Ramakrishna Gokaraju"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7172095821",
+    "title": "Trade-off between repository footprint and radiotoxicity in geological disposal of vitrified high-level waste from spent MOX fuels: quantitative assessment of simplified minor actinide separation",
+    "abstract": "Radioactive waste management remains a critical challenge for the sustainability of nuclear energy systems, particularly for closed fuel cycles utilizing mixed oxide (MOX) fuel. MOX fuel contains significantly higher concentrations of minor actinides (MAs) and heat-generating nuclides compared to uranium dioxide (UO 2 ) fuel, necessitating distinct disposal strategies. This study evaluates the effect of a proposed “simplified MA separation” process (recovery ratios of 70% and 90%) on the environmental load of geological disposal for vitrified high-level waste from spent MOX fuel (MOX-HLW). The term environmental load is defined as the physical/spatial footprint. We quantitatively assessed the repository footprint and radiological impact based on nuclide migration and potential human intrusion scenarios. The results demonstrate that, without separation, MOX-HLW of no-countermeasure baseline case requires a repository footprint approximately 6.7 times that of UO 2 -HLW due to the high heat generation from Am-241. Simplified MA separation with 90% efficiency effectively reduces the footprint to levels comparable to those of UO 2 -HLW by enabling higher waste loading. However, a fundamental trade-off was identified: increasing waste loading to minimize footprint maintains a constant Am-241 inventory per canister due to thermal constraints, resulting in no reduction in the potential exposure dose from Am-241 radiotoxicity in inadvertent human intrusion scenarios. Furthermore, the exposure dose from nuclide migration is dominated by long-lived fission products (specifically Cs-135), which are unaffected by MA separation. These findings reveal that the effects of upstream nuclear fuel cycle conditions, such as MA separation during reprocessing and the waste loading of vitrified waste, are deeply embedded in the repository thermal design and the evaluation of future human-induced events for MOX-HLW disposal. Therefore, it is necessary to derive a comprehensive optimal solution from various combinations of conditions by focusing on these trade-off relationships.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112701",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112701",
+    "cited_by_count": 0,
+    "keywords": [
+      "MOX fuel",
+      "Radioactive waste",
+      "Nuclide",
+      "Spent nuclear fuel",
+      "High-level waste",
+      "Scram",
+      "Nuclear fuel cycle",
+      "Fission products",
+      "Uranium",
+      "Intrusion"
+    ],
+    "authors": [
+      "Ryo Hamada",
+      "Tomofumi Sakuragi",
+      "Hidekazu Asano",
+      "Masahiko Nakase"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7172170304",
+    "title": "Impact of Trap Centers on the Scintillation Performance of TlSr2Br5:Eu2+ Single Crystal",
+    "abstract": "In this research we present the scintillation characteristics of Eu 2+ -doped TlSr 2 Br 5 single crystals for radiation detection applications. These scintillators were grown from the melt using the Bridgman method. A comprehensive set of characterization techniques was employed to evaluate the performance of this scintillator, including X-ray excited luminescence, photoluminescence, thermoluminescence, scintillation light yield, energy resolution, and decay time measurements. A comparison between Eu 2+ -doped and undoped TlSr 2 Br 5 crystals revealed no significant improvement in light yield, energy resolution, and decay characteristics upon doping. Thermoluminescence analysis confirmed the presence of intermediate and deep trap centers in pure and Eu 2+ -doped samples. These trap centers likely act as carrier trapping sites, delaying radiative recombination and thereby limiting scintillation efficiency. This study also highlights the critical role of trap centers in governing the scintillation performance of this material. Improvement in the scintillation performance of this material could be achieved through appropriate defect engineering strategies.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104590",
+    "doi": "https://doi.org/10.1016/j.net.2026.104590",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scintillation",
+      "Scintillator",
+      "Trapping",
+      "Trap (plumbing)",
+      "Crystal (programming language)",
+      "Excited state",
+      "Thermoluminescence",
+      "Radioluminescence",
+      "Limiting"
+    ],
+    "authors": [
+      "G. Rooh",
+      "H. J. Kim",
+      "L.T. Truc",
+      "Arshad Khan",
+      "Hasan B. Albargi",
+      "D. Joseph Daniel",
+      "S. Kim",
+      "J. Kaewkhao",
+      "S. Kothan",
+      "J.H. Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7172105014",
+    "title": "Influence of buoyancy and wall heat transfer in CFD modelling of liquefied hydrogen storage tanks",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129304",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129304",
+    "cited_by_count": 0,
+    "keywords": [
+      "Buoyancy",
+      "Computational fluid dynamics",
+      "Heat transfer",
+      "Storage tank",
+      "Thermal energy storage",
+      "Mass transfer"
+    ],
+    "authors": [
+      "Johan R. Espelund",
+      "Åsmund Ervik",
+      "Svend Tollak Munkejord",
+      "Magnus Aa. Gjennestad",
+      "Luca Brandt",
+      "Corinna Netzer"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172089619",
+    "title": "Investigations of the windage in an aero-engine drive cone cavity",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129358",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129358",
+    "cited_by_count": 0,
+    "keywords": [
+      "Windage",
+      "Flow (mathematics)",
+      "Ligand cone angle",
+      "Cone (formal languages)",
+      "Computational fluid dynamics",
+      "Airflow",
+      "Mass flow rate"
+    ],
+    "authors": [
+      "Changchun Deng",
+      "Tian Qiu",
+      "Yufei Zhang",
+      "Zongchao Li",
+      "Peng Liu",
+      "Haotian Tuo",
+      "Tengyue Guo",
+      "Ziqiang Gao",
+      "Shuiting Ding"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172104673",
+    "title": "Subcooled flow boiling of TMC-49 in an annular channel for ultra-fast EV charging-cable cooling",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129359",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129359",
+    "cited_by_count": 0,
+    "keywords": [
+      "Subcooling",
+      "Boiling",
+      "Mass flux",
+      "Heat flux",
+      "Heat transfer coefficient",
+      "Heat transfer",
+      "Critical heat flux",
+      "Mass flow"
+    ],
+    "authors": [
+      "Jungwoo Kim",
+      "Seungwan Lee",
+      "Soohwan Jeon",
+      "Hyunsu Kang",
+      "Jaedal Lee",
+      "Kwon‐Yeong Lee"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172168810",
+    "title": "Numerical study of ﬂow boiling heat transfer in Ω-shaped reentrant microchannels",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129372",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129372",
+    "cited_by_count": 0,
+    "keywords": [
+      "Reentrancy",
+      "Boiling",
+      "Bubble",
+      "Heat transfer",
+      "Heat transfer coefficient",
+      "RADIUS",
+      "Flow (mathematics)",
+      "Heat transfer enhancement"
+    ],
+    "authors": [
+      "Longyin Chen",
+      "Hao Wu",
+      "Daxiang Deng",
+      "Ruxiang Chen",
+      "Yuchao Bai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172134308",
+    "title": "Conditioned Diffusion Framework for Temperature Field Generation via Multi-Source Physical Parameters Fusion and Sensor Layout-Decoupled Modeling",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129375",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129375",
+    "cited_by_count": 0,
+    "keywords": [
+      "Physical system",
+      "Heat generation",
+      "Decoupling (probability)",
+      "Skew",
+      "Generative model",
+      "Discriminative model",
+      "Sensor fusion",
+      "Autoencoder",
+      "Noise (video)"
+    ],
+    "authors": [
+      "Yuwei Ye",
+      "M. R. Wang",
+      "Qing Ai",
+      "Meng Liu",
+      "Yong Shuai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172112119",
+    "title": "A nature-inspired lithium-ion battery thermal management system with synergistic optimization of honeycomb-type battery compartment and snowflake-shaped fins",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132631",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132631",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal management of electronic devices and systems",
+      "Battery (electricity)",
+      "Dissipation",
+      "Thermal",
+      "Thermal conductivity",
+      "Composite number",
+      "Phase-change material",
+      "Fin",
+      "Honeycomb"
+    ],
+    "authors": [
+      "Bo Lü",
+      "Runxin Zhao",
+      "Wei Long",
+      "Jianlong Zi",
+      "Zhaoli Chen",
+      "Tao Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7171720298",
+    "title": "Numerical study on the energy separation characteristics of R290/R1150 binary mixture within a vortex tube",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132590",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132590",
+    "cited_by_count": 0,
+    "keywords": [
+      "Vortex tube",
+      "Binary number",
+      "Vortex",
+      "Separation (statistics)",
+      "Tube (container)",
+      "Energy (signal processing)"
+    ],
+    "authors": [
+      "Li Wen",
+      "Ben Zhang",
+      "Dongliang Jing",
+      "Gang Yan"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7171514895",
+    "title": "Integrated optimization of hydrogen intercooled high-speed turbine engines under wide-envelope constraints",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-28",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132597",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132597",
+    "cited_by_count": 0,
+    "keywords": [
+      "Turbine",
+      "Hydrogen",
+      "Gas turbines",
+      "Gas compressor"
+    ],
+    "authors": [
+      "Guohe Jiang",
+      "Min Chen",
+      "Hailong Tang",
+      "Jiyuan Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7171287286",
+    "title": "Thermodynamic analysis and multi-objective optimization of compressed flue-gas energy system with symmetrical anticlinal saline aquifers based on the cross scale dynamic simulation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132540",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132540",
+    "cited_by_count": 0,
+    "keywords": [
+      "Aquifer",
+      "Scale (ratio)",
+      "Dynamic simulation",
+      "Dynamic simulation model",
+      "System dynamics",
+      "Energy (signal processing)"
+    ],
+    "authors": [
+      "Wei Chen",
+      "Songtao Pei",
+      "Kun Yang",
+      "Tianjiao Bi",
+      "Xiaodai Xue",
+      "Xuelin Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7170161445",
+    "title": "Validated CFD approaches for flow field and performance investigations of needle ejectors for PEM fuel cells",
+    "abstract": "Passive anode recirculation using ejectors is an energy-efficient, lightweight, and cost-effective alternative to electrically driven blowers for hydrogen recirculation in proton exchange membrane fuel cell systems. This study develops and validates a computational fluid dynamics methodology for predicting the performance and internal flow behavior of needle ejectors. Two-dimensional Reynolds-averaged Navier–Stokes (2D-RANS) simulations using a Reynolds stress model with adjustable GEKO parameters are compared with high-resolution large eddy simulations (LES) and experimental entrainment ratio measurements. LES reveals a considerably shorter primary jet and stronger mixing than conventional RANS turbulence models predict. Based on these findings, two calibrated GEKO parameter sets are identified. The performance-validated set reproduces the experimental entrainment ratio across five load points with an average relative deviation below 3%, but overpredicts the jet length. In contrast, the flow-field-validated set closely reproduces the LES-resolved velocity fields and mixing behavior, while the entrainment ratio deviates by 13.5% on average. These results highlight the trade-off between global ejector performance calibration and physically resolved internal flow prediction. While the performance-validated set is limited to similar boundary conditions and geometries, the flow-field-validated set appears more generally applicable because it is calibrated against the enhanced mixing observed in LES. If the LES-predicted flow-field behavior is confirmed experimentally, the proposed flow-field-validated RANS parameterization provides a directly applicable and computationally efficient simulation methodology that advances ejector geometry optimization beyond conventional models and enables shorter mixing chambers and reduced nozzle exit positions, thereby improving packaging, cost, and system integration in future PEM fuel cell applications.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-07-24",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132484",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132484",
+    "cited_by_count": 0,
+    "keywords": [
+      "Computational fluid dynamics",
+      "Flow (mathematics)",
+      "Field (mathematics)",
+      "Proton exchange membrane fuel cell",
+      "Fuel cells"
+    ],
+    "authors": [
+      "Rafael Pinsker",
+      "Gerald Singer",
+      "Nejc Klopčič",
+      "Patrick Pertl",
+      "Alexander Trattner"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172117293",
+    "title": "Full-well-scale performance comparison of open-loop doublet and closed-loop U-type geothermal systems under coupled shallow hydrothermal and deep hot dry rock conditions",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111219",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111219",
+    "cited_by_count": 0,
+    "keywords": [
+      "Wellhead",
+      "Geothermal gradient",
+      "Hydrothermal circulation",
+      "Heat transfer",
+      "Convection",
+      "Groundwater",
+      "Exergy",
+      "Wellbore",
+      "Permeability (electromagnetism)"
+    ],
+    "authors": [
+      "Zhuang Zhao",
+      "Ye Wang",
+      "Weijian Zhang",
+      "Luyu Zhang",
+      "Xilong Zhang",
+      "Lin Sun"
+    ],
+    "category": "heat-transfer"
   }
 ]
