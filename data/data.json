@@ -288315,23 +288315,413 @@
         "Hanfeng Deng"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172495636",
+      "title": "Analysis of natural deposition and spray removal characteristics of aerosols in containment based on PISAA code",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106548",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106548",
+      "cited_by_count": 0,
+      "keywords": [
+        "Settling",
+        "Deposition (geology)",
+        "Aerosol",
+        "Relative humidity",
+        "Particle (ecology)",
+        "Residence time (fluid dynamics)",
+        "Particle deposition",
+        "Flow (mathematics)",
+        "Particle size"
+      ],
+      "authors": [
+        "Runzhi Feng",
+        "Wenhao Peng",
+        "Yin Zhang",
+        "赖毅",
+        "Xiaohang Chen",
+        "Luteng Zhang",
+        "Zaiyong Ma",
+        "Longxiang Zhu",
+        "Qiang Lian",
+        "Simiao Tang",
+        "Wan Sun",
+        "Liangming Pan",
+        "Meiyue Yan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172523795",
+      "title": "Study of separation characteristics of corrugated-plate dryers under marine conditions",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106545",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106545",
+      "cited_by_count": 0,
+      "keywords": [
+        "Separation (statistics)",
+        "Separation method",
+        "Current (fluid)",
+        "Seawater"
+      ],
+      "authors": [
+        "Aoxiang Qin",
+        "Wenjie Ma",
+        "Huidong Shi",
+        "Puzhen Gao",
+        "Sichao Tan",
+        "Jiming Wen",
+        "Ruifeng Tian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172536449",
+      "title": "Data-Driven Discovery of Dimensionless Numbers and Governing Laws: A Scaling Technique for Nuclear Test Facility Design",
+      "abstract": "New designs of water-cooled reactors that include thermal-hydraulic systems undergo safety analysis during the licensing process. For economic reasons and safety concerns, the systems are first tested at reduced-scale test facilities. A proper scaling ensures that dominant thermal-hydraulic safety-related phenomena are captured, even though unavoidable scale distortions occur. Some existing scaling methods, based on prior knowledge of the physical phenomena at stake, can quantify such distortions. They are limited, however, when the phenomena are nonlinear and coupled, or even not formalized as an equation. Dimensionless numbers play a central role in the scaling techniques, as their scale invariant properties help preserve the similarities between the reactor and test facilities. Building on this principle, this paper proposes a data-driven alternative to traditional scaling techniques. From a dataset of physical variables describing the phenomenon of interest, the method identifies a governing law that captures the dominant safety-related phenomenon. This governing law is expressed in terms of dimensionless numbers, which are physically meaningful combinations of dimensional variables and are automatically inferred by the algorithm. Based on a clear mathematical formulation, the proposed data-driven method combines advanced regression analysis with the constrained optimization of a cross validation–based objective function. Two variants are presented: one assuming that the output of the nondimensional governing law is known, and an extension in which this output is estimated. Both variants identify the dominant input dimensionless number as well as the explicit form of the governing law. As a proof of concept, the method was tested on a simulated dataset representative of single-phase natural circulation in a passive heat removal system.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1080/00295639.2026.2698367",
+      "doi": "https://doi.org/10.1080/00295639.2026.2698367",
+      "cited_by_count": 0,
+      "keywords": [
+        "Scaling",
+        "Dimensionless quantity",
+        "Natural circulation",
+        "Scale invariance",
+        "Invariant (physics)",
+        "Scaling law",
+        "Nonlinear system",
+        "Scale (ratio)"
+      ],
+      "authors": [
+        "Camille Razaire",
+        "Amandine Marrel",
+        "Bertrand Iooss",
+        "Sébastien Renaudière de Vaux",
+        "Jérome Cardolaccia"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172535182",
+      "title": "Experimental Characterization and Statistical Analysis of Two Geiger-Müller Detectors After Several Years of Use",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1080/00295450.2026.2705813",
+      "doi": "https://doi.org/10.1080/00295450.2026.2705813",
+      "cited_by_count": 0,
+      "keywords": [
+        "Detector",
+        "Statistical analysis",
+        "Characterization (materials science)",
+        "Particle detector",
+        "Statistical model",
+        "Statistical hypothesis testing"
+      ],
+      "authors": [
+        "Lahcen El Amri",
+        "O. El Bounagui",
+        "Oumayma Qassimi",
+        "Chaymae Yahyaoui",
+        "Hamid Amsil",
+        "Brahim Elmokhtari",
+        "A. El Badraoui"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172511378",
+      "title": "Distribution-free fault-tree analysis for probabilistic risk assessment under uncertainty",
+      "abstract": "",
+      "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.jandt.2026.07.005",
+      "doi": "https://doi.org/10.1016/j.jandt.2026.07.005",
+      "cited_by_count": 0,
+      "keywords": [
+        "Probabilistic logic",
+        "Risk assessment",
+        "Probabilistic risk assessment",
+        "Uncertainty analysis",
+        "Risk management"
+      ],
+      "authors": [
+        "Adolphus Lye",
+        "Wasin Vechgama",
+        "Alexander Wimbush",
+        "Scott Ferson",
+        "Sicong Xiao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7172493442",
+      "title": "The influence of flow velocity on the evolution characteristics of microbubble size distribution in a uniform flow field",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129385",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129385",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bubble",
+        "Seeding",
+        "Flow (mathematics)",
+        "Flow velocity",
+        "Volumetric flow rate",
+        "Uniform distribution (continuous)",
+        "Two-phase flow",
+        "Particle-size distribution",
+        "Potential flow",
+        "Microbubbles"
+      ],
+      "authors": [
+        "X. Liu",
+        "Zhipeng Li",
+        "Ming Fang",
+        "Bokai Cao",
+        "Zongyu Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172535770",
+      "title": "Design of a phase change thermal energy storage heat exchanger based on topology optimization",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129383",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129383",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal energy storage",
+        "Phase-change material",
+        "Heat exchanger",
+        "Latent heat",
+        "Topology (electrical circuits)",
+        "Topology optimization",
+        "Energy storage",
+        "Plate fin heat exchanger",
+        "Thermal",
+        "Thermal energy"
+      ],
+      "authors": [
+        "Jian Gong",
+        "Huanling Liu",
+        "Zi-chun Zhao",
+        "Xiao-dong Shao",
+        "Jun-yu Tan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172487960",
+      "title": "Experimental study of flame behavior in a naturally ventilated tunnel under different longitudinal fire source positions",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129350",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129350",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ceiling (cloud)",
+        "Flame spread",
+        "Ranging",
+        "Fire safety",
+        "Poison control",
+        "Source model",
+        "Instability"
+      ],
+      "authors": [
+        "Chenguang Li",
+        "Wenhao Yan",
+        "Jim Shiau",
+        "Zihe Gao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172499548",
+      "title": "Experimental study of electric field effects on evaporation phase change in porous media",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132661",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132661",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electric field",
+        "Evaporation",
+        "Porous medium",
+        "Porosity",
+        "Phase (matter)",
+        "Electric heating",
+        "Capillary action",
+        "Field (mathematics)"
+      ],
+      "authors": [
+        "Chuanlin Zhao",
+        "Yanjun Chen",
+        "Qin Li",
+        "Deqiang He"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172511233",
+      "title": "Visualization experimental research on high-pressure methanol spray breakup characteristics driven by aerodynamic and flash boiling",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132651",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132651",
+      "cited_by_count": 0,
+      "keywords": [
+        "Breakup",
+        "Spray characteristics",
+        "Aerodynamics",
+        "Aerodynamic force",
+        "Dimensionless quantity",
+        "Ligand cone angle",
+        "Flow visualization",
+        "Penetration (warfare)"
+      ],
+      "authors": [
+        "Longguo He",
+        "Jakhongir Mirzaabdullaev",
+        "Jianhui Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172484024",
+      "title": "Multi-objective genetic algorithm-based thermal optimization of a multilayer thermal protection system",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132434",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132434",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal",
+        "Thermal protection",
+        "Genetic algorithm",
+        "Space Shuttle thermal protection system",
+        "Thermal runaway"
+      ],
+      "authors": [
+        "Davide Prisco",
+        "Giuseppe Maria Infante",
+        "Raffaele Savino",
+        "Mario De Stefano Fumo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7172492834",
+      "title": "Thermohydraulic performance of a coaxial geothermal heat exchanger enhanced by perforated rectangular fins",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-05",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132683",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132683",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat exchanger",
+        "Coaxial",
+        "Heat transfer",
+        "Geothermal gradient",
+        "Plate fin heat exchanger",
+        "Shell and tube heat exchanger"
+      ],
+      "authors": [
+        "Chuang Wang",
+        "Yanjun Zhang",
+        "Yulong Liu",
+        "Xuefeng Gao",
+        "Yuxiang Cheng",
+        "Jianghong Han",
+        "Lulu Li",
+        "Yanchun Guo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171769033",
+      "title": "Bubble point depression and evaporation kinetics of light hydrocarbon systems in nanoconfined media",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-30",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132518",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132518",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporation",
+        "Kinetics",
+        "Hydrocarbon",
+        "Bubble",
+        "Bubble point",
+        "Point (geometry)"
+      ],
+      "authors": [
+        "Xiuxiu Pan",
+        "Linghui Sun",
+        "Huiwen Xiao",
+        "Boyu Jiang",
+        "Jiahe Wu",
+        "Qingjie Liu",
+        "Xu Huo",
+        "Feiyu Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171682188",
+      "title": "Thermal performance enhancement of sodium acetate trihydrate phase change material by protic ionic liquids for thermal energy storage",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-07-29",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132600",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132600",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ionic liquid",
+        "Phase-change material",
+        "Thermal energy storage",
+        "Thermal",
+        "Phase change",
+        "Phase (matter)",
+        "Sodium",
+        "Energy storage"
+      ],
+      "authors": [
+        "Mohammad Bagheri Hokm Abad",
+        "Hemayat Shekaari"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 11147,
+    "total": 11161,
     "journals": 277,
-    "last_update": "2026-08-06 03:23:22",
-    "reactor-thermal_count": 1215,
-    "heat-transfer_count": 2296,
+    "last_update": "2026-08-07 03:10:22",
+    "reactor-thermal_count": 1220,
+    "heat-transfer_count": 2305,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1334
+        "count": 1340
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 546
+        "count": 549
       },
       {
         "name": "Annals of Nuclear Energy",
@@ -288351,11 +288741,15 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 127
+        "count": 129
       },
       {
         "name": "Nuclear Technology",
-        "count": 127
+        "count": 128
+      },
+      {
+        "name": "Nuclear Science and Engineering",
+        "count": 101
       },
       {
         "name": "Science",
@@ -288391,10 +288785,6 @@
       },
       {
         "name": "Energy",
-        "count": 100
-      },
-      {
-        "name": "Nuclear Science and Engineering",
         "count": 100
       },
       {
@@ -288950,6 +289340,10 @@
         "count": 18
       },
       {
+        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "count": 18
+      },
+      {
         "name": "Journal of the European Economic Association",
         "count": 17
       },
@@ -288967,10 +289361,6 @@
       },
       {
         "name": "Child Maltreatment",
-        "count": 17
-      },
-      {
-        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
         "count": 17
       },
       {
@@ -289436,10 +289826,6 @@
     ],
     "trend": [
       {
-        "date": "2026-07-08",
-        "count": 15
-      },
-      {
         "date": "2026-07-09",
         "count": 17
       },
@@ -289521,11 +289907,11 @@
       },
       {
         "date": "2026-07-29",
-        "count": 25
+        "count": 26
       },
       {
         "date": "2026-07-30",
-        "count": 28
+        "count": 29
       },
       {
         "date": "2026-07-31",
@@ -289533,7 +289919,7 @@
       },
       {
         "date": "2026-08-01",
-        "count": 49
+        "count": 50
       },
       {
         "date": "2026-08-02",
@@ -289549,10 +289935,14 @@
       },
       {
         "date": "2026-08-05",
-        "count": 3
+        "count": 14
       },
       {
         "date": "2026-08-06",
+        "count": 0
+      },
+      {
+        "date": "2026-08-07",
         "count": 0
       }
     ]
@@ -289771,5 +290161,5 @@
       }
     ]
   },
-  "export_time": "2026-08-06T03:23:22.261679"
+  "export_time": "2026-08-07T03:10:22.670983"
 }
