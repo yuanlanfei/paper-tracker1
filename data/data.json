@@ -291308,19 +291308,206 @@
         "Rajesh Kumar"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7202039869",
+      "title": "Strategies for re-enriching depleted uranium: Reducing the consumption of natural UF6 for fuel production in a nuclear power reactor",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112695",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112695",
+      "cited_by_count": 0,
+      "keywords": [
+        "Natural uranium",
+        "Particle swarm optimization",
+        "Production (economics)",
+        "Electricity generation",
+        "Nuclear power",
+        "Power consumption",
+        "Spent nuclear fuel",
+        "Dilution",
+        "Mixing (physics)"
+      ],
+      "authors": [
+        "S. L. Mirmohammadi",
+        "J. Safdari",
+        "M.H. Mallah"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7202028171",
+      "title": "Integration of PID controller and reinforcement learning agents for core power control of small pressurized water reactors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112689",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112689",
+      "cited_by_count": 0,
+      "keywords": [
+        "PID controller",
+        "Control theory (sociology)",
+        "Core (optical fiber)",
+        "Controller (irrigation)",
+        "Reinforcement learning",
+        "Power (physics)"
+      ],
+      "authors": [
+        "Yihu Zhu",
+        "Hong Xia",
+        "Enrico Zio",
+        "Jiyu Zhang",
+        "Peiqi Jiang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7202041696",
+      "title": "Precise location of failed fuel assembly in operating PWR-core based on fine nuclide evolution and deep metric learning",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112728",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112728",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclide",
+        "Cladding (metalworking)",
+        "Metric (unit)",
+        "Coolant",
+        "Kernel (algebra)",
+        "Spent nuclear fuel",
+        "Nuclear reactor core",
+        "Software"
+      ],
+      "authors": [
+        "Songzhe Wang",
+        "Yunzhao Li",
+        "Yunzhao Li",
+        "Yilin Liang",
+        "Yisong Li",
+        "Yisong Li",
+        "Hongchun Wu",
+        "Liangzhi Cao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7202024911",
+      "title": "Multi-objective optimization and thermodynamic limits of free-piston Stirling generators using physics-informed active learning",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106550",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106550",
+      "cited_by_count": 0,
+      "keywords": [
+        "Stirling engine",
+        "Active learning (machine learning)",
+        "Generator (circuit theory)",
+        "Control theory (sociology)",
+        "Power (physics)"
+      ],
+      "authors": [
+        "Dongdong Xu",
+        "Shuo Liu",
+        "Zeqin Zhang",
+        "Chenglong Wang",
+        "Wenxi Tian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7202035165",
+      "title": "Heterogeneity in Community Acceptance of Urban SMR Siting: A Contingent Valuation and Latent Class Analysis",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104643",
+      "doi": "https://doi.org/10.1016/j.net.2026.104643",
+      "cited_by_count": 0,
+      "keywords": [
+        "Contingent valuation",
+        "Latent class model",
+        "Class (philosophy)",
+        "Valuation (finance)",
+        "Statistical analysis"
+      ],
+      "authors": [
+        "Gaeul Choi",
+        "Yool Choi",
+        "Taehyon Choi",
+        "Keonhee Lee",
+        "Sungyeol Choi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7202027608",
+      "title": "Research on oil injection process in screw compressor based on smoothed particle hydrodynamics method",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-09",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132668",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132668",
+      "cited_by_count": 0,
+      "keywords": [
+        "Smoothed-particle hydrodynamics",
+        "Gas compressor",
+        "Process (computing)",
+        "Particle (ecology)",
+        "Computational fluid dynamics"
+      ],
+      "authors": [
+        "Chengpeng Li",
+        "Di Yan",
+        "Jianyang Zhu",
+        "Guo Xiao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7202029700",
+      "title": "Effect of combustor configuration on the propagation characteristics of CH4/CO/H2 gas mixtures rotating detonation wave",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111819",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111819",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustor",
+        "Detonation",
+        "Ignition system",
+        "Equivalence ratio",
+        "Combustion",
+        "Deflagration to detonation transition",
+        "Oscillation (cell signaling)"
+      ],
+      "authors": [
+        "Xiaoyang Ren",
+        "Qiaodong Bai",
+        "Jinping Wang",
+        "Jiaxiang Han",
+        "Jiawen Chen",
+        "Meitong Chen",
+        "Chunsheng Weng"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 11260,
+    "total": 11267,
     "journals": 277,
-    "last_update": "2026-08-10 02:23:44",
-    "reactor-thermal_count": 1261,
-    "heat-transfer_count": 2363,
+    "last_update": "2026-08-11 02:15:06",
+    "reactor-thermal_count": 1266,
+    "heat-transfer_count": 2365,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1383
+        "count": 1384
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
@@ -291328,7 +291515,7 @@
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 334
+        "count": 337
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -291336,7 +291523,7 @@
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 301
+        "count": 302
       },
       {
         "name": "Nuclear Engineering and Design",
@@ -291344,7 +291531,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 133
+        "count": 134
       },
       {
         "name": "Nuclear Technology",
@@ -291511,11 +291698,11 @@
         "count": 53
       },
       {
-        "name": "Journal of Development Economics",
-        "count": 52
+        "name": "Experimental Thermal and Fluid Science",
+        "count": 53
       },
       {
-        "name": "Experimental Thermal and Fluid Science",
+        "name": "Journal of Development Economics",
         "count": 52
       },
       {
@@ -292429,10 +292616,6 @@
     ],
     "trend": [
       {
-        "date": "2026-07-12",
-        "count": 5
-      },
-      {
         "date": "2026-07-13",
         "count": 39
       },
@@ -292510,7 +292693,7 @@
       },
       {
         "date": "2026-08-01",
-        "count": 54
+        "count": 56
       },
       {
         "date": "2026-08-02",
@@ -292542,10 +292725,14 @@
       },
       {
         "date": "2026-08-09",
-        "count": 0
+        "count": 5
       },
       {
         "date": "2026-08-10",
+        "count": 0
+      },
+      {
+        "date": "2026-08-11",
         "count": 0
       }
     ]
@@ -292764,5 +292951,5 @@
       }
     ]
   },
-  "export_time": "2026-08-10T02:23:44.684824"
+  "export_time": "2026-08-11T02:15:06.432096"
 }
