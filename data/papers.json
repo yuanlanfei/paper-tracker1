@@ -294550,5 +294550,861 @@
       "Shouxiang Lu"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202395419",
+    "title": "Neutronics analysis and design of mechanical shim control strategy for a pressurized water reactors under base load operation",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115151",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115151",
+    "cited_by_count": 0,
+    "keywords": [
+      "Neutron transport",
+      "Control rod",
+      "Shim (computing)",
+      "Position (finance)",
+      "Nuclear reactor core",
+      "Power (physics)",
+      "Base (topology)",
+      "Finite element method"
+    ],
+    "authors": [
+      "Kunfeng Ma",
+      "Hui Guo",
+      "Hanyang Gu",
+      "Li Dongyuan",
+      "Guohua Chen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202402293",
+    "title": "Numerical simulation of the solid-phase oxygen control mass exchanger in lead-bismuth fast reactors based on CFD-DEM coupling",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106557",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106557",
+    "cited_by_count": 0,
+    "keywords": [
+      "Mass transfer",
+      "Dissolution",
+      "Coolant",
+      "Oxygen",
+      "Particle (ecology)",
+      "Volumetric flow rate",
+      "Particle size",
+      "Mass flow rate",
+      "Eutectic system"
+    ],
+    "authors": [
+      "Yang Zhang",
+      "Xian Zeng",
+      "Jinyu Yue",
+      "Ziyi Liang",
+      "Chunyu Liu",
+      "Nan Chao"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202385853",
+    "title": "Monte Carlo Simulation of Medical Isotopes Production by Irradiation of nat U and 232 Th Targets with P, α, 9 Be and 12 C",
+    "abstract": "Advances in nuclear technology and modern medicine have driven the development of a variety of radiopharmaceuticals, labeled with medical isotopes, that play an important role in the treatment and diagnosis of various diseases. With the decommissioning of high-flux nuclear reactors, high-energy proton-induced spallation reactions on thorium are now becoming an alternative and the most commonly used method for large-scale production of isotopes such as 225Ac and 227Th.However, investigations into isotopes produced by irradiating thorium and uranium targets with other types of particles remains relatively limited. Additionally, the thickness of the conventional 232Th targets used for isotope production is significantly less than the proton range, resulting in the underutilization of a large portion of the proton beam.This study aims to identify the most effective incident projectile and materials for the production of 225Ac, 223Ra, 225Ra, 227Th, and 99Mo via the bombardment of the thick target with accelerated protons, α-particles, 9Be, and 12C to increase the supply of 225Ac or other medical isotopes.This work considers a water-cooled spallation target that consists of a mixture of heavy water and thorium metal particles (232Th + D2O) or uranium metal particles (natU + D2O). This design not only addresses the heat dissipation issue of the target material, but also simultaneously enhances the isotope yield. The Monte Carlo transport code PHITS (particle and heavy ion transport code system) was employed to calculate and compare the effects of the different beam energies, types of incident projectiles, and target materials on the isotope yields, secondary particle flux distributions, and energy deposition.The predictions indicate that, compared to the widely investigated proton bombardment schemes on thorium targets in existing studies, irradiation with 9Be achieves the highest isotope yields, as it facilitates the production of more high-flux neutrons or other secondary particles to drive isotope breeding, but it also leads to increased energy deposition. Moreover, under identical incident particle conditions, thorium targets generally exhibit a higher isotopic yield than uranium targets, while also demonstrating lower energy deposition, making them more efficient for isotope production.In conclusion, when adopting a water-cooled spallation target, 9Be bombardment of a thorium target is more likely to achieve higher efficiency in isotope production within a relatively short irradiation time.",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1080/00295639.2026.2707586",
+    "doi": "https://doi.org/10.1080/00295639.2026.2707586",
+    "cited_by_count": 0,
+    "keywords": [
+      "Spallation",
+      "Isotope",
+      "Monte Carlo method",
+      "Proton",
+      "Uranium",
+      "Thorium",
+      "Irradiation",
+      "Neutron",
+      "Nuclear transmutation"
+    ],
+    "authors": [
+      "Qiuying Liang",
+      "Tiancheng Lai",
+      "Guanghui Yang",
+      "Qiong Yang",
+      "Fen Fu",
+      "Xunchao Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202388592",
+    "title": "Generation of Small Droplets for Molten Salt Reactor Fluoride Fuel Salt Sampling",
+    "abstract": "The analysis of molten salt samples benefits significantly from using small, uniform samples. One such analysis technique that requires these samples is the diamond-based microfluidic alpha spectrometer (DiMAS), which relies on depositing very small quantities of molten fluoride salts on its surface to enable high-resolution alpha spectrometry. To facilitate this, a pneumatic droplet generator for molten fluoride salt has been developed. The system employs a fast-acting solenoid to pulse argon gas through a heated vessel, allowing it to dispense droplets through a diamond orifice. A parameter study was performed to identify the optimal settings for producing small, consistent droplets. The results indicate that the system can reliably produce salt droplets around 1 mm in diameter. Further analysis of the findings was undertaken to explore design changes and operating conditions that could further improve performance for future implementation with DiMAS and other analysis techniques.",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1080/00295639.2026.2712072",
+    "doi": "https://doi.org/10.1080/00295639.2026.2712072",
+    "cited_by_count": 0,
+    "keywords": [
+      "Molten salt",
+      "Molten salt reactor",
+      "Fluoride",
+      "Sampling (signal processing)",
+      "Salt (chemistry)",
+      "Solenoid",
+      "Microfluidics",
+      "Analytical Chemistry (journal)"
+    ],
+    "authors": [
+      "Collin Webb",
+      "William Doniger",
+      "Owen Johnson",
+      "Wei-Ting Hsu",
+      "Eric Lukosi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202346934",
+    "title": "Atmospheric Dispersion of Radioactive Materials Modeled by Stochastic Differential Equations",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1080/00295450.2026.2713831",
+    "doi": "https://doi.org/10.1080/00295450.2026.2713831",
+    "cited_by_count": 0,
+    "keywords": [
+      "Dispersion (optics)",
+      "Differential equation",
+      "Stochastic differential equation",
+      "Atmospheric dispersion modeling",
+      "Radioactive waste",
+      "Differential (mechanical device)"
+    ],
+    "authors": [
+      "Rodrigo C. Curzio",
+      "Vinicius C. Machado",
+      "Jakler Nichele",
+      "E. Andrade"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202382000",
+    "title": "Influences of coexisting seawater components on Am and Eu adsorption amounts by Fe 3 O 4",
+    "abstract": "The stagnant water at the Fukushima Daiichi Nuclear Power Station (1F NPS) is thought to be under neutral pH conditions and containing alpha (α) nuclides and seawater components. Therefore, it is necessary to examine the influences of seawater components that may interfere with adsorption of α nuclides as competing ions under neutral pH conditions. In this study, the influences of coexisting cation components, sodium (Na), calcium (Ca) and magnesium (Mg) on the adsorption amounts of americium (Am) and europium (Eu) by magnetite (Fe3O4) was examined in batch tests. It was found that the influences of these components on Eu adsorption amounts by Fe3O4 decreased in the order of Ca > Mg ≈ Na, indicating that Ca is main competing component. After 7 days immersion under a liquid-solid ratio of 100 mL g–1, Eu adsorption amounts by Fe3O4 decreased only 10% when initial concentration of Eu was 1.0 × 10–3 Eq L–1 and concentration of Ca was increased 1000 times from 2.5 × 10–5 Eq L–1 to 2.5 × 10–2 Eq L–1. A similar test conducted using low concentrations of Am indicated that the Am adsorption amounts by Fe3O4 decreased only 7% when initial concentration of Am was 1.8 × 105 Bq L–1 and concentration of Ca was increased 100 times from 2.5 × 10–5 Eq L–1 to 2.5 × 10–3 Eq L–1. Therefore, we concluded that Am could be removed without having to significantly increase the amount of Fe3O4 even when there are coexisting seawater components.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-08-12",
+    "url": "https://doi.org/10.1080/00223131.2026.2716219",
+    "doi": "https://doi.org/10.1080/00223131.2026.2716219",
+    "cited_by_count": 0,
+    "keywords": [
+      "Seawater",
+      "Adsorption",
+      "Nuclide",
+      "Europium",
+      "Magnesium",
+      "Americium",
+      "Sodium"
+    ],
+    "authors": [
+      "Akira Tsutsumiguchi",
+      "Kazushige Ishida"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202348001",
+    "title": "Global Seismic Site Characterization of Nuclear Power Plant Sites Using USGS Vs30 Data",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104595",
+    "doi": "https://doi.org/10.1016/j.net.2026.104595",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear power plant",
+      "Characterization (materials science)",
+      "Test site",
+      "Nuclear power",
+      "Nuclear test"
+    ],
+    "authors": [
+      "Metehan Alp Memiş",
+      "Şevval Ulus Memis"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202352831",
+    "title": "Fast Thermal-Hydraulic-Neutronic Model to Simulate Transient Behavior of an Aqueous Homogeneous Reactor",
+    "abstract": "Mo 99 is a widely used radioisotope in nuclear medicine, particularly for producing Tc 99m . The Aqueous Homogeneous Reactor (AHR) is a promising method for producing Mo 99 . This paper presents a coupled neutron point kinetics and thermal-hydraulics model for ARGUS, a kind of AHR, which utilizes uranyl sulfate liquid fuel in the reactor core. This research aims to develop an accurate and computationally efficient model to predict the transient behavior of ARGUS. The effects of transient reactivity insertion on the overall reactor performance have been studied. Analysis of the reactor's performance demonstrates the effectiveness of its safety features, which are attributed to negative feedback mechanisms such as temperature feedback and void feedback. When power output rises, there's a rapid increase in void formation, which generates strong negative feedback. In 1$ step reactivity insertion, the power initially increases to 366.5 kW but after 10 seconds returns to 78 kW due to void feedback. This model can contribute to developing an optimized control system for AHRs.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-08-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104655",
+    "doi": "https://doi.org/10.1016/j.net.2026.104655",
+    "cited_by_count": 0,
+    "keywords": [
+      "Void (composites)",
+      "Homogeneous",
+      "Control rod",
+      "Transient (computer programming)",
+      "Aqueous solution",
+      "Reactivity (psychology)",
+      "Nuclear reactor",
+      "Kinetics"
+    ],
+    "authors": [
+      "Mohammad Amin Borhani",
+      "Yasser Abbasi",
+      "J. Mokhtari"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7171964442",
+    "title": "Design and development of a 65 kA/50 μH multi-layer spiral air-core pulse inductor for the CRAFT Quench Protection System",
+    "abstract": "Superconducting magnets in Magnetic Confinement Fusion (MCF) devices are subject to severe quench risks during high-current operation, demanding a highly reliable Quench Protection System (QPS) to ensure device safety. As a critical passive component in the artificial zero-crossing QPS, the high-current pulse inductor must maintain stable performance under extreme conditions, including high peak current, large rise rate (d i /d t ), and strong electromagnetic impact. To satisfy the 65 kA/50 μH requirements of the Comprehensive Research Facility for Fusion Technology (CRAFT) and eliminate the magnetic saturation in conventional iron-core inductors under high-current pulses, this paper proposes the design and development of a multi-layer spiral air-core pulse inductor. Firstly, structural parameters are designed using analytical calculations and electrical parameters are validated correspondingly. Furthermore, its electromagnetic, mechanical, and thermal performances are verified via Finite Element Method (FEM) under 65 kA pulse excitation. A prototype is manufactured and tested by LR parameter measurement and LC resonant pulse discharge tests. The results demonstrate that the pulse inductor achieves 50.74 μH inductance and 5.9 mΩ resistance at 500 Hz, with negligible temperature rise and minor structural deformation under 65 kA pulses. Stable operation and high reliability are verified through more than 100 pulse tests. This work provides an engineered and practical solution for high-current pulse inductors applied to QPS of fusion superconducting magnets.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-31",
+    "url": "https://doi.org/10.1016/j.net.2026.104625",
+    "doi": "https://doi.org/10.1016/j.net.2026.104625",
+    "cited_by_count": 0,
+    "keywords": [
+      "Inductor",
+      "Inductance",
+      "Pulse (music)",
+      "Magnet",
+      "Finite element method",
+      "Reliability (semiconductor)",
+      "Spiral (railway)",
+      "Saturation (graph theory)",
+      "Electromagnetic pulse"
+    ],
+    "authors": [
+      "Meng Xu",
+      "Hua Li",
+      "Wei Tong",
+      "Guanghong Wang",
+      "Zhiquan Song",
+      "Yiyun Huang",
+      "Peng Fu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7172022848",
+    "title": "Compton scattering-based localization and activity reconstruction of radioactive sources in low- and intermediate-level waste drums",
+    "abstract": "Traditional Segmented Gamma Scanning (SGS) and Tomographic Gamma Scanning (TGS) reconstruct activities in low- and intermediate-level radioactive waste drums by assuming radionuclide distributions, which often differ from actual source distributions and lead to inaccurate detection efficiencies and large activity reconstruction errors in practical nondestructive measurement applications. This paper proposes a Compton scattering-based method for direct radioactive-source localization and activity reconstruction in a waste drum with unknown source number and positions. Valid events consisting of one Compton scattering interaction and one photoelectric absorption interaction in the first two layers of a CZT detector were used for source localization, followed by efficiency calculation and activity reconstruction. For single sources emitting 0.662 and 1.333 MeV gamma rays, the localization error was less than 1 cm. For multiple sources, distinguishability depended on source spacing. When the spacing was 6 cm or larger, individual sources were resolved, with localization errors generally below 1 cm. When the spacing was less than 6 cm, multiple sources were reconstructed as one broadened peak; the resulting localization deviations ranged from 1 to 2.3 cm, with a maximum of 2.26 cm. For distinguishable sources, the reconstructed activity error was within ±5%, whereas unresolved multi-source cases showed a maximum error of -15.96%.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-07-31",
+    "url": "https://doi.org/10.1016/j.net.2026.104624",
+    "doi": "https://doi.org/10.1016/j.net.2026.104624",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radioactive source",
+      "Compton scattering",
+      "Radioactive waste",
+      "Detector",
+      "Gamma ray",
+      "Radionuclide",
+      "Photoelectric effect"
+    ],
+    "authors": [
+      "Weiguo GU",
+      "Yufei Han",
+      "Cheng LIU",
+      "Liandong Zhang",
+      "Dezhong Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202379526",
+    "title": "An improved electrolysis cell method for measuring effective gas diffusion coefficients in porous nickel-based electrodes",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129424",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129424",
+    "cited_by_count": 0,
+    "keywords": [
+      "Electrode",
+      "Porosity",
+      "Diffusion",
+      "Electrolysis",
+      "Gaseous diffusion",
+      "Electrolytic cell"
+    ],
+    "authors": [
+      "Jihao Zhang",
+      "Jingru Wu",
+      "Libin Lei",
+      "Minfang Han",
+      "Zewei Lyu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202341128",
+    "title": "A wavelet-neural network method for efficient and high-accuracy prediction of thermal responses in random composite materials",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129377",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129377",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Composite number",
+      "Thermal conductivity",
+      "Thermal management of electronic devices and systems",
+      "Finite element method"
+    ],
+    "authors": [
+      "Hao Dong",
+      "Yiheng Lou",
+      "Jiale Linghu",
+      "Yufeng Nie",
+      "Junzhi Cui"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202348681",
+    "title": "Direct numerical simulation study of the effect of horizontal flow on mixed convection in porous media",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129395",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129395",
+    "cited_by_count": 0,
+    "keywords": [
+      "Porous medium",
+      "Combined forced and natural convection",
+      "Flow (mathematics)",
+      "Direct numerical simulation",
+      "Computer simulation",
+      "Convection"
+    ],
+    "authors": [
+      "Yan Jin",
+      "Arne Speerforck"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202361631",
+    "title": "The effect of water curtains on hydrogen-blended natural gas horizontal jet fire behavior",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129415",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129415",
+    "cited_by_count": 0,
+    "keywords": [
+      "Jet (fluid)",
+      "Water jet",
+      "Natural (archaeology)",
+      "Natural gas",
+      "Air water"
+    ],
+    "authors": [
+      "Kairong Cheng",
+      "Jiang Lv",
+      "Xinyu Peng",
+      "Shixiang Liu",
+      "Fei Tang",
+      "Longhua Hu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202363757",
+    "title": "Construction of an adaptive heterogeneous nucleation model for numerical simulation of flow boiling in microchannels",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129408",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129408",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flow boiling",
+      "Computer simulation",
+      "Microchannel",
+      "Boiling",
+      "Flow (mathematics)",
+      "Nucleation",
+      "Two-phase flow"
+    ],
+    "authors": [
+      "Xin Wang",
+      "Qi Wang",
+      "Jiayu Liu",
+      "Wei Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202387822",
+    "title": "Experimental test on 1.8 MW class printed circuit heat exchanger for precooler of supercritical CO2 Brayton cycle",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129393",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129393",
+    "cited_by_count": 0,
+    "keywords": [
+      "Brayton cycle",
+      "Supercritical fluid",
+      "Heat exchanger",
+      "Printed circuit board",
+      "Supercritical carbon dioxide"
+    ],
+    "authors": [
+      "Joo Hyun Park",
+      "Seongmin Lee",
+      "Donkoan Hwang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7162337996",
+    "title": "Effect of mixing field on the performance of H2O2/kerosene gas-liquid rotating detonation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-14",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132764",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132764",
+    "cited_by_count": 0,
+    "keywords": [
+      "Detonation",
+      "Combustor",
+      "Mass flow rate",
+      "Penetration (warfare)",
+      "Specific impulse",
+      "Mixing (physics)",
+      "Volumetric flow rate",
+      "Kerosene",
+      "Penetration depth"
+    ],
+    "authors": [
+      "Zelin Song",
+      "Guoqiang He",
+      "Ruiqi Jia",
+      "Meng Cui",
+      "Yiming Feng",
+      "Xudong Jia",
+      "Xianggeng Wei"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202363272",
+    "title": "Applicability of a hollow-fiber membrane humidifier integrated into an electric heat pump for heating of the office space",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132759",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132759",
+    "cited_by_count": 0,
+    "keywords": [
+      "Humidity",
+      "HVAC",
+      "Heat pump",
+      "Range (aeronautics)",
+      "Heat recovery ventilation",
+      "Energy recovery ventilation",
+      "Electric heating",
+      "Air source heat pumps"
+    ],
+    "authors": [
+      "Jeong-Min Oh",
+      "Ju-Hyun Lee",
+      "Seheon Kim",
+      "Jae‐Weon Jeong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202382140",
+    "title": "Capillary characteristics and capillary limit of stainless steel screen mesh wicks for sodium-based high-temperature heat pipes",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132556",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132556",
+    "cited_by_count": 0,
+    "keywords": [
+      "Capillary action",
+      "Heat pipe",
+      "Capillary pressure",
+      "Thermal conductivity",
+      "Thermal",
+      "Heat transfer",
+      "Work (physics)",
+      "Suction"
+    ],
+    "authors": [
+      "Songsheng Tang",
+      "Kailun Guo",
+      "Mingjun Wang",
+      "Dalin Zhang",
+      "Chenglong Wang",
+      "Wenxi Tian"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7156202317",
+    "title": "Performances analyses of a humid control device using solid desiccant plate applied in refrigerators",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132694",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132694",
+    "cited_by_count": 0,
+    "keywords": [
+      "Desiccant",
+      "Mass transfer",
+      "Adsorption",
+      "Silica gel",
+      "Duration (music)",
+      "Section (typography)",
+      "Phase (matter)",
+      "Heat transfer"
+    ],
+    "authors": [
+      "Liang Dong",
+      "Rang Tu",
+      "Bo Li",
+      "Lu Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202345887",
+    "title": "Effect of pilot and primary-stage swirl numbers on combustion characteristics of a twin-annular premixed central staged combustor",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132808",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132808",
+    "cited_by_count": 0,
+    "keywords": [
+      "Combustor",
+      "Combustion",
+      "Combustion chamber",
+      "Gas burner"
+    ],
+    "authors": [
+      "Hexiang Yuan",
+      "Bingkang Duan",
+      "Wenjie Wang",
+      "Zhenyu Wang",
+      "Yanju Wei",
+      "Yajing Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202409173",
+    "title": "Thermoelastic effects on material temperature in hydrogen/oxygen premixed flame–material interaction: A numerical study",
+    "abstract": "Accurate prediction of the material temperature field during hydrogen flame heating is essential for assessing thermal loading and material integrity. In the present work, a thermo-mechanically coupled numerical model is employed to investigate transient flame–material interaction between a laminar hydrogen/oxygen premixed strained flame and a solid material. Particular attention is paid to the influence of the thermoelastic (Gough–Joule) effect on the material temperature evolution. The results show that the Gough–Joule effect acts as an additional heat source and accelerates the heating process. By using flame with high strain rate, neglecting the Gough–Joule effect results in noticeable error in the predicted time required for the material to reach the yield-strength condition. The relative importance of the Gough–Joule effect is found to increase monotonically with flame strain rate. These findings indicate that thermoelastic coupling can substantially influence transient flame–material interaction under rapid hydrogen-flame heating and should be considered when accurate prediction of the material temperature field is required.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132751",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132751",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermoelastic damping",
+      "Transient (computer programming)",
+      "Laminar flow",
+      "Thermal",
+      "Combustion",
+      "Field (mathematics)",
+      "Coupling (piping)",
+      "Hydrogen"
+    ],
+    "authors": [
+      "Chunkan Yu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202382490",
+    "title": "Transient-aware industrial energy dispatch with temperature-grade matching",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132650",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132650",
+    "cited_by_count": 0,
+    "keywords": [
+      "Economic dispatch",
+      "Matching (statistics)",
+      "Scheduling (production processes)",
+      "Transient (computer programming)",
+      "Process (computing)",
+      "Energy (signal processing)",
+      "Key (lock)",
+      "Physical system"
+    ],
+    "authors": [
+      "Qi Qian",
+      "Yuxin Li",
+      "Boling Wu",
+      "Jiake Li",
+      "Jiangjiang Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202340754",
+    "title": "A phenomenological-based model for the thermal management system in electric vehicles",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132634",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132634",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal management of electronic devices and systems",
+      "Thermal",
+      "Electric vehicle",
+      "Management system"
+    ],
+    "authors": [
+      "Aitor Bazan-Escoda",
+      "Hernán Álvarez",
+      "Carlos Ocampo‐Martínez",
+      "Jorge Lopez Sanz"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202359259",
+    "title": "Theoretical investigation of thermo–mechanical response in hard-rock compressed air energy storage",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132716",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132716",
+    "cited_by_count": 0,
+    "keywords": [
+      "Compressed air",
+      "Compressed air energy storage",
+      "Energy (signal processing)",
+      "Energy storage",
+      "Compression (physics)"
+    ],
+    "authors": [
+      "Xiao Wang",
+      "Zhengliang Li",
+      "Yujing Jiang",
+      "Xuepeng Zhang",
+      "Shumin Liu",
+      "Changdi He",
+      "Shirish Liladhar Patil"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202350105",
+    "title": "Comparative study of spray and multi-jet impingement thermal performance based on infrared thermography for high-power electronics",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132699",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132699",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermography",
+      "Electronics",
+      "Infrared",
+      "Thermal",
+      "Thermal management of electronic devices and systems"
+    ],
+    "authors": [
+      "A. S. Surtaev",
+      "A.S. Sarapulov",
+      "V. Yu. Vladimirov",
+      "А.С. Шамирзаев"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202356879",
+    "title": "Flow-Directed Oil Cooling of an Outer-Rotor PMSM for Electrohydraulic Applications",
+    "abstract": "The continuous torque of compact outer-rotor permanent-magnet synchronous machines (PMSMs) driving hydraulic pumps for hydraulic actuation is often limited by winding temperature. This paper proposes an improved flow-directed oil-cooling arrangement that supplies 24 axial stator channels and eight end-winding jets from a common pump. A nonlinear hydraulic-network model is used to select cooling-path dimensions and estimate flow distribution, while effective heat-transfer coefficients derived from analytical correlations and physically motivated assumptions are applied in a computationally efficient three-dimensional thermal finite-element model. The concept is implemented and validated in an outer-rotor PMSM prototype originally rated at 7 kW and 22.3 Nm. At 7 kW, 3000 rpm, and an oil flow rate of 1 L/min, the mean measured winding temperature decreased from approximately 155 °C with the original oil-circulation arrangement to 92 °C, while the model predicted 97 °C at the corresponding sensor-equivalent location. The improved cooling arrangement enabled continuous motor operation at 150% of the original rated torque at 3.7 L/min, with a mean measured winding temperature of approximately 91 °C and a corresponding model prediction of 96.5 °C. The validated model predicts that the winding temperature at the sensor-equivalent location reaches 155 °C at approximately 52 Nm, or 230% of the original rated torque. The combined experimental and sensitivity results support a broader design principle: moderate cooling distributed over several thermally critical surfaces can be more effective than maximizing the local HTC over a limited area.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132793",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132793",
+    "cited_by_count": 0,
+    "keywords": [
+      "Stator",
+      "Torque",
+      "Control theory (sociology)",
+      "Sensitivity (control systems)",
+      "Flow (mathematics)",
+      "Nonlinear system",
+      "Thermal",
+      "Water cooling"
+    ],
+    "authors": [
+      "Daniil Zadorozhniuk",
+      "Hüseyin Tayyer Canseven",
+      "Eero Scherman",
+      "Pia Lindh",
+      "Ilya Petrov",
+      "Juha Pyrhönen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202390202",
+    "title": "Simulation and experimental investigation of a two-stage oil-free magnetically levitated centrifugal chiller with R1234ze(E) refrigerant",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132697",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132697",
+    "cited_by_count": 0,
+    "keywords": [
+      "Refrigerant",
+      "Water chiller",
+      "Chiller",
+      "Magnetic levitation",
+      "Centrifugal force",
+      "Magnetic refrigeration"
+    ],
+    "authors": [
+      "Dan Liu",
+      "Guang Xi",
+      "Yafei Duan",
+      "Han Chen",
+      "Zhenshan Li",
+      "Xuyang Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202344060",
+    "title": "Performance analysis of wavy solar air heater collector integrated with different thermal storage materials filled inside spherical capsules",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132819",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132819",
+    "cited_by_count": 0,
+    "keywords": [
+      "Airflow",
+      "Thermal energy storage",
+      "Exergy efficiency",
+      "Exergy",
+      "Solar thermal collector",
+      "Thermal",
+      "Phase-change material",
+      "Thermal efficiency",
+      "Paraffin wax"
+    ],
+    "authors": [
+      "Mothana M. Mohamed Salih",
+      "Mohd Azmi Ismail",
+      "Omar Rafae Alomar",
+      "Khaled Ali Mohammad Al-attab"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202358720",
+    "title": "Pool boiling heat transfer characteristics of diverging channel surface with copper foam under sub-atmospheric pressure",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-13",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132801",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132801",
+    "cited_by_count": 0,
+    "keywords": [
+      "Copper",
+      "Boiling",
+      "Heat transfer",
+      "Channel (broadcasting)",
+      "Boiling heat transfer",
+      "Surface (topology)",
+      "Nucleate boiling"
+    ],
+    "authors": [
+      "Minxia Li",
+      "Jie Peng",
+      "Chaobin Dang",
+      "Qifan Wang",
+      "Zhili Sun",
+      "Shengchun Liu",
+      "Weicong Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202390448",
+    "title": "Dual-stage thermal storage and flame-retardant thermal insulation of hydrated salt composite for battery thermal safety systems",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-08-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111257",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111257",
+    "cited_by_count": 0,
+    "keywords": [
+      "Composite number",
+      "Thermal",
+      "Thermal insulation",
+      "Thermal energy storage",
+      "Battery (electricity)",
+      "Salt (chemistry)",
+      "Pipe insulation"
+    ],
+    "authors": [
+      "钟仁超",
+      "Wensheng Yang",
+      "Xinxi Li",
+      "Hongli Liu",
+      "Zikai Guo",
+      "Junting Shi",
+      "Peihui Chen",
+      "Yuhang Wu",
+      "Shaoran Yang",
+      "Ziyu Huang",
+      "Canbing Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202378730",
+    "title": "Investigations of the dynamics of a liquid plug in a capillary in terms of the surface roughness with a closed container heating",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-08-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111259",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111259",
+    "cited_by_count": 0,
+    "keywords": [
+      "Spark plug",
+      "Container (type theory)",
+      "Capillary action",
+      "Surface roughness",
+      "Dynamics (music)",
+      "Surface finish",
+      "Surface (topology)"
+    ],
+    "authors": [
+      "V. I. Trushlyakov",
+      "А.В. Паничкин",
+      "I. Yu. Lesnyak"
+    ],
+    "category": "heat-transfer"
   }
 ]
