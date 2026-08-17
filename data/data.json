@@ -295900,23 +295900,202 @@
         "Yunfan Liu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7203529812",
+      "title": "Interfacial thinning and pinch-off of a compound droplet driven by thermocapillary stresses in confined oscillatory flow",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129382",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129382",
+      "cited_by_count": 0,
+      "keywords": [
+        "Marangoni effect",
+        "Breakup",
+        "Microfluidics",
+        "Marangoni number",
+        "Capillary action",
+        "Thermal",
+        "Thermal conductivity",
+        "Temperature gradient",
+        "Nonlinear system"
+      ],
+      "authors": [
+        "Bishal Sarkar",
+        "Rishav Raj",
+        "Suman Chakraborty",
+        "Suhas Shreekrishna",
+        "Sayan Das",
+        "Somnath Santra"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7163907880",
+      "title": "Thermal-hydraulic-mechanical coupling analysis of porous transport layer with symmetrical double-inclined pores: Balancing transport, heat transfer and mechanical properties",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129420",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129420",
+      "cited_by_count": 0,
+      "keywords": [
+        "Drag",
+        "Heat transfer",
+        "Work (physics)",
+        "Porosity",
+        "Coupling (piping)",
+        "Heat flux",
+        "Displacement (psychology)",
+        "Thermal",
+        "Stress (linguistics)"
+      ],
+      "authors": [
+        "Zongqi Liu",
+        "Ximing Wang",
+        "Jingjie Ren",
+        "Siqi Yang",
+        "Weicheng Sun",
+        "Yubin Mu",
+        "Guiqiang Deng",
+        "Mingshu Bi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7203560071",
+      "title": "Influences of temperature on the NO emission characteristics of NH3/CH4 cofiring under different NH3 injection modes",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132809",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132809",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cofiring",
+        "Combustion",
+        "Analytical Chemistry (journal)",
+        "NOx",
+        "Adiabatic flame temperature",
+        "Mode (computer interface)"
+      ],
+      "authors": [
+        "Jingyang Han",
+        "Yan Xie",
+        "Jingwen Yan",
+        "Wenzhen Zhang",
+        "Xin Liu",
+        "Wei Chu",
+        "Ming Li",
+        "Heyang Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7203558480",
+      "title": "Superior thermal management performance of a composite phase change material in Lithium ion batteries",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132656",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132656",
+      "cited_by_count": 0,
+      "keywords": [
+        "Phase-change material",
+        "Composite number",
+        "Thermal management of electronic devices and systems",
+        "Latent heat",
+        "Battery (electricity)",
+        "Dissipation",
+        "Thermal",
+        "Thermal energy storage",
+        "Suspension (topology)"
+      ],
+      "authors": [
+        "Ziqiang Liu",
+        "Jinghui Li",
+        "Liming Yang",
+        "Yafang Zhang",
+        "Zhiyong Yuan",
+        "Guiwen Jiang",
+        "Hai yuan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7203541709",
+      "title": "Effects and mechanisms of a bentonite-based thermosensitive composite gel inhibitor on the multi-stage oxidation behavior of coal",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-08-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.132797",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132797",
+      "cited_by_count": 0,
+      "keywords": [
+        "Spontaneous combustion",
+        "Activation energy",
+        "Coal",
+        "Composite number",
+        "Oxygen",
+        "Redox",
+        "Ignition system",
+        "Combustion",
+        "Thermal analysis"
+      ],
+      "authors": [
+        "Keyu Wang",
+        "Ziwen Dong",
+        "Haojie Zhang",
+        "Xian Wu",
+        "Zhang Yuze Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7203546336",
+      "title": "Improving laser-induced fluorescence thermometry for multiphase flow measurement",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-08-01",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111817",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111817",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sensitivity (control systems)",
+        "Temperature measurement",
+        "Aqueous solution",
+        "Fluorescence",
+        "Wavelength",
+        "Thermal",
+        "Analytical Chemistry (journal)",
+        "Evaporation",
+        "Excitation"
+      ],
+      "authors": [
+        "L. Perrin",
+        "G. Ledoux",
+        "F. Ayela",
+        "D. Colombet"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 11432,
+    "total": 11438,
     "journals": 277,
-    "last_update": "2026-08-16 01:48:28",
+    "last_update": "2026-08-17 01:46:35",
     "reactor-thermal_count": 1338,
-    "heat-transfer_count": 2458,
+    "heat-transfer_count": 2464,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1441
+        "count": 1444
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 580
+        "count": 582
       },
       {
         "name": "Annals of Nuclear Energy",
@@ -296100,7 +296279,7 @@
       },
       {
         "name": "Experimental Thermal and Fluid Science",
-        "count": 54
+        "count": 55
       },
       {
         "name": "Journal of Cancer Survivorship",
@@ -297021,10 +297200,6 @@
     ],
     "trend": [
       {
-        "date": "2026-07-18",
-        "count": 14
-      },
-      {
         "date": "2026-07-19",
         "count": 0
       },
@@ -297078,7 +297253,7 @@
       },
       {
         "date": "2026-08-01",
-        "count": 73
+        "count": 74
       },
       {
         "date": "2026-08-02",
@@ -297134,10 +297309,14 @@
       },
       {
         "date": "2026-08-15",
-        "count": 0
+        "count": 5
       },
       {
         "date": "2026-08-16",
+        "count": 0
+      },
+      {
+        "date": "2026-08-17",
         "count": 0
       }
     ]
@@ -297356,5 +297535,5 @@
       }
     ]
   },
-  "export_time": "2026-08-16T01:48:28.140422"
+  "export_time": "2026-08-17T01:46:35.852289"
 }
