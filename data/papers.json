@@ -301635,5 +301635,179 @@
       "Jianwei Lei"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204024719",
+    "title": "Statistical analyses of granular flows in pebble bed reactors",
+    "abstract": "Fuel costs are a major component of pebble bed reactor (PBR) operating expenses, and uncertainty in pebble trajectories can lead to under- or over-irradiation, reducing fuel utilization and potentially degrading performance. More accurate pebble-path prediction can therefore improve fuel-management economics, particularly during load-following operation. Simulating granular flow in PBRs is a challenging task because it is affected by material properties and contact mechanics, which exhibit a large degree of time variability because of operation and fuel position. These uncertainties propagate directly into predictions of pebble trajectories and residence times, which are central quantities for fuel management. This paper reports the development and validation of Pebble TRACK : a discrete element method (DEM)-informed statistical framework for rapid pebble trajectory assessment. The Pebble TRACK approach uses mesh-free DEM simulations to generate high-resolution trajectory and contact-interaction data, including dynamic surface interactions. Pebble TRACK -predicted trajectories and residence times agree well with experimental data, requiring approximately 5.52% of the computational time as compared to a full DEM simulation. While developed for PBR applications, Pebble TRACK can be extended to produce granular flow predictions for an arbitrary geometry. These components and performances provide a computationally efficient path to predicting real-time pebble trajectories suitable for advanced fuel management strategies that will be combined with the neutron flux history to help determine a pebble’s burnup in the future.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112722",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112722",
+    "cited_by_count": 0,
+    "keywords": [
+      "Pebble",
+      "Trajectory",
+      "Flow (mathematics)",
+      "Residence time (fluid dynamics)",
+      "Discrete element method",
+      "Track (disk drive)"
+    ],
+    "authors": [
+      "Ethan Nicolls",
+      "Timothy P. Grunloh",
+      "Seth Pemberton",
+      "Ming Fang",
+      "Sohaib Malik",
+      "William Dick",
+      "Caleb S. Brooks",
+      "Angela Di Fulvio"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7204046199",
+    "title": "An OpenFOAM moment method framework for investigating relaxation mechanisms of wet steam condensation in high- and low-pressure nozzles",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132924",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132924",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nozzle",
+      "Moment (physics)",
+      "Relaxation (psychology)",
+      "Condensation",
+      "Airflow"
+    ],
+    "authors": [
+      "Guojie Zhang",
+      "Yiding Wu",
+      "Qianhao Zhang",
+      "Yifan Yang",
+      "Zunlong Jin",
+      "Sławomir Dykas"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204056431",
+    "title": "Interface engineering of liquid crystal-modified BN enhances thermal conduction for thermal management and thermoelectric conversion",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132872",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132872",
+    "cited_by_count": 0,
+    "keywords": [
+      "Boron nitride",
+      "Thermal conductivity",
+      "Thermoelectric effect",
+      "Thermal conduction",
+      "Heat transfer",
+      "Thermoelectric materials",
+      "Interfacial thermal resistance",
+      "Composite number",
+      "Phase-change material",
+      "Thermal"
+    ],
+    "authors": [
+      "Bing Yao",
+      "Xiaofan Liang",
+      "任寒梅",
+      "Xiang Li",
+      "Congcong Luo",
+      "Xiang Huang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204030016",
+    "title": "Interphase heat and mass transfer intensification by reaction-induced convection in porous particle-fluid systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132853",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132853",
+    "cited_by_count": 0,
+    "keywords": [
+      "Natural convection",
+      "Nusselt number",
+      "Mass transfer",
+      "Buoyancy",
+      "Decoupling (probability)",
+      "Dimensionless quantity",
+      "Heat transfer",
+      "Interphase",
+      "Convection",
+      "Sherwood number"
+    ],
+    "authors": [
+      "Han Qin",
+      "Shuaiqi Zhao",
+      "Han Huang",
+      "Kunpeng Zhao",
+      "Bofeng Bai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204033026",
+    "title": "Thermo-hydraulic mechanisms and structural parameter effects of supercritical n-decane multi-jet impingement cooling",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132905",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132905",
+    "cited_by_count": 0,
+    "keywords": [
+      "Scramjet",
+      "Supercritical fluid",
+      "Heat transfer",
+      "Nusselt number",
+      "Reynolds number",
+      "Jet (fluid)",
+      "Heat flux",
+      "Heat transfer enhancement"
+    ],
+    "authors": [
+      "Le Ding",
+      "Ming-shu Bi",
+      "Jing-Jie Ren"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204042092",
+    "title": "Energy integration and techno-economic performance of coal to ammonia system coupled with green hydrogen",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132831",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132831",
+    "cited_by_count": 0,
+    "keywords": [
+      "Hydrogen",
+      "Power to gas",
+      "Hydrogen production",
+      "Renewable energy",
+      "Coal",
+      "Ammonia production",
+      "Process integration",
+      "Waste heat",
+      "Ammonia",
+      "Coupling (piping)"
+    ],
+    "authors": [
+      "Luyao Liu",
+      "Hanfei Zhang",
+      "Mingjia Sun",
+      "Arianna Baldinelli",
+      "Jin Li",
+      "Liqiang Duan",
+      "Umberto Desideri"
+    ],
+    "category": "heat-transfer"
   }
 ]
