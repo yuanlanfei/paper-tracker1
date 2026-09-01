@@ -307051,5 +307051,113 @@
       "Wenxi Tian"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204716530",
+    "title": "An available assay method for uranium enrichment in plate-type fuel elements based on dual-peak ratio",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-08-30",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115190",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115190",
+    "cited_by_count": 0,
+    "keywords": [
+      "Uranium",
+      "Enriched uranium",
+      "Uranium-235",
+      "Thorium fuel cycle",
+      "Natural uranium",
+      "Spent nuclear fuel",
+      "Actinide"
+    ],
+    "authors": [
+      "Kai Zhuang",
+      "Aoyang Wei",
+      "Zhiming Zhang",
+      "Long Wei",
+      "Yantao Liu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7204735833",
+    "title": "Multi-physical fields nonlinear acoustic tomography in high-speed thermal flow",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-08-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129492",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129492",
+    "cited_by_count": 0,
+    "keywords": [
+      "Adiabatic process",
+      "Ray tracing (physics)",
+      "Acoustic wave equation",
+      "Nonlinear system",
+      "Speed of sound",
+      "Nonlinear acoustics",
+      "Perturbation (astronomy)",
+      "Degenerate energy levels",
+      "Tracing",
+      "Acoustic wave"
+    ],
+    "authors": [
+      "Qian Kong",
+      "Qinghang Zeng",
+      "Peng Li",
+      "Genshan Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204692051",
+    "title": "Adaptive thermal regulation enabled by synergistic radiative cooling and phase change energy storage",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133029",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133029",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radiative cooling",
+      "Thermal energy storage",
+      "Phase-change material",
+      "Passive cooling",
+      "Radiative transfer",
+      "Thermal",
+      "Emissivity",
+      "Latent heat",
+      "Work (physics)",
+      "Thermal mass"
+    ],
+    "authors": [
+      "Wenzhu Lin",
+      "Jing He",
+      "Huahui Dai",
+      "Wen Su",
+      "Changhong Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7204694587",
+    "title": "Full-range drift-flux correlation for boiling and adiabatic co-current downward two-phase flows in vertical pipes",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-08-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132918",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132918",
+    "cited_by_count": 0,
+    "keywords": [
+      "Adiabatic process",
+      "Boiling",
+      "Flow boiling",
+      "Adiabatic wall",
+      "Computational fluid dynamics"
+    ],
+    "authors": [
+      "Chuanshuai Dong",
+      "Takashi Hibiki"
+    ],
+    "category": "heat-transfer"
   }
 ]
