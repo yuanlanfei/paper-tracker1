@@ -311924,27 +311924,511 @@
         "Jocelyn Bonjour"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210277411",
+      "title": "Development of a multilayer vapor-liquid phase change model for the VOF method and simulation of vapor condensation process",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115200",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115200",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bubble",
+        "Condensation",
+        "Volume of fluid method",
+        "Evaporation",
+        "Boundary layer",
+        "Suction",
+        "Thermal",
+        "Bubble point",
+        "Inlet",
+        "Hydraulic diameter"
+      ],
+      "authors": [
+        "Xiaohong Yan",
+        "Hekai Ye",
+        "Ting Ma",
+        "Qi Xiao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7141484068",
+      "title": "Uncertainty-aware superpixel segmentation and bayesian optimization for sampling strategy development using activation analysis of OPR-1000",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112779",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112779",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sampling (signal processing)",
+        "Bayesian probability",
+        "Uncertainty quantification",
+        "Bayesian optimization",
+        "Curse of dimensionality",
+        "Gaussian process",
+        "Pooling",
+        "Uncertainty analysis",
+        "Probabilistic logic",
+        "Adaptive sampling"
+      ],
+      "authors": [
+        "Jeongon Eom",
+        "Sewon Kim",
+        "Seokjun Hong",
+        "Chang Je Park"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7210262272",
+      "title": "ZnO-rich Borate-Titanate glasses engineered with Eu3+ and Ba2+ for improved optical features and gamma-ray shielding properties",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112811",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112811",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electromagnetic shielding",
+        "Attenuation",
+        "Photonics",
+        "Absorption (acoustics)",
+        "Radiation shielding",
+        "Radiation",
+        "Photon",
+        "Doping"
+      ],
+      "authors": [
+        "M.I. Sayyed",
+        "Manjunatha Manjunatha",
+        "Sulochana P. Melinmath",
+        "Shams A.M. Issa",
+        "Ranjith Gowda",
+        "A.S. Bennal"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7210264434",
+      "title": "Development and application of three-dimensional thermal–hydraulic code for pebble bed high-temperature gas-cooled reactor",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112822",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112822",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pebble",
+        "Solver",
+        "Helium",
+        "Flow (mathematics)",
+        "Computation",
+        "Power (physics)",
+        "Code (set theory)",
+        "Development (topology)",
+        "Maximum temperature"
+      ],
+      "authors": [
+        "Liu Ming",
+        "Q.L. Song",
+        "Wu Pan",
+        "Li Sheng",
+        "Liu Wei",
+        "Xing Feng",
+        "Zhao WU",
+        "Shan Jianqiang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7210268002",
+      "title": "Multiphysics coupled thermal-to-electric performance analysis of a Stirling-type heat pipe reactor system",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112814",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112814",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Stirling engine",
+        "Heat pipe",
+        "Heat transfer",
+        "Transient (computer programming)",
+        "Heat sink",
+        "Thermal"
+      ],
+      "authors": [
+        "Aoguang Wu",
+        "Weixiang Wang",
+        "Kefan Zhang",
+        "Xiao Luo",
+        "H.C. Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7210267277",
+      "title": "An estimation method for the total amount of 137 Cs contamination on the bottom of top shield plug in the Fukushima Daiichi nuclear power plant unit 2",
+      "abstract": "The estimation of the total amount of 137Cs contamination on the bottom of the top shield plug in the Fukushima Daiichi Nuclear Power Plant Unit 2 is one of the key issues for pushing the decommissioning forward. Direct measurement of the 137Cs contamination amount is, however, difficult: the contamination is on the other side of a 61 cm thick concrete shield plug, i.e. opposite side of the surface of the shield plug on which ambient dose rate measurements were performed. This paper proposes a method for estimating the total amount of the 137Cs contamination on the bottom of the top shield plug using a dose rate meter in a lead collimator to define the contamination area from which gamma-rays are emitted. The proposed method is applied to the dose rates measured at 12 points on the shield plug surface. The estimated total amount of 137Cs contamination is about 30 PBq.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-09-05",
+      "url": "https://doi.org/10.1080/00223131.2026.2725018",
+      "doi": "https://doi.org/10.1080/00223131.2026.2725018",
+      "cited_by_count": 0,
+      "keywords": [
+        "Shield",
+        "Contamination",
+        "Nuclear decommissioning",
+        "Spark plug",
+        "Nuclear power plant",
+        "Nuclear power",
+        "Dose rate",
+        "Radioactive contamination"
+      ],
+      "authors": [
+        "Ikuo Kanno",
+        "Taichi Matsumura",
+        "Keisuke Okumura"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7162299955",
+      "title": "Modelling the photocatalytic oxidation of methane and other air pollutants for applications in ventilation systems",
+      "abstract": "Photocatalytic oxidation (PCO) is a promising strategy for indoor air purification and outdoor pollutant abatement, potentially offering treatment for climate- and health-relevant pollutants such as methane (CH$_4$), nitrogen oxides (NO$_\\text{x}$) and volatile organic compounds (VOCs). In this work, we present experiments evaluating the PCO of CH$_4$ (2 to 10 ppm) under varying UV-C light intensities (4 to 59 W/m$^2$), using titanium dioxide (TiO$_2$) as the photocatalyst. At 2 ppm CH$_4$, TiO$_2$ achieves a maximum conversion efficiency of 24.4\\% and a maximum apparent quantum yield of $0.013$\\% over the tested UV-C light intensities, demonstrating activity at environmentally relevant concentrations. We develop a model to interpret the experimental results and assess the potential of PCO for ventilation applications. The model is validated against our CH$_4$ data and literature results for formaldehyde (HCHO) and NO$_\\text{x}$. While laboratory-scale configurations achieve high conversions (e.g., 24.4\\% for CH$_4$), ventilation-scale performance is predicted to be limited by thin concentration boundary layers and short residence times, with conversion efficiencies dropping to around $0.017$\\%. Finally, we estimate the climate impact of CH$_4$ removal in terms of CO$_2$e emission rates, demonstrating that TiO$_2$-based PCO in ventilation applications could yield a net climate benefit (i.e., a net-negative CO$_2$e emission rate) when the modelled CO$_2$e removal rate exceeds emissions from catalyst material production and UV-C operation, which could be facilitated by leveraging pre-existing UV-C irradiation.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129432",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129432",
+      "cited_by_count": 0,
+      "keywords": [
+        "Photocatalysis",
+        "Pollutant",
+        "Methane",
+        "Ventilation (architecture)",
+        "Titanium dioxide",
+        "Formaldehyde",
+        "Yield (engineering)",
+        "NOx",
+        "Sulfur dioxide"
+      ],
+      "authors": [
+        "Samuel Tomlinson",
+        "Aliki Tsopelakou",
+        "Tzia Onn",
+        "Steven Barrett",
+        "Adam Boies",
+        "Shaun Fitzgerald"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7164363642",
+      "title": "Mechanics-driven evolution of effective thermal conductivity in salt-hydrate thermochemical energy storage materials",
+      "abstract": "Inorganic salt hydrates are promising thermochemical energy storage (TCES) materials because of their low cost, high energy density, and moderate operating temperatures. However, hydration/dehydration cycling produces large volumetric changes that alter microstructure, generate internal stress, and drive progressive degradation, limiting long-term cyclic stability. Because heat-transfer performance depends on the evolving effective thermal conductivity, keff, predictive TCES models must account for how reaction-induceddeformation and damage modify conductive pathways during cycling.This work develops a representative volume element (RVE) based finite element framework to quantify the mechanics-driven evolution of keff in salt-hydrate TCES materials. The framework combines coupled thermo-chemo-mechanical simulations with a guarded-hot-plate-style numerical measurement of effective thermal conductivity. Void-based and particle-based RVEs are examined over a range of relative densities and boundary conditions to isolate the roles of porosity, pore morphology, inter-particle contact, and reaction-induced deformation. The results show that keff is not governed by relative density alone; microstructural topology and mechanical constraint play a central role in determining how conductive pathways evolve during reaction.To capture cyclic degradation, we further introduce a probabilistic chemo-mechanical damage framework that links reaction-induced cracking to pellet-level conductivity loss. Using experimentally informed cycle-dependent crack densities, the model predicts progressive reductions in keff over repeated hydration/dehydration cycles. Together, the RVE simulations and damage framework connect evolving microstructure, mechanical degradation, and heat-transfer performance in salt-hydrate TCES systems.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129505",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129505",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal conductivity",
+        "Work (physics)",
+        "Cracking",
+        "Electrical conductor",
+        "Finite element method",
+        "Thermal",
+        "Representative elementary volume",
+        "Boundary value problem",
+        "Range (aeronautics)"
+      ],
+      "authors": [
+        "Jaechan Pyo",
+        "Srivatsa Bhat K",
+        "Claudio V. Di Leo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210294607",
+      "title": "Temperature field reconstruction in organ cryopreservation from sparse measurements using a physics-guided learning framework",
+      "abstract": "Accurate prediction of transient three-dimensional temperature fields during organ cooling and rewarming is essential for maintaining viability in cryopreservation. However, this task is fundamentally constrained by the scarcity of experimentally measured data, the distribution discrepancy between simulated and real experimental data, and the strong nonlinearities associated with phase-transition processes. This paper proposes a Transient Temperature Query Network (TTQN) that integrates simulated and real experimental data by reformulating temperature-field reconstruction as a query-driven conditional regression task, and establishes a large-scale mixed dataset covering diverse animal tissues and organs. By incorporating multi-channel thermophysical parameters, multi-scale feature-extraction modules, and physics-guided loss functions, the proposed model enables precise temperature prediction at arbitrary internal positions of organs under sparse observation conditions. The proposed TTQN demonstrates superior prediction performance compared with several benchmark models, achieving stable reconstruction accuracy under limited observation conditions and significantly reducing simulation-to-experiment discrepancies. This study establishes a scalable and generalizable paradigm for three-dimensional temperature-field prediction in biomaterials, providing core technical support for precise thermal-regulation strategies during organ preservation.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129498",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129498",
+      "cited_by_count": 0,
+      "keywords": [
+        "Benchmark (surveying)",
+        "Scalability",
+        "Transient (computer programming)",
+        "Field (mathematics)",
+        "Task (project management)",
+        "Temperature measurement",
+        "Regression",
+        "Pattern recognition (psychology)"
+      ],
+      "authors": [
+        "Yujie Hu",
+        "Yixin Liu",
+        "Xinjie Wu",
+        "Zirui Wang",
+        "Gang Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210261814",
+      "title": "Multi-objective optimization of flow and heat transfer characteristics in manifold microchannel heat sink with droplet cavities and droplet ribs based on artificial neural network",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133115",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133115",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat sink",
+        "Thermal resistance",
+        "Heat transfer",
+        "Microchannel",
+        "Coolant",
+        "Heat transfer coefficient",
+        "Thermal",
+        "Nanofluid",
+        "Control theory (sociology)"
+      ],
+      "authors": [
+        "Zhiguo Tang",
+        "Yan Li",
+        "Wenxing Tong",
+        "Yanfeng Du",
+        "Jianping Cheng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210262356",
+      "title": "A data-driven framework for state-space optimization in reinforcement learning control of electric vehicle thermal management",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133031",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133031",
+      "cited_by_count": 0,
+      "keywords": [
+        "Redundancy (engineering)",
+        "Reinforcement learning",
+        "Electric vehicle",
+        "Rank (graph theory)",
+        "Control theory (sociology)",
+        "Control (management)",
+        "Thermal",
+        "Dimension (graph theory)"
+      ],
+      "authors": [
+        "Yuan Pang",
+        "Kuining Li",
+        "Yi Xie",
+        "Jiangyan Liu",
+        "Wenlin Tan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210273778",
+      "title": "Thermal design of hypersonic vehicles: a review on past highlights and current challenges",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133094",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133094",
+      "cited_by_count": 0,
+      "keywords": [
+        "Hypersonic speed",
+        "Aerospace",
+        "Hypersonic flight",
+        "Thermal",
+        "Multidisciplinary approach",
+        "Range (aeronautics)"
+      ],
+      "authors": [
+        "Shibin Luo",
+        "Jiacheng Yuan",
+        "Xiaofan Zhang",
+        "Jun Liu",
+        "Jiawen Song",
+        "Hang Yue",
+        "Kai Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210279700",
+      "title": "Thermal and fluid dynamics simulation of hydrogen leakage ignition and explosion mitigation in refueling stations",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133001",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133001",
+      "cited_by_count": 0,
+      "keywords": [
+        "Overpressure",
+        "Ignition system",
+        "Hydrogen",
+        "Leakage (economics)",
+        "Thermal",
+        "Computer simulation"
+      ],
+      "authors": [
+        "Tai Juan Sheng",
+        "Fang Ye",
+        "Rui Jiao Yu",
+        "Hao Chen",
+        "Jin Jiang Wang",
+        "Hang Guo",
+        "Wei Bo Zhang",
+        "Mao Hai Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210282513",
+      "title": "Concentration-dependent evaporation pathways of surfactant-stabilized CNT–diesel droplets at 673 K",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133126",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133126",
+      "cited_by_count": 0,
+      "keywords": [
+        "Carbon nanotube",
+        "Shrinkage",
+        "Pulmonary surfactant",
+        "Duration (music)",
+        "Evaporation",
+        "Process (computing)",
+        "Diesel fuel"
+      ],
+      "authors": [
+        "lingfei kong",
+        "Fukang Ma",
+        "Chiyu Wang",
+        "Yuxiang Chen",
+        "Wei Yang",
+        "Ruifan Xu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210285401",
+      "title": "Energy saving and self-powered smart window with active-passive collaborative control",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133006",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133006",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electrochromism",
+        "Transmittance",
+        "Composite number",
+        "Thermal",
+        "Renewable energy",
+        "Thermochromism",
+        "Thermal energy",
+        "Phase-change material",
+        "Temperature control"
+      ],
+      "authors": [
+        "Jianjuan Yuan",
+        "Haiying Zhang",
+        "Xuan Zhao",
+        "Xuemei Zhang",
+        "Siyuan Liu",
+        "Feng Chen",
+        "Hongwei Yang",
+        "Xiangfei Kong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210291560",
+      "title": "Sequential roll-gap expansion enables highly aligned h-BN networks for enhanced thermal management in polymer composites",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-06",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133104",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133104",
+      "cited_by_count": 0,
+      "keywords": [
+        "Composite number",
+        "Thermal",
+        "Thermal conductivity",
+        "Heat transfer",
+        "Rheology",
+        "Work (physics)",
+        "Thermal transfer"
+      ],
+      "authors": [
+        "Mi-Ri An",
+        "Dong-Kwan Lee",
+        "Kun-Woo Nam",
+        "Won-Jin Kim",
+        "Jae-Min Kwon",
+        "Ji-Yoon Ahn",
+        "Eun-Taek Hor",
+        "Sunghoon Park"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7210289639",
+      "title": "Editorial/preface of special issue AESMT’25",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133118",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133118",
+      "cited_by_count": 0,
+      "keywords": [
+        "Renewable energy",
+        "Rest (music)",
+        "Efficient energy use",
+        "Energy (signal processing)",
+        "Thermal energy"
+      ],
+      "authors": [
+        "А. Г. Георгиев",
+        "M. Hu",
+        "C.N. Markides"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12014,
+    "total": 12031,
     "journals": 277,
-    "last_update": "2026-09-07 04:15:58",
-    "reactor-thermal_count": 1521,
-    "heat-transfer_count": 2857,
+    "last_update": "2026-09-08 04:16:44",
+    "reactor-thermal_count": 1527,
+    "heat-transfer_count": 2868,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1683
+        "count": 1691
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 672
+        "count": 675
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 413
+        "count": 417
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -311956,7 +312440,7 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 232
+        "count": 233
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -312136,7 +312620,7 @@
       },
       {
         "name": "Journal of Nuclear Science and Technology",
-        "count": 50
+        "count": 51
       },
       {
         "name": "Small Business Economics",
@@ -313045,10 +313529,6 @@
     ],
     "trend": [
       {
-        "date": "2026-08-09",
-        "count": 5
-      },
-      {
         "date": "2026-08-10",
         "count": 26
       },
@@ -313138,7 +313618,7 @@
       },
       {
         "date": "2026-09-01",
-        "count": 41
+        "count": 42
       },
       {
         "date": "2026-09-02",
@@ -313154,14 +313634,18 @@
       },
       {
         "date": "2026-09-05",
-        "count": 18
+        "count": 19
       },
       {
         "date": "2026-09-06",
-        "count": 1
+        "count": 16
       },
       {
         "date": "2026-09-07",
+        "count": 0
+      },
+      {
+        "date": "2026-09-08",
         "count": 0
       }
     ]
@@ -313380,5 +313864,5 @@
       }
     ]
   },
-  "export_time": "2026-09-07T04:15:58.876519"
+  "export_time": "2026-09-08T04:16:44.101030"
 }
