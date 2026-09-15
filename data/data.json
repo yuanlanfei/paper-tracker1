@@ -317769,35 +317769,469 @@
         "Shengyao Jiang"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212442095",
+      "title": "On the asymmetric grid-to-rod fretting wear of PWR fuel rods induced by nonlinear vibration",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112818",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112818",
+      "cited_by_count": 0,
+      "keywords": [
+        "Rod",
+        "Fretting",
+        "Fretting wear",
+        "Vibration",
+        "Nonlinear system"
+      ],
+      "authors": [
+        "Shuo Ma",
+        "Peng Li",
+        "Heng Huang",
+        "Junzhe Cui",
+        "Jinming Li"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212449207",
+      "title": "Multiphysics analysis of hydrogen kinetics and their effects in UZrHx-fueled reactors",
+      "abstract": "Hydrogen kinetics within the Uranium–zirconium hydride (UZrH x ) fuel, including redistribution, dissociation, and permeation loss, can alter local moderating capability and material properties, thereby affecting core neutronics and safety characteristics. In this work, a hydrogen kinetics model was developed and integrated into the deterministic code system SARAX to establish a coupled neutronic-thermal-hydrogen kinetics analysis tool. Hydrogen redistribution, dissociation, and permeation loss were simulated at the whole-core scale over the full reactor lifetime and their effects on neutron science and thermal parameters were quantitatively evaluated. The results show that temperature gradients drive pronounced hydrogen migration from hotter regions to colder regions, leading to a nonuniform hydrogen distribution and a corresponding change in local moderating capability. Axial hydrogen redistribution shifts the axial power profile toward the lower core region with higher hydrogen concentration. Radial redistribution increases the H/Zr ratio at the outer solid–gas interface of the fuel pellet, thereby increasing the local equilibrium hydrogen pressure and promoting subsequent permeation loss. The core-averaged H/Zr ratio decreases nearly linearly from 1.6 to 1.5763 by the end of life, while the minimum local H/Zr ratio remains within the δ-ZrH x phase field under the corresponding temperature condition. Axial hydrogen redistribution alone increases k eff by approximately 49 pcm, whereas hydrogen permeation loss decreases k eff by approximately 489 pcm. Under their combined effects, k eff decreases by approximately 447 pcm over the reactor lifetime. The present results provide a computational basis for the design and safety evaluation of UZrH x -fueled microreactors.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112840",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112840",
+      "cited_by_count": 0,
+      "keywords": [
+        "Hydrogen",
+        "Multiphysics",
+        "Permeation",
+        "Kinetics",
+        "Neutron transport",
+        "Redistribution (election)",
+        "Chemical kinetics"
+      ],
+      "authors": [
+        "Shixin Lin",
+        "Youqi Zheng",
+        "Xianan Du",
+        "Hongchun Wu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212454437",
+      "title": "Dynamic modeling and simulation of supercritical carbon dioxide recompression Brayton cycle energy converter coupled with a 400MWth natural circulation lead-cooled reactor",
+      "abstract": "The natural circulation lead-cooled fast reactor (NCLFR) possesses excellent neutron economy, thermal safety characteristics, and application potential. Meanwhile, the supercritical carbon dioxide recompression closed Brayton cycle (s-CO 2 -RCBC) has the merits of high thermal energy conversion efficiency, system compactness, environmental friendliness, safety, and notable economic benefits. Coupling the NCLFR with s-CO 2 -RCBC can integrate the advantages of both, representing a key development direction for future advanced clean-energy nuclear energy systems. However, the unique thermophysical properties of supercritical carbon dioxide, the complexity of the recompression Brayton cycle, and the intricate coupling with the NCLFR render the transient behavior and control strategies of the entire system highly complex. This paper establishes a dynamic model for a 400MW th small lead-cooled fast reactor coupled with a supercritical carbon dioxide conversion Brayton cycle system based on the reactor transient simulation code RESYS, and a control system for reactor power and s-CO 2 -RCBC system was established. The component model and closed-cycle dynamic model of the s-CO 2 -RCBC were validated using literature reference data. Subsequently, a detailed analysis is conducted on both the steady-state and transient operational characteristics of the integrated system. Firstly, the steady-state simulation is conducted to validate the precision of the integrated system model and serve as the initial condition for the transient simulation. Thereafter, three transient operational conditions are simulated, including reactor power perturbation, external load reduction, and fluctuations in cooling-water temperature and flow rate. The result shows that the automatic control system can effectively control the system and yield satisfactory system dynamic characteristics under the condition of these transients. The research findings presented in this paper can serve as an important reference for the design and evaluation of control methods for NCLFR systems coupled with s-CO 2 -RCBC.",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106608",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106608",
+      "cited_by_count": 0,
+      "keywords": [
+        "Brayton cycle",
+        "Natural circulation",
+        "Transient (computer programming)",
+        "Supercritical fluid",
+        "Supercritical carbon dioxide",
+        "Nuclear reactor",
+        "Dynamic simulation",
+        "Power (physics)",
+        "Coupling (piping)"
+      ],
+      "authors": [
+        "Zongyun Wu",
+        "Tiancai Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212419759",
+      "title": "Integration method for determining the potential alpha energy concentration of radon and thoron decay products in air",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.net.2026.104671",
+      "doi": "https://doi.org/10.1016/j.net.2026.104671",
+      "cited_by_count": 0,
+      "keywords": [
+        "Radon",
+        "Energy (signal processing)",
+        "Alpha (finance)",
+        "Alpha particle"
+      ],
+      "authors": [
+        "Agata Grygier",
+        "Krystian Skubacz",
+        "Stanisław Chałupnik"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212424258",
+      "title": "Fractional dual-phase-lag bioheat model for moving Gaussian laser heating in biological tissue",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129549",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129549",
+      "cited_by_count": 0,
+      "keywords": [
+        "Biological tissue",
+        "Bioheat transfer",
+        "Laser",
+        "Gaussian",
+        "Gaussian network model"
+      ],
+      "authors": [
+        "Yan Hu",
+        "Xinyu Diao",
+        "Haitao Qi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212437668",
+      "title": "Self-pumping boiling mechanism bridging passive and active cooling performance",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129566",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129566",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bridging (networking)",
+        "Boiling",
+        "Mechanism (biology)",
+        "Active cooling",
+        "Thermal management of electronic devices and systems",
+        "Water cooling"
+      ],
+      "authors": [
+        "Shaobo Yang",
+        "Sihui Hong",
+        "Chaobin Dang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212418126",
+      "title": "An integrated electrothermal model for subsea power electronics",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133110",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133110",
+      "cited_by_count": 0,
+      "keywords": [
+        "Subsea",
+        "Power electronics",
+        "Electronics",
+        "Power (physics)"
+      ],
+      "authors": [
+        "Lucas Andrade Militão",
+        "Esio Eloi dos Santos Filho",
+        "Marcelo Lobo Heldwein",
+        "Jader R. Barbosa"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212418853",
+      "title": "An investigation on the flame characteristics of sustainable aviation fuels and their blends near lean ignition limit",
+      "abstract": "With the increasing adoption of SAFs in aero-engines, ignition performance and flame stability are critical for achieving reliable combustion over a wide operating range. This study investigates the transient flame evolution of RP-3, HEFA-SPK, and their equal-volume blend near the lean ignition limit under 273 K–101 kPa, 253 K–80 kPa, and 233 K–60 kPa conditions. High-speed imaging, centroid tracking, and POD analysis are employed to characterize flame trajectories and spatial modal evolution. Results show that RP-3 exhibits stable radial contraction, while HEFA-SPK undergoes faster initial contraction but more pronounced axial retraction and re-development. The blend inherits the radial behavior of HEFA-SPK, whereas its axial evolution shows nonlinear coupling between RP-3 and HEFA-SPK. POD reveals that RP-3 transitions from RECM to APM with reduced stability; HEFA-SPK transfers energy to higher-order modes while maintaining low-order stability; the blend resembles RP-3 but exhibits enhanced asymmetry under severe conditions. APM promotes early radial convergence with greater trajectory contribution and deflection, whereas RECM dominates axial stretching. These findings clarify the effects of fuel composition on transient flame dynamics and provide guidance for SAF-blend ignition evaluation and combustion optimization.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133169",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133169",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ignition system",
+        "Combustion",
+        "Transient (computer programming)",
+        "Limit (mathematics)",
+        "Nonlinear system",
+        "Instability",
+        "Combustor",
+        "Transient response"
+      ],
+      "authors": [
+        "Zhixin Zhu",
+        "Qihao Lu",
+        "Xiaokang Tong",
+        "Wenjie Tao",
+        "Junjian Tian",
+        "Gaofeng Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212424928",
+      "title": "Capturing the gas-phase action of triphenyl phosphate in PMMA flames: A PLIF-calibrated reaction rate model and experimental verification",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133266",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133266",
+      "cited_by_count": 0,
+      "keywords": [
+        "Triphenyl phosphate",
+        "Triphenyl phosphite",
+        "Action (physics)",
+        "Phosphate",
+        "Catalysis",
+        "Reaction rate"
+      ],
+      "authors": [
+        "I. V. Kulikov",
+        "Stanislav A. Trubachev",
+        "Artem A. Shaklein",
+        "Alexander I. Karpov",
+        "А. Г. Шмаков",
+        "Egor Sosnin",
+        "Alexander A. Paletsky",
+        "Alexandra A. Shcherbinina"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212429334",
+      "title": "Interference-governed electromagnetic-thermal coupling and heat transport in multilayer nanofilms under pulsed extreme-ultraviolet irradiation",
+      "abstract": "Mo/Si multilayer mirrors are central to extreme ultraviolet (EUV) lithography, where nanoscale optical interference and heat accumulation together constrain reflectivity and operational stability. Conventional surface-flux-based models become inadequate for EUV multilayers because interference produces a strongly modulated volumetric absorption profile across periods, which cannot be fully represented by an equivalent surface heat source. Here we develop an analytical electromagnetic-thermal coupling model that links the energy deposition obtained from the transfer matrix method to transient heat conduction in EUV multilayers. The model reveals a fundamental trade-off whereby increasing the multilayer period number enhances reflectivity but simultaneously elevates temperature by impeding heat dissipation. Because the absorbed energy is distributed within the multilayer, the ETCM predicts differences in the magnitude, position, and temporal evolution of the heat-flux maximum after the pulse compared with a conventional surface-flux model. Systematic analysis establishes approximate scaling relations connecting interfacial thermal resistance, beam size, incident energy density, and multilayer period number to thermal confinement and temperature rise. By incorporating interfacial compaction kinetics, the model can predict long-term interfacial compaction under specified operating conditions and provide a theoretical assessment of mirror lifetime. This work provides a theoretical tool for electromagnetic-thermal design and reliability analysis of multilayer nanostructures under pulsed irradiation.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133208",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133208",
+      "cited_by_count": 0,
+      "keywords": [
+        "Extreme ultraviolet lithography",
+        "Interference (communication)",
+        "Thermal conduction",
+        "Heat transfer",
+        "Deposition (geology)",
+        "Coupling (piping)",
+        "Thermal",
+        "Absorption (acoustics)",
+        "Extreme ultraviolet",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Hongyu He",
+        "Li Ma",
+        "Zhiyi Xie",
+        "Yufan Liu",
+        "Chao Wu",
+        "Qiye Zheng",
+        "Yi Tao",
+        "Yunfei Chen",
+        "Chenhan Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212438300",
+      "title": "Condensation heat transfer of R290 and its R290-CO₂ zeotropic blends in a mini-channel: an experimental study",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133158",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133158",
+      "cited_by_count": 0,
+      "keywords": [
+        "Zeotropic mixture",
+        "Condensation",
+        "Heat transfer",
+        "Heat transfer coefficient",
+        "Mass transfer"
+      ],
+      "authors": [
+        "A. Magnabosco",
+        "M. Pysz",
+        "Tancon M.",
+        "Bortolin S.",
+        "M. Azzolin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212444127",
+      "title": "Performance trade-offs of free-piston engine generator through trajectory optimization and segmented trajectory-tracking strategy: Stability, indicated thermal efficiency and net generation efficiency",
+      "abstract": "Free-piston engine generators eliminate the crankshaft connecting rod mechanism of conventional internal combustion engines, offering the advantage of a variable motion trajectory, but suffering from poor operational stability and weak disturbance rejection. Therefore, this paper proposes a segmented trajectory optimization method based on the Gauss pseudospectral method and an interior-point nonlinear programming solver, and obtains multiple optimal solutions with objectives of maximizing indicated thermal efficiency, improving net generation efficiency, and enhancing stability. To evaluate the performance under simulated operating conditions, the optimized trajectories are used as reference trajectories for trajectory-tracking control systems. The results show that under stable conditions, the segmented trajectory-tracking control strategy increases the indicated thermal efficiency by 2.1% and reduces the net generation efficiency by 1.3% compared with the same situation without tracking. The system exhibits better combustion and power generation stability under combustion disturbances. The indicated thermal efficiency and net generation efficiency are simultaneously improved by 4.2% and 1.2% respectively, and the tracking error of the dead-center position is reduced from 0.0065 m to 0.0005 m compared with the same situation without tracking.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133052",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133052",
+      "cited_by_count": 0,
+      "keywords": [
+        "Crankshaft",
+        "Control theory (sociology)",
+        "Trajectory",
+        "Thermal efficiency",
+        "Combustion",
+        "Gauss pseudospectral method",
+        "Stability (learning theory)",
+        "Optimal control",
+        "Power (physics)",
+        "Electricity generation"
+      ],
+      "authors": [
+        "Liang Zhao",
+        "Kang Xu",
+        "Yan Shi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212449605",
+      "title": "Effect of inlet rotation angle on lean ignition and blowout limits of an integrated afterburner",
+      "abstract": "This study investigates the effects of inlet rotation angle on the lean ignition and blowout characteristics of an integrated afterburner under high-temperature rotating inflow conditions. Ignition and blowout experiments are conducted in an integrated afterburner with a single strut-cavity structure. The lean ignition and blowout fuel–air ratios are measured at strut trailing-edge Mach numbers ranging from 0.20 to 0.35 and rotation angles from 0° to 15°. Numerical simulations are also performed to analyze the effects of inlet rotation angle on the flow field structure, fuel atomization and mixing, and combustion characteristics. The results show that: 1) as the inlet rotation angle increases, the lean ignition and blowout fuel–air ratios follow a nonmonotonic trend, initially decreasing and then increasing, with optimal performance occurring at a rotation angle of 5°; 2) a small rotation angle enhances flame retention within the recirculation zone, promotes secondary fuel atomization and mixing, and improves local combustion conditions; 3) a larger rotation angle weakens the recirculation zone downstream of the strut, shifts the shear layer outward, and increases local heat dissipation, raising the risk of flame blowout. This study provides a valuable reference for optimizing combustion organization and designing stable lean-blowout combustion in integrated afterburners.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133242",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133242",
+      "cited_by_count": 0,
+      "keywords": [
+        "Ignition system",
+        "Rotation (mathematics)",
+        "Combustion",
+        "Inlet",
+        "Rotational speed",
+        "Combustor",
+        "Mach number",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Qirun Li",
+        "Weidou Sun",
+        "Di Dong",
+        "Wei Li",
+        "Yingwen Yan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212449817",
+      "title": "Use of a single CO₂ coolant in a Cascade manner for thermal protection of hypersonic vehicles",
+      "abstract": "To address the thermal protection of hot-end components in hypersonic vehicles under extreme high-enthalpy aerodynamic heating, this study proposes and experimentally validates a channel–film combined cooling scheme based on the cascaded use of a single CO₂ coolant. Tests were conducted on a direct-connect high-enthalpy supersonic ground-test platform, where a liquid oxygen–alcohol gas generator produced a mainstream with a total temperature of approximately 3300 K and a Mach number of 2.2. Channel cooling, film cooling, and channel–film combined cooling were comparatively evaluated under the same nominal mainstream and coolant-supply conditions. In the combined configuration, CO₂ first absorbs heat in the internal channels and is then injected to form an external cooling film, thereby integrating internal heat absorption and external thermal shielding within a single-coolant system. Channel cooling alone exhibited upstream heat accumulation, whereas film cooling alone showed downstream deterioration caused by mainstream mixing. In contrast, the combined configuration provided more stable thermal protection through the synergistic effect of the two cooling mechanisms. At a CO₂ mass flow rate of 100 g/s and a heating duration of 23 s, the representative late-stage wall temperatures were maintained within 254–274 K, compared with maximum wall temperatures of 1051 K for channel cooling and 557 K for film cooling. These results demonstrate the effectiveness of cascaded single-CO₂ channel–film cooling for local thermal protection of hypersonic vehicle seekers.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133222",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133222",
+      "cited_by_count": 0,
+      "keywords": [
+        "Hypersonic speed",
+        "Aerodynamic heating",
+        "Coolant",
+        "Mach number",
+        "Hypersonic flight",
+        "Space Shuttle thermal protection system",
+        "Thermal",
+        "Active cooling",
+        "Scramjet",
+        "Cascade"
+      ],
+      "authors": [
+        "Yatian Zhao",
+        "Xiaowei Qi",
+        "Jing Zhang",
+        "Hongyue Zhao",
+        "Fanzhi Zeng",
+        "Shaowei Gu",
+        "Sheng Yan",
+        "Hongkang Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212422080",
+      "title": "Effects of ultra-low temperatures and tray width on the pulsating behavior and heat transfer mechanism of ethanol flame spread",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111331",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111331",
+      "cited_by_count": 0,
+      "keywords": [
+        "Tray",
+        "Heat transfer",
+        "Mechanism (biology)",
+        "Ethanol",
+        "Enhanced heat transfer"
+      ],
+      "authors": [
+        "Yanan Hou",
+        "Ranran Li",
+        "Li He",
+        "Dong Qi",
+        "Yao Hong",
+        "Wei Ding",
+        "Zhiyu Yan",
+        "Manhou Li",
+        "Fei Ren"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212424540",
+      "title": "Ventilation and heat exchange characteristics in aircraft cabin considering buoyancy-driven flow and pressure-induced variations",
+      "abstract": "During flight, aerodynamic heating and multiple internal heat loads create a high-temperature low-pressure extreme environment. The flow and heat transfer mechanisms there differ from those in atmospheric sealed chambers, posing substantial challenges to thermal control design. Most existing studies tend to decouple multiple influencing factors and fail to fully describe the complex heat exchange phenomena within cabins. To address this issue, a full-scale aircraft cabin ground test platform was built for combined simulation and experimental analyses to investigate the buoyancy-driven flow and its pressure-induced effects. Under a fixed mass flow rate, the dimensionless flow structure remains unchanged with pressure when forced convection dominates, and the wall heat transfer characteristics remain stable. Once buoyancy-driven flow is introduced, jet deflection intensifies with rising pressure or falling flow rate. The deflection displacement y is proportional to P e 2 /m 2 . At atmospheric pressure, the jet deflects rapidly and impinges on the cabin walls, producing vertical temperature stratification. As the pressure decreases, flow symmetry gradually recovers. At 24 kPa, the spatial standard deviation of temperature drops by 15.8%, indicating considerable thermal control improvement, although the improvement saturates gradually. Obstacles and non-uniform wall temperatures amplify buoyancy asymmetry, altering jet deflection paths. Additionally, jet deflection angles were quantified and a critical mass flow criterion for jet-wall impingement was proposed. These findings on flow and thermal phenomena, which systematically characterize the coupled effects of buoyancy and pressure, were validated through steady-state experiments. The results support optimizing cabin ventilation and thermal control at high altitudes and serve as reference for design for ground tests.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111339",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111339",
+      "cited_by_count": 0,
+      "keywords": [
+        "Buoyancy",
+        "Heat transfer",
+        "Aerodynamics",
+        "Displacement ventilation",
+        "Mass flow",
+        "Deflection (physics)",
+        "Thermal",
+        "Convective heat transfer",
+        "Heat exchanger"
+      ],
+      "authors": [
+        "Junjian Wang",
+        "Sujun Dong",
+        "Xinke Zhao",
+        "Hong Jiang",
+        "Qinghui Ma",
+        "Huifang Yan"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12233,
+    "total": 12249,
     "journals": 277,
-    "last_update": "2026-09-14 04:37:13",
-    "reactor-thermal_count": 1590,
-    "heat-transfer_count": 3007,
+    "last_update": "2026-09-15 04:37:39",
+    "reactor-thermal_count": 1594,
+    "heat-transfer_count": 3019,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1777
+        "count": 1785
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 703
+        "count": 705
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 431
+        "count": 433
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 393
+        "count": 395
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 370
+        "count": 371
       },
       {
         "name": "Nuclear Engineering and Design",
@@ -317805,7 +318239,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 170
+        "count": 171
       },
       {
         "name": "Nuclear Technology",
@@ -318890,10 +319324,6 @@
     ],
     "trend": [
       {
-        "date": "2026-08-16",
-        "count": 6
-      },
-      {
         "date": "2026-08-17",
         "count": 28
       },
@@ -319003,10 +319433,14 @@
       },
       {
         "date": "2026-09-13",
-        "count": 2
+        "count": 18
       },
       {
         "date": "2026-09-14",
+        "count": 0
+      },
+      {
+        "date": "2026-09-15",
         "count": 0
       }
     ]
@@ -319225,5 +319659,5 @@
       }
     ]
   },
-  "export_time": "2026-09-14T04:37:13.780045"
+  "export_time": "2026-09-15T04:37:39.487871"
 }
