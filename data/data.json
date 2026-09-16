@@ -318203,39 +318203,613 @@
         "Huifang Yan"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212522153",
+      "title": "An operating-experience–augmented fragility framework for SiC in TRISO fuel",
+      "abstract": "This study develops an operating-experience (OpE)–augmented fragility framework to evaluate silicon carbide (SiC) layer degradation in TRISO fuel for pebble bed reactors. Intrinsic SiC fragility is anchored using a normalized hybrid synthetic brittleness index (NHSBI) regression as a deterministic material-state descriptor. OpE effects, including persistent thermal exposure, transient temperature gradients, and localized cycling, are represented through physically interpretable amplification multipliers. Parametric evaluations are performed under AVR-anchored operating conditions with explicit treatment of epistemic uncertainty arising from sparse high-temperature data. Results indicate that short-duration thermal excursions typically produce modest amplification when considered in isolation, whereas persistent boundary-condition degradation and coupled mechanical–chemical processes provide plausible pathways to risk-relevant tail behavior. The framework links intrinsic material state, operating phenomena, and functional performance loss, and identifies key data and modeling requirements needed to support quantitative fuel-performance assessment and comparative and bounding evaluations of operating conditions. A demonstrative calculation is provided to illustrate framework implementation and sensitivity to operating-experience conditions.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115210",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115210",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fragility",
+        "Silicon carbide",
+        "Parametric statistics",
+        "Brittleness",
+        "Bounding overwatch",
+        "Criticality",
+        "Sensitivity (control systems)"
+      ],
+      "authors": [
+        "Makuteswara Srinivasan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212670114",
+      "title": "Application of data driven POD reduced order model to helical cruciform fuel rod bundle",
+      "abstract": "To enable efficient and accurate prediction of coolant thermal–hydraulic characteristics in helical cruciform fuel rod bundle channels, a data-driven rapid prediction framework is developed by combining proper orthogonal decomposition (POD) with surrogate models. Optimal Latin hypercube sampling (OLHS) was used to generate 34 operating conditions, and high-fidelity data are obtained through computational fluid dynamics (CFD) simulations. The modal bases and coefficients of temperature, axial and two lateral velocity fields were extracted. With 99.99% energy retention, the minimum reconstructed modal numbers were determined as k T = 2, k w = 2, k u = 3, k v = 4, respectively. Multi-section reconstruction results demonstrate that the temperature error is within ± 2 K, while those of axial and lateral velocity fields are within ± 0.08 m/s and ± 0.001 m/s, respectively. The reconstruction accuracy is insensitive to axial position and rotation angle. Furthermore, the prediction performances of Kriging and radial basis function (RBF) surrogate models are compared. The Kriging model exhibited local high errors in regions with strong gradients, whereas the RBF model showed more uniform error distributions, with prediction errors below 0.5 K for temperature and below 0.002 m/s and 0.010 m/s for lateral and axial velocity fields, respectively. The maximum relative error is only 2.02%. Moreover, the POD-RBF framework reduced the computational time of a single case from 7200 s to 7.328 s, achieving a speed-up factor of 982.533. These results demonstrate that the POD-RBF model provides an efficient and accurate approach for rapid thermal–hydraulic prediction of helical cruciform fuel rod bundles.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112835",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112835",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cruciform",
+        "Bundle",
+        "Approximation error",
+        "Position (finance)",
+        "Surrogate model",
+        "Modal",
+        "Kriging",
+        "Basis function",
+        "Reduction (mathematics)"
+      ],
+      "authors": [
+        "Wanghong Han",
+        "Yue Zeng",
+        "Huandong Chen",
+        "Lei Zhao",
+        "Boyan Li",
+        "Hongqiang Ma",
+        "Fan Yu",
+        "Junkai Wu",
+        "Xiaosong Cheng",
+        "Wu Jing",
+        "Huilun Kang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213064986",
+      "title": "Bayesian Optimization-Based Machine Learning Inversion of 237NpTransmutation Depletion in ADS",
+      "abstract": "The Accelerator Driven Advanced Nuclear Energy System (ADANES) is a novel closed nuclear fuel cycle system consisting of an Accelerator Driven Sub-critical System (ADS) and a spent fuel recycling system. Its primary function is the transmutation of long-lived minor actinides. To monitor the depletion of 237 Np in the transmutation fuel rod of an ADS reactor core, this paper proposes an offline monitoring scheme based on a Bayesian-optimized machine learning model that integrate nuclide characteristic peak areas with operational parameters. The scheme establishes a nonlinear mapping relationship among 237 Np depletion, characteristic peak area counts of key nuclides, and known operational histories using a database generated from simulations of an ex-core measurement system equipped with a high-purity germanium (HPGe) detector, thereby enabling rapid inversion of the 237 Np transmutation state. Inversion results obtained from six Bayesian-optimized machine learning models demonstrate that the BO-XGBoost model achieves the best performance, yielding a mean relative error (MRE) of 1.47% and a maximum relative error (MaxRE) of 5.32%. Analysis of nuclide and operational parameter feature configurations reveals that burnup time is the dominant operational parameter governing prediction accuracy. When critical operational history information such as burnup history is unavailable, gamma-ray characteristic peak areas can effectively compensate for the deficiency in operational parameters and enhance prediction accuracy, underscoring the gamma-spectroscopic information as an essential source for high-precision inversion. Among the nuclide combinations examined, N3 ( 125 Sb, 134 Cs, 144 Ce, 154 Eu) exhibits the most favorable prediction stability.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112841",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112841",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear transmutation",
+        "Burnup",
+        "Nuclide",
+        "Inversion (geology)",
+        "Spent nuclear fuel",
+        "Approximation error",
+        "Bayesian probability",
+        "Nonlinear system"
+      ],
+      "authors": [
+        "Feng Zhou",
+        "Peng Fang",
+        "Yanling Zhu",
+        "Shijie Du",
+        "Deliang Fan",
+        "Xunchao Zhang",
+        "Yongwei Yang",
+        "Xubo Ma"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213153895",
+      "title": "Polishing process of the TRISO particle fuel",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112755",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112755",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Z.M. Krajewska-Travar",
+        "E. Fontana",
+        "P. Lajarge",
+        "S. Gardeur",
+        "S. Pfirrmann",
+        "D. Freis"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212820410",
+      "title": "General Full-Frequency Convergence and Efficient Implementation in RMC of the Flight-Based Monte Carlo Method for Neutron Noise",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1080/00295639.2026.2724792",
+      "doi": "https://doi.org/10.1080/00295639.2026.2724792",
+      "cited_by_count": 0,
+      "keywords": [
+        "Monte Carlo method",
+        "Convergence (economics)",
+        "Neutron transport",
+        "Neutron",
+        "Noise (video)",
+        "Neutron flux"
+      ],
+      "authors": [
+        "Jiacheng Wang",
+        "Yuanhao Gou",
+        "Kok Yue Chan",
+        "Junxiao Zhang",
+        "Mingda Gao",
+        "Kan Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212680860",
+      "title": "Safe Use of AI as Part of the Control Loop in Nuclear Facilities",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1080/00295450.2026.2727815",
+      "doi": "https://doi.org/10.1080/00295450.2026.2727815",
+      "cited_by_count": 0,
+      "keywords": [
+        "Control (management)",
+        "Loop (graph theory)",
+        "Control system",
+        "Nuclear reactor",
+        "Nuclear decommissioning",
+        "Nuclear power"
+      ],
+      "authors": [
+        "Emilie Greaker",
+        "Rune Winther",
+        "Sizarta Sarshar"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212820873",
+      "title": "Release behavior of radionuclides from clad spent fuel segments in bicarbonate solution under oxidizing conditions",
+      "abstract": "",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1080/00223131.2026.2725014",
+      "doi": "https://doi.org/10.1080/00223131.2026.2725014",
+      "cited_by_count": 0,
+      "keywords": [
+        "Spent nuclear fuel",
+        "Oxidizing agent",
+        "Radionuclide",
+        "Bicarbonate",
+        "Radioactive waste",
+        "Sodium bicarbonate"
+      ],
+      "authors": [
+        "Takashi Onishi",
+        "Shingo Kimuro",
+        "Kenso Fujiwara",
+        "Takamitsu Ishidera"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212477997",
+      "title": "First quantification of 90 Sr in fuel debris from the Fukushima-Daiichi Nuclear Power Plant: towards rapid ICP-MS analysis",
+      "abstract": "",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-09-13",
+      "url": "https://doi.org/10.1080/00223131.2026.2729209",
+      "doi": "https://doi.org/10.1080/00223131.2026.2729209",
+      "cited_by_count": 0,
+      "keywords": [
+        "Debris",
+        "Nuclear power",
+        "Nuclear fuel",
+        "Nuclear power plant",
+        "Fission products",
+        "Radioactive waste"
+      ],
+      "authors": [
+        "Kazuma Koarai",
+        "Kayo Yanagisawa",
+        "Makoto Matsueda",
+        "Yuta Kumagai",
+        "Yoshihiro Kitatsuji",
+        "Y. Ban",
+        "Hiroyuki Fukaya",
+        "Toru Kitagaki",
+        "Hirotomo Ikeuchi",
+        "Masato Mizokami",
+        "Shinya Mizokami"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212773021",
+      "title": "Modeling of the high burnup structure formation in nuclear fuels: a bubble pressure-based approach",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104712",
+      "doi": "https://doi.org/10.1016/j.net.2026.104712",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bubble",
+        "Liquid bubble",
+        "Burnup",
+        "Structure formation",
+        "Cell formation"
+      ],
+      "authors": [
+        "JangSoo Oh",
+        "양용식",
+        "J.-S. Park",
+        "Ho Jin Ryu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212827444",
+      "title": "Theoretical assessment of energy-selective transmutation in spent nuclear fuel",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104705",
+      "doi": "https://doi.org/10.1016/j.net.2026.104705",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear transmutation",
+        "Spent nuclear fuel",
+        "Spent fuel pool",
+        "Radioactive waste",
+        "Nuclear fuel",
+        "High-level waste"
+      ],
+      "authors": [
+        "ALBERTO MIZRAHY CAMPOS",
+        "Bruno Melo Mendes",
+        "Tarcisio Passos Ribeiro de Campos"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7212561185",
+      "title": "Heat transfer performance prediction of aluminum slit fin-and-tube heat exchangers via interpretable machine learning",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-15",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129559",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129559",
+      "cited_by_count": 0,
+      "keywords": [
+        "Slit",
+        "Heat exchanger",
+        "Heat transfer",
+        "Aluminium",
+        "Performance prediction",
+        "Plate heat exchanger"
+      ],
+      "authors": [
+        "Fang Wang",
+        "Jicheng Li",
+        "Wei Guo",
+        "Hong Liu",
+        "Xiaohan Zhang",
+        "Shanshan Yuan",
+        "Xianfei Liu",
+        "Jialin Xu",
+        "Bingjin Sun"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212623742",
+      "title": "A physics-corrected ML/DL framework for heat flux field prediction in porous structure of sintered Ag",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129563",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129563",
+      "cited_by_count": 0,
+      "keywords": [
+        "Porosity",
+        "Heat flux",
+        "Field (mathematics)",
+        "Flux (metallurgy)",
+        "Porous medium",
+        "Sintering"
+      ],
+      "authors": [
+        "Jun-Hyeong Yoon",
+        "Minki Kim",
+        "Hyun-Soon Park",
+        "Min-Su Kim"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212747771",
+      "title": "Experimental investigation of direct-to-chip evaporative cooling using hollow micropillar arrays for high-power AI accelerators",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129512",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129512",
+      "cited_by_count": 0,
+      "keywords": [
+        "Evaporative cooler",
+        "Water cooling",
+        "Heat transfer",
+        "Thermoelectric cooling"
+      ],
+      "authors": [
+        "Kidus Guye",
+        "Vivek V. Manepalli",
+        "Ayşenur Ateş",
+        "Baris Dogruoz",
+        "Samuel Graham",
+        "Damena Agonafer"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212818947",
+      "title": "Flow-velocity-controlled cryogenic frosting under micro amount of water condition: Frost growth, surface roughness, and morphological evolution",
+      "abstract": "Frost formation under cryogenic and micro amount of water condition is a critical issue in cryogenic wind tunnels, spacecraft thermal-control systems, optical windows, and cryogenic heat exchangers. Unlike conventional frosting in wet air, frost growth in micro amount of water environments is strongly limited by vapor supply and is therefore highly sensitive to gas-flow-induced mass transfer and shear stress. This study was conducted based on a cryogenic visualization experimental system. Under conditions of 120 ± 20 ppmv and 580 ± 20 ppmv, with gas flow velocities ranging from 0 to 1.16 m/s, the effects of gas flow velocity on the thickness, growth rate, surface roughness, and structural evolution of the frost layer were investigated. The results showed that compared to the static airflow condition, the frost layer thickness in the forced convection condition (120 ± 20 ppmv, 0.70 m/s) was 5.3 times greater. As the water vapor content increased, the final thickness of the frost layer at a flow velocity of 0.70 m/s increased from 0.135 mm to 0.218 mm, while at a flow velocity of 1.16 m/s, the final thickness decreased from 0.665 mm to 0.567 mm. The surface roughness also exceeded 29 μm, with a numerical fluctuation of 46.71%. The experimental data demonstrated that in the cryogenic and micro amount of water condition, the shear effect of the airflow was prominent, and it interacted with the mass transfer effect to influence the growth of the frost layer. By changing the flow velocity to regulate the competition balance between shear stress and mass transfer coefficient, the morphology of the frost layer could be controlled. This study clarifies the dual role of gas flow velocity in cryogenic and micro amount of water frosting and provides experimental guidance for frost control in cryogenic engineering systems.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129540",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129540",
+      "cited_by_count": 0,
+      "keywords": [
+        "Frost (temperature)",
+        "Mass transfer",
+        "Airflow",
+        "Surface roughness",
+        "Heat transfer",
+        "Forced convection",
+        "Shear stress",
+        "Flow visualization",
+        "Convection",
+        "Surface finish"
+      ],
+      "authors": [
+        "Wenhan Shu",
+        "Chengguang Yue",
+        "Hengyang Ye",
+        "Shaolong Zhu",
+        "Jialiang Deng",
+        "Xiaoqin Zhi",
+        "Limin Qiu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213077897",
+      "title": "GPU-accelerated solution to the transient phonon Boltzmann Transport Equation (BTE) with application to finFETs",
+      "abstract": "We present a GPU-accelerated Discrete Ordinate Method (DOM) based explicit transient phonon Boltzmann Transport Equation (BTE) to model non-diffusive heat transport in nanoscale semiconductor devices. Phonon dispersion relations, group velocities, and scattering rates are obtained from first-principles density functional theory calculations, enabling physically consistent transport simulations. The explicit time-marching approach avoids large linear-system solves and substantially reduces memory requirements while maintaining sub-picosecond temporal resolution. The solver is accelerated on a GPU using OpenACC and applied to transient heat transport in an 8-nm-wide finFET. The simulations capture ultrafast hotspot formation and reveal region-dependent thermal time constants of approximately 50 ps during heating and 50–120 ps during cooling. Sensitivity studies further show that the transient thermal response is strongly influenced by the choice of thermalizing versus reflecting boundary conditions. We discuss the interpretation of these time constants and their dependence on the assumptions. The GPU implementation exhibits near-linear scaling with problem size and significantly lower memory requirements than implicit Krylov-subspace-based approaches, enabling three-dimensional transient simulations involving up to approximately 3.1 billion unknowns on a single 48 GB GPU. These results demonstrate the importance of resolving time-dependent, non-equilibrium phonon transport in advanced transistor geometries and establish explicit GPU-accelerated phonon-BTE solvers as a practical framework for large-scale, high-fidelity transient thermal analysis of next-generation semiconductor devices.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129487",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129487",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boltzmann equation",
+        "Transient (computer programming)",
+        "Phonon",
+        "Solver",
+        "Convection–diffusion equation",
+        "Boltzmann constant",
+        "Scattering",
+        "Scaling",
+        "Thermal",
+        "Transient response"
+      ],
+      "authors": [
+        "Apurva Raj",
+        "Nitin Tiwari",
+        "S. P. Vanka",
+        "Sanjiv Sinha"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212790807",
+      "title": "Coupled analysis of windshield defogging and thermal management system operation in electric vehicles under high-humidity conditions",
+      "abstract": "Windshield defogging is a safety-related humidity-control requirement for electric vehicles (EVs), in which the thermal management system must recover visibility. However, the quantitative effects of supply air temperature and dew point on windshield defogging have not been sufficiently clarified, making it difficult to determine the appropriate supply air state for thermal management operating modes. To address this issue, this study developed a coupled evaluation framework combining a three-dimensional CFD cabin model and a GT-SUITE EV CO 2 thermal management model. Preliminary CFD simulations were first conducted to decouple the effects of supply air temperature, humidity ratio, relative humidity and air mass flow rate on windshield defogging. Then, the transient supply air temperature, dew point and mass flow rate under direct heating and dehumidification-reheating modes were imposed on the CFD model as dynamic boundary conditions. The A-zone and B-zone defogged area ratios, 80% and 90% defogging times, compressor specific energy consumption and dew point safety margin were used for evaluation. Results showed that direct heating reduced the relative humidity but kept the supply air dew point nearly unchanged. Increasing the target supply air temperature from 25 to 45 °C shortened the A-zone 90% defogging time from 311 to 159 s. in the dehumidification-reheating mode, lowering the supply air dew point further improved defogging, reducing the A-zone 90% defogging time to 113–77 s for D9 and 86–71 s for D6. Compared with the direct heating reference M1-T45, D6-T35 reduced both defogging time and compressor specific energy consumption from 159 s and 84.2 Wh/m 2 to 86 s and 64.7 Wh/m 2 . These results provide a reference for selecting energy efficient defogging oriented thermal management operating modes in EVs",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133166",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133166",
+      "cited_by_count": 0,
+      "keywords": [
+        "Windshield",
+        "Dew point",
+        "Airflow",
+        "Relative humidity",
+        "Computational fluid dynamics",
+        "Thermal",
+        "Gas compressor",
+        "Thermal comfort"
+      ],
+      "authors": [
+        "Yuxuan Liu",
+        "Feng Cao",
+        "Shuo Zong",
+        "Ce Cui",
+        "Xiang Yin",
+        "Xiaolin Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212794308",
+      "title": "Dynamic thermal management of interacting dual hotspots using mini-contact thermoelectric coolers with embedded microchannels",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133267",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133267",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermoelectric cooling",
+        "Thermal management of electronic devices and systems",
+        "Dual (grammatical number)",
+        "Thermoelectric effect",
+        "Thermal",
+        "Computer cooling",
+        "Thermoelectric generator",
+        "Thermocouple"
+      ],
+      "authors": [
+        "Yifan Lei",
+        "Y. Wei",
+        "Jiangyi Xiong",
+        "Xiuliang Liu",
+        "Xin Qian",
+        "Ronggui Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7212913153",
+      "title": "Design of heat dissipation structure and analysis of heat dissipation characteristics of inner TracKer in China's next-generation electron-positron collider",
+      "abstract": "A constraint-driven embedded liquid-cooled heat dissipation tube bundle (HDTB) was designed for the readout electronics boards of the Inner TracKer based on μRWELL (ITKW) in the Super Tau-Charm Facility (STCF), China's next-generation electron–positron collider. Because the readout electronics boards are still under development, a computational model of heat generation and dissipation was developed using heat-generating boards as surrogates to evaluate the heat dissipation performance of the HDTB and was validated experimentally using an HDTB performance testing platform. The effects of coolant inlet velocity, coolant inlet temperature, and the equivalent thickness of the thermal-grease-filled interface on the heat dissipation performance of the HDTB were systematically investigated. Within the investigated ranges, the HDTB maintained the maximum temperature of the 8 W heat-generating boards below 311 K, 69.9 K lower than under the uncooled condition. Increasing the coolant inlet velocity reduced the average temperature of the heat-generating boards, but the overall heat transfer performance of the HDTB deteriorated. Decreasing the coolant inlet temperature reduced the average temperature of the heat-generating boards and improved the heat dissipation performance of the HDTB. The equivalent thickness of the thermal-grease-filled interface had only a limited effect on the heat dissipation performance of the system, although increasing this thickness slightly degraded the overall heat transfer performance of the HDTB. The proposed configuration substantially reduced the maximum and average temperatures of the heat-generating boards and improved temperature uniformity by reducing the board-to-tube-wall thermal resistance. These findings provide direct technical support for the development of the STCF-ITKW.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133248",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133248",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coolant",
+        "Dissipation",
+        "Heat transfer",
+        "Thermal management of electronic devices and systems",
+        "Electronics",
+        "Heat sink",
+        "Inlet"
+      ],
+      "authors": [
+        "Jiadong Ji",
+        "Lixuan Zhang",
+        "Yi Zhou",
+        "Chengzhi Duan",
+        "Siqi He",
+        "Fan Ye",
+        "Qixuan Huang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213068749",
+      "title": "Thermal grade regulation of cascaded packed-bed thermal storage for liquid air energy storage coupled with coal-fired power plants",
+      "abstract": "Liquid air energy storage (cryogenic Carnot battery) coupled with coal-fired power plants is a potential approach to improve operational flexibility and support deep peak shaving. In this coupled system, the thermal storage unit plays an important role in recovering compression heat and providing stable heat during the discharging process. To improve the heat release stability, this study numerically investigates a cascaded packed-bed thermal storage system under constant-power operating conditions. The charging power and heat extraction power are fixed at 15 MW and 10 MW, respectively. A two-stage simulation scheme is adopted. First, nine packed-bed configurations composed of high-temperature phase change material (PCM), rock and low-temperature PCM are compared under the same boundary conditions. Then, the effects of particle size, inlet mass flow rate and initial state of charge are analyzed based on the selected configuration. The results demonstrate that the arrangement of filling materials plays a critical role in thermal grade regulation by controlling thermal front evolution, outlet temperature stability, and PCM utilization. Although PCM-rich configurations exhibit higher theoretical storage capacity, their heat release performance is limited by poor temperature matching and rapid thermal attenuation. The proposed H-R-L configuration achieves an improved balance between heat storage capacity, thermal stability, and useful heat extraction, providing a more effective solution for cascaded thermal storage in LAES applications. Under the studied conditions, the H-R-L configuration reaches a theoretical capacity of approximately 114 MWh, a charging efficiency of about 90%, and maintains a useful heat release period of approximately 6.5 h above 240 °C. Further analyses indicate that particle size, mass flow rate, and initial SOC can regulate the trade-off between heat transfer enhancement, pressure loss, and thermal utilization. The results can provide a reference for the design and operation of packed-bed thermal storage in Liquid air energy storage systems coupled with coal-fired power plants.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133239",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133239",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal energy storage",
+        "Thermal",
+        "Phase-change material",
+        "Thermal reservoir",
+        "Power (physics)",
+        "Energy storage",
+        "Heat transfer",
+        "Mass flow rate",
+        "Thermal power station"
+      ],
+      "authors": [
+        "Yuanzhi Gao",
+        "Xueli Sun",
+        "Zhenming Zhang",
+        "Tengfei He",
+        "Zhaofeng Dai",
+        "Xin Dong",
+        "Chen Wang",
+        "Xiaohui She",
+        "Ge Yin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213045468",
+      "title": "Professor Amir Faghri on His 75th Birthday",
+      "abstract": "",
+      "journal_name": "ASME Journal of Heat and Mass Transfer",
+      "published_date": "2026-08-18",
+      "url": "https://doi.org/10.1115/1.4072586",
+      "doi": "https://doi.org/10.1115/1.4072586",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "C. Thomas Avedisian",
+        "Adrian Bejan",
+        "T. L. Bergman",
+        "Vijay K. Dhir",
+        "John R. Howell",
+        "Xianglin Li",
+        "G.P. “Bud” Peterson",
+        "Yuwen Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213043287",
+      "title": "Heat transfer augmentation in microchannels with flexible micropillars for advanced electronic cooling applications",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111334",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111334",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat transfer",
+        "Microchannel",
+        "Thermal management of electronic devices and systems",
+        "Heat sink",
+        "Water cooling",
+        "Electronics cooling",
+        "Enhanced heat transfer",
+        "Computer cooling"
+      ],
+      "authors": [
+        "Ahmed F. Al-Neama",
+        "Omar Jumaah",
+        "Salim lbrahim HASAN"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12249,
+    "total": 12270,
     "journals": 277,
-    "last_update": "2026-09-15 04:37:39",
-    "reactor-thermal_count": 1594,
-    "heat-transfer_count": 3019,
+    "last_update": "2026-09-16 04:33:02",
+    "reactor-thermal_count": 1604,
+    "heat-transfer_count": 3030,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1785
+        "count": 1789
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 705
+        "count": 710
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 433
+        "count": 436
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 395
+        "count": 396
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 371
+        "count": 373
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 246
+        "count": 247
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -318243,11 +318817,11 @@
       },
       {
         "name": "Nuclear Technology",
-        "count": 157
+        "count": 158
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 129
+        "count": 130
       },
       {
         "name": "Science",
@@ -318403,7 +318977,7 @@
       },
       {
         "name": "Journal of Nuclear Science and Technology",
-        "count": 58
+        "count": 60
       },
       {
         "name": "International Journal of Contemporary Hospitality Management",
@@ -319150,6 +319724,10 @@
         "count": 9
       },
       {
+        "name": "ASME Journal of Heat and Mass Transfer",
+        "count": 9
+      },
+      {
         "name": "California Management Review",
         "count": 8
       },
@@ -319167,10 +319745,6 @@
       },
       {
         "name": "Policy & Politics",
-        "count": 8
-      },
-      {
-        "name": "ASME Journal of Heat and Mass Transfer",
         "count": 8
       },
       {
@@ -319324,12 +319898,8 @@
     ],
     "trend": [
       {
-        "date": "2026-08-17",
-        "count": 28
-      },
-      {
         "date": "2026-08-18",
-        "count": 28
+        "count": 29
       },
       {
         "date": "2026-08-19",
@@ -319385,7 +319955,7 @@
       },
       {
         "date": "2026-09-01",
-        "count": 55
+        "count": 57
       },
       {
         "date": "2026-09-02",
@@ -319433,14 +320003,18 @@
       },
       {
         "date": "2026-09-13",
-        "count": 18
+        "count": 19
       },
       {
         "date": "2026-09-14",
-        "count": 0
+        "count": 16
       },
       {
         "date": "2026-09-15",
+        "count": 1
+      },
+      {
+        "date": "2026-09-16",
         "count": 0
       }
     ]
@@ -319659,5 +320233,5 @@
       }
     ]
   },
-  "export_time": "2026-09-15T04:37:39.487871"
+  "export_time": "2026-09-16T04:33:02.533930"
 }
