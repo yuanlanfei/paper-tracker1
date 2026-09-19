@@ -322121,5 +322121,1048 @@
       "Sandip K. Saha"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213542337",
+    "title": "Impact of ideal scaling on BEPU uncertainty and sensitivity analysis of the ACME test facility",
+    "abstract": "In applications of the BEPU approach, uncertainty analyses are typically performed only at the test facility or the reactor, and the impact of model scale on uncertainty quantification remains an open issue to be further investigated. As a first step toward addressing this issue, an ideal scale-up comparative uncertainty analysis scheme is proposed, in which models of different scales for the target test facility are evaluated under identical accident scenarios using the same sampling set. Firstly, the realistically constructed ACME integral test facility is taken as the reference, and its numerical model is rigorously scaled up to the prototype plant size in strict accordance with scaling laws. The nodalization strategy, physical models, boundary conditions, and accident scenarios are also consistently preserved across scales. Then, both models are subjected to the same set of uncertain input parameters and an identical sampling matrix, and a representative 2-inch cold-leg-break loss of coolant accident transient is simulated for direct multiscale comparison. The resulting distributions of key safety-relevant responses are compared in terms of central tendencies, uncertainty bands, and consistency of safety margins, thereby directly quantifying scale-induced effects. The analysis shows that the multiscale BEPU results exhibit good coherence, scale-related biases remain within acceptable limits, and the extrapolation from test facility to prototype is technically justified.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112844",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112844",
+    "cited_by_count": 0,
+    "keywords": [
+      "Extrapolation",
+      "Loss-of-coolant accident",
+      "Sensitivity (control systems)",
+      "Consistency (knowledge bases)",
+      "Uncertainty analysis",
+      "Scaling",
+      "Sampling (signal processing)",
+      "Uncertainty quantification"
+    ],
+    "authors": [
+      "Ye Yang",
+      "Ye Qian",
+      "Mengyan Hu",
+      "Xueyan Zhang",
+      "Jun Yang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213545663",
+    "title": "Preliminary conceptual design of a micro supercritical CO2-cooled pressure-tube reactor for unmanned underwater vehicles",
+    "abstract": "Nuclear reactors possess extremely high energy density and can continuously deliver high power within a compact, sealed system over long periods. Utilizing nuclear power as the main power source for Unmanned Underwater Vehicles (UUVs) is an ideal solution to overcome endurance limitations and enable long-term deep-sea missions. This paper proposes a preliminary conceptual design of a micro supercritical carbon dioxide (S-CO 2 )-cooled pressure-tube reactor for UUVs, and conducts core physics calculations and inherent safety characteristic analyses under extreme accident conditions to validate the safety features of this reactor. The reactor has a thermal power of 3.2 MW and a design life of 10 years. It uses heavy water moderation with UN fuel (25% enrichment), with reactivity controlled by control drums and Gd 2 O 3 burnable poison. Core neutronic calculations based on OpenMC show that the core exhibits negative feedback characteristics (fuel temperature coefficient of −1.18 pcm/K core, void reactivity of −1302 pcm), and the control drums provide sufficient shutdown margin (keff < 0.95). Heavy water moderation shifts the neutron energy spectrum towards the epithermal region, with a radial power peaking factor of only 1.044. Steady-state thermal–hydraulic analysis conducted using FLUENT indicates that under normal operation, the maximum cladding temperature is 1063.7 K and the maximum fuel pellet temperature is 1769.0 K, meeting design requirements. Studies on the extreme condition of a large-break loss-of-coolant accident with loss of emergency core cooling system (LBLOCA/LOECC) resulting in complete coolant loss show that the reactor can transfer decay heat from the fuel rods to the moderator solely by radiation and conduction, and then effectively remove the decay heat through convective heat transfer in the moderator. Under such extreme accident conditions, the maximum cladding temperature is 1578.0 K, which is lower than the temperature limit of 12YWT-type ODS steel. The results demonstrate that this design meets the requirements for compactness, long life, and inherent safety, presenting a promising core design concept for UUVs.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112856",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112856",
+    "cited_by_count": 0,
+    "keywords": [
+      "Control rod",
+      "Coolant",
+      "Decay heat",
+      "Supercritical fluid",
+      "Shutdown",
+      "Nuclear reactor core",
+      "Conceptual design",
+      "Cladding (metalworking)",
+      "Loss-of-coolant accident",
+      "Neutron transport",
+      "Underwater explosion"
+    ],
+    "authors": [
+      "Zhuhan Ran",
+      "Chang Xu",
+      "Hao Yuan",
+      "Pan Wu",
+      "Jianqiang Shan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213503132",
+    "title": "Equivalent RIA Pulse Threshold for comparative assessment of solid fuel–cladding systems",
+    "abstract": "Reactivity-initiated accidents impose rapid thermo-mechanical loading on fuel–cladding systems and can compromise fuel-rod integrity through fuel heating, gap closure, pellet–cladding mechanical interaction (PCMI), and cladding stress buildup. This study presents a reduced-order framework for comparative screening of conventional and accident-tolerant fuel–cladding systems under an RIA-like power pulse. The model solves one-dimensional transient radial heat conduction in the solid fuel pellet using a lumped effective surface boundary condition, evaluates incremental thermal expansion and pulse-scaled swelling, tracks contact onset, estimates PCMI contact pressure, and calculates a normalized total hoop-stress indicator. An Equivalent RIA Pulse Threshold (ERPT) is defined from prescribed fuel-temperature, contact-pressure, and stress-utilization criteria, while gap closure is treated separately as a contact-onset indicator. The framework is applied to UO 2 , UN, U 3 Si 2 , U-Th MOX, U-Mo, and UC fuels with Zircaloy, SS316, FeCrAl, and SiC claddings. Under the baseline assumptions, finite ERPT values are 13.5 for U-Mo, 16.0 for UO 2 , 17.5 for U-Th MOX, and 20.0 for U 3 Si 2 , whereas UN and UC remain above the investigated range. All finite baseline ERPT values are temperature-controlled. Sensitivity analysis shows that fuel thermal conductivity and the prescribed temperature limit most strongly affect ERPT, while swelling, gap size, differential rod pressure, and cladding expansion mainly influence contact onset and PCMI severity. A tenfold increase in effective contact stiffness shifts UO 2 /Zircaloy and U 3 Si 2 /Zircaloy to pressure-controlled behavior. ERPT is intended as a transparent reduced-order screening metric, not an experimentally validated failure threshold.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112813",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112813",
+    "cited_by_count": 0,
+    "keywords": [
+      "Pulse (music)",
+      "Pulse-width modulation",
+      "Pulse duration"
+    ],
+    "authors": [
+      "Ekrem Gülsevinçler"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213506551",
+    "title": "GSA v3: an advanced and flexible approach for adjusting gamma-ray spectrum analysis results",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112862",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112862",
+    "cited_by_count": 0,
+    "keywords": [
+      "Spectrum (functional analysis)",
+      "Control theory (sociology)",
+      "Frequency spectrum",
+      "Spectral analysis",
+      "Signal processing"
+    ],
+    "authors": [
+      "Lahcen El Amri",
+      "Omar El Bounagui",
+      "Hamid Amsil",
+      "Hamid Bounouira",
+      "Abdessamad Didi",
+      "Brahim Elmokhtari",
+      "A. El Badraoui",
+      "Abdelwahab Badague"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213508071",
+    "title": "Small modular reactors in future energy systems: A study of grid support, distributed energy systems, non-electric applications, and economic drivers",
+    "abstract": "Small Modular Reactors (SMRs) are emerging as a potential low-carbon technology for grid decarbonization and industrial applications. This paper provides a comprehensive review and critical synthesis of SMR technology and its role in enabling operational flexibility and reliability in future energy systems. We systematically review 70 SMR designs, categorizing them by reactor type, technology readiness level, and operational characteristics. The literature is synthesized on four key aspects: (1) the technological capabilities of SMRs for grid support services, including inertia, frequency control, and load-following; (2) the potential for SMRs to enable non-electric applications such as hydrogen production, seawater desalination, district heating, and industrial process heat; (3) the role of SMRs in distributed energy systems, including microgrids, data centers, military installations, remote mining, and off-grid communities; and (4) the economic drivers and value of SMR integration with energy storage. The review identifies three main findings. First, SMRs demonstrate technical capability to provide essential grid stability services critical for enabling high-penetration variable renewable energy systems. Second, advanced SMR designs, particularly Generation IV reactors, offer high-temperature heat suitable for decarbonizing hard-to-abate industrial sectors, while micro-reactors provide viable solutions for remote and distributed applications. Third, economic analysis indicates that while SMRs show promise, their competitiveness depends on achieving sufficient deployment scale, learning rates of 10–20%, and supportive market frameworks for value-stacking. Significant challenges remain in licensing harmonization, fuel cycle infrastructure development (particularly for high-assay low-enriched uranium), material for high temperature operation, hybrid system control optimization, and public acceptance.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112838",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112838",
+    "cited_by_count": 0,
+    "keywords": [
+      "Modular design",
+      "Energy (signal processing)",
+      "Grid",
+      "Distributed generation",
+      "Efficient energy use"
+    ],
+    "authors": [
+      "Ali Hosin naseri",
+      "Fulong Zhao",
+      "Shamsuddeen Lawal"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213530465",
+    "title": "Coupling of neutronics, discrete element method, thermal-hydraulics and Voronoï mesh for pebble bed reactor analysis",
+    "abstract": "The simulation of pebble bed reactors (PBRs) is often simplified using homogenized spectral zones, limiting the accuracy of key parameters such as power distribution, fuel burnup and temperatures. To address this, the hyper-fidelity tool (HxF) is extended to incorporate detailed thermal feedback by coupling the Monte Carlo code Serpent with the porous media solver GeN-Foam and a discrete element model (DEM). A novel Voronoï-based mesh mapping strategy is developed to enable efficient and accurate transfer of power density and temperature fields between the coupled solvers, capturing the strong spatial heterogeneities inherent to PBR cores. The methodology is applied to the HTR-10 reactor at equilibrium conditions. Results show that the proposed approach captures significant intra-core power variations, with pebble-wise powers deviating by up to ± 20 % compared to the isothermal model. In addition, the coupled model provides a prediction of the temperature distributions for the core components. The coupling framework enables consistent multi-physics feedback at the pebble scale and demonstrate that the proposed Voronoï-based coupling significantly enhances the fidelity of PBR simulations, providing a robust tool for core design, safety analysis, and fuel management.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112812",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112812",
+    "cited_by_count": 0,
+    "keywords": [
+      "Pebble",
+      "Discrete element method",
+      "Coupling (piping)",
+      "Finite element method",
+      "Extended discrete element method"
+    ],
+    "authors": [
+      "Ludovic Jantzen",
+      "Yves Robert",
+      "Massimiliano Fratoni"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213535118",
+    "title": "Laser welding of critical nuclear materials: A review of mechanisms, defect control, and advanced techniques",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106617",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106617",
+    "cited_by_count": 0,
+    "keywords": [
+      "Welding",
+      "Laser beam welding",
+      "Laser",
+      "Work (physics)"
+    ],
+    "authors": [
+      "Fajie Zhang",
+      "Peilei Zhang",
+      "Chao Fang",
+      "Maolong Zhang",
+      "Qinghua Lu",
+      "Xunzuo Su",
+      "Peixuan Lei"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213541191",
+    "title": "A PSA-informed methodology for alternative source term evaluation in HPR1000",
+    "abstract": "Accurate fission product source term assessment is crucial for nuclear safety analysis, equipment qualification, and emergency planning. Traditional deterministic approaches relying on a single conservative scenario fail to capture the enhanced safety features of advanced reactors such as the HPR1000. To address this, a PSA-informed methodology is developed to evaluate alternative source terms by characterizing variability across severe accident phases. Eleven dominant accident sequences (>1% individual, >90% cumulative probability) from Level 1 PSA are simulated using ASTEC to model core degradation through containment release. A PSA-Informed Bootstrap Method (PIBM) is applied to generate statistically robust samples while preserving sequence probabilities. Percentile analyses (5th–95th) reveal that high-frequency small break LOCAs dominate the statistical risk profile. Quantitatively, the gap release duration has a median of 0.066 h (95th percentile: 0.370 h), while in-vessel release dominates with volatile elements reaching 0.70–0.80 and noble gases up to 0.90–0.96. High-frequency sequences contribute over 60% of the total probability. The resulting alternative source term database provides a probabilistic characterization of release periods and radionuclide fractions, supporting the transition from deterministic to risk-informed regulation and enabling applications in equipment qualification, probabilistic source term input for risk-informed emergency planning, and advanced reactor licensing.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106625",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106625",
+    "cited_by_count": 0,
+    "keywords": [
+      "Probabilistic logic",
+      "Term (time)",
+      "Nuclear fission product",
+      "Percentile",
+      "Fission products",
+      "Nuclear reactor core",
+      "Sequence (biology)",
+      "Core (optical fiber)"
+    ],
+    "authors": [
+      "Pingwen Ou",
+      "Chao Guo",
+      "Peng Chen",
+      "Yong Ouyang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213533613",
+    "title": "Leakage Correction Cross-Section for Axial Void Channels in the 2D/1D Method",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1080/00295639.2026.2722531",
+    "doi": "https://doi.org/10.1080/00295639.2026.2722531",
+    "cited_by_count": 0,
+    "keywords": [
+      "Leakage (economics)",
+      "Void (composites)",
+      "Porosity",
+      "Channel (broadcasting)",
+      "Magnetic flux leakage"
+    ],
+    "authors": [
+      "Sooyoung Choi",
+      "Brendan Kochunas"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213555261",
+    "title": "Comprehensive Investigations of UC Based on Density Functional Theory",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1080/00295639.2026.2731298",
+    "doi": "https://doi.org/10.1080/00295639.2026.2731298",
+    "cited_by_count": 0,
+    "keywords": [
+      "Density functional theory",
+      "Neutron",
+      "Mathematical model"
+    ],
+    "authors": [
+      "Barbara Szpunar"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213533864",
+    "title": "Machine Learning-Assisted Calibration of Fission Gas Parameters in the DART Code for U-Mo Fuel",
+    "abstract": "Accurate prediction of fission gas swelling in uranium-molybdenum (U-Mo) fuel is essential for fuel qualification. The primary objective of this work is to calibrate fission-gas-related DART parameters such that the model predictions match experimentally observed fission gas bubble concentrations measured from post-irradiation examination. This work presents a systematic methodology combining machine learning surrogate models with global optimization to calibrate fission gas parameters in the DART fuel performance code. High-throughput DART simulations using Latin Hypercube Sampling explored the DART parameter space for RERTR-5 fuel plates. A neural network surrogate (64-128-64 architecture) achieved exceptional accuracy (RMSE = 0.111, R2 = 0.999), representing 92% error reduction compared to the best tree-based method. Global optimization methods (Evolutionary Algorithm, Efficient Global Optimization) achieved 27% RMSE improvement over previous calibration, substantially outperforming local Pattern Search (18%). Validation against independent fuel plates confirmed parameter transferability with approximately 9% total RMSE reduction across varying fission densities, temperatures, and grain sizes. Bayesian calibration provided uncertainty quantification, revealing that nucleation and re-solution parameters exhibit different identifiability levels, informing priorities for future experiments. This methodology through integrating surrogate modeling, global optimization, and Bayesian uncertainty quantification provides an efficient, reproducible framework for multivariate parameter calibration in mechanistic fuel performance codes.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1080/00295450.2026.2724786",
+    "doi": "https://doi.org/10.1080/00295450.2026.2724786",
+    "cited_by_count": 0,
+    "keywords": [
+      "Calibration",
+      "Uncertainty quantification",
+      "Latin hypercube sampling",
+      "Dart",
+      "Bayesian probability",
+      "Reduction (mathematics)",
+      "Fission",
+      "Nuclear fuel"
+    ],
+    "authors": [
+      "Zhi-Gang Mei",
+      "Gyuchul Park",
+      "Bei Ye",
+      "Abdellatif M. Yacout",
+      "A. T. M. Jahid Hasan",
+      "Benjamin Beeler"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213558693",
+    "title": "Assessment of a Physics-Based Model of Microcracking and Microstructural Evolution for Fission Gas Release and Swelling in Ceramic Nuclear Fuels with Multiple Data Sets",
+    "abstract": "We assess the enhanced version of the Simple Integrated Fission Gas Release and Swelling (SIFGRSX) model for fission gas swelling and release, recently developed in the fuel performance code BISON, with simulations of the Risø-AN3, Risø-AN4, and Risø-II3 light water reactor fuel rod irradiation experiments from the Organisation for Economic Co-operation and Development/Nuclear Energy Agency’s International Fuel Performance Experiments database, as well as the IFA-677.1 and IFA-716.1 tests of the Halden Reactor Project.The wealth of data corresponding to a broad range of operating conditions and initial grain sizes provides important insights that enable a rigorous assessment of the model for microcracking, microstructural evolution, and fission gas behavior beyond that of our earlier work in which we first proposed the model. Through this comprehensive assessment, we recalibrate the SIFGRSX model and identify a small handful of model ingredients that must be adjusted to properly describe the experimental measurements. Our findings provide meaningful improvements to the SIFGRSX model that will be useful for large-scale simulations of nuclear fuel performance.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1080/00295450.2026.2727813",
+    "doi": "https://doi.org/10.1080/00295450.2026.2727813",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear fuel",
+      "Fission",
+      "Fission products",
+      "Nuclear reactor",
+      "Light-water reactor",
+      "Swelling",
+      "Work (physics)",
+      "Nuclear fission",
+      "Range (aeronautics)"
+    ],
+    "authors": [
+      "Charles K. C. Lieou",
+      "Wen Jiang",
+      "Brian D. Wirth"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213553072",
+    "title": "Impact of Depletion Chain Files on Isotopic Prediction Accuracy in OpenMC: Analysis of Fukushima Daini Unit 1 BWR Using SFCOMPO Data",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104730",
+    "doi": "https://doi.org/10.1016/j.net.2026.104730",
+    "cited_by_count": 0,
+    "keywords": [
+      "Unit (ring theory)",
+      "Chain (unit)",
+      "Power unit"
+    ],
+    "authors": [
+      "Peshwah Mostafiz Rafi",
+      "Ashim Mazumder Santo",
+      "Md Tanvir Ahmed",
+      "Tarikul Islam"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213535686",
+    "title": "Filling-ratio-dependent heat transfer behavior and machine-learning prediction of hybrid water–paraffin phase change thermal storage",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129565",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129565",
+    "cited_by_count": 0,
+    "keywords": [
+      "Phase change",
+      "Thermal energy storage",
+      "Heat transfer",
+      "Phase-change material",
+      "Thermal",
+      "Heat transfer coefficient"
+    ],
+    "authors": [
+      "Xinyu Huang",
+      "Zequn Zhang",
+      "Yuanji Li",
+      "Zhifeng Huang",
+      "Xiaohu Yang",
+      "K.J. Chua"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213549021",
+    "title": "Molecular dynamics study of electric-field-assisted boiling heat transfer of copper nanofluids on Cu–graphene nanostructured surfaces",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129585",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129585",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nanofluid",
+      "Copper",
+      "Heat transfer",
+      "Molecular dynamics",
+      "Boiling",
+      "Boiling heat transfer"
+    ],
+    "authors": [
+      "Nian Xu",
+      "Jun Chen",
+      "Xiangjun Zhou",
+      "Dongdong Wang",
+      "Huaqiang Chu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213516887",
+    "title": "Effect of inclination angle on thermal performance of microchannel-nanoporous membrane composite ultra-thin heat pipes",
+    "abstract": "The integration of micro-nano hybrid architectures serves as a critical strategy for augmenting the thermal efficacy of ultra-thin heat pipes. In this work, a novel composite heat pipe is fabricated by synergistically combining silicon-based microchannel structures with anodic aluminum oxide (AAO) membranes. The liquid-vapor interface dynamics and thermal performance were systematically investigated under horizontal, positive gravity, and reverse gravity directions. Results show that gravitational assistance enhances capillary-driven flow with increasing inclination angles, accelerating liquid reflux and intensifying interfacial fluctuations in the evaporator. At 90° inclination angle, gravity significantly improves capillary liquid supply capacity, resulting in excellent heat transfer performance. Although HFE-7100 enables rapid startup, anhydrous ethanol demonstrates superior maximum heat load capacity. A higher filling ratio generally improves effective thermal conductivity and temperature uniformity by sustaining a stable liquid film. As the filling ratio rises, the liquid content within the ultra-thin heat pipe increases, accelerating evaporation and condensation rates and significantly lowering the evaporator section temperature. At a filling ratio of 1.7 and a 90° inclination, the maximum effective thermal conductivity reached 1193 W/(m∙K), highlighting the synergistic effect of optimal liquid charging and gravitational assistance on heat transfer enhancement.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129564",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129564",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat pipe",
+      "Composite number",
+      "Thermal",
+      "Inclination angle",
+      "Heat transfer",
+      "Thermal conductivity"
+    ],
+    "authors": [
+      "Rongkuo Ding",
+      "Guodong Xia",
+      "Ran Li",
+      "Chenchen Song"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213522156",
+    "title": "Tunable selective metasurface emitter for laser and infrared compatible stealth with radiative cooling",
+    "abstract": "Adjusting and controlling emissivity is a vital method for infrared camouflage and thermal radiation management. However, it remains challenging to achieve multispectral compatible stealth with radiation cooling. In this paper, a kind of grating-type selective metasurface emitter (GSME) for laser and infrared compatible stealth with radiative cooling is reported based on In 3 SbTe 2 (IST), which is composed of Ti/Ge/IST/Al₂O₃/Ti multilayer thin films. The ability to switch between the two phases of IST enables the utilization of the two states of GSME for emission management functions in various scenarios. For GSME in the crystalline phase, infrared stealth can be achieved, while for GSME in the amorphous phase, infrared stealth, laser stealth, and radiative heat dissipation can be simultaneously realized. Furthermore, the resonance mechanism of high emissivity is revealed by analyzing the electromagnetic field distribution, which is related to the modulation of the coupling between the Fabry-Pérot cavity resonance and the propagating surface plasmon resonance. Additionally, thermal imaging and temperature calculations indicate that the temperature difference between the object and background can reach 44.1°C, which further substantiates the effectiveness and adaptability of the infrared stealth performance. The proposed selective metasurface emitter provides new insights into multispectral compatible stealth, energy harvesting, and thermal management.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129573",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129573",
+    "cited_by_count": 0,
+    "keywords": [
+      "Infrared",
+      "Common emitter",
+      "Laser",
+      "Radiative transfer",
+      "Radiative cooling",
+      "Far-infrared laser"
+    ],
+    "authors": [
+      "Zimeng Zhou",
+      "Jiu Hui Wu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213493208",
+    "title": "Performance evaluation of dual-mode vapor chamber for PEM fuel cell and machine learning assisted parameter optimization",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133325",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133325",
+    "cited_by_count": 0,
+    "keywords": [
+      "Proton exchange membrane fuel cell",
+      "Fuel cells",
+      "Support vector machine"
+    ],
+    "authors": [
+      "D Raghulnath",
+      "R. Vesley Sundar",
+      "Aditya Kumar"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213528790",
+    "title": "Numerical investigation of a modified cavity receiver with a reflective aperture lip for use with a Scheffler solar concentrator",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133292",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133292",
+    "cited_by_count": 0,
+    "keywords": [
+      "Concentrator",
+      "Aperture (computer memory)",
+      "Reflectivity",
+      "Reflection (computer programming)",
+      "Solar mirror",
+      "Numerical aperture"
+    ],
+    "authors": [
+      "Matthew Newport",
+      "Jean Duquette"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213532068",
+    "title": "Contact-aware semi-analytical modeling for high-throughput thermoelectric generator design with temperature-dependent properties",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133075",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133075",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermoelectric generator",
+      "Thermoelectric effect",
+      "Thermoelectric cooling",
+      "Generator (circuit theory)",
+      "Electricity generation"
+    ],
+    "authors": [
+      "Hanze Dong",
+      "Hengjia Shi",
+      "Kunru Lei",
+      "Pan Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213537006",
+    "title": "Numerical investigation of thermal performance in a cross-flow indirect evaporative cooling system for arid and high-temperature environments",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133236",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133236",
+    "cited_by_count": 0,
+    "keywords": [
+      "Evaporative cooler",
+      "Arid",
+      "Thermal",
+      "Water cooling",
+      "Computer simulation",
+      "Heat transfer"
+    ],
+    "authors": [
+      "Abdalazeem Adam",
+      "Mohammednour Gibreel",
+      "Lei Weining",
+      "Xiaohu Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213537168",
+    "title": "Transient heat and mass transfer of single and dual-cartridge respirators under extreme hygrothermal conditions: A coupled CFD and experimental study",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133330",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133330",
+    "cited_by_count": 0,
+    "keywords": [
+      "Transient (computer programming)",
+      "Computational fluid dynamics",
+      "Heat transfer",
+      "Mass transfer",
+      "Respirator"
+    ],
+    "authors": [
+      "Wen Nie",
+      "Yunshuo Shi",
+      "Lidian Guo",
+      "Huitian Peng",
+      "Jinkun Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213537793",
+    "title": "Standalone hybrid PV-powered double-slope solar still with automated cooling and heating for continuous freshwater production",
+    "abstract": "This study presents the evaluation of a standalone modified double slope solar still (MDSSS) to produce continuous freshwater for a prolonged duration. The system is provided with a booster mirror, automatic glass cooling fans, and auxiliary DC heaters for basin water. The cooling system fitted on south-facing glass cover operates only during sunshine hours, whereas the heating system operates during non-sunshine hours to maintain basin water temperature. Eight modified cases were examined and compared with a traditional double slope solar still (TDSSS), comprising two glazing configurations, namely semi-transparent photovoltaic glass (Case 1) and conventional transparent glass (Case 2). Each configuration was evaluated with a booster mirror, firstly alone, then with cooling, with heating, and with cooling-heating combined. Case 2d was observed to be the superior one, yielding 8.02 kg/m 2 .day of freshwater, with 104.8% improvement to that of TDSSS. The basin water reached to a maximum of 56.73 °C at day-time and the non-sunshine hour stabilization was 192% higher than the TDSSS. The maximum energy efficiency, calculated by accounting for both the incident solar energy and the electrical energy consumed reached to 68.92% for Case 2d, signifying a 71.74% improvement over the TDSSS, while exergy efficiency rose from 3.27% to 6.23%. These improvements in Case 2d are due to the combined effects of cooling fans and auxiliary heaters. The total electrical energy consumption was recorded to be 1816.64 Wh. The proposed system demonstrated favourable energy, environmental, economic, and sustainability performances, to be applicable for standalone uses.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133276",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133276",
+    "cited_by_count": 0,
+    "keywords": [
+      "Glazing",
+      "Photovoltaic system",
+      "Booster (rocketry)",
+      "Exergy",
+      "Solar energy",
+      "Exergy efficiency",
+      "Water cooling",
+      "Energy consumption",
+      "Solar still"
+    ],
+    "authors": [
+      "Damanbha Marwein",
+      "Biplab Kumar Debnath",
+      "Rajat Subhra Das",
+      "Piyush Yadav"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213539600",
+    "title": "A method for predicting the off-design performance of real gas centrifugal compressors utilising preliminary design data",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133282",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133282",
+    "cited_by_count": 0,
+    "keywords": [
+      "Centrifugal compressor",
+      "Gas compressor",
+      "Real gas",
+      "Gas consumption"
+    ],
+    "authors": [
+      "Ahti Jaatinen‐Värri",
+      "Antti Uusitalo",
+      "Jonna Tiainen",
+      "Teemu Turunen-Saaresti"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213540141",
+    "title": "A physics-based 0D model for unsteady prediction of shell-and-tube latent heat thermal energy storage systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133189",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133189",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal energy storage",
+      "Thermal",
+      "Latent heat",
+      "Energy (signal processing)",
+      "Energy storage",
+      "Thermal energy"
+    ],
+    "authors": [
+      "Francesco Fornarelli",
+      "Vito Ceglie",
+      "Fabio Anaclerio",
+      "Fabrizio Rossi",
+      "Sergio Mario Camporeale"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213545564",
+    "title": "Experimental and numerical investigation of combustion characteristics and emission evolution of ammonia premixed combustion under methanol pre-chamber jet ignition",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133333",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133333",
+    "cited_by_count": 0,
+    "keywords": [
+      "Combustion",
+      "Ignition system",
+      "Jet (fluid)",
+      "Methanol",
+      "Ammonia",
+      "Adiabatic flame temperature",
+      "Combustor",
+      "Mixing (physics)"
+    ],
+    "authors": [
+      "Mingfei Lu",
+      "Dongsheng Dong",
+      "Zunhua Zhang",
+      "Gesheng Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213548367",
+    "title": "Comparative thermal analysis of multiple topology-optimized fins under gravity",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133321",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133321",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Thermal analysis",
+      "Heat transfer",
+      "Fin",
+      "Thermal inertia"
+    ],
+    "authors": [
+      "Jiapeng Liu",
+      "Shengjie Wang",
+      "Wanxing Pu",
+      "Xiang Yu",
+      "Jingshun Liu",
+      "Haoyu Wang",
+      "Junhu Hu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213551944",
+    "title": "A closed hybrid electronics cooling device using liquid synthetic jet and phase change material",
+    "abstract": "The continuous miniaturisation of electronic components demands advances in thermal management systems capable of mitigating high-flux transient thermal spikes. While Phase Change Materials (PCMs) offer excellent latent heat of storage, the low conductivity in the liquid phase inevitably leads to severe buoyancy induced thermal layering and degraded thermal management. This study presents a numerical investigation of a novel closed hybrid cooling strategy that integrates a paraffin-based PCM with a dual-cavity synthetic jet actuator within a confined 2-dimensional domain. The system utilizes a moving orifice configuration, where the orifice is centrally located on an oscillating diaphragm for synthetic jet cycles with a 180 ° phase difference between two domains. This jet induced forced convection suppresses thermal layering by periodically ejecting counter rotating vortex pairs that impinge upon the bottom heated surface. Parametric analyses reveal a non-monotonic dependence of thermal performance on excitation frequency, attaining a maximum Nusselt number ( Nu ) at an optimal Strouhal number of Sr = 0.15 ( Nu max ≈ 42 ) . Conversely, heat transfer scales monotonically with Reynolds number, showing significant improvements as the Reynolds number is increased from 500 to 1000. The system maintains high cooling efficiency post melting regime by utilizing jet induced mixing to overcome the thermal resistance of the liquid PCM. This active intervention not only enhances heat dissipation after phase change completion but also accelerates the re-solidification process. This study demonstrates that the proposed configuration enables control of PCM melting and solidification behaviour while preserving the benefits of passive latent heat storage. Due to its enhanced cooling effectiveness in the post melting phase, this device is highly applicable in advanced electronics cooling and compact thermal management systems.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133269",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133269",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Jet (fluid)",
+      "Nusselt number",
+      "Phase-change material",
+      "Reynolds number",
+      "Electronics cooling",
+      "Thermal",
+      "Synthetic jet",
+      "Thermal conductivity",
+      "Body orifice"
+    ],
+    "authors": [
+      "Nandish Pai",
+      "Vardhan Mittal",
+      "Venugopal Arumuru"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213552616",
+    "title": "Machine learning-assisted ultra-selective tungsten metasurface absorber/emitter for high-efficiency Vis-NIR photothermal conversion",
+    "abstract": "High-efficiency visible-to-near-infrared (Vis-NIR) photothermal conversion is essential for advancing solar thermophotovoltaic (STPV) systems, yet traditional designs are often limited by poor spectral selectivity and strict angular constraints. This paper introduces a machine learning-assisted design framework for an ultra-selective tungsten metasurface absorber/emitter that substantially suppresses angular and polarization sensitivity. A metal-insulator-metal (MIM) structure was designed, and a machine learning framework combined with finite-difference time-domain (FDTD) simulations were implemented to accelerate structure parameters optimization and predict absorption performance. The absorption performance of the structure was evaluated by comparing six different machine learning algorithms, among them, the XGBoost model demonstrating superior predictive accuracy, achieving R 2 score of 0.9804, mean absolute error (MAE) of 0.0043 and root mean square error (RMSE) of 0.0086. The proposed metasurface absorber achieves a remarkable 98.3% average absorptivity in the wavelength range 350–1000 nm, featuring a 99.8% absorption plateau in the range 450–700 nm. Crucially, the absorption performance exceeds 90% at wide incidence angles up to 60° under both transverse-electric (TE) and transverse-magnetic (TM) polarizations. Furthermore, the structure functions as an ultra-selective metasurface emitter, reaching a maximum spectral efficiency of 99.4% at 2000 K. These results demonstrate that combining machine learning with specialized MIM metasurfaces offers an accelerated pathway for designing high-performance thermal energy conversion systems, particularly for integration into silicon-based STPV cells.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133275",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133275",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermophotovoltaic",
+      "Absorption (acoustics)",
+      "Photothermal therapy",
+      "Tungsten",
+      "Selective surface",
+      "Molar absorptivity",
+      "Thermal",
+      "Residual",
+      "Energy conversion efficiency"
+    ],
+    "authors": [
+      "Riaz Ali",
+      "Wei Su",
+      "Iqra Mamoon",
+      "Zainab Saif",
+      "Yiren Chen",
+      "Weili Yu",
+      "Xiaojuan Sun"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213554233",
+    "title": "Segmented fin design for air-cooled prismatic battery packs under non-uniform convective heat flux",
+    "abstract": "Thermal management of lithium-ion batteries remains challenging due to non-uniform convective heat flux during operation, which leads to localized hotspots that accelerate degradation and increase safety risks. Air cooling offers cost and reliability advantages, but its performance is limited by conventional integral fins. To address the above issue, the present study proposes a three-segment fin structure with tailored height and thickness distributions. A uniform experimental design (UED)-a statistical method for efficient multi-factor experimental planning-is employed to screen 30 representative parameter combinations across the six geometric variables. Coupled CFD simulations and multivariate nonlinear regression are conducted to establish a quantitative relationship between fin geometry and thermal performance. Results show that the lower fin thickness ( d ₃) has the dominant influence, and the influence of geometric parameters is nonlinear with significant interactions. Compared with the integral fin, the optimized segmented fin reduces the maximum temperature by 4.0 °C (8.8%) to 41.6 °C, lowers the battery pack temperature difference by 3.2 °C (46%) to 4.9 °C, and decreases the thermal resistance by 37.7%. The convective heat transfer coefficient increases by 12.5% to 56.7 W/(m 2 ·K), while the pressure drop slightly decreases. Experiments confirm these trends: the segmented fin reduces thermal resistance by 44% and pressure drop by 7%. The proposed segmented fin provides a complementary solution for forced air cooling, balancing thermal performance, low flow resistance, and conventional manufacturability.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132876",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132876",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fin",
+      "Thermal resistance",
+      "Pressure drop",
+      "Thermal",
+      "Heat transfer coefficient",
+      "Heat transfer",
+      "Heat flux",
+      "Convection",
+      "Nonlinear system"
+    ],
+    "authors": [
+      "Yu Wang",
+      "Yu Wang",
+      "Jianming Li",
+      "Qingzong Su",
+      "Qing Ma",
+      "Qihui Yu",
+      "Yaxiong Wang",
+      "Yaxiong Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213557579",
+    "title": "Photothermal dual-shell PCM microcapsules for superhydrophobic anti-icing/deicing coatings",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133306",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133306",
+    "cited_by_count": 0,
+    "keywords": [
+      "Photothermal therapy",
+      "Photothermal effect",
+      "Thermal management of electronic devices and systems",
+      "Science, technology and society",
+      "Phase-change material"
+    ],
+    "authors": [
+      "Yu Zhang",
+      "Zhaowei Liu",
+      "Zechong Liu",
+      "Songshan Hu",
+      "Tao Wu",
+      "Chen Tang",
+      "Yufei Tang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213560422",
+    "title": "From single-mode cooling to intelligent integrated systems: A systematic review and performance evaluation of Lithium-ion battery thermal management technologies",
+    "abstract": "Lithium-ion batteries are widely used in electric vehicles and energy storage systems, but their performance, lifetime, and safety are strongly affected by temperature. Effective battery thermal management systems (BTMS) are therefore essential for high-power operation, fast charging, and thermal runaway prevention. This review discusses BTMS from heat-generation mechanisms and thermal runaway behavior to cooling technologies, system integration, intelligent control, and performance evaluation. Six single cooling technologies are compared, including air cooling, indirect liquid cooling, direct liquid cooling, refrigerant direct cooling, phase change material cooling, and heat pipe cooling. Hybrid and integrated systems are further analyzed in terms of cooling performance, temperature uniformity, complexity, energy consumption, cost, and safety. Recent progress in machine learning, reinforcement learning, and digital twin methods is also evaluated, with attention to data requirements, computational cost, implementation feasibility, and generalization. Finally, future research directions are proposed for high-energy-density batteries, all-climate operation, and standardized BTMS evaluation. Lithium-ion batteries are central to transportation electrification and large-scale energy storage, yet their strong temperature sensitivity and catastrophic thermal runaway risk remain major barriers to safe global deployment. Effective battery thermal management systems (BTMS) are therefore essential for electric vehicles, grid energy storage, and fast-charging applications. Existing reviews still show fragmented coverage of cutting-edge cooling technologies, insufficient analysis of multi-component system integration, inadequate treatment of intelligent control strategies, and limited adaptability to next-generation high-energy-density batteries. To address these gaps, this paper reviews BTMS from heat-generation mechanisms and thermal runaway behavior to cooling technologies, system integration, and performance evaluation. Using the Bernardi heat generation model and the thermal runaway energy balance equation, we elucidate coupled heat generation mechanisms under normal operation and the four-stage thermal runaway evolution under abuse conditions, and we quantify key thermophysical and thermal runaway parameters. The review compares single cooling technologies, hybrid cooling systems, vehicle-level thermal integration, and intelligent control methods. We comprehensively analyze six mainstream technical routes, detailing their working principles, reported performance, advantages, and bottlenecks. We further summarize performance evaluation metrics in four dimensions (temperature characteristics, heat transfer and energy consumption, comprehensive performance, and safety and environmental impact) and compare representative results reported in previous studies. Finally, we identify key challenges in materials, system coordination, algorithm implementation, and industrial standardization, and we propose future directions for high-energy-density batteries, all-climate applications, and low-carbon energy systems. This review provides a structured basis for BTMS design, technology selection, and performance evaluation.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133287",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133287",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal runaway",
+      "Battery (electricity)",
+      "Adaptability",
+      "Refrigerant",
+      "Energy management",
+      "Thermal energy storage",
+      "Energy storage",
+      "Computer cooling"
+    ],
+    "authors": [
+      "Mengxiang Yuan",
+      "Can Chen",
+      "Kunyu Wang",
+      "Shuaiwei Wu",
+      "Zhixin Wu",
+      "Xiaoyao Zhu",
+      "Zhongxin Zhang",
+      "Yuanzhong Zhang",
+      "Chunbao Zeng",
+      "Jian Cui",
+      "Zhenhuang Lin",
+      "Changcheng Li",
+      "J. Q. Zheng",
+      "Yuanbo Huang",
+      "Dechao Wang",
+      "Zhifeng Zheng"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213561552",
+    "title": "Matching mechanism between catalytic conversion and heat transfer in a catalyst-filled plate-fin heat exchanger for hydrogen liquefaction",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133215",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133215",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat exchanger",
+      "Heat transfer",
+      "Liquefaction",
+      "Catalysis",
+      "Mechanism (biology)",
+      "Hydrogen",
+      "Matching (statistics)",
+      "Plate fin heat exchanger"
+    ],
+    "authors": [
+      "Yulin Cui",
+      "Ying Yu",
+      "Xin Yu",
+      "Hong Xu",
+      "Shaowei Zhu",
+      "Cunman Zhang",
+      "Mingzhe Xue"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213562520",
+    "title": "Development of a Numerical model to predict the thermal insulating characteristics of ultra-low density non-woven fabrics used in extreme cold weather clothing",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133060",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133060",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Cold weather",
+      "Clothing",
+      "Cold climate",
+      "Development (topology)",
+      "Extreme Cold",
+      "Extreme weather"
+    ],
+    "authors": [
+      "Amit Kumar",
+      "Sockalingam Alagappan",
+      "R. S. Rengasamy",
+      "Prabal Talukdar"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213502821",
+    "title": "Dynamic modeling and cycle performance analysis of a 3He sorption cooler",
+    "abstract": "A 3 He sorption cooler is an attractive solution for sub-Kelvin applications due to its vibration-free operation, compact structure, and high reliability. However, existing studies mainly focus on experimental performance under specific operating conditions, while quantitative cycle-level performance prediction and optimization remain limited at the design stage. To address this gap, the present study develops a dynamic cycle-performance model that quantitatively simulates the evolution of the system temperature, pressure, and 3 He distribution throughout a complete operating cycle, and predicts cycle-level performance metrics including the effective operating time ratio, the equivalent input power, and the average cooling efficiency. Based on the model, the effects of main sorption-pump parameters, including the activated-carbon mass, activated-carbon bulk density, desorption temperature, and total 3 He charge amount, are systematically analyzed. Parametric studies identify the optimal activated-carbon mass, bulk density, desorption temperature, and total 3 He charge amount for a cooling load of 1.061 μ W at 0.3 K, corresponding to peak effective operating time ratios of 99.6%–99.9%, minimum equivalent input powers of 1.16–1.63 W, and maximum average cooling efficiencies of 6.50 × 1 0 − 7 – 9.12 × 1 0 − 7 . The proposed model provides a useful tool for cycle performance prediction and trade-off analysis, and offers guidance for the development of compact and high-reliability cryogenic platforms for low-temperature applications.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133258",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133258",
+    "cited_by_count": 0,
+    "keywords": [
+      "Sorption",
+      "System dynamics",
+      "Numerical modeling",
+      "Modeling and simulation",
+      "Water cooling",
+      "Coefficient of performance"
+    ],
+    "authors": [
+      "Pengjinglun Li",
+      "Haishan Cao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213513135",
+    "title": "A symbolic regression-based correlation for the heat transfer coefficient of saturated flow boiling in mini/micro-channels",
+    "abstract": "The demand for high-performance thermal management has increased interest in saturated flow boiling in mini/micro-channels, while accurate prediction of the heat transfer coefficient remains challenging due to the complex nature of two-phase flow. Existing empirical correlations rely on predefined variables and functional forms selected based on prior knowledge and empirical judgment and are often developed from limited databases, which can restrict their applicability beyond the development range. Black-box machine learning models, despite their superior predictive capability, lack physical interpretability and may exhibit reduced predictive accuracy under unseen conditions. To address these limitations, this study utilizes symbolic regression as an interpretable machine learning approach to develop a data-driven explicit correlation that combines high predictive accuracy with physical interpretability. A consolidated pre-dryout database of 12,406 data points was constructed from 41 independent sources, covering 20 working fluids and a wide range of channel geometries and operating conditions. The derived correlation adopts an additive form comprising nucleate- and convective-boiling terms, consistent with the underlying flow boiling mechanisms, and achieves a mean absolute percentage error (MAPE) of 19.4% across the consolidated database. The generalization capability was further assessed using an independent unseen dataset of 2138 data points from 8 sources. While existing empirical correlations showed limited accuracy and black-box models, including XGBoost, Random Forest, and Artificial Neural Networks, exhibited less consistent predictive performance, particularly for extrapolative cases, the proposed model maintained robust predictive accuracy with a MAPE of 13.6%. This explicit, closed-form correlation enables intuitive physical interpretation and demonstrates reliable predictive performance for independent unseen data, offering a practical tool for thermal system design.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133210",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133210",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer coefficient",
+      "Flow boiling",
+      "Boiling",
+      "Boiling heat transfer",
+      "Heat transfer",
+      "Flow (mathematics)",
+      "Nucleate boiling"
+    ],
+    "authors": [
+      "Jihyeok Kim",
+      "Seunghyun Lee",
+      "Sung-Min Kim",
+      "Issam Mudawar"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213522945",
+    "title": "Combustion radiation in Ammonia-based fuels: Progress and challenges",
+    "abstract": "Ammonia is attracting increasing attention as a carbon-free fuel for high-temperature thermal systems, but its weak radiative heat-transfer capability remains a critical barrier to direct application in industrial furnaces, boilers, and combustors. Unlike hydrocarbon flames, pure ammonia flames contain no carbon dioxide or soot, leading to fundamentally different radiative characteristics that are mainly governed by H₂O, with possible minor contributions from residual NH₃, NO, and other nitrogen-containing species. This review critically synthesizes recent progress in combustion radiation from ammonia-based fuels, including pure NH₃, NH₃/H₂ blends, cracked NH₃, NH₃/hydrocarbon blends, COG–NH₃ flames, and ammonia co-combustion with solid fuels. Particular attention is given to the dominant radiation mechanisms, spectral features, radiative heat-flux trends, measurement reliability, radiation-model applicability, and furnace-scale engineering implications. The reviewed literature shows that pure NH₃ and NH₃/H₂ flames establish a low-radiation baseline because they lack CO₂, soot, and particle radiation; hydrocarbon and COG blending can partially recover radiative output through CO₂ and possible soot-related emission; and ammonia/solid-fuel co-combustion is strongly affected by particle radiation from char, ash, fly ash, and soot. Current measurement data remain difficult to compare because of differences in burner geometry, pressure, equivalence ratio, fuel composition, detector field of view, wavelength range, wall temperature, background subtraction, and optical path length. Radiation modelling also remains challenging because optically thin, WSGG, SNB, FSCK, and LBL approaches differ substantially in their assumptions, spectral accuracy, and computational cost. Key research gaps are identified in high-pressure and furnace-scale radiation data, standardized measurement protocols, high-temperature spectroscopic databases, radiation–combustion–NOₓ coupling, and strategies for compensating weak ammonia flame radiation through both flame-side enhancement and furnace-side heat-transfer adaptation. This review provides a synthesis of current knowledge and practical guidance for the design and optimization of ammonia-based low-carbon combustion systems.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-17",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133288",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133288",
+    "cited_by_count": 0,
+    "keywords": [
+      "Combustion",
+      "Thermal radiation",
+      "Radiation",
+      "Combustion chamber"
+    ],
+    "authors": [
+      "Zishi Fu",
+      "J. Davies",
+      "Syed Mashruk",
+      "Mohammad Alnajideen",
+      "Hua Xiao",
+      "Agustin Valera-Medina"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213543881",
+    "title": "Hierarchical CNT-Cu hybrid coatings for enhanced and durable pool boiling heat transfer: Mechanistic insights and CHF modelling",
+    "abstract": "Enhancing boiling heat transfer through scalable and sustainable surface engineering is critical for high heat-flux thermal management systems. This study investigates pool boiling performance on copper substrates functionalized with hierarchical carbon nanotube (CNT) and CNT-Cu hybrid coatings fabricated via an environmentally benign electrophoretic deposition (EPD) process. The approach integrates citric-acid conditioning, oxygen plasma activation, and chitosan-assisted CNT assembly to produce controlled micro/nano architectures without high-temperature processing or hazardous chemicals. Three surfaces (CNT-CS#1, CNT-Cu-CS#2, CNT-Cu-CS#3) were engineered with tailored pore structures (micropores 0.5-3 μm; nanopores 30-200 nm), surface roughness (R a = 1.6-3.1 μm), and wettability (contact angle reduced from 58° to <10°). The optimized CNT-Cu-CS#3 surface achieved a maximum heat transfer coefficient of 204 kW m −2 K −1 and a critical heat flux of 2004 kW m −2 , compared to 53.4 kW m −2 K −1 and 1073.5 kW m −2 for bare copper. High-speed visualization reveals that enhanced performance is associated with increased nucleation site density, reduced bubble departure diameter, and higher departure frequency. Mechanistically, nanoscale pores generate strong capillary-driven liquid replenishment, while interconnected micropores facilitate efficient vapor removal, sustaining microlayer evaporation and delaying dryout. A semi-empirical CHF framework is proposed to relate performance to porosity, wettability, pore size, and bubble dynamics. Long-term testing (300 h) shows negligible degradation, confirming structural robustness. The results establish hierarchical morphology and transport optimization as key design criteria for durable, high-performance boiling surfaces.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111344",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111344",
+    "cited_by_count": 0,
+    "keywords": [
+      "Critical heat flux",
+      "Boiling",
+      "Wetting",
+      "Nucleate boiling",
+      "Heat transfer",
+      "Bubble",
+      "Evaporation",
+      "Enhanced heat transfer",
+      "Surface roughness"
+    ],
+    "authors": [
+      "Rakesh Paladugu",
+      "Sanjay Kumar Gupta",
+      "Sudhir Kumar Singh",
+      "Deepak Sharma"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213545548",
+    "title": "Numerical study of thermal performance in multi-mini-L geometry passage circular heat sink: Effects of flow inlet and outlet angles",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111348",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111348",
+    "cited_by_count": 0,
+    "keywords": [
+      "Inlet",
+      "Thermal",
+      "Flow (mathematics)",
+      "Computer simulation",
+      "Heat transfer"
+    ],
+    "authors": [
+      "Haider Ali Hussein"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213546237",
+    "title": "Mathematical and computational fluid dynamics (CFD) investigation of thermo-hydraulic behaviour and cooling performance of an air-cooled server rack under steady information technology (IT) loads",
+    "abstract": "This study presents mathematical and three-dimensional computational fluid dynamics (CFD) assessments of an operational 42U air-cooled server rack under five steady information technology (IT) loads from 10 to 20 kW. The principal contribution is not a new CFD algorithm, but a load-dependent integration of rack-scale thermal, hydraulic, turbulence, convective heat-transfer and facility-energy indicators within a single validated framework. The realizable k–ε model reproduced the measured thermal and hydraulic responses with R 2 = 0.985–0.993 and a maximum Mean Absolute Percentage Error (MAPE) below 3.61%. Increasing IT load raised the maximum rack temperature from 307.6 to 328.8 K and the pressure drop from 35.2 to 68.1 Pa, while rack-average cooling effectiveness decreased from approximately 0.91 to 0.74, corresponding to an 18.7% reduction. Although the inlet condition remained unchanged, the Reynolds number remained approximately 1.92 × 10 5 , whereas the Grashof number increased from 1.64 × 10 10 to 3.76 × 10 10 and the Richardson number from 0.45 to 1.02, demonstrating a progressive shift from predominantly forced convection toward mixed-convection behaviour. The resulting buoyancy-assisted redistribution promoted upper-rack recirculation, hotspot expansion and increasingly localized turbulence and convective cooling. Numerical energy closure remained above 97% for all cases. In contrast to the deteriorating rack-level thermal performance, facility Power Usage Effectiveness (PUE) improved from 1.61 to 1.42 as IT utilization increased. This divergence shows that minimum PUE does not necessarily correspond to the thermally preferable operating state. For the investigated configuration, 15–17.5 kW is therefore identified as a practical compromise operating range between facility energy utilization and rack-level thermal reliability, rather than a universal optimum.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-18",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111350",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111350",
+    "cited_by_count": 0,
+    "keywords": [
+      "Computational fluid dynamics",
+      "Grashof number",
+      "Reynolds number",
+      "Turbulence",
+      "Convection",
+      "Thermal",
+      "Pressure drop",
+      "Natural convection",
+      "Thermal hydraulics"
+    ],
+    "authors": [
+      "Roshan Raman",
+      "Akanksha Mathur",
+      "Hakan Çalışkan",
+      "Zafar Said",
+      "Akhil Garg",
+      "Neeraj Kumar Shukla",
+      "Praveen Barmavatu",
+      "Aman Garg",
+      "Nesrin ÇALIŞKAN"
+    ],
+    "category": "heat-transfer"
   }
 ]
