@@ -323165,19 +323165,91 @@
         "Nesrin ÇALIŞKAN"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213580536",
+      "title": "Barriers for Adoption and Deployment of Digital Instrumentation and Control Systems for Advanced Reactors and Existing Reactor Modernization",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112816",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112816",
+      "cited_by_count": 0,
+      "keywords": [
+        "Software deployment",
+        "Instrumentation (computer programming)",
+        "Modernization theory",
+        "Control system",
+        "Control (management)",
+        "Digital control"
+      ],
+      "authors": [
+        "Edward Chen",
+        "Tate Shorthill",
+        "Congjian Wang",
+        "Ahmad Al Rashdan",
+        "Svetlana Lawrence"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213603849",
+      "title": "Overview and outlook of heat-driven oscillating systems for sustainable heating, cooling and power generation",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133305",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133305",
+      "cited_by_count": 0,
+      "keywords": [
+        "Electricity generation",
+        "Power (physics)",
+        "Water cooling",
+        "Heat generation",
+        "Sustainable energy"
+      ],
+      "authors": [
+        "Shunmin Zhu",
+        "Geng Chen",
+        "Zhibin Yu",
+        "Christos N. Markides"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213602782",
+      "title": "Effects of fan speed and activation pattern on thermal performance of a forced air-cooled lithium-ion battery module: An experimental and statistical study",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-18",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111345",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111345",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal",
+        "Battery (electricity)",
+        "Thermal management of electronic devices and systems",
+        "Statistical analysis"
+      ],
+      "authors": [
+        "Furkan Mumcu",
+        "Alirıza Kaleli",
+        "Bilal Sungur"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12435,
+    "total": 12438,
     "journals": 277,
-    "last_update": "2026-09-19 04:20:31",
-    "reactor-thermal_count": 1661,
-    "heat-transfer_count": 3138,
+    "last_update": "2026-09-20 04:39:08",
+    "reactor-thermal_count": 1662,
+    "heat-transfer_count": 3140,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1863
+        "count": 1864
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
@@ -323185,11 +323257,11 @@
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 455
+        "count": 456
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 407
+        "count": 408
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -324286,10 +324358,6 @@
     ],
     "trend": [
       {
-        "date": "2026-08-21",
-        "count": 29
-      },
-      {
         "date": "2026-08-22",
         "count": 35
       },
@@ -324399,10 +324467,14 @@
       },
       {
         "date": "2026-09-18",
-        "count": 30
+        "count": 32
       },
       {
         "date": "2026-09-19",
+        "count": 1
+      },
+      {
+        "date": "2026-09-20",
         "count": 0
       }
     ]
@@ -324621,5 +324693,5 @@
       }
     ]
   },
-  "export_time": "2026-09-19T04:20:31.874864"
+  "export_time": "2026-09-20T04:39:08.189827"
 }
