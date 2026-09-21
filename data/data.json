@@ -323237,31 +323237,521 @@
         "Bilal Sungur"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213626468",
+      "title": "The history of reactor physics studies for fast-spectrum reactor application in Japan",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115199",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115199",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear reactor",
+        "Nuclear reactor core",
+        "Research reactor"
+      ],
+      "authors": [
+        "Go Chiba",
+        "Kenji Yokoyama",
+        "Masahiro Fukushima",
+        "Taira Hazama"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213628153",
+      "title": "Research on a GPU-parallelized method for large-scale fault trees importance analysis in NPPs",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115227",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115227",
+      "cited_by_count": 0,
+      "keywords": [
+        "Fault tree analysis",
+        "Fault (geology)",
+        "Failure assessment",
+        "Tree (set theory)"
+      ],
+      "authors": [
+        "Shen Liu",
+        "Shaoxuan Wang",
+        "Zhixian Lin",
+        "Daochuan Ge",
+        "Jie Yu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213655753",
+      "title": "Boron-containing deposits with tritium activity in the primary circuit of HTR-10: experimental measurements and source analysis",
+      "abstract": "The chemical environment of the primary coolant in high-temperature gas-cooled reactors (HTGRs) is complex, where the sources, chemical states, and migration behaviors of impurities affect safe reactor operation. In this study, white crystalline deposits with a mass of (881.70 ± 0.03) mg collected from the dust filter of HTR-10 were analyzed. The morphology of the deposits was analyzed by scanning electron microscopy, while the boron content was analyzed by energy-dispersive X-ray spectroscopy and inductively coupled plasma mass spectrometry, yielding a boron mass fraction of (19.55 ± 0.24)%. Using X-ray diffraction, Raman spectroscopy, and Fourier-transform infrared spectroscopy, the samples were found to be composed of NH₄B₅O₈·4H₂O, (NH₄)₃[B₁₅O₂₀(OH)₈]·4H₂O, and H₃BO₃. The thermal behavior of the crystalline deposits was examined by thermal analysis. Based on liquid scintillation counting and high-purity germanium gamma-ray spectrometry, the mass-specific activities of 3 H and 137 Cs, decay-corrected to the date of filter cutting (3 December 2013), were estimated to be (791.55 ± 21.40) and (0.0506 ± 0.0055) Bq/mg, respectively. Based on the structural materials and operating conditions of HTR-10, the boron in the deposits was inferred to originate mainly from boron-containing graphite bricks in the core and boron carbide absorber spheres. The ammonium ions may originate from hydrazine or its decomposition products in the secondary circuit, which could enter the primary circuit through trace cross-wall migration or the decomposition of nitrogen-containing chemicals introduced during maintenance or cleaning. The results reveal the phase characteristics, migration, and deposition behavior of boron-containing impurities in the primary circuit and demonstrate, for the first time, their significant tritium enrichment. This study provides useful guidance for impurity source tracing, coolant chemistry monitoring, purification strategy optimization, and radiation protection during maintenance and decommissioning of HTGRs.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115218",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115218",
+      "cited_by_count": 0,
+      "keywords": [
+        "Impurity",
+        "Boron carbide",
+        "Boron",
+        "Graphite",
+        "Coolant",
+        "Analytical Chemistry (journal)",
+        "Thermal decomposition",
+        "Plutonium",
+        "Decomposition",
+        "Raman spectroscopy"
+      ],
+      "authors": [
+        "Rui Nie",
+        "Xuegang Liu",
+        "Liqiang Wei",
+        "Yu Wang",
+        "Naizhe Zhang",
+        "Aixin Zhu",
+        "Jianzhu Cao",
+        "Feng Xie"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213636384",
+      "title": "Integral measurements of (γ,n) reactions and 238U photofission in bremsstrahlung fields",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112834",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112834",
+      "cited_by_count": 0,
+      "keywords": [
+        "Photofission",
+        "Bremsstrahlung",
+        "Radiation",
+        "Trajectory",
+        "Field (mathematics)"
+      ],
+      "authors": [
+        "Marek Zmeškal",
+        "David Chvátil",
+        "Václav Olšanský",
+        "Jan Šimon",
+        "Michael Němeček",
+        "Zdeněk Matěj",
+        "Michal Košt’ál"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213664278",
+      "title": "Assessment of multi-stage telescopic control rods in a pebble bed reactor, Part I: Mechanical design, neutronic assessment, and economic analysis",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112828",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112828",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pebble",
+        "Economic analysis",
+        "Rod",
+        "Control rod"
+      ],
+      "authors": [
+        "E.P. Fowler",
+        "Gabriel Paramucchio",
+        "Loïc Durand",
+        "Samuel Garcia",
+        "Ethan Chang",
+        "Peter Wilkinson",
+        "F. Shahrokhi",
+        "Hans Gougar",
+        "Ryan Stewart",
+        "Adrien Couet",
+        "Ben Lindley"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213660175",
+      "title": "Experimental and Geant4 simulation study on 60 MeV proton energy attenuation in Ta/CNT reinforced epoxy composites",
+      "abstract": "",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1080/00223131.2026.2730724",
+      "doi": "https://doi.org/10.1080/00223131.2026.2730724",
+      "cited_by_count": 0,
+      "keywords": [
+        "Epoxy",
+        "Attenuation",
+        "Proton",
+        "Energy (signal processing)",
+        "Composite number"
+      ],
+      "authors": [
+        "J. J. Su",
+        "Zhiyong Wei",
+        "Tao Fei",
+        "Yujing Li",
+        "Jun Xu",
+        "Dongdong Gao",
+        "Yangyang Pan",
+        "Gang Liu",
+        "Yuxian Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213633158",
+      "title": "Preliminary Assessment of Multiscale System–Subchannel Coupling for Reactor Thermal-Hydraulic Analysis",
+      "abstract": "System thermal-hydraulic codes efficiently predict reactor-circuit transients, but their simplified core models provide limited information on assembly-scale flow and temperature redistribution. VITARS-SC 2.0 couples the system code VITARS with the subchannel code SACOS through non-overlapping domain decomposition and semi-implicit pressure coupling. The solvers conservatively exchange interface mass, energy, and volumetric flow rates on a synchronized timeline with joint time-step acceptance and rollback. The framework was assessed against the LOFT L2-6 large-break loss-of-coolant experiment using experimental measurements and standalone VITARS results. Both calculations reproduced the overall depressurization and main loop-flow trends, while deviations remained in the broken-loop flow peaks, accumulator discharge, and cladding-temperature response. Neither calculation captured the rapid early cladding cooldown, indicating limitations in the current reflood, rewetting, and post-critical-heat-flux models rather than in the coupling procedure alone. The method was then applied to a three-loop reactor model with a 157-assembly core for a prescribed power rundown and a dynamically calculated single-pump coast down. During the 10 s transient, the tripped-pump flow decreased by 40.4%, the total primary flow by 13.4%, and the core pressure drop from 0.150 to 0.119 MPa. The coupled calculation remained stable and provided time-resolved three-dimensional core fields. On one CPU core, the complete two-stage workflow required 2402 s, compared with 75 s for standalone VITARS. These results demonstrate the numerical feasibility and enhanced core-resolution capability of VITARS-SC 2.0, while further validation of the reflood and post-critical-heat-flux models and parallelization of the coupling framework are needed for routine reactor-scale applications.",
+      "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.jandt.2026.09.005",
+      "doi": "https://doi.org/10.1016/j.jandt.2026.09.005",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cladding (metalworking)",
+        "Domain decomposition methods",
+        "Pressure drop",
+        "Coupling (piping)",
+        "Flow (mathematics)",
+        "Stack (abstract data type)",
+        "Time domain",
+        "Interface (matter)",
+        "Workflow"
+      ],
+      "authors": [
+        "Xinyang Zhu",
+        "Sijun Li",
+        "Chenfeng Bao",
+        "Ronghua Chen",
+        "Wenxi Tian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7213614085",
+      "title": "Endwall flow patterns and film cooling performance under pulsatile conditions of hydrogen-combustion turbines",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129546",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129546",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pulsatile flow",
+        "Flow (mathematics)",
+        "Flow conditions",
+        "Gas turbines",
+        "Turbine"
+      ],
+      "authors": [
+        "Bo BAI",
+        "Hao Zhang",
+        "Zhigang Li",
+        "Jun Li",
+        "Shuo Mao",
+        "Wing F. Ng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213628002",
+      "title": "A heat-flux isolation-based decoupling and co-optimization framework for thermal management of high-power LEDs",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129589",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129589",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal management of electronic devices and systems",
+        "Decoupling (probability)",
+        "Light-emitting diode",
+        "Thermal",
+        "Thermal management of high-power LEDs"
+      ],
+      "authors": [
+        "Guiqi Hou",
+        "Liwei Lu",
+        "Fantao Zeng",
+        "Yejie Jiang",
+        "Xiaoqing Zhang",
+        "Wei Yuan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213642196",
+      "title": "3D thermal modeling of Lascaux Cave: Dynamics of air circulation and implications for its microclimate",
+      "abstract": "Understanding the thermal dynamics of painted caves, such as the Lascaux Cave, is essential for predicting and preventing deterioration of walls and artworks, particularly through processes such as condensation. As a first step, heat conduction within the surrounding rock mass was investigated. Given that even small temperature gradients can significantly influence thermal convection in shallow and confined caves, high precision in thermal characterization is required. As shown in a prior work, this issue is addressed by considering a heterogeneous rock mass with spatially varying thermal properties and determining their optimal values. The present paper focuses on the subsequent step: modelling the natural convection occurring within the cavity. A numerical model was developed to simulate the natural convection in the cavity and applied to the onset of convection on 15 May 2021. Model predictions were compared against in situ measurements from 22 temperature sensors. The analysis reveals the occurrence of two distinct convections: (i) within the Great Fissure, and (ii) between the Great Hall of the Bulls and adjacent chambers. At greater depths, the thermal gradients are insufficient to induce significant velocity fields, thereby preserving the stratified temperature structure. Despite preliminary discussions on wall condensation, future work should address more accurately the modelling of condensation processes on the cave walls.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129592",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129592",
+      "cited_by_count": 0,
+      "keywords": [
+        "Convection",
+        "Thermal",
+        "Natural convection",
+        "Thermal conduction",
+        "Microclimate",
+        "Thermal mass",
+        "Condensation",
+        "Numerical modeling",
+        "Work (physics)",
+        "Natural (archaeology)"
+      ],
+      "authors": [
+        "F. Salmon",
+        "D. Lacanette",
+        "H. Lharti",
+        "C. Sirieix"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213644043",
+      "title": "Temperature-dependent non-Fourier heat transport enables transient thermal asymmetry in hierarchical thermal metamaterials",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129552",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129552",
+      "cited_by_count": 0,
+      "keywords": [
+        "Transient (computer programming)",
+        "Thermal",
+        "Asymmetry",
+        "Metamaterial",
+        "Thermal conductivity",
+        "Heat transfer",
+        "Thermal conduction"
+      ],
+      "authors": [
+        "Harry Mclean",
+        "Francis Huw Davies",
+        "G. P. Srivastava",
+        "Steven Paul Hepplestone"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213653700",
+      "title": "Mean–local decoupling in convective–radiative heat transfer of annular cavities: Effects of scale, confinement and curvature",
+      "abstract": "Coupled natural convection and surface radiation in confined annular cavities can produce strong heat-transfer partitioning and wall-flux non-uniformity, yet geometry can affect mean and local responses differently. Gas-turbine shutdown heat soak provides a representative application because decaying forced cooling leaves residual heat redistribution governed mainly by solid conduction, buoyancy-driven flow, and wall-to-wall radiation. This study establishes a three-dimensional numerical model of a concentric annular cavity containing clean air and gray-diffuse surfaces under representative non-uniform shutdown wall temperatures. A unified dimensionless framework evaluates Nu c , Nu r , the radiative heat-transfer fraction, and top–bottom non-uniformity while independently varying the overall scale ratio λ , aspect ratio Γ , and dimensionless curvature χ . At Δ T = 100 K, increasing λ from 1 to 16 raises Nu c from 14.05 to 92.30 and Nu r from 24.93 to 397.49, while the radiative fraction increases from 0.640 to 0.812. Under the common conductive normalisation, geometrically similar scaling increases both equivalent Nusselt numbers. The near-16-fold increase in Nu r is dominated by characteristic-length scaling and does not imply a comparable increase in area-averaged radiative heat-flux density. Increasing Γ strengthens radial confinement and suppresses both equivalent Nusselt numbers, while non-uniformity changes non-monotonically as the main circulation and end-region recirculation reorganise. Increasing χ promotes vortex migration and near-wall fluid renewal, enhancing Nu c more strongly than Nu r . The separated mean and local responses provide a heat-transfer basis for evaluating geometry-dependent thermal-load non-uniformity in confined radiating cavities.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129532",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129532",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Dimensionless quantity",
+        "Radiative transfer",
+        "Curvature",
+        "Scaling",
+        "Heat transfer",
+        "Vortex",
+        "Natural convection",
+        "Aspect ratio (aeronautics)"
+      ],
+      "authors": [
+        "Jiarui Liang",
+        "Shulin Xue",
+        "Wei Ma",
+        "Qing Ai",
+        "Meng Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213666020",
+      "title": "Flow-jet composite boiling on microstructured surfaces in microgravity: An experimental study aboard the China Space Station",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129587",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129587",
+      "cited_by_count": 0,
+      "keywords": [
+        "Composite number",
+        "Boiling",
+        "Space (punctuation)",
+        "Surface (topology)",
+        "Thermal"
+      ],
+      "authors": [
+        "Yilong Yan",
+        "Zhuye Jiang",
+        "Haotian Hu",
+        "Yonghai Zhang",
+        "Xinyu Ji",
+        "Jinjia Wei"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213673790",
+      "title": "A bamboo-shaped flow field with curved transitions for open-cathode PEMFCs: Coupled heat-mass transport mechanisms and performance trade-offs",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129583",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129583",
+      "cited_by_count": 0,
+      "keywords": [
+        "Flow (mathematics)",
+        "Field (mathematics)",
+        "Coupling (piping)",
+        "Heat flow",
+        "Potential flow"
+      ],
+      "authors": [
+        "Kai-Qi Zhu",
+        "Zi-Lun Teng",
+        "Yifeng Wang",
+        "Ben-Xi Zhang",
+        "Shao-Fei Zheng",
+        "Xiaodong Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213632210",
+      "title": "Beyond ideal membranes: Multiphysics modelling of vacuum-driven graphene oxide dehumidification systems",
+      "abstract": "Space cooling accounts for a growing share of global electricity demand, with latent loads dominating in humid climates. Idealized models predict membrane dehumidification can raise moisture removal efficiency from roughly 5 to 55 kg kWh −1 relative to vapor compression, but assume infinite selectivity and negligible polarization. This study relaxes those assumptions using a three-dimensional finite-element multiphysics model of a pilot-scale graphene oxide system, in which a 0.33 m 2 dehumidification module is coupled to a 0.35 m 2 downstream moisture-rejection module. Simulations spanned selectivities of 100 to 2000 and permeate pressures of 0.1 to 3 kPa at a water permeance of 1 × 10 −5 mol m −2 s −1 Pa −1 . Because higher selectivity suppresses the transmembrane driving force, a selectivity of 100 outperformed 2000 by 16% at 1 kPa, though at twice the pumping speed. Deeper vacuum yielded diminishing returns. Lowering the permeate pressure from 1 kPa to 100 Pa improved moisture removal by only 37% while pumping speed rose roughly sevenfold, even at high selectivity. In the rejection module, coefficient of performance and second-law efficiency peaked at about 11 and 36% under ideal compression, but only near 2 × 10 −3 m 3 /s, and decayed rapidly as throughput increased. With commercially available pumps, the coefficient of performance fell below 0.5, indicating that vacuum pump losses, rather than membrane selectivity or permeance, govern practical viability at the investigated scale. By resolving module hydrodynamics while closing the system energy balance with real pump characteristics, the present framework reveals performance penalties that neither module-scale nor system-scale analyses capture alone.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133026",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133026",
+      "cited_by_count": 0,
+      "keywords": [
+        "Permeance",
+        "Multiphysics",
+        "Graphene",
+        "Moisture",
+        "Selectivity",
+        "Permeation",
+        "Oxide"
+      ],
+      "authors": [
+        "Nikolai D. Burton",
+        "Rowayne Murzello",
+        "Luzhu Xu",
+        "Nathan Grishkewich",
+        "Jeff T. Gostick",
+        "Michael A. Pope"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213653967",
+      "title": "Hydrodynamics of transitional flow in a stirred-tank equipped with an A320 hydrofoil impeller: PIV–POD mapping across flow regimes",
+      "abstract": "Transitional flow in mechanically agitated vessels remains difficult to characterise and model, despite its prevalence in industrial mixing applications involving moderate–to–high viscosity fluids. This study presents an experimental investigation of the hydrodynamics in a baffled stirred tank equipped with an A320 hydrofoil impeller across a transitional Reynolds number range of 8 ≤ 𝑅 ⁢ 𝑒 ≤ 3 5 , 1 0 0 , using planar Particle Image Velocimetry (PIV). Averaged velocity fields and turbulence kinetic energy distributions reveal that transition from laminar to turbulent flow is gradual and strongly spatially heterogeneous, with velocity fluctuations emerging first near the impeller and extending into the bulk flow at higher Reynolds numbers. Proper Orthogonal Decomposition (POD) demonstrates a redistribution of energy across increasing numbers of modes, a loss of coherent impeller–forced structures, and a transition from impeller–locked to low–frequency dominated temporal dynamics. The results show that Reynolds number alone is insufficient to characterise transitional stirred–tank flows. The study provides a valuable experimental validation dataset for Computational Fluid Dynamics (CFD) model development and validation under industrially relevant transitional conditions.",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111843",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111843",
+      "cited_by_count": 0,
+      "keywords": [
+        "Impeller",
+        "Turbulence",
+        "Reynolds number",
+        "Particle image velocimetry",
+        "Turbulence kinetic energy",
+        "Laminar flow",
+        "Flow (mathematics)",
+        "Vortex",
+        "Mixing (physics)"
+      ],
+      "authors": [
+        "G.K. Wadsley",
+        "D.F. Fletcher",
+        "A. Ingram",
+        "J. Aubin",
+        "W. Rosales Trujillo",
+        "M.J.H. Simmons"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213617421",
+      "title": "Scaled experimental investigation of air curtain smoke confinement against stack effect in entrance/exit passageways",
+      "abstract": "Fire-induced smoke movement in underground transportation facilities poses serious threats to occupant safety and ventilation efficiency. Entrance/exit passageways in metro stations, composed of alternating horizontal and inclined segments, exhibit complex buoyancy-driven flow behavior that challenges conventional smoke control strategies. In this study, the performance of air curtains as a sustainable and non-obstructive smoke control technology was experimentally investigated using a 1/10-scale platform. A series of controlled fire tests were conducted with systematic variations in heat release rate (HRR), passage inclination, nozzle slot width, injection angle, and air curtain position. The smoke-blocking efficiency E was used to quantify performance, and the interaction between jet momentum and buoyancy was characterized by the momentum ratio R . Results show that increasing HRR and slope angles intensify buoyant flows, thereby reducing E unless compensated by sufficient jet momentum. Slot width produced a non-monotonic effect due to coupled changes in jet velocity and flow rate, while the influence of injection angle became significant only after achieving jet stability. A critical threshold of momentum ratio, R c , was identified as the minimum requirement for preventing smoke penetration. The findings provide practical guidance for the design of energy-efficient, buoyancy-resistant ventilation systems in metro station passageways and similar semi-confined environments.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111349",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111349",
+      "cited_by_count": 0,
+      "keywords": [
+        "Momentum (technical analysis)",
+        "Jet (fluid)",
+        "Nozzle",
+        "Stack effect",
+        "Buoyancy",
+        "Smoke",
+        "Stack (abstract data type)",
+        "Flow (mathematics)"
+      ],
+      "authors": [
+        "Zekun Li",
+        "Miaocheng Weng",
+        "Fang Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213639056",
+      "title": "Electrically and geometrically reconfigurable harmonic-resolved chiral emission from an asymmetric Weyl-semimetal Fabry–Pérot cavity",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111338",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111338",
+      "cited_by_count": 0,
+      "keywords": [
+        "Dissipation",
+        "Chirality (physics)",
+        "Work (physics)",
+        "Ideal (ethics)"
+      ],
+      "authors": [
+        "Changjian Li",
+        "望 森家",
+        "Liming Qian",
+        "Fenglin Xian",
+        "Gaige Zheng"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12438,
+    "total": 12456,
     "journals": 277,
-    "last_update": "2026-09-20 04:39:08",
-    "reactor-thermal_count": 1662,
-    "heat-transfer_count": 3140,
+    "last_update": "2026-09-21 04:37:32",
+    "reactor-thermal_count": 1669,
+    "heat-transfer_count": 3151,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1864
+        "count": 1865
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 731
+        "count": 738
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 456
+        "count": 458
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 408
+        "count": 410
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -323269,7 +323759,7 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 251
+        "count": 254
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -323425,14 +323915,14 @@
       },
       {
         "name": "Experimental Thermal and Fluid Science",
-        "count": 67
-      },
-      {
-        "name": "Information Communication & Society",
-        "count": 63
+        "count": 68
       },
       {
         "name": "Journal of Nuclear Science and Technology",
+        "count": 64
+      },
+      {
+        "name": "Information Communication & Society",
         "count": 63
       },
       {
@@ -323596,11 +324086,11 @@
         "count": 31
       },
       {
-        "name": "European Journal of Marketing",
-        "count": 30
+        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "count": 31
       },
       {
-        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "name": "European Journal of Marketing",
         "count": 30
       },
       {
@@ -324358,10 +324848,6 @@
     ],
     "trend": [
       {
-        "date": "2026-08-22",
-        "count": 35
-      },
-      {
         "date": "2026-08-23",
         "count": 6
       },
@@ -324399,7 +324885,7 @@
       },
       {
         "date": "2026-09-01",
-        "count": 70
+        "count": 71
       },
       {
         "date": "2026-09-02",
@@ -324471,10 +324957,14 @@
       },
       {
         "date": "2026-09-19",
-        "count": 1
+        "count": 18
       },
       {
         "date": "2026-09-20",
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
         "count": 0
       }
     ]
@@ -324693,5 +325183,5 @@
       }
     ]
   },
-  "export_time": "2026-09-20T04:39:08.189827"
+  "export_time": "2026-09-21T04:37:32.302904"
 }
