@@ -323726,5 +323726,299 @@
       "Gaige Zheng"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213780706",
+    "title": "Investigation on the geometrical representation of an infinite array of bare rod bundle subchannels using Direct Numerical Simulations (DNS)",
+    "abstract": "Direct Numerical Simulations (DNSs) are widely considered as an accurate and reliable approach to generate high-resolution data. However, due to the very high computational costs involved, DNS is generally performed in scaled or simpler geometry and at lower Reynolds numbers, which is still representative of the real industrial-scale scenario. In order to represent the flow and heat transport between an array of fuel rods in a reactor core, simulations are conventionally performed in a smaller computational domain with periodic boundaries – often limited to a single interstitial subchannel space or domain around a single pin. The present study examines DNS at a bulk Reynolds number of 5300 for several configurations, including a periodic domain around a single pin, a single subchannel space, and an array of 2 × 2 subchannels. It is shown quantitatively that the proximity of the periodic boundaries in the smaller domains alters the flow physics. The mean flow statistics and integral quantities, which may be used for development and validation of lower-order models, seem to be largely unaffected, despite small differences. However, the periodic boundaries of the small domains cannot faithfully represent the large-scale flow interaction across subchannels. This is observed to have a significant effect on the mean secondary flows in the different geometries. Moreover, the local distribution of the wall shear stress and Nusselt number around the pin are also reported to be affected. Flow pulsations in the narrow gap, typically associated with low P/D ratios, are also observed for the present P/D ratio of 1.326. The frequency of these pulsations is also shown to be significantly affected by the selected flow domain.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115223",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115223",
+    "cited_by_count": 0,
+    "keywords": [
+      "Reynolds number",
+      "Nusselt number",
+      "Flow (mathematics)",
+      "Bundle",
+      "Domain (mathematical analysis)",
+      "Direct numerical simulation",
+      "Aspect ratio (aeronautics)",
+      "Representation (politics)",
+      "Computational fluid dynamics"
+    ],
+    "authors": [
+      "Akshat Mathur",
+      "Jacob Abraham",
+      "Marc Gerritsma",
+      "Ed Komen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213776527",
+    "title": "Elitism integrated genetic algorithm and differential evolution for in-core fuel management of the Dalat nuclear research reactor",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112848",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112848",
+    "cited_by_count": 0,
+    "keywords": [
+      "Elitism",
+      "Differential evolution",
+      "Nuclear reactor",
+      "Genetic algorithm",
+      "Research reactor",
+      "Differential (mechanical device)",
+      "Nuclear power"
+    ],
+    "authors": [
+      "Giang T.T. Phan",
+      "Minh Duy Nguyen",
+      "H.P. Tran",
+      "Quang Binh"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213791765",
+    "title": "Analysis of the ex-vessel phase of the Fukushima Daichi Unit 1 reactor accident using improved MCCI tools that incorporate major modeling contributions by J.M. Seiler",
+    "abstract": "Forensics investigations continue at Fukushima Daiichi related to understanding and interpreting severe accident progression at the three affected units following the Great East Japan Earthquake on March 11, 2011. As part of this work, the U.S. Department of Energy sponsored a study in 2016 to examine ex-vessel accident progression in Unit 1 (1F1) based on what was known at the time using the MELTSPREAD and CORQUENCH codes developed by Argonne National Laboratory. Since then, TEPCO has adeptly utilized robot and drone technologies to gain a clearer understanding of conditions within the reactor containments, and for 1F1, these investigations have provided important insights related to MCCI. In parallel, progress has been made on improving melt spreading and MCCI/debris coolability models as part of the Reduction of Severe Accident Uncertainties (ROSAU) program using insights from the experiments as well as findings at Fukushima shared through numerous international collaborations and programs (FACE, ARC-F, …). The objective of this work is to apply these improved models to perform an integrated analysis of the 1F1 ex-vessel accident sequence to gauge their ability to replicate actual end-state debris conditions reported by TEPCO. The analysis spans the time from vessel failure up through cavity flooding and the follow-on debris cooling phase until cavity ablation is arrested. Since this paper is published in a special edition commemorating Jean-Marie Seiler, the MCCI/coolability analysis portion of this work makes note of his key contributions in this field that have been implemented in CORQUENCH as well as other severe accident codes.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112849",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112849",
+    "cited_by_count": 0,
+    "keywords": [
+      "Work (physics)",
+      "Accident (philosophy)",
+      "Debris",
+      "Unit (ring theory)",
+      "National laboratory",
+      "Flooding (psychology)",
+      "Phase (matter)",
+      "Accident analysis"
+    ],
+    "authors": [
+      "M. T. Farmer",
+      "S. Mizokami",
+      "M. Naitoh"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213785807",
+    "title": "A transfer learning-assisted unsupervised clustering approach for unknown fault diagnosis of nuclear power plant equipment",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106621",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106621",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nuclear power plant",
+      "Cluster analysis",
+      "Fault (geology)",
+      "Nuclear power",
+      "Transfer (computing)",
+      "Power station"
+    ],
+    "authors": [
+      "Chiye Ma",
+      "Ting Yu",
+      "Hongxiao Chen",
+      "Xiaolei Pan",
+      "Jun Zhao",
+      "Wei Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213748008",
+    "title": "A variable-domain integral weak solution deep learning method for neutron diffusion calculations in multi-material domains",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104726",
+    "doi": "https://doi.org/10.1016/j.net.2026.104726",
+    "cited_by_count": 0,
+    "keywords": [
+      "Deep learning",
+      "Diffusion",
+      "Neutron",
+      "Neutron scattering"
+    ],
+    "authors": [
+      "Yang Liu",
+      "Dong Liu",
+      "Junfeng Wang",
+      "Zhen Liao",
+      "何康军",
+      "Zhenyu Liu",
+      "Chao Wu",
+      "Xiyan Zhai"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213759968",
+    "title": "A deployment-oriented single-channel integrity assessment and fault-subtype triage framework for in-core instrumentation loops",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104729",
+    "doi": "https://doi.org/10.1016/j.net.2026.104729",
+    "cited_by_count": 0,
+    "keywords": [
+      "Triage",
+      "Instrumentation (computer programming)",
+      "Structural integrity",
+      "Data integrity"
+    ],
+    "authors": [
+      "Young-Chul Cho",
+      "Keon Il Cha",
+      "Jung Hoon Choi",
+      "Kyoon Ho"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213790371",
+    "title": "Development and Verification of an Integrated Semi-Implicit Pressure Coupling Framework for SACOS and VITARS",
+    "abstract": "An integrated semi-implicit pressure-coupling framework, VITARS-SC 2.0, was developed to combine the system-scale capabilities of VITARS with the subchannel resolution of SACOS. Unlike the previous explicit external-coupling framework, VITARS-SC 2.0 links the two solvers within one executable and adopts non-overlapping computational domains. Conservative interface fluxes are aggregated over the participating subchannels, linearized with respect to the pressure increments of both solvers, and incorporated into an augmented pressure system. Common time-step control, synchronized state acceptance and rollback, flow-direction-dependent donor-state selection, and depleted-phase protection maintain consistency between the solvers. The implementation was verified using three symmetric, unheated numerical tests: steady single-phase flow, filling and draining, and vertical blowdown. The steady-flow results show close agreement with standalone VITARS and stable interface transfer. During filling and draining, the coupled configuration produces substantially smoother pressure and mass-flow responses during flow reversal; however, the effects of coupling and differences in the physical and numerical models were not isolated. The blowdown calculation follows the overall depressurization and discharge trends predicted by standalone VITARS, while differences remain in local two-phase variables. The maximum absolute global mass-conservation residual, normalized by the initial coupled inventory and including cumulative net external discharge, is 0.8673%, with a residual of 0.1151% at 2 s. These tests demonstrate the numerical functionality of the implementation but do not establish experimental predictive accuracy.",
+    "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+    "published_date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.jandt.2026.09.006",
+    "doi": "https://doi.org/10.1016/j.jandt.2026.09.006",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coupling (piping)",
+      "Boiler blowdown",
+      "Residual",
+      "Executable",
+      "Interface (matter)",
+      "Consistency (knowledge bases)",
+      "Flow (mathematics)",
+      "Steady state (chemistry)"
+    ],
+    "authors": [
+      "Xinyang Zhu",
+      "Sijun Li",
+      "Kaiyang Wang",
+      "Ronghua Chen",
+      "Wenxi Tian"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213757565",
+    "title": "High-temperature carbothermal reduction of phosphate rock: Reaction behavior, kinetics, and molecular dynamics insights",
+    "abstract": "The production of P 4 is highly energy intensive, making improvements in the carbothermal reduction efficiency of phosphate rock essential for reducing reaction time and thermal demand. In this study, the high-temperature carbothermal reduction behavior of phosphate rock with silica and coke was systematically investigated from 1300 to 1750 °C through laboratory scale experiments, phase characterization, kinetic analysis, and molecular dynamics simulations. As temperature increased, the phosphorus reduction efficiency rose substantially, reaching 99.17% after 10 min at 1750 °C. Kinetic analysis showed that the reduction behavior at each investigated temperature was well described by a first-order model, with an overall apparent activation energy of 214 kJ/mol under the present experimental conditions. In addition, SiO 2 increased the phosphorus reduction efficiency. Increasing temperature promoted the formation and melting of calcium silicate phases, thereby improving interfacial contact and mass transfer within the reaction system. Molecular dynamics simulations revealed the formation of [SiO 4 ] tetrahedral units and relatively high Ca 2+ mobility. Taken together, the results suggest enhanced local association between Ca 2+ and [SiO 4 ] units, consistent with calcium redistribution and calcium silicate formation. Overall, this study clarifies the high-temperature reduction behavior and mass transfer mechanism of phosphate rock and provides a kinetic and mechanistic basis for developing efficient thermal phosphorus production processes.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133329",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133329",
+    "cited_by_count": 0,
+    "keywords": [
+      "Carbothermic reaction",
+      "Molecular dynamics",
+      "Redistribution (election)",
+      "Coke",
+      "Kinetic energy",
+      "Phosphate",
+      "Mass transfer",
+      "Silicate",
+      "Activation energy"
+    ],
+    "authors": [
+      "Mingxia Li",
+      "Yunxiang Nie",
+      "Ye Chen",
+      "Delong Xie",
+      "Yuanzhi Zhu",
+      "Zhangnan Wen",
+      "Yi Mei"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213773443",
+    "title": "Burner structural optimization for enhanced combustion characteristics in a tangentially fired boiler",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133279",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133279",
+    "cited_by_count": 0,
+    "keywords": [
+      "Combustor",
+      "Combustion",
+      "Boiler (water heating)",
+      "Gas burner"
+    ],
+    "authors": [
+      "Tianbiao Wang",
+      "孙亚松",
+      "Wei Bai",
+      "Huquan Cao",
+      "Yifan Wang",
+      "Jing Ma"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213755482",
+    "title": "Research on starvation evolution and temperature field prediction for spur gear under oil jet lubrication",
+    "abstract": "Under extreme operating conditions, such as high-speed aerodynamic drag and restricted oil supply, jet-lubricated gears are highly prone to oil starvation. This phenomenon causes a rapid increase in contact zone temperatures, posing a significant risk of severe operational failure. Given that current research struggles to quantitatively characterize the global coupling mechanism between high-speed flow field evolution, starvation severity, and contact thermal response, this paper proposes a comprehensive thermo-hydro-mechanical coupled analytical framework encompassing the ‘oil supply conditions–starvation state–contact temperature’ chain. The study first utilizes Computational Fluid Dynamics (CFD) simulations to establish an analytical mapping model between jet parameters and the initial oil film thickness, enabling the precise quantification of starvation degrees. Subsequently, by integrating the Extended Tooth Contact (ETC) effect with Thermal Elastohydrodynamic Lubrication (TEHL) theory, a refined three-dimensional discretized thermal network model for the tooth surface is constructed. Numerical results indicate that high-speed-induced attenuation in oil supply leads to significant film thinning and a surge in friction, which exacerbates the bulk temperature rise. Furthermore, the secondary contact induced by the ETC effect generates sharp transient thermal gradients at the meshing boundaries, triggering extreme flash temperature spikes. Infrared thermography experiments confirm that the model's predictions for bulk temperature are in high agreement with measured results. Compared to the classical Blok's theory, the proposed method more accurately captures extreme temperature rise characteristics at the meshing boundaries. This work provides valuable theoretical insights for high-reliability design, anti-scuffing assessment, and the optimization of lubrication and cooling systems for power transmissions operating under extreme conditions.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111323",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111323",
+    "cited_by_count": 0,
+    "keywords": [
+      "Lubrication",
+      "Computational fluid dynamics",
+      "Thermal",
+      "Jet (fluid)",
+      "Flow (mathematics)",
+      "Surface roughness",
+      "Leading edge",
+      "Field (mathematics)",
+      "Work (physics)",
+      "Lubrication theory"
+    ],
+    "authors": [
+      "Desheng Zou",
+      "Peng Dong",
+      "Junbin Lai",
+      "Xiangyang Xu",
+      "Chang Xiong",
+      "Shumiao Zuo",
+      "Liming Wang",
+      "Rong He"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213776989",
+    "title": "Selected Papers from the 15th International Conference on Computational Heat and Mass Transfer (ICCHMT2025)",
+    "abstract": "This Special Issue presents 12 papers selected from 15th International Conference on Computational Heat and Mass Transfer (ICCHMT2025).The ICCHMT conference series, which has been successfully orga...",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-09-20",
+    "url": "https://doi.org/10.1080/01457632.2026.2734682",
+    "doi": "https://doi.org/10.1080/01457632.2026.2734682",
+    "cited_by_count": 0,
+    "keywords": [
+      "Mass transfer",
+      "Heat transfer",
+      "Technology transfer",
+      "Computational fluid dynamics"
+    ],
+    "authors": [
+      "Ali Cemal Beni̇m"
+    ],
+    "category": "heat-transfer"
   }
 ]
