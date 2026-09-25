@@ -326260,5 +326260,640 @@
       "Maksatbek Anarbaev"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214078451",
+    "title": "CFD assessment of heat transfer and frictional pressure loss correlations for molten salt reactors with non-condensable gases",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-24",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115216",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115216",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Computational fluid dynamics",
+      "Molten salt",
+      "Salt (chemistry)",
+      "Heat transfer coefficient",
+      "Mixing (physics)"
+    ],
+    "authors": [
+      "Andrew Finton Buchanan",
+      "Qingqing Liu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214115207",
+    "title": "Waste classification of PWR concrete biological shield: Impact of detector-window cavities on neutron streaming",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-24",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115222",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115222",
+    "cited_by_count": 0,
+    "keywords": [
+      "Radioactive waste",
+      "Neutron",
+      "Streaming current",
+      "Materials testing",
+      "High-level waste"
+    ],
+    "authors": [
+      "Ryoma Nishiyama",
+      "Naoko Watanabe",
+      "Kenichi Tanaka",
+      "Tamotsu Kozaki"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214090693",
+    "title": "An advanced solution for nuclear safety I&C software: Deep integration of model-driven development and formal methods",
+    "abstract": "Instrumentation and control (I&C) systems constitute the central nervous system of a nuclear power plant. In digital I&C systems, software is the core carrier of functionality and may be regarded as the “cognition” of the plant. With the rapid growth in both the complexity and scale of software functions, software reliability—especially for safety-class software—has become a critical challenge. Formal methods offer a promising solution to this challenge; however, in the nuclear domain, their application remains fragmented and exploratory, lacking a systematic methodology and integrated framework. In this paper, we propose a deeply integrated framework that combines model-driven development with formal methods across the entire software lifecycle. The framework addresses, in a formal and unified manner: (1) the precision of software requirements and design specifications, (2) behavioral consistency between software design and implementation, and (3) conformance of software design to formalized requirements. The framework integrates formal requirements specification, synchronous dataflow-based design modeling, formal verification, and semantics-preserving code generation into a traceable workflow. It is implemented in the LoongMeta toolchain and evaluated using representative functions from the Hualong One (HPR1000) reactor protection system and the Linglong One (ACP100) power control system. The evaluation achieved an automatic code generation rate of 90%, 100% behavioral consistency between the design models and generated C code, and an approximately 30% improvement in overall engineering efficiency. Overall, these results show that the deep integration of model-driven development and formal methods provides a practical, traceable, and quantitatively assessable approach to quality assurance for safety-critical nuclear I&C software.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115215",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115215",
+    "cited_by_count": 0,
+    "keywords": [
+      "Formal methods",
+      "Consistency (knowledge bases)",
+      "Toolchain",
+      "Verification and validation",
+      "Software development",
+      "Software construction",
+      "Software design",
+      "Formal verification",
+      "Software system"
+    ],
+    "authors": [
+      "Rongbin Hou",
+      "Quan Ma",
+      "Mingxing Liu",
+      "Yang Zhao",
+      "Fei Yang",
+      "Nan Li",
+      "Yongtao Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214114092",
+    "title": "The fission matrix method for criticality search in Heat-Pipe Micro Reactors",
+    "abstract": "In this work the Fission Matrix (FM) method is proposed to conduct the neutronics analysis of a Heat-Pipe Micro Reactor (HPMR). The aim of this model is to support the real-time modelling of heat-pipe-based microreactor designs, which have recently gained significant industrial interest. A database of FMs is generated through different criticality calculations, each of them considering a different core configuration (temperature profile and control drums position). The database is then interpolated to generate, in principle, the results for any arbitrary core layout. In this study the accuracy decrease of the FM method in the presence of a temperature difference between the core and the reflector is highlighted and addressed. The accuracy of the method is assessed through comparison with reference Serpent 2 simulations. Different core temperature profiles and control drum positions are tested. Finally, leveraging the computational efficiency and high accuracy of the FM, a criticality search algorithm is developed. Overall, the results show very good agreement with the corresponding Serpent 2 reference cases, while requiring only a very short computational time.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112847",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112847",
+    "cited_by_count": 0,
+    "keywords": [
+      "Criticality",
+      "Control rod",
+      "Neutron transport",
+      "Fission",
+      "Container (type theory)",
+      "Matrix (chemical analysis)",
+      "Work (physics)"
+    ],
+    "authors": [
+      "Christian Vita",
+      "Nicoló Abrate",
+      "Valerio Mascolino",
+      "William Walters",
+      "Nicolas Stauff",
+      "Fausto Franceschini",
+      "Sandra Dulla"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214086603",
+    "title": "Assessment of a twisted double-tube latent heat storage system from the perspectives of the first and second laws of thermodynamics throughout the melting and solidification processes",
+    "abstract": "The current study numerically investigates the impact of twist angle on the performance of a twisted double-tube latent heat storage (LHS) system, evaluating first- and second-law efficiencies during melting and solidification. Water serves as the heat transfer fluid (HTF) circulating within the inner tube, while the phase change material (PCM) RT35 is situated in the annular space. Performance is evaluated by examining the PCM temperature, liquid fraction, and the rates of thermal and frictional entropy generation over time. The findings indicate that lower twist angles result in reduced melting and solidification durations. A notable exception is the 360° case during melting, which achieves the shortest melting time among all configurations due to the dominance of vortex-enhanced convective heat transfer over the minor stagnation-zone penalty at this twist angle. Frictional entropy generation is consistently negligible compared to thermal entropy generation. Thermal entropy generation exhibits an increasing-then-decreasing trend during solidification, with peak values of 7.8 W/m 3 /K and 1.8 W/m 3 /K recorded during solidification and melting, respectively. At higher twist angles, both phase-change durations are extended.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106620",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106620",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Twist",
+      "Thermal",
+      "Entropy (arrow of time)",
+      "Convection",
+      "Thermal energy storage",
+      "Latent heat"
+    ],
+    "authors": [
+      "A Aissa",
+      "Ali Alkhafaji",
+      "Dheyaa J. Jasim",
+      "Narinderjit Singh Sawaran Singh",
+      "Sorour Alotaibi",
+      "Mahmut Taner",
+      "Shaghayegh Baghaei",
+      "Soheil Salahshour"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214101292",
+    "title": "Molten salt reactors: Design concepts, global development status, and technical challenges",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106592",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106592",
+    "cited_by_count": 0,
+    "keywords": [
+      "Molten salt",
+      "Salt (chemistry)",
+      "Global change",
+      "Technology development",
+      "Global warming"
+    ],
+    "authors": [
+      "Seda Yilmaz",
+      "Shripad T. Revankar"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214077021",
+    "title": "Development of the Semi-Empirical Nuclear Warhead Stockpile Model (WSM)",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295639.2026.2724797",
+    "doi": "https://doi.org/10.1080/00295639.2026.2724797",
+    "cited_by_count": 0,
+    "keywords": [
+      "Stockpile",
+      "Warhead",
+      "Nuclear weapon",
+      "Mathematical model",
+      "Enriched uranium"
+    ],
+    "authors": [
+      "Taeyeong An",
+      "Seung Min Woo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214123977",
+    "title": "Subcritical Pulsed-Neutron Experiments of a Mockup Spent Fuel Pool",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295639.2026.2728835",
+    "doi": "https://doi.org/10.1080/00295639.2026.2728835",
+    "cited_by_count": 0,
+    "keywords": [
+      "Mockup",
+      "Spent nuclear fuel",
+      "Spent fuel pool",
+      "Burnup",
+      "Nuclear reactor core",
+      "Fission products",
+      "Neutron flux",
+      "Nuclear reactor"
+    ],
+    "authors": [
+      "Daniel Siefman",
+      "Adam Ney",
+      "A P Ingegno",
+      "Michael Elo",
+      "David Considine",
+      "Michael Zerkle",
+      "William Zywiec"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214127226",
+    "title": "Study on the Phase Transition and Thermodynamic Characteristics of Hydrogen Absorption in Yttrium Metal",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295639.2026.2728443",
+    "doi": "https://doi.org/10.1080/00295639.2026.2728443",
+    "cited_by_count": 0,
+    "keywords": [
+      "Yttrium",
+      "Hydrogen",
+      "Metal",
+      "Transition metal",
+      "Phase (matter)",
+      "Phase transition"
+    ],
+    "authors": [
+      "Zhihui Wang",
+      "Zhaohui Ma",
+      "Lijun Wang",
+      "Jin Liu",
+      "Ke Ni",
+      "Zhao Shouzhi",
+      "Xiaoming Yuan",
+      "Guoqing Yan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214084282",
+    "title": "Digital Twin–Driven Nuclear Power Plant Health Monitoring, Diagnostics, and Prognostics",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295450.2026.2727776",
+    "doi": "https://doi.org/10.1080/00295450.2026.2727776",
+    "cited_by_count": 0,
+    "keywords": [
+      "Prognostics",
+      "Nuclear power plant",
+      "Nuclear power",
+      "Nuclear plant",
+      "Power station"
+    ],
+    "authors": [
+      "Deepak Haste",
+      "Sudipto Ghoshal",
+      "Christopher Norton",
+      "Jamie Coble",
+      "Vivek Agarwal"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214092650",
+    "title": "Proposition of New Structures to the “Don’t Know” Classification Applied to the Problem of Diagnostic of Abnormal Situations in Nuclear Power Plants",
+    "abstract": "Machine learning, a field that has grown in the past years, includes applications in the Nuclear Engineering domain. The problem of diagnostic of abnormal situations (PDAS) can be seen as an application of the separation problem of machine learning to help operators understand the signals in the control room in nuclear power plants. To avoid returning wrong responses that could worsen the judgment of the operator, a methodology called “Don’t know” has been developed and applied to the PDAS problem. This article introduces new geometrical structures with the objective of upgrading the Don’t know model proposed in the literature, improving its accuracy, precision, recall, and specificity using a new proposition of algorithm H-QEA, based on the quantum-inspired evolutionary algorithm, to optimize the classification of events.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295450.2026.2724787",
+    "doi": "https://doi.org/10.1080/00295450.2026.2724787",
+    "cited_by_count": 0,
+    "keywords": [
+      "Proposition",
+      "Nuclear power",
+      "Field (mathematics)",
+      "Control (management)",
+      "Nuclear power plant",
+      "Power (physics)"
+    ],
+    "authors": [
+      "João Pedro Perin Nunes",
+      "Andressa dos Santos Nicolau"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214097515",
+    "title": "Updates to Dynamic Functions in the GAMMA-PC Methodology for Dry Storage Loading Optimization",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1080/00295450.2026.2716592",
+    "doi": "https://doi.org/10.1080/00295450.2026.2716592",
+    "cited_by_count": 0,
+    "keywords": [
+      "Minification",
+      "Dynamic programming",
+      "Work (physics)",
+      "Control theory (sociology)"
+    ],
+    "authors": [
+      "Kristina Yancey Spencer",
+      "Peter Stefanovic"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214101192",
+    "title": "Automating real-time recovery from radiation-induced errors with byte-sized corrections",
+    "abstract": "Radiation-induced errors in high-energy physics detectors threaten data integrity and uptime, posing significant challenges for reliable operation during the future high-luminosity LHC runs. With over 150,000 ASICs to be deployed in the CMS HGCAL front-end, even a very low per-chip error probability results in a non-negligible failure rate. This work presents a firmware-based, byte-level autorecovery mechanism for the CMS HGCAL Phase-2 front-end electronics, capable of detecting transient upset-related errors and restoring chip operation in real time without requiring a full system reset, ensuring data acquisition continues uninterrupted. The system, implemented in FPGA logic and validated using front-end emulation, executes recovery actions within 4.7 µs, corresponding to the measured interval from the data acquisition signal to packet arrival. Overall, the hardware approach is measured to recover approximately 73.5 ms faster than software-based intervention. The results demonstrate robust, autonomous operation in radiation-prone environments while preserving continuous data acquisition.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.net.2026.104716",
+    "doi": "https://doi.org/10.1016/j.net.2026.104716",
+    "cited_by_count": 0,
+    "keywords": [
+      "Field-programmable gate array",
+      "Data acquisition",
+      "Transient (computer programming)",
+      "Error detection and correction",
+      "Detector",
+      "SIGNAL (programming language)",
+      "Network packet",
+      "Chip"
+    ],
+    "authors": [
+      "A. Şarkışla",
+      "Rauf Ozan Akpinar",
+      "Berkay Yazici",
+      "B. Akgün"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214114459",
+    "title": "Shape optimization and experimental validation of a finless air-to-fluid heat exchanger",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129547",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129547",
+    "cited_by_count": 0,
+    "keywords": [
+      "Shape optimization",
+      "Heat exchanger",
+      "Work (physics)",
+      "Dynamic scraped surface heat exchanger",
+      "Shape factor"
+    ],
+    "authors": [
+      "Ellery Klein",
+      "Vikrant Aute",
+      "Yunho Hwang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213978396",
+    "title": "Reduced-order thermo-mechanical modeling of 2.5D package high-bandwidth memory based on fractal mapping and equivalent parameter optimization method",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-22",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129593",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129593",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fractal",
+      "Optimization problem",
+      "Optimization algorithm",
+      "R package"
+    ],
+    "authors": [
+      "Yanbo Du",
+      "Chenpeng Liu",
+      "Wei Du",
+      "Daili Feng",
+      "Yanhui Feng",
+      "Lin Qiu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213980560",
+    "title": "Investigation of the coupling mechanism and loss characteristics of nonequilibrium condensation and shock waves in the last stage of a steam turbine under variable backpressure conditions",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-22",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129600",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129600",
+    "cited_by_count": 0,
+    "keywords": [
+      "Shock wave",
+      "Coupling (piping)",
+      "Turbine",
+      "Condensation",
+      "Stage (stratigraphy)",
+      "Non-equilibrium thermodynamics",
+      "Shock (circulatory)"
+    ],
+    "authors": [
+      "Xu Han",
+      "Kairui Zhang",
+      "Shihao Zhang",
+      "Xi Wang",
+      "Zhonghe Han"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214075695",
+    "title": "Melting heat transfer behavior in side-heated enclosures: a regime-based review",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133264",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133264",
+    "cited_by_count": 0,
+    "keywords": [
+      "Heat transfer",
+      "Heat transfer coefficient",
+      "Melting temperature",
+      "Heat transfer fluid"
+    ],
+    "authors": [
+      "Maité Goderis",
+      "Julie Van Zele",
+      "Kenny Couvreur",
+      "Wim Beyne",
+      "Michel De Paepe"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214089674",
+    "title": "Coupled effects of surface structuring and capillary-length-scale confinement on pool boiling heat transfer and critical heat flux of HFE-7100",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133219",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133219",
+    "cited_by_count": 0,
+    "keywords": [
+      "Critical heat flux",
+      "Heat transfer",
+      "Structuring",
+      "Boiling heat transfer",
+      "Nucleate boiling",
+      "Heat flux",
+      "Boiling"
+    ],
+    "authors": [
+      "Er Shi",
+      "Xinxiang Zhong",
+      "Yucheng Li",
+      "Qi Peng",
+      "Changwei Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214103054",
+    "title": "Performance mapping of carbon-based nanofluids in a wickless thermosyphon: Effects of filling ratio and inclination angle",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133303",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133303",
+    "cited_by_count": 0,
+    "keywords": [
+      "Nanofluid",
+      "Inclination angle",
+      "Aspect ratio (aeronautics)",
+      "Computational fluid dynamics"
+    ],
+    "authors": [
+      "Sung Joo Hong",
+      "Syf. Uddin",
+      "Su  Heon Ha",
+      "Chan Woo Park"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214106809",
+    "title": "A machine learning study of oscillating heat pipes: From flow visualization to dimensionless correlations",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133207",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133207",
+    "cited_by_count": 0,
+    "keywords": [
+      "Dimensionless quantity",
+      "Visualization",
+      "Flow (mathematics)",
+      "Flow visualization",
+      "Heat flow"
+    ],
+    "authors": [
+      "Maheswar Chaudhary",
+      "Ashok Thapa",
+      "Shalabh C. Maroo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214111848",
+    "title": "Bimodal Al2O3/EVA thermal interface layer enables all-day thermoelectric generation with a solvent-reprocessable porous polymer radiative cooler",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.132856",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.132856",
+    "cited_by_count": 0,
+    "keywords": [
+      "Thermal",
+      "Layer (electronics)",
+      "Thermoelectric effect",
+      "Thermoelectric cooling",
+      "Thermoelectric generator",
+      "Interface (matter)",
+      "Porosity",
+      "Thermal radiation",
+      "Radiative cooling"
+    ],
+    "authors": [
+      "Lijing Yi",
+      "Pengfei Qiao",
+      "Dongyang Xu",
+      "Jie Gao",
+      "Lei Miao",
+      "Mu Du"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214118631",
+    "title": "Long-term assessment of the Dynamic Integrated Method for building characterisation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133051",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133051",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "L. Yélamos",
+      "B. Porcar",
+      "M.N. Sánchez",
+      "M. J. Jiménez"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214119525",
+    "title": "Heat transfer characteristics and fin thickness optimization of an air–water composite heat-source finned evaporator under frost-free operation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133377",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133377",
+    "cited_by_count": 0,
+    "keywords": [
+      "Fin",
+      "Evaporator",
+      "Composite number",
+      "Heat transfer",
+      "Heat transfer coefficient"
+    ],
+    "authors": [
+      "Fajin Xu",
+      "Jibo Long",
+      "Chuanming Li",
+      "Minghao Ren",
+      "Qiuyu Long",
+      "Xiaohang Shen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214127764",
+    "title": "Experimental and numerical investigation of gravity-driven passive spray flash applied to combined heat and water systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133370",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133370",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flash (photography)",
+      "Computer simulation",
+      "Heat transfer",
+      "Thermal",
+      "Water cooling"
+    ],
+    "authors": [
+      "Haoran Huang",
+      "Weixing Yuan",
+      "Bo Yang",
+      "Xiling Zhao",
+      "Shigang Zhang",
+      "Lin Fu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7213997631",
+    "title": "Experimental study on the effusion cooling characteristics under a hydrogen-enriched methane Micro-mixing diffusion flame",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-22",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133096",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133096",
+    "cited_by_count": 0,
+    "keywords": [
+      "Methane",
+      "Diffusion",
+      "Effusion",
+      "Global-warming potential",
+      "Diffusion flame"
+    ],
+    "authors": [
+      "X.S. Lu",
+      "Yuhan Yan",
+      "Ting Shi",
+      "Yixuan Yang",
+      "Rui Huang",
+      "Yunlai Xiao",
+      "Bing Ge"
+    ],
+    "category": "heat-transfer"
   }
 ]
