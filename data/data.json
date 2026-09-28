@@ -328984,43 +328984,1196 @@
         "JunHeng Fu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7150967597",
+      "title": "A numerical method for coupling parameterized physics-informed neural networks and FDM for advanced thermal-hydraulic system simulation",
+      "abstract": "Severe accident analysis with system codes such as MELCOR is indispensable for nuclear safety assessment, yet the cost of repeated simulations constrains parametric studies and uncertainty quantification. Data-driven surrogates accelerate these analyses but require large simulation datasets, whereas physics-informed neural networks (PINNs) require no training data yet must be retrained for every parameter change and lose accuracy over long horizons. This study addresses both limitations with the P2F method — Parameterized PINNs coupled with the finite difference method (FDM) — for MELCOR’s Control Volume Hydrodynamics/Flow Path (CVH/FL) module. A parameterized Node-Assigned PINN (NA-PINN) takes the water-level difference, initial velocity, and time as inputs, learning a solution manifold so that a single trained network serves as a data-free surrogate for the momentum equation at all flow paths. The parameterized NA-PINN is coupled with an FDM solver that advances the mass conservation equation at each time step, conserving mass exactly in the discrete sense while replacing the iterative nonlinear momentum solution with a single forward pass. Because the network is evaluated only within one time step and re-anchored to the FDM-updated state, the long-horizon training limitation is avoided. For a six-tank gravity-driven draining scenario, the water-level mean absolute error was 9 . 3 2 × 1 ⁢ 0 − 5 m and the velocity error 3 . 0 8 × 1 ⁢ 0 − 3 m/s at 𝛥 ⁢ 𝑡 = 1 . 0 s. This accuracy holds for time steps from 0.2 to 1.0 s and five initial conditions without retraining or data. To the best of the authors’ knowledge, this is the first data-free parameterized PINN coupled with an FDM solver for thermal-hydraulic system-code modeling.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115225",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115225",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bottleneck",
+        "Parameterized complexity",
+        "Artificial neural network",
+        "Solver",
+        "Parametric statistics",
+        "Nonlinear system",
+        "Coupling (piping)",
+        "Finite volume method",
+        "Momentum (technical analysis)"
+      ],
+      "authors": [
+        "Jeesuk Shin",
+        "Donggyun Seo",
+        "Sihyeong Yu",
+        "Joongoo Jeon"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214441362",
+      "title": "Experimental investigation of surface inclination effects on ablation of a solid impacted by a hot liquid jet",
+      "abstract": "In sodium-cooled fast reactors (SFRs), the potential consequences of a severe accident with core meltdown are now considered during the reactor design phase. Such events lead to the formation of a corium , a radioactive mixture of molten nuclear fuel and structural materials. Two protective devices can be implemented in advanced SFR designs: discharge tubes, used to transfer the corium to the lower part of the reactor vessel to prevent recriticality, and a core catcher, designed to receive the corium to facilitate its long-term cooling. However, with such new mitigation designs, the corium may impinge on the core catcher as a high-temperature liquid jet ( ∼ 3000 K ), which can lead to localized thermal ablation of the core catcher. Some design proposals for the core catcher include angled baffles intended to dissipate the jet’s kinetic energy. The ablation of such inclined surfaces must be understood to ensure the structural integrity of the core catcher during the corium relocation phase. The present study investigates the influence of surface inclination on the ablation dynamics induced by a hot free-surface liquid jet impinging on an inclined solid target. Experiments were conducted using the HAnSoLO facility, in which water and ice serve as simulant materials, with a water jet impinging on a transparent ice block. The experimental conditions cover Reynolds numbers from 3.7 × 1 0 4 to 1.47 × 1 0 5 , Prandtl numbers from 2.5 to 5.4, and surface inclination angles from 0° to 45°. Results show that surface inclination strongly affects the filling of the cavity as well as the flow circulation before the pool regime. A new intermediate regime, absent for horizontal impacts, was identified. The results show that surface inclination is not necessarily beneficial in terms of ablation reduction and that, at the highest Reynolds numbers investigated, inclination can lead to an increase in the ablation velocity. These findings provide a first experimental basis for understanding the influence of surface inclination on jet-induced ablation and for guiding further investigations toward reactor-relevant conditions. Their extension to corium conditions will require a progressive validation approach combining numerical simulations and prototypical experiments.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115214",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115214",
+      "cited_by_count": 1,
+      "keywords": [
+        "Corium",
+        "Jet (fluid)",
+        "Reactor pressure vessel",
+        "Reynolds number",
+        "Core (optical fiber)",
+        "Nuclear reactor core",
+        "Nuclear reactor",
+        "Thermal",
+        "Ablation"
+      ],
+      "authors": [
+        "Asma Djermoune",
+        "Alexandre Lecoanet",
+        "Nathalie Marie",
+        "Nicolas Rimbert",
+        "Michel Gradeck"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214447183",
+      "title": "Identification and ranking on thermal hydraulic phenomena in integrated SMR during station blackout",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115232",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115232",
+      "cited_by_count": 0,
+      "keywords": [
+        "Blackout",
+        "Ranking (information retrieval)",
+        "Identification (biology)",
+        "Thermal hydraulics"
+      ],
+      "authors": [
+        "YuSheng Liu",
+        "Chao Xu",
+        "XiaoJun Qiu",
+        "Lehan Sun",
+        "JianPing Jing",
+        "SiChao Tan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214495003",
+      "title": "Numerical investigation of ex-vessel sodium ejection under energetic CDA in a pool-type SFR",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115220",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115220",
+      "cited_by_count": 0,
+      "keywords": [
+        "Sodium",
+        "Sodium-cooled fast reactor",
+        "Global-warming potential",
+        "Materials testing"
+      ],
+      "authors": [
+        "B. Thilak",
+        "P. Mangarjuna Rao"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7167622214",
+      "title": "A deep learning-based surrogate model for Severe Accidents in nuclear reactors using ASTEC",
+      "abstract": "Integral codes like the Accident Source Term Evaluation Code (ASTEC) are powerful tools to study the physics of Severe Accidents (SAs) in nuclear reactors. Real time SA simulators can also be helpful in training operators of nuclear plants to react correctly to malfunctions. However, SA simulators can take up to several days per simulation, making their use infeasible for real time applications. In this work we show how to speed up a SA simulator with a fast, Deep Learning based (DL), surrogate model (SM). The SM is built as a combination of a dimensionality reduction stage, via an AutoEncoder, and a time-stepping stage, via a Neural Ordinary Differential Equation. The data on which the SM is trained are obtained from the ASTEC simulator, by sampling a set of operator actions for station blackout (SBO) and loss-of-coolant accidents (LOCA). The objective of the developed SM is to approximate multiple spatio-temporal fields for the thermal-hydraulic physics, core degradation, and fission product release modules in ASTEC's vessel domain. The SM predicts simultaneously around $80$ different physical variables (both scalar and fields), maintaining a stable autoregressive rollout up to $50$ thousand time steps. In addition, the AutoEncoder achieves a dimensionality reduction by a factor of over $300$, which allows the SM to predict up to $40$ hours of simulation in under a minute, both on CPU and GPU. This work is the first study of the capabilities and limits of DL based surrogate modeling in approximating the challenging, highly non-linear physics of ASTEC.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112854",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112854",
+      "cited_by_count": 0,
+      "keywords": [
+        "Autoencoder",
+        "Scram",
+        "Nuclear fission product",
+        "Blackout",
+        "Extrapolation",
+        "Curse of dimensionality",
+        "Artificial neural network",
+        "Dimensionality reduction",
+        "Surrogate model"
+      ],
+      "authors": [
+        "Alessandro Longhi",
+        "Danny Lathouwers",
+        "Zoltán Perkó"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214465004",
+      "title": "Development of a CPU/GPU heterogeneous code for dynamic gamma dose field calculation in nuclear decommissioning operations",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112874",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112874",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nuclear decommissioning",
+        "Code (set theory)",
+        "Field (mathematics)",
+        "Development (topology)",
+        "Nuclear reactor"
+      ],
+      "authors": [
+        "Jifeng Hu",
+        "Yongkuo Liu",
+        "Zhitao Chen",
+        "Nan Chao",
+        "Xiaochang Zheng",
+        "Zhongkun Liu",
+        "Pengshuai Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214473402",
+      "title": "Stochastic uncertainty quantification and model validation for burnup calculations in heat pipe-cooled reactors",
+      "abstract": "Burnup calculations play a critical role in predicting the neutronic behavior and fuel evolution of nuclear reactors over their operating cycle. However, uncertainties in nuclear data propagated through these calculations can lead to significant deviations in key reactor responses. This challenge is particularly acute for long-lifetime non-refuelable systems, such as heat pipe-cooled reactors (HPRs), where accumulated uncertainties cannot be mitigated via fuel management strategies. Such uncertainties are typically addressed with conservative treatments, which reduce confidence in model predictions and introduce excessive safety margins. In this study, a stochastic uncertainty quantification framework is developed to investigate the propagation of nuclear data uncertainties in HPR burnup calculations. Uncertainty propagation is executed through Monte Carlo-based stochastic depletion simulations. To constrain predictive uncertainty, a model validation approach based on a Copula dependence model is introduced, leveraging measurable isotopic concentrations. Results indicate that the uncertainty in k eff increases progressively along the burnup chain due to cumulative effects. Specifically, fissile isotopes such as U-235 exhibit rising uncertainties with burnup, while plutonium isotopes show distinct neutron capture production mechanisms. Furthermore, power distribution analysis reveals elevated uncertainty levels near the core boundary, attributed to neutron leakage. Incorporation of isotopic concentration constraints reduces the uncertainty in k eff by approximately 30%, offering a robust pathway to reduce unnecessary design margins.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112863",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112863",
+      "cited_by_count": 0,
+      "keywords": [
+        "Burnup",
+        "Fissile material",
+        "Uncertainty quantification",
+        "Uncertainty analysis",
+        "Propagation of uncertainty",
+        "Monte Carlo method",
+        "Decay heat",
+        "Neutron transport",
+        "Plutonium"
+      ],
+      "authors": [
+        "Jianshu Qiao",
+        "Dongli Huang",
+        "Tao Zhou",
+        "Yonghui Fu",
+        "Jun Wu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214475635",
+      "title": "SKCSP-YOLOv5: a multi-scale feature enhancement network with attention for bubble detection in gas–liquid two-phase flow",
+      "abstract": "Accurate bubble detection in rod bundle two-phase flow is essential for nuclear reactor safety, underpinning void fraction estimation and thermal–hydraulic model validation, yet existing YOLO-based detectors struggle to jointly resolve small, densely packed, and deformable bubbles. This paper proposes SKCSP-YOLOv5, which integrates Selective Kernel Cross-Stage-Partial (SKCSP) blocks, a Convolutional Block Attention Module (CBAM), and an additional P6/64 detection head that provides a coarse-scale prediction level for the largest individual bubbles, while retaining the same single-bubble detection target across all four detection heads. Across five independent training seeds, SKCSP-YOLOv5 achieves a mean recall of 86.5% and mAP@0.5 of 91.0%, significantly outperforming parameter-matched YOLOv5m, YOLOv8m, and YOLOv12m baselines (19.6–25.9 M parameters; p < 0.001, Cohen’s d > 6) while requiring 25.4 GFLOPs, roughly a third to a half the computational cost of these baselines. Performance is further characterized by bubble size, local density, and occlusion level, together with counting and sizing error, to assess suitability for quantitative bubble characterization beyond aggregate detection accuracy. These results establish SKCSP-YOLOv5 as an accurate, computationally efficient, and statistically validated foundation for automated bubble characterization in nuclear reactor subchannel flows.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112837",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112837",
+      "cited_by_count": 0,
+      "keywords": [
+        "Bubble",
+        "Bundle",
+        "Detector",
+        "Sizing",
+        "Kernel (algebra)",
+        "Flow (mathematics)",
+        "Fraction (chemistry)",
+        "Block (permutation group theory)"
+      ],
+      "authors": [
+        "Asim Ullah Muhammad",
+        "Shen Jihong",
+        "Wang Shujuan",
+        "Qiao Shouxu",
+        "Awais Khan",
+        "Yaqoob Raffay"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214499148",
+      "title": "Noise-aware adaptive accelerated Picard coupling for stochastic OpenMC–OpenFOAM reactor multiphysics",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112858",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112858",
+      "cited_by_count": 0,
+      "keywords": [
+        "Multiphysics",
+        "Coupling (piping)",
+        "Work (physics)",
+        "Control theory (sociology)",
+        "Formalism (music)"
+      ],
+      "authors": [
+        "Han Yang",
+        "Ruixin Yang",
+        "Zhengkai Wang",
+        "Bingxin Ma",
+        "Jun Qin"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214438647",
+      "title": "Nonlinear behavior of GTR for PWR fuel rods: Theoretical modeling, surrogate-based approach, and experimental comparison",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106612",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106612",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nonlinear system",
+        "Pressurized water reactor",
+        "Mathematical model",
+        "Nonlinear model",
+        "Work (physics)"
+      ],
+      "authors": [
+        "Jinming Li",
+        "Peng Li",
+        "Heng Huang",
+        "Guoyan Huang",
+        "Shuo Ma"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214423625",
+      "title": "Thermal study of air conditioning systems for temporary spent nuclear fuel dry storage facilities",
+      "abstract": "Dry storage is a key technology of spent nuclear fuel (SNF) management. However, no previous studies have examined the application of air-conditioning (AC) systems to indoor dry storage facilities. This study investigates the cooling strategies to reduce temperatures in an indoor temporary SNF dry storage facility during the decommissioning stage of the Chinshan Nuclear Power Plant in Taiwan. A three-dimensional steady-state CFD model was developed in ANSYS Fluent to analyze the indoor temperature field, airflow characteristics, and heat removal performance. The effects of passive natural convection and active AC systems were investigated. The results show that the passive ventilation design provides only limited heat-removal capability because the indoor airflow is mainly governed by buoyancy-driven natural convection and is considerably constrained by the cask arrangement. Adjusting the number or size of windows can slightly modify the local airflow path, but overall cooling improvement remains limited. Meanwhile, an AC system effectively enhances air exchange and reduces indoor heat accumulation. The results show that installing two AC units is sufficient to reduce temperatures to below 33°C at a height of 2 m. This study provides practical design guidance to improve the thermal safety and working environment in indoor SNF dry storage facilities.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104743",
+      "doi": "https://doi.org/10.1016/j.net.2026.104743",
+      "cited_by_count": 0,
+      "keywords": [
+        "Airflow",
+        "Spent nuclear fuel",
+        "Decay heat",
+        "Nuclear decommissioning",
+        "Spent fuel pool",
+        "Passive cooling",
+        "Thermal energy storage",
+        "Ventilation (architecture)",
+        "Nuclear power"
+      ],
+      "authors": [
+        "Wen-Yu Wang",
+        "Bo-Shuan You",
+        "Ming-You Weng"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214503603",
+      "title": "Physical design and performance optimization of high-granularity detector arrays for the first μSR spectrometer at CSNS",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-09-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104733",
+      "doi": "https://doi.org/10.1016/j.net.2026.104733",
+      "cited_by_count": 0,
+      "keywords": [
+        "Detector",
+        "Spectrometer",
+        "Physical design",
+        "Design of experiments",
+        "Design methods"
+      ],
+      "authors": [
+        "Tianyi Yang",
+        "Ziwen Pan",
+        "Qi Yuan",
+        "Qiang Li",
+        "Yu Bao",
+        "Hao Liang",
+        "Bangjiao Ye"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214451466",
+      "title": "Modulation of ionic current rectification in funnel-shaped nanopores",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129607",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129607",
+      "cited_by_count": 0,
+      "keywords": [
+        "Rectification",
+        "Nanopore",
+        "Modulation (music)",
+        "Ionic bonding",
+        "Current (fluid)",
+        "Optical rectification"
+      ],
+      "authors": [
+        "Zeyao Lu",
+        "Zekun Gong",
+        "Yinghua Qiu",
+        "Lin Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214463705",
+      "title": "Surfactant-assisted pool boiling on patterned thin-film heating surfaces",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129647",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129647",
+      "cited_by_count": 0,
+      "keywords": [
+        "Boiling",
+        "Heat transfer",
+        "Boiling heat transfer",
+        "Leidenfrost effect",
+        "Surface (topology)"
+      ],
+      "authors": [
+        "Shaokun Jia",
+        "Qi Hong",
+        "Xianpeng Li",
+        "Yanwei Hu",
+        "Yurong He"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214478148",
+      "title": "Numerical investigation of natural convection and thermal uniformity in a rectangular cavity with lattice structures on the hot wall",
+      "abstract": "Efficient thermal management in passive natural convection systems requires enhanced heat transfer and improved thermal uniformity to suppress localized heat accumulation. However, the limitations of natural convection associated with buoyancy-driven hot plumes remain insufficiently addressed. In this study, natural convection in a rectangular cavity with lattice structures installed on the hot wall is investigated to achieve simultaneous mitigation of localized hot spots and overall thermal enhancement. Four lattice topologies — simple cubic (SC), Diamond, body-centered cubic (BCC), and face-centered cubic (FCC) — are examined over porosity and Rayleigh number ranges of ϕ = 0.5 –0.9 and R a = 1 0 4 –10 7 . In the low- R a regime ( R a = 1 0 4 –10 5 ), the equal-weight total performance ψ relative to the bare cubic cavity is governed mainly by flow resistance, yielding a consistent ranking of SC > Diamond > BCC > FCC, with the SC lattice showing up to 10.94% higher performance than the FCC lattice. As R a increases, the performance of the BCC and FCC lattices becomes increasingly sensitive to porosity, leading to a fully reversed ranking at R a = 1 0 7 and ϕ = 0.9 , where the FCC lattice outperforms the SC lattice by up to 8.30%. The ranking reversal is attributed primarily to topology-induced flow modification rather than differences in total heat input. These findings provide practical design guidelines for selecting lattice topologies for passive natural convection systems operating under different Rayleigh number and porosity conditions.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129520",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129520",
+      "cited_by_count": 0,
+      "keywords": [
+        "Natural convection",
+        "Thermal",
+        "Heat transfer",
+        "Rayleigh number",
+        "Lattice (music)",
+        "Convection",
+        "Porosity",
+        "Lattice Boltzmann methods"
+      ],
+      "authors": [
+        "Seungjin Lee",
+        "Dikshant Sharma",
+        "Akilan Mathiazhagan",
+        "Majid Asli",
+        "June Kee Min"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214490238",
+      "title": "Analysis of conjugate heat transfer in a vented process chamber for thin-film deposition in semiconductor fabrication",
+      "abstract": "Conjugate heat transfer in vented deposition chambers is a complex transport phenomenon involving strong coupling among forced convection, natural convection, and heat conduction through solid components. In this work, we investigate this behavior in a vented process chamber designed for thin-film deposition applications in semiconductor manufacturing. The model is motivated by laser chemical vapor deposition systems, where silane ( S i H 4 ) enters the chamber through a top inlet and the exhaust stream exits from a lower-right outlet. A silicon substrate is embedded within the chamber, and the laser heating process is represented by a prescribed heated wall, whereas all other walls are kept at ambient temperature. Assuming constant thermophysical properties and two-dimensional steady-state incompressible flow with no radiation effects, the governing incompressible Navier–Stokes equations and the energy equation are discretized using the Galerkin finite element method. The study systematically evaluates the effects of substrate length-to-width ratio, Reynolds number, Richardson number, and volumetric heat generation in the substrate. The results show that the substrate aspect ratio is a key design parameter that modifies the recirculation pattern and governs the heat-transfer distribution. Among the considered configurations, substrates with comparable length and width yield superior thermal performance. The heat-transfer rate reaches its maximum near R i = 1 , highlighting the beneficial balance between inertia-driven and buoyancy-driven transport. To extend the applicability of the numerical results, a Genetic Algorithm-based predictive model is introduced to establish a correlation for heat-transfer estimation in the investigated vented chamber configuration.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129605",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129605",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat transfer",
+        "Thermal conduction",
+        "Deposition (geology)",
+        "Substrate (aquarium)",
+        "Heat transfer coefficient",
+        "Reynolds number",
+        "Heat sink",
+        "Galerkin method",
+        "Combustor",
+        "Combustion chamber"
+      ],
+      "authors": [
+        "Md Tanbirul Islam Rupam",
+        "Md Shahneoug Shuvo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214490414",
+      "title": "Thin film boiling heat transfer performance on a bionic canal system foam metal wick inspired by the Callyspongia plicifera",
+      "abstract": "Thin film boiling is widely recognized as an effective strategy for thermal management of high-power density devices. In this work, a bionic canal system foam metal wick (BCFW), inspired by the canal system of Callyspongia plicifera , is presented. This aluminum based and, cost- effective porous composite structure is fabricated via a concise three- step process combining vacuum diffusion bonding, laser etching, and anodization. The BCFW enhances liquid replenishment and capillary pressure during phase-change heat transfer. Visualized thin-film boiling experiments under antigravity conditions confirm its high efficiency and reliability. A critical heat flux (CHF) as high as 331.52 W/cm² was achieved by the G0.5-W0.5 specimen, while a maximum heat transfer coefficient (HTCmax) of 113.15 kW/(m²·K) was attained by the G0.25-W0.5 specimen at a heat flux of 288.69 W/cm². Analysis of capillary transport and vapor–liquid dynamics reveals that the unique canal system structure establishes unidirectional hydrodynamic pathways, enabling the coexistence of sustained capillary liquid supply and favorable thin-film boiling. Optimal CHF arises from smaller, denser grooves (G0.5-W0.5), which provide abundant nucleation sites while preserving a continuous pore network. The highest HTCmax corresponds to a groove-to-wall width ratio of 1:2 (G0.25-W0.5), which more effectively triggers thin-film boiling. Further, this technological pathway offers an ideal core component for realizing two phase thermal management solutions that are highly efficient, reliable, cost effective, and environmentally friendly in large scale applications.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129606",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129606",
+      "cited_by_count": 0,
+      "keywords": [
+        "Capillary action",
+        "Boiling",
+        "Heat transfer",
+        "Heat flux",
+        "Porosity",
+        "Nucleate boiling",
+        "Heat pipe",
+        "Porous medium",
+        "Critical heat flux"
+      ],
+      "authors": [
+        "Ping Zhang",
+        "Yunyun Xie",
+        "Ping Zhang",
+        "Yanfei Bian",
+        "Yanting Shen",
+        "Chuntao Wei",
+        "Linghan Lan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214491169",
+      "title": "Molecular dynamics of gas entrainment and gas film evolution in high-temperature copper sphere-coolant interactions",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129633",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129633",
+      "cited_by_count": 0,
+      "keywords": [
+        "Copper",
+        "Entrainment (biomusicology)",
+        "Molecular dynamics",
+        "Dynamics (music)"
+      ],
+      "authors": [
+        "Tiancai Sun",
+        "Cheng Peng",
+        "Jiang Wu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213983747",
+      "title": "Thermodynamic and kinetic studies on NaHCO3-inhibited methane deflagrations with a constant laminar burning velocity",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129601",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129601",
+      "cited_by_count": 0,
+      "keywords": [
+        "Laminar flow",
+        "Kinetic energy",
+        "Methane",
+        "Constant (computer programming)",
+        "Reaction rate constant"
+      ],
+      "authors": [
+        "Bingjie Zhang",
+        "Ligang Zheng",
+        "Jian Wang",
+        "Hailin Jia",
+        "Xiangyu Shao",
+        "Rongkun Pan",
+        "Xi Wang",
+        "Zhuangzhuang Qin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213995519",
+      "title": "Frosting and defrosting dynamics on slippery omniphobic covalently attached liquid coated microchannel heat exchangers",
+      "abstract": "Frost increases thermal resistance and air-side pressure drop, causes frequent defrosting, and thereby deteriorates overall system efficiency. Although slippery omniphobic covalently attached liquid (SOCAL) coatings have emerged as a promising lubricant-free liquid-like interface with potential anti-frosting functionality, their frosting performance on compact heat exchangers (HXs) has not yet been demonstrated. In this study, SOCAL coating was applied to both aluminum coupons and aluminum louver-fin microchannel HXs using an SL1000 intermediate layer, and its frosting/defrosting characteristics were evaluated. Slippery interface of SL1000-SOCAL coatings broadened the droplet size distribution, increased inter-droplet spacing, and significantly suppressed ice-bridge and frost propagation, resulting in a frost-free duration of ~45–60 min, which was 4–6 times longer than that of bare aluminum coupons. The SL1000-SOCAL coating showed superior corrosion resistance and coating integrity, exhibiting no significant mass loss after 14 continuous days of the sea water acetic acid test. At the HX level, the SL1000-SOCAL-coated HX delayed heat-transfer degradation and extended the useful frosting time by 25.8–60.7% across the tested operating conditions. In a separate 3 h cyclic frosting/defrosting test, the mean number of required defrost events decreased from 6.7±0.6 for the bare HX to 3.3±0.6 for the SL1000-SOCAL HX. A generalized annual heating and economic analysis projects that the SL1000-SOCAL HX could reduce annual energy consumption by 270.9 kWh (12.7%) and annual heating cost by ~$40 for a representative 1.5 kW heating load. This work demonstrates SOCAL coating as a promising strategy for improving frosting, defrosting, and corrosion characteristics of compact HXs.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129604",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129604",
+      "cited_by_count": 0,
+      "keywords": [
+        "Defrosting",
+        "Microchannel",
+        "Heat exchanger",
+        "Polymer",
+        "Thermal management of electronic devices and systems",
+        "Dynamics (music)",
+        "Seal (emblem)"
+      ],
+      "authors": [
+        "Jung Bin Yang",
+        "Siyan Yang",
+        "Donghyeon Yoo",
+        "Kaushik Chettiar",
+        "Zihao Liu",
+        "Sujan Dewanjee",
+        "Garrett Fleetwood",
+        "Omar Abdelhamid",
+        "Md Rakibul Hasan Roni",
+        "Seungyeon Lee",
+        "Cheng Zhang",
+        "Ali Riahi",
+        "Hyeonho Lee",
+        "Dong Rip Kim",
+        "Nenad Miljkovic"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214042741",
+      "title": "Spatially and temporally resolved soot radiation and temperature in laminar PMMA flames",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129542",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129542",
+      "cited_by_count": 0,
+      "keywords": [
+        "Soot",
+        "Laminar flow",
+        "Radiation",
+        "Temperature measurement",
+        "Thermal radiation"
+      ],
+      "authors": [
+        "Pablo Esteban Pinto",
+        "Mijail Littin",
+        "Ignacio Verdugo",
+        "Gonzalo Severino",
+        "Felipe Escudero",
+        "Juan J. Cruz",
+        "James L. Urban",
+        "María Thomsen",
+        "Andrés Fuentes",
+        "Rodrigo Demarco"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214425529",
+      "title": "Heat and mass transfer analysis in magneto-electroosmotic Oldroyd 8-constant fluid flow through a serpentine passage: a comparative FDM-CSCM analysis under convective and soret effects",
+      "abstract": "In this draft, an analysis is carried out for Hall currents and variable transport characteristics in an electro-osmotically driven flow inside a serpentine wavy channel. The Oldroyd 8-constant model, along with heat and mass transfer, is taken into account. Assuming a low zeta potential, the Poisson-Boltzmann equation are used to simulate the electric double layer (EDL), and it is linearized using the Debye-Hückel approximation. The flow structure is altered by the Lorentz body force introduced by the interplay between electroosmotic forces and magnetohydrodynamics (MHD). The dimensionless governing equations for momentum, heat, and species concentration are solved numerically using a finite difference method (FDM), with results rigorously validated against an independent Chebyshev spectral collocation method (CSCM). A comprehensive parametric study is conducted to assess the influence of the Helmholtz–Smoluchowski velocity, Hartmann number, Hall parameter, viscoelastic time constants, and thermo-solutal parameters, including the Brinkman, Biot, Schmidt, and Soret numbers. Our results show that near-wall flow acceleration is greatly enhanced by raising the Helmholtz–Smoluchowski velocity, but Hall currents efficiently counteract the resistive Lorentz force exerted by the magnetic field.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133380",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133380",
+      "cited_by_count": 0,
+      "keywords": [
+        "Lorentz force",
+        "Magnetohydrodynamics",
+        "Hartmann number",
+        "Flow (mathematics)",
+        "Thermophoresis",
+        "Convection",
+        "Dimensionless quantity",
+        "Joule heating",
+        "Body force",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Zeeshan Asghar",
+        "Muhammad Waris Saeed Khan",
+        "Ziyad A. Alhussain"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214428145",
+      "title": "Performance evaluation of heat and mass transfer in a finned microchannel flat-tube liquid-desiccant dehumidifier",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133395",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133395",
+      "cited_by_count": 0,
+      "keywords": [
+        "Microchannel",
+        "Mass transfer",
+        "Heat transfer",
+        "Heat transfer coefficient",
+        "Fin"
+      ],
+      "authors": [
+        "Jingyi Wu",
+        "全贞花",
+        "Chenyang Du",
+        "Wenjie Deng",
+        "Yaohua Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214445218",
+      "title": "Evolution of redox reactivity and mechanical strength of disc-granulated CaMn0.375Ti0.5Fe0.125O3-δ perovskite oxygen carriers during chemical looping combustion",
+      "abstract": "Mechanical strength decay and attrition of oxygen carriers during long-term redox cycling remain key obstacles to the industrialization of chemical looping combustion (CLC). In this work, spherical CaMn 0.375 Ti 0.5 Fe 0.125 O 3-δ perovskite oxygen carrier particles (400–800 μm) were synthesized via a scalable disc granulation method using low-cost Ca(OH) 2 , Mn 3 O 4 , TiO 2 , and Fe 3 O 4 raw materials, and their long-term cyclic performance was evaluated in a micro fluidized bed thermogravimetric analyzer (MFB-TGA). The fresh particles exhibited a mechanical strength above 35 N (∼87 MPa), far exceeding that of natural ores (0.5–6.8 N). Although the specific surface area dropped below 0.1 m 2 /g at a calcination temperature of 1350 °C, the reactivity remained essentially unaffected owing to rapid lattice‑oxygen transfer, with an oxygen transport capacity of ∼6 wt%. After 60 deep redox cycles, the crushing strength decayed sharply to 0.2–1.2 N (0.5–3 MPa) due to severe fragmentation and powdering. In contrast, after 60 controlled redox cycles (oxygen transport capacity limited to ∼2.5 wt%), the strength remained at 12–18 N (24–50 MPa), with a minimum attrition rate of ∼0.05 wt%·h −1 . Particles calcined at 1400 °C for 12 h further survived 1000 controlled redox cycles without deactivation, agglomeration, or sintering, retaining an average crushing strength of ∼14 N (∼47 MPa) — only ∼22% decay in crushing strength and ∼ 4.7% in compressive strength. Post-cycle XRD and SEM/EDS analyses confirmed a stable perovskite phase and uniform elemental distribution, demonstrating that controlling the redox depth suppresses particle fragmentation, enhances redox kinetics, and reduces attrition. These findings provide a practical route toward durable, highly active oxygen carriers for industrial CLC demonstration.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133421",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133421",
+      "cited_by_count": 0,
+      "keywords": [
+        "Chemical looping combustion",
+        "Redox",
+        "Calcination",
+        "Combustion",
+        "Reactivity (psychology)",
+        "Oxygen",
+        "Perovskite (structure)",
+        "Compressive strength"
+      ],
+      "authors": [
+        "Songming Yao",
+        "Lei Liu",
+        "Zhiqiang Sun"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214448406",
+      "title": "A dynamic adaptive multi-source aggregated transfer learning framework for individual thermal comfort prediction",
+      "abstract": "Occupants’ thermal comfort is critical for building operation and energy management. However, thermal comfort is influenced by multiple factors and changes dynamically, making accurate prediction challenging. As a result, existing methods face key challenges, including limited accuracy, inefficient generalization, and lack of dynamic adaptability. To address them, this study develops a dynamic adaptive multi-source information aggregated transfer learning framework. Specifically, a multi-source information aggregated MLPMixer model (TCMLPMixer) is developed to improve prediction accuracy under the same input modalities and a comparable model size by modeling feature interactions among diverse thermal comfort factors. In addition, a similarity-aware efficient transfer learning (TL) strategy is introduced to improve transfer efficiency under different data-availability conditions. Furthermore, a dynamic adaptive online learning procedure is developed to enable non-intrusive pseudo-label acquisition, and to support adaptive fine-tuning with different TL strategies according to data availability, thereby facilitating dynamically adaptive thermal comfort prediction. An orthogonal experimental design is employed to construct a multi-source individual thermal comfort dataset. Experimental results show that our framework consistently outperforms baselines. Specifically, under the same input modalities and a comparable model size, the pre-trained TCMLPMixer outperforms the DNN model by 7.40 percentage points, while under limited-data conditions in the target domain, it outperforms the DNN-based transfer model by 4.82 percentage points in accuracy. Moreover, it exhibits strong dynamic adaptability through progressive online updates, with target-domain accuracy increasing from 79.63% to 92.57% during long-term deployment. These results demonstrate that our framework can achieve improved prediction accuracy, enhanced generalization, and dynamic adaptability, demonstrating its potential applicability to occupant-centered intelligent building control.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133350",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133350",
+      "cited_by_count": 0,
+      "keywords": [
+        "Adaptability",
+        "Thermal comfort",
+        "Transfer of learning",
+        "Modalities",
+        "Adaptive learning",
+        "Feature (linguistics)",
+        "Key (lock)",
+        "Construct (python library)",
+        "Thermal"
+      ],
+      "authors": [
+        "Guoliang Zhao",
+        "占伯 徐",
+        "Yaping Liu",
+        "Zhaohe Lv",
+        "Jiang Wu",
+        "Yadong Zhou",
+        "Xiaohong Guan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214453638",
+      "title": "Experimental evaluation of near-azeotropic R-1270/R-E170 mixtures as promising alternatives to R-290 in a water-to-water heat pump",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133376",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133376",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat pump",
+        "Heat exchanger",
+        "Heat transfer"
+      ],
+      "authors": [
+        "G. Toffoletti",
+        "Marc Villamon",
+        "M.E. Martínez-Ángeles",
+        "Rodrigo Llopis"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214454079",
+      "title": "Point-line-plane topological thermal network constructed composite film with concurrent high thermal conductivity and electrical safety performance for electronic heat dissipation",
+      "abstract": "The rapid miniaturization and high integration of high-power electronics exacerbate heat accumulation during operation, triggering device instability, shortened service life, and leakage or short-circuit hazards. Traditional carbon-based thermal interface materials (TIMs) suffer from an inherent trade-off among thermal conductivity (k), electrical insulation, and mechanical flexibility, failing to meet the stringent thermal management demands of advanced electronics. Herein, a multifunctional composite film with a point-line-plane multidimensional thermal-conduction network (TCN) is fabricated via vacuum filtration and hot pressing, using boron nitride nanosheets (BNNS), multi-walled carbon nanotubes (MWCNTs), and spherical boron nitride (SBN) as core fillers. The structural complementarity and interfacial synergy of multidimensional fillers optimize the overall performance of the composite film. The optimized film achieves favorable in-plane and through-plane k of 16.77 and 2.98 W/m·K, respectively, while maintaining an elongation at break of 9.6%. Insulating BN-based frameworks disrupt continuous MWCNT conductive pathways to ensure electrical insulation, whereas MWCNTs and SBN act as interlayer bridges to construct integrated 3D TCNs for efficient heat dissipation. This work provides an effective strategy to optimize the performance of conventional carbon-based thermal materials and offers a facile, tunable route for designing high-efficiency, electrically insulating TIMs for potential flexible electronics.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133416",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133416",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal conductivity",
+        "Boron nitride",
+        "Miniaturization",
+        "Composite number",
+        "Electrical conductor",
+        "Carbon nanotube",
+        "Electronics",
+        "Thermal",
+        "Graphite"
+      ],
+      "authors": [
+        "Ling Wen",
+        "Lizheng Chen",
+        "Hai Lin",
+        "Zhibin Xiao",
+        "Lide Yang",
+        "Jianmin Yuan",
+        "贺国文"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214463303",
+      "title": "Experimental assessment of SWCNT-added waste cooking oil biodiesel–diesel blend in a single-cylinder diesel generator: performance, emissions, energy, exergy, sustainability, and exergoeconomic analyses",
+      "abstract": "In this study, the effects of adding 50 and 100 ppm of single-walled carbon nanotubes (SWCNTs) to D85B15 fuel, prepared from biodiesel derived from waste cooking oil, on the performance, exhaust emissions, energy, exergy, sustainability, and exergoeconomic indicators of a single-cylinder diesel engine-generator system were experimentally investigated. D100, B100, D85B15, D85B15S50, and D85B15S100 fuels were tested at a constant engine speed of 3000 rpm and in the range of 1000–5000 W active electrical output power. The reported power values correspond to the active electrical output measured at the generator terminals; engine shaft power was not measured separately. The addition of SWCNT reduced specific fuel consumption and increased electrical thermal efficiency compared to the additive-free D85B15. The increase in electrical thermal efficiency at 5000 W for D85B15S100 fuel was approximately 11.24%. Exergy destruction in D85B15S50 and D85B15S100 fuels decreased by 14.33–16.32% and 16.88–19.69%, respectively, compared to D85B15. The addition of SWCNTs decreased CO and smoke values while increasing NOx and CO₂ concentrations. The increase in CO₂ was evaluated not only as a positive indicator of further oxidation but also alongside fuel consumption, carbon content, and exhaust flow conditions. The addition of SWCNT increased the sustainability index derived from exergy efficiency, but also raised the fuel cost flow rate depending on the additive cost. Under the tested conditions, the 100 ppm SWCNT blend generally exhibited slightly more favorable mean technical and thermodynamic values than the 50 ppm blend; however, these differences should be interpreted as numerical trends rather than statistically demonstrated concentration effects.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133399",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133399",
+      "cited_by_count": 0,
+      "keywords": [
+        "Exergy",
+        "Diesel fuel",
+        "Biodiesel",
+        "NOx",
+        "Thermal efficiency",
+        "Exergy efficiency",
+        "Thrust specific fuel consumption",
+        "Exhaust gas",
+        "Diesel engine"
+      ],
+      "authors": [
+        "Murat Bertan Parıltı",
+        "MEHMET CELIK"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214471580",
+      "title": "Influence of fin configuration and nanofluid-assisted heat transfer on melting dynamics in a concentric tube latent heat storage system",
+      "abstract": "Fin and nanofluid-based performance enhancement techniques have been widely investigated for latent heat storage (LHS) systems. However, their relative contributions and interaction during the melting of phase change material (PCM) within a concentric-tube LHS configuration remain insufficiently clarified. This study numerically investigates the influence of fin configuration and nanoparticle incorporation strategy on the melting dynamics of PCM in a concentric-tube LHS system. Four configurations are analyzed: (i) solid fin–HTF, (ii) solid fin–nanoHTF, (iii) porous fin–HTF, and (iv) porous fin–nanoHTF. Simulations are performed using the enthalpy–porosity method to evaluate melting duration, temperature evolution, and melt-front progression. The results reveal a clear transition from conduction-dominated to natural convection-dominated heat transfer as melting progresses. Among all cases, the solid fin–nanofluid configuration exhibits the shortest melting time, indicating superior heat transfer performance. Nanofluid incorporation enhances melting primarily during the intermediate stage, modestly improving the melt fraction by 3%, and then diminishes further and becomes non-monotonic near thermal saturation. Among the porous-fin cases, increasing fin porosity generally degrades melting performance under the investigated conditions, with high porosity introducing additional thermal resistance and momentum damping. For instance, the melting performance of the 10% porosity configuration outperforms those at 50% and 90% porosity configurations. However, a porosity of 10% remains inferior to the solid-fin configuration under the conditions investigated. The enhanced convective heat transfer due to nanoparticle loading further accelerates the melting process. Increasing Reynolds number produces a substantially stronger enhancement than increasing nanoparticle concentration, indicating that flow intensity is a dominant factor in melting performance. The comparison between nanoHTF and nano-enhanced PCM further shows that modifying the HTF provides greater melting enhancement. The configuration with double fins exhibits the fastest melting rate, followed by the backward single-fin, middle single-fin, and forward single-fin configurations. Overall, double square solid fin in pure PCM with 5% nanoHTF turbulent flow is the best configuration among all investigated cases for PCM melting enhancement.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133394",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133394",
+      "cited_by_count": 0,
+      "keywords": [
+        "Phase-change material",
+        "Porosity",
+        "Heat transfer",
+        "Fin",
+        "Heat transfer enhancement",
+        "Nanofluid",
+        "Latent heat",
+        "Thermal energy storage",
+        "Convective heat transfer"
+      ],
+      "authors": [
+        "Sourav Garai",
+        "Alok Kumar Ray"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214482890",
+      "title": "Effect of equivalence ratio on the flame-temperature and fire characteristics of jet A-1, HEFA-SAF and their blends in a NexGen burner for aeronautical applications",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133401",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133401",
+      "cited_by_count": 0,
+      "keywords": [
+        "Combustor",
+        "Equivalence ratio",
+        "Equivalence (formal languages)",
+        "Jet (fluid)",
+        "Launch vehicle"
+      ],
+      "authors": [
+        "Abdulwasiu Muhammed Raji",
+        "Manescau Magnognou Brady Axel",
+        "Khaled Chetehouna",
+        "Ludovic Lamoot"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214488133",
+      "title": "Experimental characterization of a free-piston Stirling engine intended for integration with high-temperature thermal energy storage and combined heat and power applications",
+      "abstract": "A high-temperature thermal energy storage (TES) system coupled with a free-piston Stirling engine offers a potential route for converting stored thermal energy into electricity while simultaneously recovering useful heat for domestic applications. This study experimentally characterises a commercially available 1 kW free-piston Stirling engine under operating conditions representative of its future integration with a high-temperature TES system using sodium heat pipes and domestic combined heat and power (CHP) heat recovery. A dedicated experimental test rig was developed to independently investigate the effects of hot-end heat acceptor temperature, cooling-water temperature and cooling-water flow rate. Experiments were conducted for hot-end heat acceptor temperatures between 160 and 350 °C, cooling-water temperatures between 10 and 60 °C, and flow rates of 8 and 14 L/min. The results demonstrate that cooling-water temperature is the dominant operating parameter affecting electrical performance. Increasing the cooling-water temperature from 10 to 60 °C reduced the electrical power output by approximately 150–170 W over the investigated hot-end temperature range, whereas increasing the cooling-water flow rate from 8 to 14 L/min produced only a limited improvement in electrical output. Heat-to-electricity conversion efficiency reached up to approximately 21% at the highest investigated hot-end temperature and lowest cooling-water temperature. The cooling circuit simultaneously provided up to approximately 2.3 kW of recoverable thermal power, demonstrating the potential for domestic hot water production and space heating. The experimental results establish quantitative relationships between hot-end temperature, cooling-water conditions, electrical output and recoverable thermal power, providing design and control information for future TES-based Stirling CHP systems. Although the absolute performance values are specific to the investigated MEC engine, the identified thermodynamic trends and operating trade-offs may provide useful guidance for evaluating other liquid-cooled Stirling engine configurations.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133406",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133406",
+      "cited_by_count": 0,
+      "keywords": [
+        "Stirling engine",
+        "Heat engine",
+        "Stirling cycle",
+        "Thermal",
+        "Thermal energy storage",
+        "Thermal energy",
+        "Power (physics)",
+        "Thermal efficiency",
+        "Heat transfer"
+      ],
+      "authors": [
+        "Pawel D. Nycz",
+        "Agnieszka Dorota Woźniak",
+        "Philip Eames"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214489496",
+      "title": "Research on coupling modeling and operational parameter optimization of solar-assisted CO2 heat pump heating system",
+      "abstract": "Low ambient temperatures degrade heat-pump performance during the heating season in northern China, posing a challenge to efficient building heating in cold regions. This study develops and validates a coupled model of a solar-assisted carbon dioxide (CO 2 ) heat-pump heating system. Unlike previous studies that separately analyze heat-pump units, solar collectors, or heating terminals, the proposed model integrates solar-house heat collection, the CO 2 cycle, water-side heating, and indoor thermal balance, while accounting for inclined-surface irradiance, radiative exchange, and wind effects. Experimental validation yielded mean absolute percentage errors (MAPEs) of 4.78%, 1.13%, 8.73%, and 8.78% for return-water, room-air, solar-house-air, and supply-water temperatures, respectively. Based on the validated model, the effects of meteorological conditions and flow rates were analyzed, and response-surface optimization was performed to maximize the system coefficient of performance ( COP sys ). Higher irradiance and ambient temperature improved system performance, whereas a higher diffuse-radiation fraction and parallel wind speed reduced it. The high-efficiency operating region corresponded to air flow rates of 0.20–0.35 kg/s and circulating-water flow rates of 0.018–0.030 kg/s. These results demonstrate the importance of coordinating air-side and water-side flow rates and provide theoretical guidance for the efficient operation of solar-assisted CO 2 heat-pump heating systems in cold regions.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133355",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133355",
+      "cited_by_count": 0,
+      "keywords": [
+        "Coefficient of performance",
+        "Thermal",
+        "Heat pump",
+        "Flow (mathematics)",
+        "Volumetric flow rate",
+        "Wind speed",
+        "Irradiance",
+        "Coupling (piping)",
+        "Carbon dioxide"
+      ],
+      "authors": [
+        "Yunfeng Qiu",
+        "Chuan Wei",
+        "Xiao Guo",
+        "Chonggang Gao",
+        "Xiaomin Liu",
+        "Bao Zhang",
+        "Yingxian He",
+        "Yu Hong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214502147",
+      "title": "Year-round thermal regulation mechanisms and parameter optimisation of retro-reflective phase-change composite wall",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133418",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133418",
+      "cited_by_count": 0,
+      "keywords": [
+        "Composite number",
+        "Thermal",
+        "Finite element method",
+        "Thermal resistance"
+      ],
+      "authors": [
+        "Caixia Wang",
+        "Shixuan Xu",
+        "Kai Huang",
+        "Kang Duan",
+        "Tian Yan",
+        "Tingzhen Ming"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214503881",
+      "title": "Mitigating cold-climate performance decline of air-source heat pumps through data center waste heat recovery: A dynamic techno-economic assessment",
+      "abstract": "Air source heat pumps suffer a coefficient of performance penalty in cold climates due to low evaporator inlet temperatures and outdoor-coil frosting, while data centers reject large amounts of low-grade heat at temperatures suitable for source upgrading. This study proposes and evaluates a building-scale air-side integration in which cooling-loop water from a data center is circulated through a crossflow water-to-air heat exchanger to preheat the ambient air entering the evaporator of a residential air source heat pump, addressing the source-temperature deficit at its origin without an indoor hydronic retrofit. A dynamic TRNSYS co-simulation framework couples the data center cooling system, the heat exchanger sized through a coupled MATLAB–TRNSYS optimization, and a four-storey multi-unit residential building. The integrated system is evaluated in four Canadian cities (Vancouver, Toronto, Montreal, Edmonton) using provincial grid carbon factors and commercial tariffs. Heat recovery raises the seasonal heat pump COP by 8.5% in Vancouver and up to 55% in Edmonton, and all four cities reach a similar COP of about 3.0 regardless of climate. Combined building and data center electricity savings range from 1253 to 1357 MWh per year, corresponding to operational CO₂ reductions of 1.6 to 638 t CO₂eq per year. The heat exchanger also maintains the indoor comfort range that the baseline heat pump cannot sustain, acting as a virtual capacity expansion beyond the standard 99th-percentile sizing. A 20-year discounted cash flow analysis gives a positive net present value in every city, from CAD 1.06 million in Montreal to CAD 2.27 million in Toronto, with internal rates of return between 27% and 49% and discounted payback periods of 2.3 to 4.4 years. A sensitivity analysis on six economic and environmental assumptions confirms that the positive economic outcome is robust across all four cities.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133426",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133426",
+      "cited_by_count": 0,
+      "keywords": [
+        "TRNSYS",
+        "Coefficient of performance",
+        "Heat exchanger",
+        "Air source heat pumps",
+        "Waste heat",
+        "Evaporator",
+        "Heat pump",
+        "Waste heat recovery unit",
+        "Data center"
+      ],
+      "authors": [
+        "Mohammadmehdi Hosseini",
+        "Emmanuel Essah",
+        "Syeda Humaira Tasnim",
+        "Shohel Mahmud"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214506291",
+      "title": "Improving thermal comfort in residential kitchenes with an integrated range hood-air conditioner system",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133410",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133410",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal comfort",
+        "Air conditioning",
+        "Range (aeronautics)",
+        "Thermal"
+      ],
+      "authors": [
+        "Wenhua Chen",
+        "Teng Yang",
+        "Yaxuan Xiao",
+        "Junjie Guo",
+        "Maohui Luo",
+        "Yanzhe Yu",
+        "Xingguo Guo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213997537",
+      "title": "Passenger-centered thermal comfort control in electric vehicles using attention-enhanced ResNet50 for ACHP systems",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133335",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133335",
+      "cited_by_count": 0,
+      "keywords": [
+        "Thermal comfort",
+        "Control (management)",
+        "Thermal",
+        "Control system",
+        "Electric vehicle"
+      ],
+      "authors": [
+        "Kang Li",
+        "Haoran Wang",
+        "Ammar Jafaripournimchahi",
+        "Saleh S. Meibodi",
+        "Zilong Wang",
+        "Hua Zhang",
+        "Chao Li",
+        "Qize He",
+        "Soheil Mohtaram"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214008919",
+      "title": "Seawater-driven thermal pile for thermal storage and sustainable cooling in tropical coastal regions: A soil thermal battery framework",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133307",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133307",
+      "cited_by_count": 0,
+      "keywords": [
+        "Pile",
+        "Thermal",
+        "Battery (electricity)",
+        "Thermal energy storage",
+        "Energy (signal processing)",
+        "Thermal energy",
+        "Energy storage",
+        "Tropical climate"
+      ],
+      "authors": [
+        "Xinyan Xv",
+        "Chao Shi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213971324",
+      "title": "Inverse identification of Hartmann number in magnetically controlled nanofluid impinging jets using curriculum-learning-enhanced physics-informed neural networks",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133295",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133295",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nanofluid",
+        "Artificial neural network",
+        "Inverse",
+        "Identification (biology)",
+        "Inverse problem"
+      ],
+      "authors": [
+        "Ehsan Ghaderi",
+        "Mohamad Ali Bijarchi",
+        "Siamak Kazemzadeh Hannani",
+        "Ali Nouri-Boroujerdi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7213975243",
+      "title": "Engineering-oriented topology optimization of liquid-cooled cold plates for high-power chips using topology-guided composite pin-fin reconstruction",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133361",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133361",
+      "cited_by_count": 0,
+      "keywords": [
+        "Topology optimization",
+        "Composite number",
+        "Topology (electrical circuits)",
+        "Network topology"
+      ],
+      "authors": [
+        "Baoyi Li",
+        "Hua Cai",
+        "Guoyue Wu",
+        "Liang Cai"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214055725",
+      "title": "Simulations, design, and test results for a 240 kW two-phase pumped cooling system for aviation fuel cell application",
+      "abstract": "Hydrogen-powered proton exchange membrane (PEM) fuel cells are a promising energy source for electric aircraft, but their widespread adoption requires lightweight and efficient thermal management systems. Two-phase pumped cooling offers significant mass savings compared with conventional liquid cooling by exploiting the latent heat of vaporization. This paper presents the design, modelling, and experimental results for a methanol-based two-phase pumped cooling system with a cooling capacity of 240 kW, where electrical heaters are used to emulate the heat load of a fuel cell stack. Experimental results show good agreement with model predictions on fluid pressure drop (<30%) and coolant mass (12.5%) and demonstrate stable operation over a wide range of thermal loads. The system achieves the required cooling performance with a coolant mass of just 9 kg and a 2 kg pump, highlighting the potential for substantially lighter thermal management systems for future fuel cell powered aircraft.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-09-22",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133328",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133328",
+      "cited_by_count": 0,
+      "keywords": [
+        "Water cooling",
+        "Aviation",
+        "Fuel cells",
+        "Active cooling",
+        "Air cooling"
+      ],
+      "authors": [
+        "Henk Jan van Gerner",
+        "Sigurd Scholten",
+        "Charlton Castro",
+        "Georg Mühlthaler",
+        "Marcus-Benedict Buntz"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214467461",
+      "title": "Joint calibration of non-equilibrium condensation model coefficients and three-dimensional evaluation of a two-dimensionally optimized steam-turbine cascade",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-27",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111365",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111365",
+      "cited_by_count": 0,
+      "keywords": [
+        "Cascade",
+        "Calibration",
+        "Joint (building)",
+        "Condensation"
+      ],
+      "authors": [
+        "Zhongning Zhou",
+        "Haosen Bao",
+        "Xuelin Tan",
+        "Yinghao Zhu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214481606",
+      "title": "Synergistic optimization of flame retardancy and heat transfer for battery thermal management",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-27",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111366",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111366",
+      "cited_by_count": 0,
+      "keywords": [
+        "Heat transfer",
+        "Thermal management of electronic devices and systems",
+        "Thermal",
+        "Battery (electricity)",
+        "Enhanced heat transfer",
+        "Combustion"
+      ],
+      "authors": [
+        "Jiabao Li",
+        "Xiangjun Deng",
+        "Wenbai Liu",
+        "Xinqiang Xia"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7214492099",
+      "title": "Non-uniform temperature effects on air natural convection from vertical radiator panels in oil natural transformers",
+      "abstract": "For panel-type radiators of oil natural air natural transformers (ONAN), conventional uniform-wall-temperature correlations fail to accurately account for the prediction deviation caused by air-side surface temperature non-uniformity. This study numerically investigates the effect of non-uniform wall temperature on natural convection heat transfer in two configurations: an isolated vertical plate (end fins) and a vertical parallel plate channel (internal fin channels). Simulations are performed using the finite volume method with variable thermophysical properties of air. The results show that for both configurations, a positive wall temperature gradient enhances heat transfer compared with the uniform-temperature case, and the enhancement increases with the gradient magnitude. For the isolated vertical plate, the enhancement decreases with increasing Rayleigh number, and increasing the wall temperature gradient improves the Nusselt number by up to 25.2%. For the vertical parallel plate channel, the enhancement increases as the plate spacing decreases; in the high Rayleigh number regime, a slight rebound is observed due to the combined chimney effect and turbulence, and increasing the wall temperature gradient improves the Nusselt number by up to 38.2%. Based on the numerical results, multiple linear regression is used to develop separate predictive correlations for the two configurations. The proposed correlations are validated against experimental data from a practical transformer radiator and independent literature data, yielding prediction deviations of 14.91% and 7.17%, respectively. This work extends the parameter range of previous studies on non-uniform wall temperature effects, provides the first systematic investigation for the vertical parallel plate channel, and offers experimentally validated correlations for engineering applications.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-09-26",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111370",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111370",
+      "cited_by_count": 0,
+      "keywords": [
+        "Nusselt number",
+        "Natural convection",
+        "Rayleigh number",
+        "Temperature gradient",
+        "Heat transfer",
+        "Convection",
+        "Film temperature",
+        "Transformer",
+        "Rayleigh scattering"
+      ],
+      "authors": [
+        "Yuhang Tian",
+        "Xiuyu Wang",
+        "Jingyi Shen",
+        "司文荣",
+        "Jian Yang",
+        "Qiuwang Wang"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 12656,
+    "total": 12699,
     "journals": 277,
-    "last_update": "2026-09-27 05:02:38",
-    "reactor-thermal_count": 1749,
-    "heat-transfer_count": 3271,
+    "last_update": "2026-09-28 05:04:16",
+    "reactor-thermal_count": 1761,
+    "heat-transfer_count": 3302,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 1936
+        "count": 1955
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 760
+        "count": 769
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 474
+        "count": 479
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 427
+        "count": 430
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 403
+        "count": 405
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 265
+        "count": 269
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 193
+        "count": 194
       },
       {
         "name": "Nuclear Technology",
@@ -330105,10 +331258,6 @@
     ],
     "trend": [
       {
-        "date": "2026-08-29",
-        "count": 30
-      },
-      {
         "date": "2026-08-30",
         "count": 5
       },
@@ -330118,7 +331267,7 @@
       },
       {
         "date": "2026-09-01",
-        "count": 92
+        "count": 94
       },
       {
         "date": "2026-09-02",
@@ -330202,11 +331351,11 @@
       },
       {
         "date": "2026-09-22",
-        "count": 42
+        "count": 48
       },
       {
         "date": "2026-09-23",
-        "count": 24
+        "count": 26
       },
       {
         "date": "2026-09-24",
@@ -330218,10 +331367,14 @@
       },
       {
         "date": "2026-09-26",
-        "count": 3
+        "count": 34
       },
       {
         "date": "2026-09-27",
+        "count": 2
+      },
+      {
+        "date": "2026-09-28",
         "count": 0
       }
     ]
@@ -330440,5 +331593,5 @@
       }
     ]
   },
-  "export_time": "2026-09-27T05:02:38.545473"
+  "export_time": "2026-09-28T05:04:16.757137"
 }
