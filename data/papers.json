@@ -330136,5 +330136,189 @@
       "Qiuwang Wang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214526169",
+    "title": "Theoretical design and parametric sensitivity analysis of a passive containment cooling system based on separated heat pipes",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-28",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106633",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106633",
+    "cited_by_count": 0,
+    "keywords": [
+      "Containment (computer programming)",
+      "Heat pipe",
+      "Sensitivity (control systems)",
+      "Water cooling",
+      "Parametric statistics",
+      "Pressurized water reactor"
+    ],
+    "authors": [
+      "Weiyu Chu",
+      "Dufeng Lv",
+      "An Cao",
+      "Meng Zhaoming",
+      "Baihui Duan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214555553",
+    "title": "A review of large-scale heater experiments in Swiss underground laboratories",
+    "abstract": "",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-09-27",
+    "url": "https://doi.org/10.1080/00223131.2026.2737840",
+    "doi": "https://doi.org/10.1080/00223131.2026.2737840",
+    "cited_by_count": 0,
+    "keywords": [
+      "Instrumentation (computer programming)",
+      "Limiting"
+    ],
+    "authors": [
+      "R. Schneeberger",
+      "G. Lanyon",
+      "F. Kober"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7213983774",
+    "title": "The controlling role of in-situ stresses in the evolution of coal-gas compound dynamic disasters: Experimental approach and particle flow simulation",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-22",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129596",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129596",
+    "cited_by_count": 0,
+    "keywords": [
+      "Flow (mathematics)",
+      "Particle (ecology)",
+      "Computer simulation",
+      "Particle method",
+      "Particle flow"
+    ],
+    "authors": [
+      "Kai Wang",
+      "Jiazhi Sun",
+      "Feng Du",
+      "Yang Ju",
+      "Enbiao Zhao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214540445",
+    "title": "Explainable machine learning analysis of thermo-mechanical performance in energy piles with different pipe configurations",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-27",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133429",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133429",
+    "cited_by_count": 0,
+    "keywords": [
+      "Energy (signal processing)",
+      "Energy consumption",
+      "Efficient energy use"
+    ],
+    "authors": [
+      "Zhihang Zheng",
+      "Wei Gao",
+      "Hui Tan",
+      "Zheng Yuan",
+      "Kangning Cai",
+      "Junhao Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214547918",
+    "title": "Structural optimization of a fin-enhanced immersion cooling battery thermal management system for high-rate lithium-ion battery packs",
+    "abstract": "High-rate operation of lithium-ion batteries can generate substantial heat, making effective temperature control and thermal uniformity essential for safe and reliable battery operation. Immersion liquid cooling provides direct contact between the coolant and battery surfaces, but its thermal performance can still be limited by non-uniform coolant flow and insufficient convective heat transfer. In this study, a three-dimensional transient numerical model was developed to investigate a fin-enhanced immersion cooling system for an 18-cell prismatic lithium-ion battery module under a 4C discharge condition. The effects of fin shape, fin number, fin length, and fin thickness on battery thermal performance, hydraulic characteristics, and energy consumption were systematically investigated using a sequential one-factor-at-a-time approach. Among the investigated fin geometries, the asymmetric corrugated fin provided the most favorable thermal performance by promoting coolant redistribution and enhancing heat transfer. At the end of the 900 s discharge, the asymmetric corrugated-fin configuration reduced the maximum battery temperature and maximum temperature difference to 30.62 °C and 3.44 °C, respectively, corresponding to reductions of 5.7% and 33.8% compared with the finless configuration. Further optimization showed that a configuration with 10 fins, a fin length of 3.0 mm, and a thickness of 1.0 mm provided the most favorable balance between thermal performance and energy consumption among the investigated cases. A normalized sensitivity analysis further indicated that fin length was the most influential continuous geometric parameter for the thermal responses. Overall, the results demonstrate that asymmetric corrugated fins can improve battery temperature control and uniformity by modifying coolant flow distribution, while appropriate fin dimensions are essential for balancing heat-transfer enhancement and hydraulic resistance in immersion-cooled battery modules.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-27",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133389",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133389",
+    "cited_by_count": 0,
+    "keywords": [
+      "Coolant",
+      "Fin",
+      "Thermal",
+      "Battery (electricity)",
+      "Heat sink",
+      "Annular fin",
+      "Heat transfer",
+      "Immersion (mathematics)",
+      "Energy consumption"
+    ],
+    "authors": [
+      "Luyao Zhao",
+      "Xiang Wu",
+      "Jiafeng Wang",
+      "Qingyu Wei",
+      "Minxue Zheng",
+      "Shangqing Tao",
+      "Mingyi Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214550005",
+    "title": "3D printed internally actuated heat pipe-based thermal switch",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-27",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133346",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133346",
+    "cited_by_count": 0,
+    "keywords": [
+      "3d printed",
+      "Thermal",
+      "3D printing",
+      "Printed circuit board",
+      "Thermal management of electronic devices and systems",
+      "3d printer"
+    ],
+    "authors": [
+      "Daniel Schwarz",
+      "Jarl Wehrmeyer",
+      "Markus Winkler",
+      "Roland Binninger",
+      "Mathias Gebauer",
+      "Annalena Held",
+      "Kilian Bartholomé"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214030492",
+    "title": "A high performance and ultra-low cost radiative cooling phase change material: Fabrication, experiment and simulation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-23",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133338",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133338",
+    "cited_by_count": 0,
+    "keywords": [
+      "Phase change",
+      "Radiative cooling",
+      "Phase-change material",
+      "Phase (matter)",
+      "Radiative transfer",
+      "Water cooling"
+    ],
+    "authors": [
+      "Bowen Xu",
+      "Xianglin Liu",
+      "Yao Meng",
+      "Yongkang Zhao",
+      "Yimeng Sun",
+      "Liuliu Du-Ikonen",
+      "Jinyu Li",
+      "Yuliang Zhong",
+      "Xiangfei Kong"
+    ],
+    "category": "heat-transfer"
   }
 ]
