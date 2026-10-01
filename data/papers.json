@@ -331284,5 +331284,476 @@
       "Yuchun Zhang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214714324",
+    "title": "An evaluation of diffusivity and resolution models for fission gas release in UO2",
+    "abstract": "Gas atom behavior is of particular interest to nuclear reactor designers as it plays a key role in determining fission gas release and fuel swelling. Various models have been developed for both the diffusivity and resolution of fission gas in UO 2 for use in fuel performance codes, including both empirical models fitted to experimental data and mechanistic models that represent physical behaviors. This work establishes a consistent methodology for comparing empirical and mechanistic diffusivity and resolution models by evaluating their impact on calculated fission gas release in BISON for several integral light water reactor irradiation experiments. Model accuracies are assessed by comparing the BISON-calculated release with the final fission gas release from the irradiation experiments. Bland–Altman analyses of each combination of models indicate that the mechanistic combination of Matthews diffusivity and Setyawan resolution, with other input parameters fixed, has a lower bias of -0.028% FGR than the historically used empirical pairing, the Turnbull-D1–D2–D3 diffusivity with White resolution, which produces a bias of -1.938% FGR. These results provide a comparative basis for selecting diffusivity and resolution models and suggest that mechanistic models can improve agreement with integral irradiation experiments while offering a more physically based framework for predicting fission gas release beyond the existing experimental database.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115180",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115180",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kaylee Cunningham",
+      "Christopher Matthews",
+      "Michael Tonks"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214800715",
+    "title": "Core characteristics of a modified pebble-bed high-temperature gas-cooled reactor design",
+    "abstract": "As a promising candidate of Small Modular Reactors (SMRs), high-temperature gas-cooled reactor (HTGR) proves its technical superiority and maturity with the successful commercial operation of Chinese High Temperature gas-cooled Reactor Pebble-bed Module (HTR-PM) in Shidao Bay, Shandong. HTR-PM employs an online-refueling pebble-bed reactor design. Spherical fuel elements enter the core through the top fueling tube, gradually move downward through the pebble bed, and are discharged via the bottom defueling tube. Simultaneously, the coolant enters the pressure vessel and flows around its periphery before reaching the cold helium plenum at the top of the core. It then cools the pebble core in a top-down flow, merges in the hot helium plenum at the bottom, and finally exits the pressure vessel. Based on the design of the HTR-PM, a modified core design (HTR-UD) is proposed, featuring a top-down movement of spherical fuel elements and a bottom-up flow of coolant. This design leverages the strong negative temperature feedback in HTGR to flatten the axial power distribution within the core. A comparative analysis of the core characteristics between the two designs is conducted, and two core upgrading schemes are investigated for the HTR-UD. The analysis results indicate that the HTR-UD can significantly reduce the maximum fuel temperature by approximately 175 °C under depressurized loss of forced cooling (DLOFC) accident. Furthermore, it demonstrates the potential to increase the thermal power by approximately 40% or increase the reactor outlet coolant temperature to 900 °C compared to the original HTR-PM design.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115233",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115233",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xuelin Li",
+      "Songyang Liu",
+      "Lang Wang",
+      "Jingsong Guo",
+      "Sanping Xiao",
+      "Wei Liu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214714199",
+    "title": "Effects of corrosion-product particle deposition on flow-induced vibration of an LBE-cooled wire-wrapped fuel rod bundle",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112880",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112880",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haolin Ning",
+      "Mei Huang",
+      "Yiyuan Du",
+      "Shuai Zhang",
+      "Jitong Sun",
+      "Aonan Li",
+      "Junliang Lin"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214718994",
+    "title": "An enquiry into noise-induced reactivity shifts in the point-kinetics equations",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112860",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112860",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "B. Dechenaux"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214728267",
+    "title": "Numerical study of flow distribution and the effect of unsteady flow of liquid sodium coolant in annular rods scalloped-wall fuel assembly",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112878",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112878",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "A. Ayodeji",
+      "Oluwaseun Talabi",
+      "John Njoroge"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214731671",
+    "title": "Numerical study on debris bed formation characteristics following the FCI of a nuclear reactor severe accident with the EMPS method",
+    "abstract": "Debris bed formation during fuel-coolant interaction (FCI) is a key process in the analysis of severe nuclear reactor accidents. Existing numerical studies typically decouple melt jet breakup and debris bed formation, relying on idealized fragment shape assumptions. The present study conducts a continuous numerical simulation of the FCI process by coupling the Explicit Moving Particle Semi-implicit (EMPS) method with a Contoured Continuum Surface Force (CCSF) model, a fragment identification model, and a Passively Moving Solid (PMS) model. The integrated approach tracks the dynamic evolution from initial melt injection and solidification to final bed accumulation. The established numerical model is validated against experimental data, with macroscopic predictions showing consistency with physical measurements. Parametric analyses reveal the mechanisms governing debris bed morphology. Increasing the LBE temperature, jet velocity, and water temperature increases the spreading area. High LBE and water temperatures induce edge crust remelting and secondary expansion. Furthermore, the debris bed accumulation height decreases as these three parameters increase. The total porosity increases with elevated LBE temperatures and jet velocities, and decreases under higher cooling water temperatures. The proposed modeling approach provides quantitative insight into debris bed formation and may support the development of severe accident management strategies.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106631",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106631",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jinhua Que",
+      "Yunlong Liao",
+      "Gen Li"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214792094",
+    "title": "Evaluation of time-dependent background in neutron time-of-flight transmission measurements using a 6Li-glass scintillation detector",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-09-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104753",
+    "doi": "https://doi.org/10.1016/j.net.2026.104753",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jaehong lee",
+      "Fabiana Rossi",
+      "Kota Hironaka",
+      "Cébastien Joël Guembou Shouop",
+      "Tomooki Shiba",
+      "Tadafumi Sano",
+      "Kazushi Terada",
+      "Jun-ichi Hori"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214713450",
+    "title": "Physics-derived natural coordinates for fast uncertainty propagation in multilayer thermoreflectance",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129653",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129653",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Tao Chen",
+      "Dihui Wang",
+      "Puqing Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214718411",
+    "title": "Numerical investigation of phase change material-integrated triply periodic minimal surface heat exchangers for thermal energy storage",
+    "abstract": "Additive manufacturing has enabled the fabrication of heat exchangers with geometrical complexity not achievable through conventional methods. Triply periodic minimal surfaces (TPMS), particularly gyroid, diamond, split-P, and lidinoid structures, offer high surface area and favorable fluid mixing characteristics that make them promising candidates for heat exchangers with integrated thermal energy storage. This study investigates the thermal charging behavior of TPMS-based heat exchangers that incorporate a phase change material (PCM). A transient numerical model was developed in ANSYS Fluent 2025R2 and validated against experimental measurements. The validation focused on matching the transient inlet temperature profile, flow conditions, and melt behavior reported in the experiment. Once validated, the model was used to compare the performance of gyroid, diamond, split-P, and lidinoid TPMS geometries and to evaluate the influence of operating conditions. Baseline simulations were conducted at an inlet temperature of 30 °C and a flow rate of 250 mL/min. Additional studies examined inlet temperatures of 30, 35, 40, and 50 °C and flow rates of 250, 300, 350, and 500 mL/min. The results provide a comparative assessment of PCM-integrated TPMS heat exchangers under consistent thermal storage capacity and operating conditions, highlighting how topology and its associated geometric characteristics govern the trade-off between accelerated PCM melting and increased hydraulic resistance across the gyroid, diamond, split-P, and lidinoid geometries.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129582",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129582",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Melissa A. Messenger",
+      "Nicholas C. Lopes",
+      "Sandra K. S. Boetcher"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214726967",
+    "title": "Mechanical and permeability properties of SLM-formed Ti6Al4V gradient Voronoi-TPMS porous scaffolds",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129641",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129641",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Bibo Yao",
+      "Zhenxin Zhao",
+      "Meihong Liu",
+      "Zhenhua Li",
+      "Ruchen Xing",
+      "Zengtao Chen",
+      "方继恒",
+      "Zhuoyuan Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214770772",
+    "title": "Three-dimensional temperature field measurement in high-temperature gas flows through phosphorescent spectral light field imaging",
+    "abstract": "Accurate three-dimensional (3D) temperature measurement in high-temperature gas flows with restricted optical access is essential for understanding the coupled heat and mass transfer mechanism and optimizing high-performance thermal systems. This work develops a single-viewpoint instantaneous volumetric thermometry technique based on phosphorescent spectral light field imaging (SLFI). First, a geometric-optics-based SLFI forward model specifically tailored to sparsely distributed phosphorescent tracer particles is established. Subsequently, an enhanced dual-band reconstruction algorithm is proposed to reconstruct the volumetric emission intensity fields by enforcing inter-band physical consistency, enabling accurate 3D temperature reconstruction based on voxel-wise phosphorescence intensity ratios. Following a numerical evaluation of the proposed method, a SLFI-based 3D temperature measurement system is built and experimentally validated in the turbulent shear layer downstream of a turbine vane cascade. Numerical simulations demonstrate reconstruction quality factors exceeding 0.92 and maximum relative temperature errors below 1.52% over the temperature range of 300–800 K at particle concentrations ranging from 0.2 to 0.8 particles per micro-lens (ppm). Experimental results show that the developed SLFI-based 3D temperature measurement system achieves a mean relative error of 1.58% under operating conditions of 373–773 K compared to a thermocouple measurement at a reference point. These results confirm the accuracy and robustness of the proposed technique for volumetric thermometry in high-temperature gas flows.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129649",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129649",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Manfu Chen",
+      "Jian Li",
+      "Guoyan Liu",
+      "Biao Zhang",
+      "Qi Qi",
+      "Yi Zhou",
+      "Chuanlong Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214773299",
+    "title": "Symbolic regression for convective heat transfer correlation development: Applicability and practical guidelines",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129639",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129639",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Giovanni Di Bono",
+      "Alessandro Quintino",
+      "Ferdinando Salata",
+      "Massimo Corcione"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214808071",
+    "title": "The influence of packing density on sorption in a calcium chloride-ENG composite-Ammonia bed",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133382",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133382",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kristian T. Lockyear",
+      "Srinivas Garimella"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214707125",
+    "title": "Gas-particle flow, low-load combustion and anti-slagging characteristics of prototype and improved burners for Zhundong coal boiler: From laboratory to industrial scale",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133433",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133433",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zheng Liu",
+      "Chujun Chen",
+      "Zhengqi Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214708343",
+    "title": "Enhancing the thermal energy storage performance of multiphase PCM using triply periodic minimal surface structures",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133459",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133459",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haonan Yang",
+      "Zhaohui Wang",
+      "Rongqing Bao",
+      "Zhengding Zheng",
+      "Shousheng Hong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214710476",
+    "title": "Numerical analysis of localized fin cooling for thermal, power and emissions improvements of UAV Wankel rotary engines",
+    "abstract": "Wankel rotary engines (WREs) have become an important research focus for unmanned aerial vehicle (UAV) propulsion systems owing to their exceptional power-to-weight ratio. However, combustion heat release and complex heat transfer result in persistently high thermal loads in local regions, seriously impairing engine reliability and performance. This study employs a 1D 3D coupled simulation approach. First, enhanced cooling fins are introduced to optimize the cooling water jacket structure of the WRE. Subsequently, based on the optimized structure, the effects of fin configurations on WRE performance and emission characteristics are investigated at various engine speeds. At 3000 r/min, rectangular straight fins exhibit significant cooling enhancement: the average temperature of the cylinder wall decreases by 23 K, while the in-cylinder mean pressure and heat release rate increase by 3.8% and 4.5%, respectively. By lowering the in-cylinder mixture temperature, rectangular straight fins suppress NOₓ formation, reducing NOₓ concentration by 5.11%. Analysis under variable-speed conditions reveals that the optimization benefits of rectangular straight fins on WRE performance and emissions are maintained across the entire speed range, with the most pronounced improvement observed at 4000 r/min. The rectangular straight fin structure effectively improves the thermal load distribution on the cylinder wall, reducing the average cylinder wall temperature and maximum temperature difference by 5.7% and 15.8%, respectively. In addition, it increases the indicated power of the engine by 4.01% and reduces NOₓ and CO emissions by 5.90% and 6.80%, respectively.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133385",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133385",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Changwei Ji",
+      "Zikai Ren",
+      "Yutao Deng",
+      "Yanfei Qiang",
+      "Jinxin Yang",
+      "Shuofeng Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214717336",
+    "title": "A novel six-coil multi-mode magnetic field system: design, spatial distribution and modulation of melt flow and oxygen transport in 300 mm Czochralski silicon growth",
+    "abstract": "300 mm Czochralski (Cz)-grown silicon single crystals have become the dominant substrate material for advanced integrated circuit manufacturing. However, conventional fixed-geometry transverse magnetic field (TMF) and cusp magnetic field (CMF) systems widely used in traditional Cz furnaces cannot switch between operating modes, which limits process flexibility. To address this issue, a multi-mode magnetic field system (MFS) based on six independently controlled coils is proposed to achieve flexible switching between TMF and CMF modes. A hybrid two-dimensional (2D) global / three-dimensional (3D) local model was developed to couple the electromagnetic, flow, thermal, and oxygen transport fields. The model was validated against industrial 300 mm Cz furnace experiments. In TMF mode, adjusting the coil current ratios tailors the spatial magnetic field distribution, enabling precise tuning of oxygen content at the solid-liquid (S-L) interface. In CMF mode, the six-coil MFS (6C-MFS) closely reproduces the field distribution of a conventional CMF; the resulting oxygen content differs by less than 3%. Structural optimization with partial coil overlap further reduces the azimuthal magnetic field fluctuation at the melt edge from 0.006 T to 0.002 T. This work provides a foundation for flexible magnetic field regulation strategies for multi-specification production of large-diameter Cz silicon single crystals.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133444",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133444",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Songsong Chen",
+      "Wenkai Liu",
+      "Junjie Zuo",
+      "Huan Tuo",
+      "Yun Liu",
+      "Zhongying Xue",
+      "Min Xu",
+      "Xing Wei"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214722615",
+    "title": "Thermo-economic analysis of a wire-mesh integrated photovoltaic thermal collector",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133467",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133467",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Nitesh Singh",
+      "Prabhakar Jha"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214746714",
+    "title": "Waveform-engineered reciprocating cooling for uniform battery thermal management",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133336",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133336",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kai Gao",
+      "Yifei Sun",
+      "Lin Hu",
+      "Jing Huang",
+      "Hui Li",
+      "Zhonghua Huang",
+      "Petr M. Korusenko"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214749953",
+    "title": "Investigation of the cooling performance of a radiative sky water-cooling module with serpentine channels: experiments and CFD simulation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133420",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133420",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yifei Li",
+      "Dongyang Ren",
+      "Tao Wu",
+      "Jiqin Li",
+      "Yiqiang Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214757657",
+    "title": "Mesoscale thermal-chemical coupling in heterogeneous energetic materials: Impact of elliptical microstructure on heat flux dynamics and unsteady combustion",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133397",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133397",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haoyang Wu",
+      "Kaixuan Chen",
+      "Xiaochun Xue",
+      "Yonggang Yu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214780580",
+    "title": "Cascading pit thermal energy storage: enabling simultaneous heating and cooling in centralized district energy systems",
+    "abstract": "Fifth generation district heating and cooling (5GDHC) networks enable simultaneous heating and cooling and the integration of renewable heat at low temperatures, but rely on distributed, hydraulically complex architectures. Centralized district heating and cooling (DHC) systems are operationally simpler, yet conventional centralized storage in a single large volume spanning a wide temperature range limits thermal stratification and cannot serve heating and cooling simultaneously, which precludes renewable integration in systems without chillers. This study introduces a cascading storage concept in which the total seasonal storage volume is distributed across three units: a high temperature unit, a low temperature unit, and a buffer unit between them. Because the storage is split into narrower temperature ranges, the cascade preserves stratification through its architecture rather than within a single wide volume, enabling simultaneous heating and cooling and the integration of external heat at suitable temperatures from a centralized design. The cascade is evaluated with dynamic system simulations and benchmarked against a centralized single storage base case and against bidirectional and reservoir network configurations under identical boundary conditions. The uninsulated cascade reaches a stratification deviation index of 0.13 after 90 days, outperforming the insulated single storage case (0.23), cuts electricity consumption by 46% versus the base case, and reaches a seasonal performance factor of 5.8 that matches the 5GDHC benchmarks at comparable cost. Beyond new installations, the concept offers a route to decarbonize existing centralized DHC networks by adding cooling and integrating renewable heat at lower supply temperatures, without converting to a distributed architecture.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133365",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133365",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Michael Bayer",
+      "Artem Sotnikov",
+      "Abdulrahman Dahash",
+      "Heimo Walter",
+      "Willy Villasmil"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214805848",
+    "title": "Influence mechanism of a single microbubble on frost crystal growth characteristics on a sessile frozen water droplet",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133402",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133402",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Siyuan Liu",
+      "Mengjie Song",
+      "Fan Gao",
+      "Xuan Zhang",
+      "Qun Dang",
+      "Keke Shao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214767623",
+    "title": "Experimental and computational study of h-boron nitride@aramid nanofiber fibers for rapid thermal transfer in wearable thermal management",
+    "abstract": "Thermal garment technologies offer a promising approach to reduce building energy consumption by creating adjustable localized thermal environments around the human body. Although recently developed composite fibers exhibit enhanced thermal conductivity through the incorporation of thermally conductive nanomaterials, their mechanical properties are often compromised at high nanomaterial loadings. This trade-off is primarily attributed to inefficient interfacial force transfer between the nanomaterials and the polymer matrix. To overcome this challenge, we developed h -boron nitride@aramid nanofiber (BN@ANF) coaxial fibers with BN content in the core layer reaching up to 90 wt%. The core–shell volume ratio was precisely controlled by tuning extrusion and drawing rates. The ANF shell provides mechanical reinforcement and BN-90@ANF fibers drawn at a ratio of 2.0 exhibit a tensile strength of 162.5 MPa and a Young's modulus of 4.51 GPa. Both experimental and theoretical analyses reveal that the heat transfer distance of the coaxial fiber is over 10 times longer than that of pure ANF fibers, attributing to continuous phonon transport pathways formed by aligned BN sheets in the core. Experimental data is excellent matching that of computational study and this confirms the thermal conductivity of 38 m −1 K −1 for BN-90@ANF fiber. This work demonstrates a scalable strategy for producing high-performance thermally conductive fibers and offers new insights into composite fiber architecture design for advanced thermal management textiles.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111375",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111375",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Fangli Yang",
+      "Derui Kong",
+      "Zihan Zhang",
+      "Jianhua Wang",
+      "Jinlong Tao",
+      "Ya Yao",
+      "Yumei Gong",
+      "Jizhen Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214759843",
+    "title": "Lumped Parameter Bioheat Equation Formulated for System-Level Body Temperature Prediction",
+    "abstract": "",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1080/01457632.2026.2734685",
+    "doi": "https://doi.org/10.1080/01457632.2026.2734685",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Simay Akay",
+      "Canberk Yıldırım",
+      "Hakan Ertürk",
+      "Kerem Pekkan"
+    ],
+    "category": "heat-transfer"
   }
 ]
