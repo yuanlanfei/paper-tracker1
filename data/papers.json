@@ -331755,5 +331755,642 @@
       "Kerem Pekkan"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214985616",
+    "title": "Research on irradiation-Thermo-mechanical coupled analysis for HTGR fuels",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115246",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115246",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hao Yang",
+      "Bin Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214905783",
+    "title": "Numerical study on direct contact condensation of countercurrent subcooled water-steam flow in a steam-filled vertical rectangular narrow channel",
+    "abstract": "A two-dimensional computational fluid dynamics (CFD) model was developed to investigate direct contact condensation (DCC) during counter-current flow of subcooled water and steam in a steam-filled vertical rectangular narrow channel. The model incorporates the Volume of Fluid (VOF) method, Lee phase-change model, Continuum Surface Force (CSF) model, and RNG k–ε turbulence model. The effects of subcooled-water and steam inlet velocities on flow evolution, pressure response, and counter-current flow limitation (CCFL) were systematically analyzed. The results show that the channel pressure exhibits pronounced periodic pulsations. Increasing the inlet velocities of both phases strengthens interfacial shear and flow disturbances, thereby intensifying interfacial instability, promoting condensation-induced water hammer (CIWH), and increasing the pressure oscillation intensity. The maximum pressure is mainly controlled by the subcooled-water inlet velocity and increases monotonically with it, while steam injection markedly amplifies the pressure peak compared with single-phase liquid injection. The average pressure increases with either inlet velocity, with the liquid velocity exerting a stronger effect. Flooding and liquid-bridge formation are observed during counter-current flow, triggering CCFL. As the subcooled-water-to-steam velocity ratio increases, CCFL weakens, whereas higher steam velocities lead to earlier liquid-bridge formation.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112876",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112876",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yan Li",
+      "Gaokui Xie",
+      "Jihang Ouyang",
+      "Tao Lu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214913420",
+    "title": "Operational characteristics of the experimental test facility for the passive cooling system of spent fuel pools",
+    "abstract": "Ensuring reliable removal of residual heat from spent fuel pools is a key safety requirement for nuclear facilities, particularly for research reactors where the safe storage of spent fuel assemblies must be maintained under both normal and accident conditions. This paper presents the results of experimental studies of a test facility for a passive residual heat removal system designed for spent fuel assemblies in the spent fuel pool of a research nuclear reactor. The study employed both theoretical and empirical methods. The article describes the main thermal-hydraulic parameters and design features of the test facility and provides a description of the experimental methodology. The results of tests carried out under various operating modes of the facility are presented, including operation with full and partial filling of the circuit with the working fluid and operation in an annular thermosyphon mode. The experimental results confirm the operability of the proposed design and demonstrate the capability of the system to provide effective heat removal under different thermal conditions. In addition, three-dimensional modeling of the test facility was performed, which made it possible to identify design characteristics of components not accessible to visual inspection and to optimize the configuration of the evaporator module to ensure a more uniform distribution of the working fluid flow. A theoretical assessment of the impact of using this facility as part of a passive heat removal system on nuclear safety when installed in a spent fuel pool is also provided. The obtained results indicate that the installation of the proposed system does not lead to a violation of nuclear safety requirements and can serve as a basis for the development of a full-scale passive cooling system for spent fuel pools of research reactors.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106634",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106634",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ta Van Thuong",
+      "S.M. Glukhov",
+      "O.L. Tashlykov",
+      "D.E. Shumkov",
+      "Yu.V. Volchikhina",
+      "Nguyen Dinh Khuong"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214942458",
+    "title": "Design of liquid lead-bismuth eutectic flow velocity measurement based on contactless inductive flow tomography",
+    "abstract": "liquid lead-bismuth eutectic (LBE) serves as the coolant for lead-cooled fast reactors (LFR), its velocity distribution is a critical parameter in thermal-hydraulic research. However, the high-temperature corrosivity and opacity of LBE pose significant challenges to the application of traditional flow velocity measurement methods. To address this issue, this study applies Contactless Inductive Flow Tomography (CIFT) and designs a measurement system applicable for LBE flow velocity measurement. The validity of the proposed measurement scheme is verified by comparing the reference velocity field with the velocity field reconstructed via the reconstruction algorithm. Maintaining a comparable total number of sensors, we compare three spatial arrangements: 12×4, 10×5, and 8×6. The results indicate that the 8×6 arrangement achieves the highest degree of agreement between the reconstructed and reference velocity field. Furthermore, the applicability of this measurement system is verified under noisy condition and within complex flow field. The proposed design scheme and sensor configuration analysis provide a valuable reference for the future application of CIFT in LBE flow measurement.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106635",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106635",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhen Zhang",
+      "Jiangtao Jia",
+      "Zhen Wang",
+      "Mingyue Li",
+      "Jie Yu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214949695",
+    "title": "Thermal-hydraulic analysis of rotated wire wrap in LFR assembly under normal operation and flow blockage conditions",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106632",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106632",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhibo Gao",
+      "Di Wu",
+      "Jinchao Li",
+      "Jie Cheng",
+      "Xu Han",
+      "Xiaobo Zeng",
+      "Jianjun Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214973770",
+    "title": "Impact of possible nuclear phase-out strategies in Spain for a sustainable energy transition",
+    "abstract": "Spain's long-term energy strategy combines rapid renewable expansion with the progressive phase-out of nuclear power by 2035. Since the timing of reactor retirements can significantly affect the long-term electricity balance, this study compares four nuclear phase-out scenarios: the current official retirement schedule (SCN_40) and three lifetime-extension pathways allowing reactor operation up to 50, 55, and 60 years (SCN_50, SCN_55, and SCN_60, respectively). All scenarios use the same demand and renewable deployment trajectories. A target-driven daily simulation developed with LEAF-EB combines historical generation and demand patterns with projections derived from the PNIEC and Spain's long-term decarbonization strategy. For each scenario, 1000 Monte Carlo simulations estimate clean electricity surpluses and the raw clean generation gap. Surpluses are allocated to BESS charging, exports, and synthetic methane production, while the gap is covered by BESS discharge, cross-border imports, methane reconversion, and residual backup. Over 2028–2050, extending reactor operation from the official schedule to 60 years reduces the modeled cumulative clean generation gap by 39.1% and electricity imports by 38.5%, while exports increase by 72.4%. BESS discharge covers 7.2–11.4% of the gap, while imports account for approximately 21% across all scenarios. Electricity recovered from stored synthetic methane increases from 77.2 to 153.2 TWh, raising its contribution from 8.1% in SCN_40 to 26.5% in SCN_60. The residual backup requirement decreases by 61.0%, from 599.3 to 233.5 TWh, but still covers 40.4% of the gap in SCN_60 and is required on 14.0% of simulated days. Extending nuclear operation therefore reduces the magnitude and frequency of balancing requirements but does not eliminate the need for firm backup generation under the modeled assumptions.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106638",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106638",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Iván Merino Rodríguez",
+      "F. Álvarez‐Velarde",
+      "Alejandro Prada Valverde",
+      "Pablo Romojaro",
+      "Constanza Mora Inzunza",
+      "Victor J. Casas-Molina"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214983836",
+    "title": "Conceptual study of a supercritical CO2-cooled, triply periodic minimal surface lattice-based microreactor",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106627",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106627",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Nicolas Martin",
+      "Silvino Balderrama Prieto",
+      "Paul Ferney"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214937105",
+    "title": "ForewordSpecial Issue on Tools and Methods for Spent Nuclear Fuel Management",
+    "abstract": "Used nuclear fuel management remains one of the nuclear industry’s most persistent and consequential challenges. As of 2025, an estimated 447 000 metric tons of heavy metal (MTHM) of used fuel had ...",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1080/00295450.2026.2726097",
+    "doi": "https://doi.org/10.1080/00295450.2026.2726097",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Harish Reddy Gadey"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214994600",
+    "title": "Network Algorithm-Based Implications of Nuclear Energy Capacity Expansion for Climate Mitigation",
+    "abstract": "This study aims to develop an advanced, AI-driven System Dynamics model utilizing the Internet of Everything (IoE) to evaluate the impact of tripling nuclear energy capacity on climate change mitigation in alignment with the 28th Conference of the Parties (COP28) objectives. The Internet of Things (IoT), a network of interconnected devices, has been employed for computer system communication. The IoE extends this concept to encompass a more interconnected world, integrating processes, data, objects, and individuals. A dynamic simulation of 100 months was conducted, examining the interactions of Things, People, Data, and Processes. While the classification of Things increased steadily, the People category exhibited two distinct peaks at the 30th and 55th months, with false positives (FP) outnumbering Ttue positives (TP), false negatives (FN), and true negatives (TN). FN and TN demonstrated comparable trends. The Data category increased gradually across all classifications, while Processes declined with sporadic drops. A comparison of Recall (RC) and Precision (PC) shows consistently higher RC values, with People achieving the highest overall. These findings offer actionable insights for large-scale IoT and IoE systems in energy, manufacturing, transportation, and smart cities. Trends like steady growth in Things and Data, human-system volatility, and the importance of recalibration help organizations optimize system design, reduce errors, and improve smart infrastructure adaptability.",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-09-29",
+    "url": "https://doi.org/10.1080/00295450.2026.2737542",
+    "doi": "https://doi.org/10.1080/00295450.2026.2737542",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kyung Bae Jang",
+      "Chang Hyun Baek",
+      "Tae Ho Woo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7214915470",
+    "title": "Real-time prediction of transient temperature fields in continuous casting using a thermophysical-property-embedded conditional Fourier neural operator",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129651",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129651",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Long Chen",
+      "Fan Zhao",
+      "Peilin Yan",
+      "Yang Li",
+      "Xinhua Liu",
+      "Jianxin Xie"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214957594",
+    "title": "Modeling and validation of heat and mass transfer characteristics within a packed bed: Water immersion and hot-air drying of propellants",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129640",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129640",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Anwen Zhao",
+      "Xiaoting Rui",
+      "Zhanhong Xiao",
+      "Bao Rong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214965324",
+    "title": "Large-eddy simulation of dual planar jet flow and heat transfer near a wall",
+    "abstract": "The present work aims to study the flow and thermal characteristics of multiple planar turbulent jet configurations comprising a wall jet and an offset jet by performing large-eddy simulations (LES). The general configuration is such that the wall jet enters parallel to and along the bottom wall, while the offset jet is also aligned parallel to the bottom wall, but is positioned at a specified offset distance. The Incompact3d numerical flow solver is used to run the LES. The solution procedure is thoroughly verified with direct numerical simulation (DNS) data available in the literature on planar wall jets. The present work aims to analyze five different configurations through two sets of analysis. The first set of analysis is conducted for three different offset ratios, O R = 5 , 3 , 2 for R e = 7500 and a velocity ratio (VR) of 1. The second set of analysis is conducted for three different velocity ratios, V R = 2 , 1 , 0.5 for OR = 5, where the Reynolds numbers vary accordingly. For all cases, the Prandtl number of the fluid P r = 0.71 . A detailed investigation of the mechanism of momentum and energy transport is presented by analyzing flow and thermal statistics, the Nusselt number, turbulence kinetic energy (TKE) and energy spectra. A larger recirculation zone is observed for larger ORs, where the maximum TKE is observed. For OR = 5, the TKE dissipation at the wall scaled with inner variables is found to be 0.38 which is higher than the values reported in the single planar wall jet case in the literature.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129642",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129642",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "C. Ajay",
+      "Kameswararao Anupindi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214981006",
+    "title": "Thermal conductivity model for pure fluids and mixtures based on hidden scale invariance: Unifying gas, liquid, near-critical, and supercritical regions",
+    "abstract": "The thermal conductivity of fluids plays an important role in heat transfer processes. This work develops a new thermal conductivity model based on hidden scale invariance. An exponential-linear superposition relationship between the residual thermal conductivity and reduced density is established. The model has three correlation parameters for each pure fluid. The physical significance of the three parameters is explained using intermolecular interaction forces. For mixtures, the model only requires a weighted average of the pure fluid parameters, without introducing additional interaction parameters. Combined with the dilute gas term and the critical term, the model overcomes the divergence in the dilute gas region and the critical enhancement effect. Experimental thermal conductivity data were collected for 123 pure fluids (63,661 data points) and 150 mixtures (13,687 data points). The model achieves an average absolute relative deviation (AARD) of 3.2% for pure fluids, with 93% of the experimental data falling within ±10%. For mixtures, the AARD is 4.3%, with 92% of the experimental data falling within ±10%. In addition, validation was performed using the widely applied models in REFPROP 10.0, and the AARD for both pure fluids and mixtures differ by less than 1% from those of the proposed models. It provides a reliable tool for fluid thermal conductivity prediction.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129635",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129635",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiongwei Wang",
+      "Yanxing Zhao",
+      "Hao Guo",
+      "Dong Xueqiang",
+      "Xiaoxian Yang",
+      "陈海龙",
+      "公茂琼"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214986992",
+    "title": "Turbulent and non-isothermal devised topology cooling plates for liquid-cooled energy storage battery system",
+    "abstract": "Topology-optimized cooling plates effectively exploit the hydraulic-thermal performance of battery thermal management. However, the turbulent state and thermal-dependent parameters of the coolant remain persistently overlooked inside the design loop. The resulting channels are therefore optimized for a flow regime and a set of properties that the cooling plate not experiences. Here we establish a turbulent and non-isothermal topology optimization model for a 46.59 kWh energy storage battery module. Penalty terms on the design variables suppress the spurious turbulent kinetic energy and dissipation of the solid phase in the k - ε RANS equations. The temperature-dependent properties of the coolant are updated while the topology is still being formed. Results found that the turbulent flow-devised design yields a superior performance evaluation criterion than straight-channel and laminar-devised designs, particularly at Reynolds number of 5000, where the improvements reach about 93.2 and 129.5%, respectively. Its slender fins keep the streamline curvature low, and the branched channels reduce the synergy angle between the velocity and the temperature gradient. Additionally, low-Prandtl-number liquid metal favors broad and interconnected channels, while high-Prandtl-number fluids favor finer and more numerous fins that enlarge the wetted area and thin the hydrodynamic boundary layer. At module scale, the ethylene glycol/water solution allows stronger lateral heat dissipation and reduction in downstream thermal accumulation, reducing residual battery heat by about 8.9% at discharge rate of 0.75 C and inlet Reynolds number of 5000.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129665",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129665",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Lin Xiang-wei",
+      "YU Meng-Lin",
+      "Xin-Yi Lin",
+      "Yu-Tong Xie",
+      "Zhifu Zhou",
+      "Liejin Guo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214995111",
+    "title": "Enhanced film cooling performance using a crescent-dimple vortex generator at hole exit surface",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129655",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129655",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yuan Li",
+      "Yuli Cheng",
+      "Yu Rao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214908386",
+    "title": "Adaptive auxiliary heating for PEMFC cold start: From strategy comparison to data-driven temperature-feedback optimization",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133411",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133411",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Wen-Zhen Fang",
+      "Jiye Xing",
+      "Y. Chen",
+      "Hao-Qiang Pang",
+      "Yuqing Tang",
+      "Wen-Quan Tao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214913400",
+    "title": "Experimental analysis on falling film absorbers using ionic liquids for cold store conditioning",
+    "abstract": "Frost formation on air coolers causes energy losses and operational disruptions in cold stores. This study investigates an ionic liquid-based open absorption system for frost-free air conditioning of cold stores. A dual-circuit absorber–regenerator test bench was developed to experimentally characterize the system under relevant operating conditions. The absorber and regenerator were evaluated using the mass transfer coefficient k m and Sherwood number Sh . Sherwood numbers in the range of Sh ≈ 4.4 − 7.0 were obtained, corresponding to mass transfer coefficients of k m ≈ 9.1 − 14.6 mm/s . The Sherwood number was found to be largely independent of desiccant solution mass flow rate and cooling or heating temperature, indicating gas-side diffusion-limited mass transfer with stable liquid-film wetting. Compared with a conventional air cooler, the absorber-based system prevented frost formation and maintained stable cooling performance while allowing regeneration using low-grade waste heat from the refrigeration system at 42 ° C. Frosting and defrosting losses in an idealized conventional system were found to account for at least 8% of the cooling energy. A system-level energy assessment showed that even the lab-scale absorber-based system could reduce electrical energy demand by 1.4 ± 0.6 % compared with the idealized conventional system. For a full-scale system operating under non-ideal conditions, the achievable savings are expected to be considerably higher. Moreover, the heat exchanger of the absorber-based system can be built 25% smaller while providing the same cooling capacity, as its performance is not degraded by frost formation. These findings demonstrate the potential of absorber-based systems for frost-free, stable, and energy-efficient cold store conditioning.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133357",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133357",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Felix Hochwallner",
+      "Ben Stephani",
+      "Johann Emhofer",
+      "Christoph Reichl"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214916458",
+    "title": "Impact of intake temperature on diesel engine combustion and emissions: a comprehensive analysis of spray impingement and adhered film effects on soot and NOx formation",
+    "abstract": "Due to the critical challenges of heavy-duty diesel engines in cold-start performance and emission control under variable intake temperatures, especially in extremely low-temperature environments, a thorough understanding is necessitated. This study systematically investigates the effects of intake temperature from −10 °C to 20 °C on fuel-air mixing, combustion characteristics, power output, soot and NOx emissions through three-dimensional CFD simulation. The results demonstrate that as intake temperature decreases from 20 °C to −10 °C, IMEP increases from 8.62 bar to 8.85 bar due to enhanced premixed combustion and shortened main combustion period. NOx emissions rise nonlinearly from 1380 ppm to 1645 ppm driven by prolonged ignition delay and expanded high temperature zones. Soot emissions exhibit a non-monotonic trend with a minimum at 0 °C, resulting from two distinct formation pathways. At 10 °C and 20 °C, soot formation is dominated by thermal cracking of atomized fuel and rapid film evaporation, with limited OH oxidation leading to high soot residue. Conversely, at −10 °C, slow evaporation of fuel films during expansion generates secondary soot precursors such as A4 and C 2 H 2 , causing an emission rebound. The 0 °C condition achieves an optimal balance between soot formation and oxidation. Sensitivity analysis confirms that soot emissions exhibit the highest temperature sensitivity with an index greater than 1.6 under both low- and high-temperature conditions, whereas IMEP remains relatively stable. The research reveals the nonlinear influence of intake temperature on the cold-start combustion and emissions, providing theoretical and engineering guidance for optimizing cold-start strategies and emission control of heavy-duty diesel engines operating in extreme cold climates.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133466",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133466",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhikun Cao",
+      "Zhengyang Cui",
+      "Chen Dong",
+      "Shuhao Li",
+      "Guixian Zhang",
+      "Han Wu",
+      "Chiafon Lee",
+      "Shuanghui Xi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214925737",
+    "title": "Adaptive energy management of off-grid photovoltaic-proton exchange membrane systems integrated with heat pumps via multi-module reinforcement learning",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133468",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133468",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ge Wei",
+      "Du Zhimin",
+      "Wen Tang",
+      "Zhiquan Wu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214947910",
+    "title": "Multi-objective intake strategy optimization for elliptical rotor engines with unique intake system",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133464",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133464",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "裴毅强",
+      "Yingbo Wang",
+      "Jing Qin",
+      "Xiwen Deng",
+      "Dasuo Yao",
+      "Jilin Lei"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214954142",
+    "title": "Dual-face unilateral Laplace-transform formulation for estimating thermal diffusivity and the Biot number in finite-pulse laser-flash analysis with front-face heat loss",
+    "abstract": "In this work, we develop a dual-face unilateral Laplace-domain formulation for finite-pulse laser-flash analysis under front-face heat loss. The specimen is modelled as a homogeneous one-dimensional slab heated by an exponentially decaying surface pulse, with linear heat exchange at the irradiated face and an insulated rear face. In the transformed domain, the front- and rear-face responses share the same pulse factor, temperature scale, diffusion-time prefactor, and heat-loss denominator. Their ratio cancels these common terms and isolates the through-thickness diffusion variable, yielding explicit multipoint formulas for the thermal diffusivity α , front-face Biot number B i , and adiabatic-limit temperature T S , including a self-calibrating route when the absorbed energy is unknown. Matched-model Monte Carlo simulations show that α is the best-conditioned quantity. At 5% noise, its bias is about −0.14%, its root-mean-square error (RMSE) is 1.44%, and 99.7% of estimates lie within ± 5 % . A finite-window late-time integral benchmark gives larger diffusivity RMSEs, reaching 7.88% at 5% noise, although its B i estimate is more accurate at the highest noise level. A two-dimensional axisymmetric forward model assesses model discrepancy from rear and lateral heat losses and uniform finite-depth energy deposition. Rear and lateral losses bias α downward, whereas finite-depth deposition produces the opposite effect. For a representative combined perturbation in which the rear-loss Biot number, the lateral-loss Biot number, and the normalized deposition depth are each set to 0.01, the diffusivity bias is about −2.23% and the RMSE about 2.26% at 2% noise, while the recovered front-face Biot number is more sensitive to model mismatch. Overall, the formulation provides an interpretable route for dual-face laser-flash data reduction with quantified noise sensitivity and limits of validity.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133413",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133413",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yassine Chihab"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214954837",
+    "title": "Framework for fire risk assessment and resilience optimization of building-integrated photovoltaic façades",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133342",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133342",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chengming Xiao",
+      "Rui Zhou",
+      "Chiara Bedon",
+      "Yu Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214958416",
+    "title": "Topology optimization and heat-transfer enhancement mechanisms of microchannels based on field synergy, entransy dissipation, and entropy generation",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133471",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133471",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yuwei Liu",
+      "Jintao Liu",
+      "Jinghui Liang",
+      "Wenwei Jiang",
+      "Yuanzhi Sun",
+      "Changhui Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214958992",
+    "title": "Dynamic thermal response modelling for urban development: an approach integrating a LSTM-AM predictive model with a multi-physical field coupling model",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133454",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133454",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xingmou Liu",
+      "Hao Yang",
+      "Yan Gu",
+      "Xiaotao Fang",
+      "Yi Wang",
+      "Qianqian Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214962243",
+    "title": "Enhancing flexible thermoelectric conversion by efficient interfacial heat conduction via synergistic effect of highly thermally conductive graphite sheets and highly adhesive hydrogels",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133404",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133404",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Libin Ou",
+      "Liyu Zheng",
+      "Pengcheng Lin",
+      "Ying Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214972473",
+    "title": "Characterization and performance analysis of scalable SrCl2@activated alumina composite sorbents for low-temperature thermochemical heat storage",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133461",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133461",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Wei Li",
+      "Gang Wang",
+      "Qi Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214976136",
+    "title": "Field performance assessment of dynamic ice slurry cold thermal energy storage in a hybrid building cooling system",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133475",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133475",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yuwei Fan",
+      "Xuyan Song",
+      "Kun Li",
+      "Ruju Zhang",
+      "Pei Li",
+      "Jia Liu",
+      "Zhao‐Rui Peng",
+      "Xin-Rong Zhang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214987514",
+    "title": "A review on intelligent thermal management in flow field with heat transfer for electric vehicles",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133412",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133412",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ruizhuo Zhou",
+      "Y Zhang",
+      "Ding Luo",
+      "Guohua Wang",
+      "Zhe Zhang",
+      "Xiaowen Zang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214896815",
+    "title": "Impingement heat transfer performance of a square turbulent jet modified by slotted orifice synthetic jets",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111376",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111376",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Rituraj Patel",
+      "Venugopal Arumuru"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214898446",
+    "title": "Multi-field coupling mechanism of internal fin radial length on two-phase flow in gravity-assisted heat pipe",
+    "abstract": "Aiming at the unclear regulatory mechanism of internal fin parameters in the evaporation section of gravity-assisted heat pipes (GAHPs) and the insufficient systematic interpretation of the physical nature behind non-monotonic heat transfer behavior in industrial waste heat recovery, this paper establishes a three-dimensional numerical simulation framework coupled with the VOF-Lee-CSF model. Validated by bench-scale experiments, it quantitatively analyzes how circumferential internal fins with radial lengths of 1–8 mm affect in-tube gas-liquid two-phase flow and phase-change heat transfer. The results show that fin radial length exerts bidirectional nonlinear regulation on heat pipe performance through the synergy of vortex evolution and nucleate boiling modulation, with 6 mm as the optimal radial dimension. Under this condition, the heat transfer coefficients of the evaporation and condensation sections rise by 27.27% and 24.67% respectively compared with the 1 mm baseline, and the relative deviation between simulation and experiment stays within 12%–20%. These findings supplement the mechanistic explanation of fin-enhanced heat transfer in gravity-driven two-phase systems and provide quantitative reference for refined heat pipe structural design.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111340",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111340",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xuefeng Feng",
+      "Zhaojie Xu",
+      "Zhongqi Ren",
+      "Zhongwei Ding",
+      "Qunsheng Li",
+      "Hongkang Zhao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214899670",
+    "title": "A consistent thermal lattice Boltzmann model for solids, fluids and porous media and its applications",
+    "abstract": "Heat transfer in composite solid–fluid–porous systems is complicated by discontinuous heat capacity and thermal diffusivity, often requiring explicit correction terms in unified thermal lattice Boltzmann models. Building on Wang's unified local thermal equilibrium (LTE) formulation, the published D2Q5 model is extended to D2Q9 as a matched reference, and a source-term-free moment-feedback reconstructed-equilibrium BGK model (MFRE-BGK) is developed. The heat-capacity-ratio correction is generated from current local non-equilibrium moments and embedded in the collision target, avoiding explicit evaluation of the macroscopic temperature time derivative and storage of the preceding temperature field. Chapman–Enskog analysis recovers the target energy equation within smooth material subdomains, and a resolved half-link benchmark confirms temperature and heat-flux consistency under ideal contact. Numerical tests show near-second-order accuracy for smooth convection–diffusion, errors below 0.5% in moderate-contrast cases, and bounded solutions in the tested high-contrast cases. The reservoir application captures advection-controlled thermal-front migration and heat-load redistribution. Under the retained 16-thread reservoir protocol, MFRE-BGK reduces total runtime by 29.1% and increases thermal throughput by 48.1% relative to the explicit-correction formulation. These results demonstrate the applicability of MFRE-BGK to two-dimensional heterogeneous conjugate heat-transfer problems.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111361",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111361",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haoqi Song",
+      "Zengchun Sun",
+      "Kezheng Zhao",
+      "Xinxin Du",
+      "Guochong Liu",
+      "Chengxuan Du"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214912856",
+    "title": "Plasmonic properties and electric field enhancement of core-shell Au@AgxAu1-x nanoshuttles embedded in water and in whole human blood",
+    "abstract": "This study focuses on the analysis of the surface plasmon resonance (SPR) properties and electric field enhancement of core@shell nanoshuttles (Au@Ag x Au 1-x ), consisting of a gold (Au) nanorod core and a nanoshuttle-shaped alloy shell Ag x Au 1-x , embedded in water and in a biological medium. Finite Element Method (FEM) simulations are performed to investigate the effects of various parameters on the optical response of these nanoparticles (NPs), such as shell thickness, aspect ratio, alloy composition of the Ag x Au 1-x shell, and the polarization angle of the incident electromagnetic field. The results show strong tunability of the longitudinal SPR mode, which exhibits a pronounced redshift toward longer wavelengths as the shell thickness decreases, while the transverse mode is only slightly affected. The incorporation of silver (Ag) into the Au-shell significantly enhances the plasmonic performance and near-field enhancement capability, leading to higher absorption efficiency, improved field-map contrast in the vicinity of the NP, enhanced spectral tunability, and reduced plasmon damping compared to monometallic Au nanostructures. Furthermore, the SPR response exhibits a strong dependence on polarization, with maximum absorption occurring when the incident field is aligned with the longitudinal axis of the nanoshuttle. These results demonstrate the potential of Au@Ag x Au 1-x core–shell nanoshuttles as tunable plasmonic platforms for optical biosensing and surface-enhanced spectroscopic applications, motivated by their strong NIR absorption and pronounced near-field enhancement.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111374",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111374",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ahmed Akouibaa",
+      "R. Masrour",
+      "Abdelilah Akouibaa",
+      "M. Benhamou",
+      "E. Farkouch",
+      "H. Heryanto",
+      "H. El Ouardi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214930474",
+    "title": "Buoyancy-driven secondary flows and coke particle transport dynamics in heated curved channels",
+    "abstract": "Curved cooling channels are unavoidable geometric constraints in hypersonic scramjet engines, where their spatial orientation dictates the thermofluid behavior of Rocket Propellant-3 aviation kerosene. This study systematically elucidates the driving mechanisms of buoyancy within curved channels under various layouts, revealing its regulatory effects on spatiotemporal thermal-fluid fields and macroscopic coking characteristics. The results show that the circumferential wall temperature exhibits an S-shaped non-uniform profile. Heat transfer deterioration in the horizontal-horizontal (HH) and horizontal-upward (HU) configurations occurs along the inner and top walls, respectively. Conversely, the horizontal-downward (HD) configuration undergoes a restructuring of internal thermal fields, significantly enhancing overall heat transfer and alleviating regional deterioration.Hydrodynamic analysis indicates that the HD configuration induces a stronger radial secondary flow, optimizing fluidic mixing. However, this intensive radial perturbation causes the dimensionless radial forces on discrete coke particles to escalate sharply, contributing up to 0.5 of the net force, which degrades the streamward velocity coupling and leads to a tracking lag where the Stk/Stk NG exceeds 1.2. At the microscopic level, this intensive secondary flow disrupts the spatial focus of granular transport, avoiding preferential accumulation, and suppresses particle agglomeration through hydrodynamic shear stripping. Macrostructurally, while HH and HU exhibit comparable coking magnitudes, the HD configuration yields the lowest total coke mass, proving its prominence in proactive coking mitigation. Crucially, when the buoyancy parameter recedes below Gr b /Gr th < 30, its regulatory dominance over flow, heat transfer, and particle transport diminishes markedly across all layouts. Ultimately, this work provides precise mechanistic guidance for cooling network optimization and safeguards the high-Mach long-endurance flight of hypersonic vehicles.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111356",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111356",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xinyuan Wang",
+      "Zhenjian Jia",
+      "Zhipeng Ren",
+      "Weixing Zhou"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7214966566",
+    "title": "Chaotic mechanisms of heat-transfer enhancement governed by bubble-growth dynamics in a bottom-blown multiphase flow",
+    "abstract": "Bottom-blown multiphase stirring is intrinsically nonlinear and remains difficult to optimize using only averaged flow or heat-transfer parameters. This study establishes a visualized hydraulic model to examine how the initial temperature difference, ΔT, and dispersed-phase flow rate, U d , jointly regulate bubble growth, chaoticity, and direct-contact heat transfer. An empirical correlation for the ensemble-averaged equivalent bubble diameter is developed and validated, and the bubble-area time series is analyzed using the correlation dimension, the 0-1 test, and the maximum Lyapunov exponent. Bubble diameter increases with ΔT and U d , and the proposed correlation predicts the ensemble-averaged equivalent diameter with a MAPE of 2.25%, an RMSE of 0.363 mm, and a maximum relative error of 9.91%. Chaotic intensity responds nonlinearly to the operating conditions and reaches a maximum at ΔT = 100 °C and U d = 0.6 kg·s −1 , where Dc = 2.896 and λ max is highest. The ΔT-U d regime map, the Nu-Re reformulation, and the positive correlation between λ max and h (r = 0.847) jointly show that a relatively high temperature difference combined with a moderate flow rate favors both chaos intensification and heat-transfer enhancement. These results clarify the coupled chain linking bubble-structure evolution, chaos intensification, and heat-transfer enhancement, and provide a basis for operating-window optimization in bottom-blown metallurgical processes.",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-09-30",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111359",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111359",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chong Tang",
+      "Rumeng Dong",
+      "Huan Zou",
+      "Xueping Zhang",
+      "Rong Chen"
+    ],
+    "category": "heat-transfer"
   }
 ]
