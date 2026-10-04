@@ -333126,5 +333126,445 @@
       "Xingquan Zhang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7215903115",
+    "title": "Development of new lead-free borate glasses: Experimental evaluation for the impact of BaO on radiation shielding properties of glasses",
+    "abstract": "This study investigated advanced glass compositions for gamma-ray shielding consisting of (78-x) B 2 O 3 -8MgO-13ZnO-1Eu 2 O 3 -xBaO, x = 23, 26, 29, and 32 mol%. Attenuation coefficients were calculated experimentally and simulated. The results between the two methods are fairly similar, with a ± 5 % experimental–measured data difference. The addition of BaO improves the shielding performance of the prepared BMZE glass. The progression of the BaO concentration from 23 to 32 mol% within the prepared BMZE glasses causes an improvement in their LACs from 0.299 to 0.319 cm −1 at 661.7 keV and shows a consistent improvement over the examined gamma-ray energy range of 59.5–1332 keV. It is shown that the BMZE1–BMZE4 glass samples exhibited superior protection performance to RS 323 G19 lead-based shielding commercial glass, which contains 33 % lead oxide and 1.8 % cerium oxide, while BMZE4 exhibited superior protection performance to RS 360 lead-based shielding commercial glass, which contains 45 % lead oxide. Therefore, the prepared BMZE4 glass represents a lead-free shielding glass alternative for hospital nuclear medicine applications.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112873",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112873",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "M. Elsafi",
+      "M.I. Sayyed",
+      "K.A. Mahmoud"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216271451",
+    "title": "Reinforcement learning for BWR fuel management",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112886",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112886",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Loukas Carayannopoulos",
+      "Koroush Shirvan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7165738425",
+    "title": "Development of Monte Carlo Estimators of the Flux Gradient for the GUARDYAN GPU-Based Dynamic Monte Carlo Code",
+    "abstract": "Conference paper presented at PHYSOR 2026 - The International Conference on Physics of Reactors. Published in Proceedings of PHYSOR 2026 International Conference. ISBN: 979-12-81583-46-7. Conference website: https://www.physor2026.org/. Session: R11. Monte Carlo Methods. Paper ID: 444. Copyright transferred to Politecnico di Torino by the authors for publication in the PHYSOR 2026 proceedings. This record is distributed as Open Access under the Creative Commons Attribution 4.0 International license (CC BY 4.0).",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1080/00295639.2026.2731521",
+    "doi": "https://doi.org/10.1080/00295639.2026.2731521",
+    "cited_by_count": 0,
+    "keywords": [
+      "Monte Carlo estimators",
+      "flux gradients",
+      "kinetic Monte Carlo",
+      "reactor physics",
+      "neutron transport"
+    ],
+    "authors": [
+      "E. Pázmán",
+      "D. Légrády",
+      "Tamas  Zoltan Hajas"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216090819",
+    "title": "Full-Core Cycle Analysis for the OECD/NEA TVA Watts Bar Unit 1 Benchmark with CMSYS Code System",
+    "abstract": "This study presents a full-core cycle analysis of the Organisation for Economic Co-operation and Development, Nuclear Energy Agency, Tennessee Valley Authority (TVA) Watts Bar Unit 1 (WB1) benchmark using the Paul Scherrer Institute Core Management System (CMSYS), based on the Studsvik codes CASMO-5, CMSLink, and SIMULATE-5. The analysis includes all seven exercises of the TVA WB1 benchmark, covering zero-power physics tests (ZPPTs) and depletion calculations for three consecutive cycles of operation, with cross verification against plant measurements and published KENO-VI, VERA, and nTRACER/CTF results. For the Cycle 1 ZPPT, compared to the measurements, the results predicted by CMSYS have 186 pcm difference for critical eigenvalues, 66 pcm for single control rod worth (CRW), and 119 pcm for total CRW. During Cycle 1 depletion, the critical boron concentration letdown curve agrees with the measurements within 23 ppm; corresponding maximum deviations are within 47 ppm for Cycles 2 and 3. Pin-by-pin radial power comparisons against VERA show generally small discrepancies in the core interior and larger differences near the periphery, while axial peak power differences remain limited to −0.53% at the beginning of cycle, 0.23% at the middle of cycle, and 2.72% at the end of cycle. Overall, the results demonstrate that CMSYS provides accurate and consistent full-cycle predictions for the WB1 benchmark and supports its use for high-resolution pressurized water reactor core analysis.",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1080/00295639.2026.2736331",
+    "doi": "https://doi.org/10.1080/00295639.2026.2736331",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jin Li",
+      "Alexey Cherezov",
+      "Alexander Vasiliev",
+      "Hakim Ferroukhi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216156590",
+    "title": "On the Convergence of Monte Carlo–Generalized Polynomial Chaos for Uncertainty Propagation in K eff Computations for Neutronics",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1080/00295639.2026.2727774",
+    "doi": "https://doi.org/10.1080/00295639.2026.2727774",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Gaël Poëtte"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7215738596",
+    "title": "Investigation of Performance of a Large-Scale Water-Based RCCS Under Varying Decay Heat Loads",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1080/00295450.2026.2727814",
+    "doi": "https://doi.org/10.1080/00295450.2026.2727814",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Qiuping Lv",
+      "Matthew Jasica",
+      "Darius Lisowski",
+      "Zhiee Jhia Ooi",
+      "Rui Hu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7215762038",
+    "title": "Assessment of occupational radiation exposure from gamma-emitting rad ionuclides in the bio-shield of Kori Unit 1 during decommissioning",
+    "abstract": "The external dose to the workers of bio-shield of the Kori Unit 1 was evaluated by using the VISIPLAN 4.0 code to secure the radiation safety of its decommissioning work. In particular, radionuclide-specific activity concentration data, derived from prior MCNP simulations, were used to model three-dimensional radiation work scenarios. Each scenario was simulated with shielding and sampling configurations to calculate the external dose rates. Worker operation times were estimated based on the ICRP-recommendation and Nuclear Safety Act of annual average dose limit of 20 mSv. Variations in worker role, position, and task duration resulted in substantial disparities in individual cumulative doses. The maximum dose rate in scenario 1 under the 8-year cooling condition was 2.3 × 10 −1 mSv/h at 3 m height, decreasing to 9.3 × 10 −2 mSv/h under the 15-year condition (∼60 % reduction). A 20 mm lead shield reduced the dose rate by ∼86 %. The total dose rate in scenario 2 under the 8 year cooling condition was 1.33 × 10 1 mSv of workers 1 and 2, ∼22 times that of Worker 3. The minimum required shielding thickness was estimated at 14.8 mm. The allowable number of complete sampling operations was 32 and 80 for the 8 and 15 year cooling conditions, respectively.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.net.2026.104745",
+    "doi": "https://doi.org/10.1016/j.net.2026.104745",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ja Yeong Yoon",
+      "Hyeonmin Lee",
+      "Seungbin Yoon",
+      "Min Ji Kim",
+      "Hee Reyoung Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216423654",
+    "title": "Comparing advanced model and human observers for CT detectability index under varied tube currents and contrasts",
+    "abstract": "Objective This study aims to compare the detectability index (d′) between the human observer (HO) and advanced model observer (AMO) using the Non-Prewhitening Observer (NPW) and Non-Prewhitening Observer with Eye Filter (NPWE) for various tube currents and low-contrast objects. Methods Image data were obtained using the ACR 464 phantom at three different tube current levels (i.e., 80 mA, 140 mA, and 200 mA). The task object had contrast levels ranging from 3 HU to 15 HU, with a diameter of 3 mm. The task objects used a Gaussian profile model. The d′ values were measured using the AMO with NPW and NPWE models, while HO values were computed using the 2-AFC method. Each configuration consisted of 100 signal-present and 100 signal-absent images. Results The results demonstrated that the d′ values obtained from AMO displayed a trend similar to those derived from HO. Increases in the tube current and contrast resulted in higher d′ values across all observers. Correlation analysis revealed that NPW and NPWE showed a strong relationship with HO ( r = 0.979; p < 0.001) and ( r = 0.976; p < 0.001), respectively. Conclusion This study confirms that the AMO can effectively replicate object detection with accuracy comparable to that of HO. This behaviour was consistently observed across variations in tube current and low-contrast objects.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.net.2026.104751",
+    "doi": "https://doi.org/10.1016/j.net.2026.104751",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Keyla G.A. Mulyana",
+      "Choirul Anam",
+      "Qidir M. B. Soesanto",
+      "Ariij Naufal",
+      "Noor Diyana Osman"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7215902268",
+    "title": "Development and Verification of an Efficient 3-D Finite Element Analysis Model for Irradiation Deformation of the Fast Reactor Fuel Assembly",
+    "abstract": "The existing performance analysis of the fast reactor fuel assembly faces the challenge of balancing high-fidelity and computational efficiency. This study develops a 3-D irradiation deformation analysis model based on ABAQUS to address this conflict. The model employs shell elements to simulate claddings and the hexagonal duct, beam elements for wrap wires, and simplifies complex mechanical interactions using Tie Constraint, Axial Connector element, and General Contact. User subroutines are implemented to incorporate material irradiation behaviors and the non-uniform operating conditions. A parametric automatic modeling method is also developed to construct simplified structures and mechanical interactions. The analysis model has been verified against out-of-pile compression test for a 127-pin fuel bundle and an irradiation deformation benchmark case for a 169-pin fuel assembly, with verification parameters such as gap variation and ovalization. Results demonstrate good agreement with errors within 20%. Furthermore, compared with the simplified model in BAMBOO, the present model demonstrates higher accuracy in the simulation of mechanical interactions and possesses the capability to capture cladding circumferential effects; compared with the full-scale detailed model, the present model achieves comparable results while improving solution speed by over 100-fold for a 7-pin fuel assembly. This model is reliable, efficient and easily extensible for irradiation deformation analysis and design optimization of fast reactor fuel assemblies.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104736",
+    "doi": "https://doi.org/10.1016/j.net.2026.104736",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haoyu Wang",
+      "Guangliang Yang",
+      "Zhifan Zhou",
+      "Junxian Cao",
+      "Yongzhong Huang",
+      "Jing Zhang",
+      "Yuanming Li",
+      "Lei Shi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7215938815",
+    "title": "Geant4-Based Differentiable Optimization for Energy-Response Flattening of a Multi-Detector Neutron Long Counter",
+    "abstract": "To address the significant energy dependence of long neutron counter responses in wide-energy-range fluence measurements, this paper proposes a differentiable-optimization-based method for flattening the energy response of a multi-detector long neutron counter. A Geant4 model of the multi-detector long counter was developed, and the energy–position response matrix of this detector was constructed for the energy range of 1 eV to 20 MeV. The relative standard deviation (RSD) of the synthesized response was used as the flatness metric, and two optimization approaches—discrete combinatorial search and differentiable continuous optimization—were compared. The results show that multi-position response synthesis effectively improves the response flatness of the long counter across a broad energy range. For a detector array with K = 8, the sampled combinatorial-search benchmark identified a configuration with an RSD of 3.79%, whereas differentiable optimization yielded 2.98%, indicating a lower RSD under the present calculation settings. Additionally, embedding tungsten rods in the moderator of a long neutron counter was found to improve the overall flatness of its response. Independent verification simulations were performed by placing 6 Li micro-detectors at the eight optimized axial positions, yielding a verified RSD of 2.84%. This study demonstrates that the proposed method effectively enhances the wide-energy-range response consistency of the multi-detector long counter and provides a reproducible computational framework for position optimization in such detector systems.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104756",
+    "doi": "https://doi.org/10.1016/j.net.2026.104756",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ziyang Gan",
+      "Lizhen Liang",
+      "Bing Hong",
+      "Xiaohua Li",
+      "Cong Yang",
+      "Xin Xu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7215978512",
+    "title": "Robustness of moving-window Ib-value analysis for acoustic-emission-based fracture precursor detection under severe background noise",
+    "abstract": "Background noise in operating nuclear power plants masks the acoustic emission (AE) signals of micro-cracks and hinders early fracture-precursor detection. A moving-window Ib-value methodology is proposed and validated by a proof-of-concept tensile test on a notched SM45C carbon steel specimen. For 651 crack signals screened by source location, the energy-based b-value (Aki's maximum likelihood method) and the Ib-value were evaluated, and detection-threshold elevation was emulated by removing up to 50% of the low-amplitude data. The cumulative approach diluted the precursor and never reached the alarm criterion of 1.0, whereas the 100-hit moving window immediately captured the shift of the crack mode from shear to tensile. Under increasing noise, low-amplitude micro-crack signals were selectively lost (survival 100% to 40%, against 100% for macro-cracks), biasing the b-value by up to −19.8%, while the Ib-value, which evaluates only the distribution's statistical center, stayed within ±4.9%. Across 0–40% hit loss it still crossed the criterion 7.4–11.8 s before rupture, at 98.4–99.3% of peak stress. The moving-window Ib-value is therefore markedly less sensitive than the b-value to the selective loss of low-amplitude AE events caused by threshold elevation. Generalization to full background-noise robustness, which also involves waveform superposition and parameter distortion, requires further validation.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104755",
+    "doi": "https://doi.org/10.1016/j.net.2026.104755",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Doyun Jung",
+      "Byun-Young Chung",
+      "영철 최"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216494421",
+    "title": "Structural integrity assessment and manufacturability-oriented design improvement of the HCCP TBM shield",
+    "abstract": "The Helium Cooled Ceramic Pebble (HCCP) TBM shield is a safety-important component (SIC-1) serving as a vacuum boundary and the first confinement barrier, and a design with a simplified internal structure has been proposed to improve its manufacturability. In this study, a structural integrity assessment of the simplified HCCP TBM shield was performed in accordance with RCC-MRx 2018, considering 15 single loads and 17 load combinations. The assessment covers all operating states, namely the normal operation state (NOS), the baking state, and the tritium outgassing state (TOS), as well as the electromagnetic and seismic loads. While sufficient margins were confirmed for the accidental loads, negative margins were found in the load combinations governed by the pressure in the baking state, identifying the baking state as the design driver of the TBM shield. The cause was analyzed to be the combination of the reduction in the allowable stress intensity at the elevated temperature of 240 °C and the increased bending stresses of the walls caused by the enlarged spacing between the internal plates. In the design improvement for the margin recovery, manufacturability was consistently applied as a decision criterion. Parameter studies on the side wall thickness, the front plate thickness, and the pipe casing layout were performed for an improved geometry in which the width of the shield block containing the pipe casing bends was increased, and it was confirmed that the combination of a 40 mm side wall and a front plate of 60 mm or thicker recovers the structural integrity in all shield blocks. In addition, it was quantitatively shown that the pipe casings act as structural stiffeners and that their reinforcing effect increases with the symmetry of the casing layout. These results provide a design solution reconciling the structural integrity with the manufacturability without reintroducing the internal plates, and a quantitative basis for the geometry optimization in the final design phase.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104763",
+    "doi": "https://doi.org/10.1016/j.net.2026.104763",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hyoseong Gwon",
+      "Seong Dae Park",
+      "이영민",
+      "김도현",
+      "임선택",
+      "Jae Sung Yoon",
+      "Suk-Kwon Kim",
+      "Mu-Young Ahn"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7216148322",
+    "title": "Molten droplet impact on particle layers for adhesion-free centrifugal slag granulation",
+    "abstract": "Efficient recovery of the immense thermal energy contained in high-temperature molten slags is critical for decarbonizing the energy-intensive industries. Dry centrifugal granulation offers a promising solution, yet its practical implementation is hindered by severe adhesion of granulated slag particles caused by insufficient cooling. Here, we propose an adhesion-free dry centrifugal granulation strategy enabled by porous water-quenched slag powders, which promotes droplet fragmentation while facilitating the transport and cooling of embedded particles. To elucidate the underlying mechanisms governing droplet-particle interactions, we performed high-speed visualization experiments of low-melting-point paraffin droplets impacting a horizontal single-particle-layer surface as a surrogate system for molten slags, capturing the coupled effects of impact spreading, phase-change cooling and particle embedding. Results indicate that elevated droplet temperatures reduce viscosity, intensifying penetration into the particle layer and enlarging the bottom adhesion area. Increasing the impact velocity from 1.4 to 2.42 m s −1 enhances the maximum spreading factor from 2.30 to 2.59, shortens the retraction duration by approximately 51%, and substantially increases interfacial adhesion. Dimensionless correlations are established to predict droplet spreading and adhesion behavior across varying impact conditions. These findings provide mechanistic insights into molten droplet interactions with self-derived particle layers and establish a quantitative foundation for designing adhesion-resistant dry granulation technologies for sustainable slag heat recovery.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129685",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129685",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Bin Ding",
+      "Xudong Chen",
+      "Rentao He",
+      "Cong Liang",
+      "Zhiqiang Gong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216557784",
+    "title": "Predictive capabilities of OpenFOAM compressibleVoF for cryogenic sloshing",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129646",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129646",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Antonio Cantiani",
+      "A. Novi",
+      "D. Gutierrez-Gonzalez",
+      "J. Steelant"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7215988273",
+    "title": "Uncertainty-aware multi-objective optimisation of a variable-compression-ratio hydrogen-diesel engine using physics-informed machine learning surrogates",
+    "abstract": "Hydrogen substitution raises both the efficiency of a compression ignition engine and its oxides of nitrogen, and compression ratio moves the two together, so the favourable operating region must be located rather than reasoned to. Surrogate models are used for this, but where one is reported to improve because physical knowledge was embedded, the physics and the model carrying it are varied together and cannot be separated. Applying the same physical treatment to nine regressor families under one protocol separates them. On a variable-compression-ratio hydrogen–diesel engine at 32 conditions, spanning compression ratios of 12–18, loads of 22–90% of rated and hydrogen energy fractions of 0.261–0.401, the treatment improved 22 of 27 model–target combinations, and gains were largest where the model had least capacity of its own: random forest prediction of oxides of nitrogen rose from 0.821 to 0.949, and ridge regression with four parameters matched a neural network carrying 2881. Adding a second fuel mode improved prediction where the mechanism is shared and degraded it where the apparent activation temperature differs by 25%, so the benefit follows the mechanism rather than the quantity of data. Efficiency per unit of oxides of nitrogen fell 27% between compression ratios of 12 and 18, placing the compromise near a ratio of 13 at 70% load, where each gram of hydrogen displaces 4.01 g of diesel. Predictive intervals covered 62–81% against a nominal 95%; calibrated, they span 35% of the measured efficiency range, so the recommendation is a region rather than a point.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133434",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133434",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Govind Sharma",
+      "Rajneesh Kaushal"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216048175",
+    "title": "Enhancing diluted syngas combustion via oxygen-enriched pre-chamber jet ignition",
+    "abstract": "Biomass-derived syngas is regarded as a promising renewable fuel with significant potential for reducing emissions in combustion engines, whereas its highly variable H₂/CO composition and CO₂/N₂ dilution severely deteriorate flame propagation and combustion stability. Although oxygen enrichment and pre-chamber jet ignition have individually demonstrated potential for improving low-reactivity fuel combustion, their combined effects on the fundamental and practical combustion characteristics of syngas remain poorly understood. This work experimentally investigates the laminar burning characteristics and pre-chamber combustion behavior of CO₂/N₂ diluted low-H 2 syngas under oxygen-enriched conditions. Laminar burning velocities were measured in a constant volume chamber at oxygen concentrations of 21–40% and equivalence ratios of 0.5–1.4, while pre-chamber jet ignition and flame propagation under ultra-lean conditions were visualized using high-speed Schlieren imaging. Results show that oxygen enrichment proves highly effective in enhancing flame propagation and offsetting CO₂/N₂ dilution inhibition. Elevating oxygen concentration from 21% to 40% increases the peak laminar burning velocity by up to 106.6%. Compared with CO₂ dilution, N₂-diluted syngas exhibits a stronger dependence of laminar burning velocity on equivalence ratio, reflecting different thermal-diffusive and chemical effects. Furthermore, the pre-chamber jet significantly enhances ignition stability for diluted syngas across a wide range of equivalence ratios, extending the ultra-lean operating limit to an equivalence ratio of 0.4 under 30% and 40% oxygen concentrations. The enhanced main chamber combustion under oxygen-enriched pre-chamber ignition exhibits a positive correlation with laminar burning velocity. These findings demonstrate an experimental relationship between fundamental flame propagation characteristics and practical pre-chamber combustion performance, providing valuable insights for designing and optimizing advanced syngas-fueled engine systems.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133511",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133511",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Shicai Ding",
+      "Shen Wu",
+      "Shuai Huang",
+      "Zehao Wu",
+      "Haini Ruan",
+      "Shiyan Li",
+      "Ping Yi",
+      "Fengnian Zhao",
+      "Ruitian He",
+      "Run Chen",
+      "Xinqi Qiao",
+      "Tie Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216333831",
+    "title": "Experimental and numerical investigation on the conjugate heat transfer characteristics of a double-wall turbine vane with mist injections",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133480",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133480",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiying Niu",
+      "Qun Zheng",
+      "Longan Hou",
+      "Jingchao Wang",
+      "Jie Gao",
+      "Feng Lin"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216425967",
+    "title": "Experimental investigation on the dynamic combustion–cooling coupled response in ramjet mode of an RBCC engine with annular-to-circular flowpath",
+    "abstract": "To investigate combustion–cooling dynamic coupling in a rocket-based combined cycle (RBCC) engine under ramjet mode, a long-duration experiment was conducted in an annular-to-circular flowpath under a Mach 3 inflow condition using 41 synchronized measurement points. Cold kerosene was injected through inner and outer annular injectors at an equivalence ratio of 0.5. Cooling-channel pressure, cooling kerosene temperature, combustor wall pressure, and wall temperature were measured synchronously. The results show a clear response hierarchy. Wall pressure responds first and rapidly reaches a quasi-steady state. Cooling kerosene temperature and wall temperature develop later due to thermal inertia. Cooling-channel pressure shows the latest response onset. The series regenerative cooling loop shows strong segmental differences. The rocket cooling zone bears the main flow resistance and follows a hydraulic-dominated response mode. The ramjet cooling zone bears the main temperature rise and follows a property-dominated response mode. Its pressure loss shows a 0.071 MPa overshoot at 11.36 s and then decreases and fluctuates at a relatively high level. The wall pressure load and thermal load show spatial non-uniformity and temporal mismatch. The cavity bottom leading edge exhibits the largest pressure rise, temperature rise, and heating rate, corresponding to a high thermal-load category. Different regions show different wall pressure–wall temperature coupled evolution characteristics. The cavity bottom leading edge, cavity trailing edge, and throat show pressure-saturated, coupled-growth, and pressure-pulsation coupled evolution modes, respectively. This study provides a theoretical basis for thermal protection design with dual-side active cooling in annular-to-circular supersonic combustors.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133452",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133452",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zechuan Yi",
+      "Taiyu WANG",
+      "Yingchun Shao",
+      "Bo Xia",
+      "Mingbo Sun",
+      "Peibo Li",
+      "Jiping Wu",
+      "Xueqiang Yuan",
+      "Jiaoru Wang",
+      "Bin An",
+      "Yu Xie",
+      "Kai Yang",
+      "Decong Zhang",
+      "Qi Liu",
+      "Yuxin Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216452000",
+    "title": "The rise of MXene-based nanofluids as the novel coolants: A state of the art and future perspectives",
+    "abstract": "Nanofluids (NFs) represent a promising approach to enhance heat transfer in various systems. However, their translation into practical thermal management systems remains constrained by persistent challenges such as colloidal instability and agglomeration of the particles, viscosity-related hydraulic penalties, fouling and erosion risks in flow passages, and limited reproducibility of thermophysical properties across studies. The recent emergence of MXenes, a diverse family of 2D transition metal carbides, nitrides, and carbonitrides opens novel opportunities for designing next-generation NFs. The colloidal MXene solutions demonstrate remarkable thermal conductivity and superior long-term stability without the need for surfactants, distinguishing them from traditional NF components. This vision article aims to critically assess the current state of MXene-based nanofluids for heat transfer applications and identify structure-property relationships that can guide their rational design. Recent studies demonstrate thermal conductivity enhancements of up to 60–70% in MXene-based nanofluids, while relatively low particle concentrations can provide substantial improvements in convective and boiling heat transfer. Importantly, surface terminations, defect density, oxidation state, flake size, and layer number strongly affect thermal transport, stability, and rheological behavior. At the same time, MXene degradation, insufficient structural characterization, and limited reproducibility remain key barriers to practical implementation. Based on these findings, we outline major research priorities toward scalable, durable, and application-specific MXene-based coolants",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133479",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133479",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Vladimir Serdyukov",
+      "Anna Kurenkova",
+      "Andrey Saraev",
+      "Melis Hazal Porsuk",
+      "Omid Moradi",
+      "Gül Kozalak",
+      "Ali Kosar"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216477345",
+    "title": "CO2 critical discharge through compact restrictions: a corrected-CNT two-fluid model",
+    "abstract": "Critical discharge of dense/supercritical CO 2 through compact restrictions couples compressible acceleration, wall friction, metastable evolution, and interfacial heat and mass transfer. Depending on the inlet state and decompression path, the flow remains single phase or follows delayed flashing or condensation, making phase-transition onset central to both accuracy and convergence. This study develops a cross-section-averaged quasi-steady two-fluid model for constant-area channels and converging restrictions and assesses it against 449 experiments, comprising 357 constant-area cases and 92 converging-nozzle cases. Onset-treatment errors are compared on the 335 cases that converge for all three models, while convergence is reported across all 449 cases. On the common set, the classical CNT treatment gives MAPE = 11.61%, MAE = 3910.8 kg·m −2 ·s −1 , and R 2 = 0.86, whereas corrected-CNT gives MAPE = 9.95%, MAE = 3458.1 kg·m −2 ·s −1 , and R 2 = 0.89. Across all 449 cases, the convergence rate increases from 77.1% to 95.3%. The corrected-CNT boundary is semi-empirical: it retains the CNT dependence on surface tension, molecular volume, and temperature, and its branch-dependent coefficients are calibrated from compiled CO 2 phase-limit data. Leave-one-out tests give onset-pressure MAPE values of 1.30% for condensation and 3.86% for flashing. A reduced-order correlation derived from 4000 model-generated samples provides rapid estimates over the investigated ranges; against the experimental database, its MAPE is 10.63%. Relative to classical CNT, the framework improves common-case accuracy and all-case convergence while retaining route-resolved prediction and an explicit validity range for the correlation.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133447",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133447",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haifan Liao",
+      "Ruiting Hao",
+      "Yuxuan Gao",
+      "Xinjiang Fan",
+      "Shaozhe Bai",
+      "Haijun Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216155118",
+    "title": "Enhancing the thermal effectiveness of beeswax-filled copper heat exchanger with multiple tubes and fins: A comparative analysis",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111387",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111387",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Bendida Medjahed",
+      "Sana Dardouri",
+      "Ahmet Yüksel",
+      "Hayet Bengrira",
+      "Abdelhak Zakaria Maatallah",
+      "Müslüm Arıcı"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7216480526",
+    "title": "Optimization of thermal barrier coating thickness distribution on film–cooled turbine vanes using a hybrid genetic algorithm–evolution strategy framework",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-02",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111383",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111383",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Li Nan Shi",
+      "Yue Luo",
+      "Chenwei Zheng",
+      "Jinghao Wu",
+      "Xiao Tan",
+      "Jinfeng Peng",
+      "Changce Wang",
+      "Rongli Deng",
+      "Haoyu Zhang",
+      "Jiasheng Song"
+    ],
+    "category": "heat-transfer"
   }
 ]
