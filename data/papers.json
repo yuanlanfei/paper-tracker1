@@ -334104,5 +334104,197 @@
       "Wei-Jen Chen"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219582709",
+    "title": "Multi-stage optimization of spray flow characteristics and structural performance for a pressurizer spray valve in nuclear power plants",
+    "abstract": "To address abnormal flow increase and internal wear in the pressurizer spray valve (PSV) under small openings, this study conducts flow analysis and structural optimization. A CPO-SVR surrogate model combined with the hippopotamus optimization algorithm is proposed. The model achieves high accuracy with an R 2 of 0.95 for stress prediction and 0.99 for flow coefficient prediction, with prediction errors of 0.23% and 1.4%, respectively, while reducing computational cost by approximately 86%. After optimization, valve seat stress drops by 49.4% to 150.58 MPa, maximum flow velocity is reduced by 7.9%, and the abnormal flow plateau in the 0%–20% opening range is eliminated, yielding a smooth characteristic that closely follows the ideal equal-percentage curve. This study provides an effective method for the design of nuclear-grade valves.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115244",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115244",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hongwei Xu",
+      "Yufeng Lang",
+      "Jianian Chang",
+      "Xizhuo Le",
+      "Jianfeng Mao"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7219654852",
+    "title": "Investigation of the heat transfer of supercritical carbon dioxide in a vertical tube under high-temperature and high-pressure conditions",
+    "abstract": "The design and refinement of the supercritical carbon dioxide (S-CO 2 ) direct cycle nuclear energy system are crucial for advancing the application of green energy and mitigating the energy crisis. The key to this lies in the research on the heat transfer characteristics of S-CO 2 fluid. Previous studies primarily focus on the heat transfer behavior of S-CO 2 near the critical point, leaving a significant gap in understanding its characteristics under high-temperature and high-pressure conditions. To address this gap, this paper investigates the heat transfer characteristics of S-CO 2 fluid in a vertical tube at pressure and fluid temperature up to 14 MPa and 451℃, respectively. By evaluating the classical heat transfer correlations, it was found that the Krasnoshchekov et al. (1964) correlation provides the most accurate predictions, while the Chen and Fang (2014) correlation is the most stable. The study found that the corrections of Gr number, density, and viscosity have a significant impact on the prediction results. The magnitude of these correction effects is influenced by heat flux. Based on these findings, a new heat transfer correlation was proposed, which demonstrates excellent accuracy and generalization capability for both the experimental data in this study and external data, providing a reliable tool for heat transfer prediction under high-temperature and high-pressure conditions. This paper can serve as a reference and provide data support for the design of S-CO 2 reactor fuel assembly.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112894",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112894",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Fanghao Chen",
+      "Jinghui Wu",
+      "Xianjun Chen",
+      "Yangle Wang",
+      "Yu Tang",
+      "Yanlin Wang",
+      "刘民运",
+      "H M Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7219908805",
+    "title": "Re-estimation of the activity median aerodynamic diameters of plutonium compound particles - incorporating molecular weight into specific activity calculations and comparing with log-normal distribution -",
+    "abstract": "Information on workplace particle sizes is useful for radiation protection during plutonium handling and decommissioning. The International Commission on Radiological Protection advises using the activity median aerodynamic diameter (AMAD) together with the geometric standard deviation (GSD) to characterize the particle size distribution of inhaled aerosols. In this study, we re-estimated the AMADs and GSDs of plutonium compound particles released during the 2017 accidental contamination event at the Oarai plutonium-handling facility of the Japan Atomic Energy Agency. We explicitly incorporated molecular weight into specific activity calculations, whereas previous approaches did not account for molecular weight. We also examined the log-normality assumption, which is commonly adopted in AMAD assessments. The AMADs ranged from 4.33 to 8.9 μm (GSD 1.5–1.6) for plutonium nitrate, from 4.41 to 8.9 μm (GSD 1.4–1.6) for plutonium dioxide, and from 6.66 to 13.5 μm (GSD 1.4–1.6) for MOX. If provisional AMADs, excluded from the analysis because of measurement limitations, are taken into account, the corresponding AMADs may be larger. The re-estimated AMADs were approximately 1.5 times higher for plutonium nitrate and approximately 10% higher for plutonium dioxide than previously reported. The statistical tests indicated reasonable agreement between the relative radioactivity distributions and the log-normal model in the central region, while systematic deviations were observed in the tails. These deviations are unlikely to significantly affect dose assessments based on AMAD, but their quantitative impact should be evaluated if the fitted parameters are applied directly in dose models.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1080/00223131.2026.2734629",
+    "doi": "https://doi.org/10.1080/00223131.2026.2734629",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Koji Takasaki",
+      "Yuki Morishita",
+      "Takashi Yasumune",
+      "Makoto Hashimoto"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7219591844",
+    "title": "Dynamic contact angle model of bionic micro-abrasive droplet wetting and experimental study",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129691",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129691",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Sijia Zhu",
+      "Xianggang Kong",
+      "Min Yang",
+      "Qing'an Yin",
+      "Zhaopeng Hao",
+      "Yihang Fan",
+      "Guofeng He",
+      "秦爱国",
+      "Xin Cui",
+      "Changhe Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219636358",
+    "title": "Unified analytical thermal modeling of laser powder bed fusion: Integration of semi-infinite heat conduction and boundary effects",
+    "abstract": "This article proposes a novel implementation of a classic analytical thermal model for a moving heat source in bounded regions, building on the exact solution for the temperature distribution arising from a stationary heat source in a wedge with zero-flux boundaries. With the implementation of this boundary-aware basis, the model, for the first time, provides a single closed-form solution that accounts for both conduction in a semi-infinite domain and boundary effects simultaneously, eliminating the need for separate calculations for each. Furthermore, the primary significance of the proposed model lies in its applicability to various elementary boundary types, including convex and concave corners, straight sides, and curved boundaries when the latter are supplied to the model as linear-segment discretization. Moreover, another strength of this model is its ability to predict boundary effects on the melt pool in arbitrary convex polygon geometry by treating each polygon as a combination of straight sides and corners and implementing the superposition of their corresponding simple solutions. Initially, the model is evaluated in distinct corners with different angles by moving the laser parallel to the sides at different offsets. Subsequently, to investigate the impacts of scan path, various scan strategies are applied to square, triangular and hexagonal geometries. Melt pool depth, as an indicator of the accuracy of the predicted temperature distribution, is used for model validation by comparing the results obtained from the proposed model with those from numerical simulation, demonstrating good agreement. The results reveal that as the boundary angle becomes sharper and the laser moves closer to the boundaries, greater heat accumulation and deeper melt pools are observed. The generality and applicability of this analytical model to arbitrary part geometry and scan paths make it a beneficial tool for detecting heat accumulation and evaluation of scan paths.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129662",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129662",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hamed R. Charandabi",
+      "Samaneh Arman",
+      "İsmail Lazoğlu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219578676",
+    "title": "Thermal-capacity-aware admissible command generation and constrained tracking control for flexible pulverized-coal boiler–turbine units",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133478",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133478",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zeyu Liu",
+      "Lijie Yin",
+      "陈德珍",
+      "JINGKUAN HUANG"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219807515",
+    "title": "Experimental investigation of a solar photovoltaic panel-integrated double slope solar still with beeswax thermal energy storage for freshwater-electricity cogeneration",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133476",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133476",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ramasamy Dhivagar",
+      "Perumalsamy Jidhesh",
+      "Kalimuthu Gopi Kannan",
+      "Dhinesh Balasubramanian",
+      "Máté Zöldy"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219700514",
+    "title": "Techno-economic assessment of the deployment potential of solar district heating in high solar radiation plateau regions",
+    "abstract": "Solar district heating is a promising low-carbon heating option for high-altitude Xizang, yet county-level assessment methods that simultaneously account for collector-field siting constraints and techno-economic performance remain lacking. This study develops an integrated county-level assessment framework for solar district heating potential and introduces two complementary indicators: the maximum heating coverage radius ( R max ) to characterize effective heating reach, and the heating cost performance (HCP) to evaluate cost-effectiveness. LCOH is additionally evaluated for the three representative districts. The framework couples geospatial screening of collector-field sites with meteorological conditions, heating-demand characteristics, and system techno-economic parameters. It is first examined through case studies in three representative county-level units in Xizang-Sangzhuzi, Nedong, and Bayi-and is then extended to 74 county-level units to quantify the regional pattern of solar district heating potential. Case studies indicate that the ranking of R max is Sangzhuzi > Nedong > Bayi, whereas the ranking of HCP is Nedong > Sangzhuzi > Bayi, demonstrating that stronger physical heating reach does not always imply higher economic efficiency. LCOH ranges from 0.4844 to 0.4898 CNY/kWh, with a difference of only approximately 1.1% among the three representative districts. At the regional scale, Ngari exhibits the highest coverage potential, with Rutog County reaching an R max of 18.79 km, while Shigatse shows the highest economic potential and Nyalam County records the highest HCP. Overall, abundant land and strong solar resources favor larger heating reach, whereas relatively concentrated demand and shorter heat-supply distance are more critical for economic viability. This study provides a quantitative basis for regional screening, project siting, and differentiated renewable heating pathways in plateau regions.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133474",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133474",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jie Zhang",
+      "Yongzhao Zhang",
+      "Ruichao Zhang",
+      "Dengjia Wang",
+      "Meng Gao",
+      "Xinghang Chen",
+      "Yufan Yang",
+      "Jianhua Fan"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219838791",
+    "title": "Thermal characterization and modeling of sodium-ion batteries at medium and low temperatures",
+    "abstract": "Sodium-ion batteries show promise for energy storage due to their low cost and excellent low-temperature performance; however, their thermal behavior over a wide temperature range, especially under sub-zero conditions, remains insufficiently understood. In this study, thermophysical parameters and electrothermal characteristics of a 26,700 cylindrical sodium-ion battery are measured from −35 °C to 55 °C, and a thermal model is established. Key findings reveal strong thermal anisotropy (axial/radial conductivity ratio of 11.5) and a specific heat capacity comparable to lithium-ion batteries. At −35 °C, the discharge capacity remains 92.5% of that at 25 °C, outperforming lithium-ion batteries. The entropy thermal coefficient is negative over the entire SOC range and becomes more negative at low temperatures when SOC < 60%, enhancing self-heating during discharge. A thermal model based on the Bernardi equation accurately predicts temperature rise under both medium and low temperatures, with end-of-discharge errors below 0.8 °C. Analysis of heat source contributions reveals that polarization heat increases dramatically and becomes a major heat source at low temperatures. This work not only provides fundamental thermophysical data and mechanistic insights into the heat generation processes in SIBs, but also delivers a reliable engineering tool for thermal management design, particularly for low-temperature applications.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133514",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133514",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xinyu Zhang",
+      "Lizhi Zhang",
+      "Ziye Ling"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7219646259",
+    "title": "Heat Transfer Enhancement in Liquid-Cooled Minichannel Heat Sinks of Silicon Carbide MOSFET Power Inverters",
+    "abstract": "Silicon carbide (SiC) metal-oxide-semiconductor field-effect transistor (MOSFET) power inverters are widely used in electric vehicles (EVs) due to their high efficiency. However, under high power loss conditions, conventional cooling methods become inadequate, necessitating effective thermal management. This study numerically investigates heat transfer enhancement in a three-dimensional serpentine minichannel heat sink (SMHS) with embedded vortex generators (VGs) for cooling two SiC MOSFETs, each dissipating 60 W. Two VG configurations with equal projection areas are considered: rectangular winglet pair and delta winglet pair (DWP), along with common flow up (CFLU) and common flow down flow orientations. The MOSFET thermal stack-up is mathematically modeled, and uniform volumetric heat generation is applied at the SiC junction to resemble realistic power loss conditions. Simulations are performed using the finite-volume solver ANSYS Fluent for Reynolds numbers ranging from 388 to 1812. SMHS maintains the junction temperature below the specified threshold, while the addition of VGs further reduces it by 3.77 °C. Although addition of VGs results in similar junction temperature reductions, SMHS with DWP under CFLU flow orientation exhibits a higher heat transfer coefficient, lower thermal resistance, and reduced pressure drop. Consequently, improved thermal performance is achieved, ensuring effective thermal management for EV power inverters.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-10-04",
+    "url": "https://doi.org/10.1080/01457632.2026.2734694",
+    "doi": "https://doi.org/10.1080/01457632.2026.2734694",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Athul Pradeep",
+      "Karaiyan Arul Prakash"
+    ],
+    "category": "heat-transfer"
   }
 ]
