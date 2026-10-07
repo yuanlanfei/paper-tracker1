@@ -334296,5 +334296,633 @@
       "Karaiyan Arul Prakash"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220370979",
+    "title": "Passive optical fiber sensor system for water level monitoring with implementation of human-machine interface module",
+    "abstract": "In this paper, we demonstrate a remote passive optical fiber sensor system based on space division multiplexing for water level monitoring targeting to extreme environments, such as a spent fuel pool in nuclear power plant. The proposed system is evaluated under laboratory conditions to demonstrate its feasibility for future nuclear safety instrumentation applications. It employs a broadband light source as a seed light and a 1 × 4 optical splitter for multiplexing/demultiplexing multiple optical fiber sensors. Four sensors are vertically installed in a water pool at predefined heights. By measuring the reflected optical power from each sensor with an optical receiver, the discrete water level state corresponding to the predefined sensor positions can be determined in real-time. To mitigate the effect of Rayleigh backscattering in remote sensing, a simple dual-path configuration is introduced. Experimental results show that the proposed system can monitor water levels over a distance of approximately 19 km, limited by the performance of the detector. On the other hand, providing intuitive and real-time information for water level monitoring to operators remains a significant challenge. To address this issue, a human-machine interface (HMI) module is also implemented. By providing real-time information on the discrete water level states and system status through the HMI display, it enables operators to intuitively monitor the current water level status, as well as perform trend analysis and abnormal condition detection.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115253",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115253",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Gitae Kim",
+      "Jinjong Seo",
+      "Jaeyul Choo",
+      "Hoon-Keun Lee"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220400568",
+    "title": "Coherence-to-multiscale transition of shear-layer vortex shedding in a closed side-branch junction",
+    "abstract": "This paper investigates a coherence-to-multiscale transition of shear-layer vortex shedding in a closed side-branch junction and quantifies how geometric perturbations modify (i) the spectral distribution of pressure fluctuations across frequencies and (ii) the spatial footprint of the dominant-frequency oscillations. Large-eddy simulations are analyzed using spectral proper orthogonal decomposition (SPOD) for 16 geometries with side-branch diameters D side = 24, 32, 40, and 48 mm and lip fillet-chamfer diameters D cham = 0, 10, 20, and 30 mm. After statistically steady states are reached, we characterize the dominant shedding frequency, the temporal standard deviation of pressure fluctuations, the leading SPOD-mode energy fraction and its spatial footprint, and the time-averaged shear-layer length and thickness. Increasing the geometric dimensions reduces the dominant shedding frequency and amplifies pressure fluctuations, while the main-frequency energy fraction decreases and the dominant-response region becomes markedly more spatially dispersed. These trends indicate that the shear layer evolves from a dominant narrowband shedding state, with a strong leading SPOD mode at the shedding frequency, to a broader-band state in which energy is distributed among higher-order modes and broadband fluctuations. This reduction in single-frequency dominance may lower the propensity for lock-in when a flow-acoustic feedback pathway is present. An equivalent characteristic length derived from the shear-layer statistics accounts for the combined effects of the side-branch and lip fillet-chamfer diameters. The resulting Strouhal numbers range from 0.9 to 1.3, supporting a common convective time-scale interpretation of the dominant shedding frequency across the investigated geometries.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115241",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115241",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yunhao Zhang",
+      "Xinying Wang",
+      "Lang Liu",
+      "Haijun Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220468394",
+    "title": "Impact of flow-induced excitation type on fretting wear behavior of steam generator tubes",
+    "abstract": "High-temperature impact fretting wear tests have been conducted worldwide since the 1970s, providing insights into the wear characteristics of nuclear power plant components. These tests typically reproduce component interface geometries, materials, and process conditions such as fluid medium, temperature, pressure, and chemistry. Most approaches assume that work rate is the primary parameter governing fretting wear dynamics, consistent with Archard’s equation. However, it is unclear whether a wear coefficient derived under one excitation type (e.g., periodic) can reliably predict component life under another (e.g., random). To address this, an experimental study was conducted using the high-temperature fretting wear rig at Chalk River Laboratories to examine the effect of excitation type on wear behavior. The study focused on a nickel alloy steam generator tube in contact with a stainless-steel support featuring a broached hole geometry. Tests were performed for 500 h in water at 280 °C under two excitation conditions. The first employed periodic excitation to simulate tube vibration from vortex-induced vibration and fluidelastic instability, while the second applied random excitation generated from empirically derived force spectra to represent turbulence-induced vibration. Tube motion and contact forces were monitored to control work rate and investigate impact statistics. Wear was assessed using profilometry and mass change to derive wear coefficients, and SEM imaging was used to assess the wear mechanisms. Results showed that, at the same work rate, random excitation caused significantly greater wear and broader impact distributions across impact angles, forces, and sliding parameters. These findings indicate that fretting wear behavior depends on excitation type as well as work rate.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115235",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115235",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Salim El Bouzidi",
+      "Anne McLellan",
+      "Mohammed Alziadeh",
+      "B. Pierre",
+      "Fabrice M. Guérout"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220426605",
+    "title": "DEM-based analysis of fine-debris migration, retention and pore-network deposition in gas-swept Li4SiO4 breeder pebble beds",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112869",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112869",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jian Wang",
+      "Mingzhun Lei",
+      "Haoxi Wang",
+      "Zhiyuan Liu",
+      "Haishun Deng",
+      "Wei Wen",
+      "Gang Shen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220450599",
+    "title": "Experimental and computational investigation of radiation shielding performance of high-strength copper-based alloys",
+    "abstract": "The radiation shielding performance of four high-strength copper-based alloys, namely CuBe 2 , CuCoNiBe, CuNi 2 SiCr, and CuCrZr, was investigated against gamma rays, fast neutrons, and charged particles (protons and helium ions). Gamma-ray attenuation coefficients were experimentally measured at photon energies of 0.511–1.332 MeV using a NaI(Tl) detector and theoretically evaluated over the energy range 0.2–10 MeV using the Phy-X/PSD. The calculated results were validated through comparison with WinXCom calculations and experimental data, showing good agreement. The mass stopping power and projected range of protons and helium ions were evaluated using SRIM Monte Carlo simulations. The CuCrZr alloy demonstrates the best gamma-ray shielding performance, while CuNi 2 SiCr exhibits the highest mass stopping power for both protons and helium ions. Fast neutron shielding evaluation, based on the fast neutron effective removal cross section (FNERCs) software, indicates that CuCoNiBe provides the most effective neutron attenuation. The results highlight the potential of high-strength copper-based alloys as multifunctional materials for radiation shielding applications involving mixed radiation fields.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112916",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112916",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hemn Salh",
+      "Ş.Nevin Balo",
+      "Hawbir Swara Ahmed Manguri",
+      "Dedawan Salam Saleh",
+      "Ari Maghdid Hamad"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220468563",
+    "title": "Can small modular reactors clear the cost screen for Greek noninterconnected islands: A benchmark screening assessment against oil based supply with illustrative renewable storage evidence",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-10-06",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106642",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106642",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "IOANNA ANANIADOU",
+      "Demetrios Papacostas"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220372919",
+    "title": "Corrosion Phenomenon of Nickel-Based Alloys 600, 617, and Hastelloy N Under Molten LiCl Salt",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1080/00295639.2026.2738265",
+    "doi": "https://doi.org/10.1080/00295639.2026.2738265",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hyeok Il Kim",
+      "Su Ji Choi",
+      "박홍경",
+      "Sanghoon Noh",
+      "Young‐Sang Youn"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7220366396",
+    "title": "Collective self-organization as a precursor to critical heat flux (CHF) in non-equilibrium boiling systems",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129683",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129683",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ji-Hwan Park",
+      "Yacine Addad",
+      "Daeseong Jo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220388689",
+    "title": "Resistance-capacity thermal model and multi-parameter influence mechanism of a direct-expansion CO2 borehole heat exchanger bore field",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129700",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129700",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jing Wang",
+      "Mingda Bi",
+      "Jinyu Zhao",
+      "Zihan Gao",
+      "Yuxin Luo",
+      "Xinyue Li",
+      "Yang Li",
+      "Jun Zhao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220445332",
+    "title": "Electro-thermal performance of a cylindrical lithium-ion battery: Evaluating cell-to-pack scaling dynamics under natural convection",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129699",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129699",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Rukmani Kannan Barathraj",
+      "Rajendran Prabakaran",
+      "Palanisamy Dhamodharan",
+      "Mun Suk Kim",
+      "Sung Chul Kim"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220464119",
+    "title": "Mitigating particle erosion in butterfly valves: Effects of surface curvatures in controlled slurry flow",
+    "abstract": "Butterfly valves, frequently used in slurry transportation systems, experience substantial material loss due to particle erosion, resulting in severe financial losses. This study investigates the relationship between turbulence and surface erosion on pipeline components, proposing a novel solution through topology variations aimed at minimising material loss. Unlike most previous research which primarily focuses on identifying erosion mechanisms and locations in simple geometries, this study explores practical solutions to mitigate erosion on butterfly valve disks. The study integrates insights from discrete phase numerical analysis of fluid flow and material loss across various valve geometries with findings from the literature on the effects of turbulence on particle erosion, towards the design of a new valve topology aimed at minimising surface erosion damage in butterfly valves operating under aluminium oxide and water multiphase flow conditions. The study’s numerical results demonstrate a consistent spatial relationship between regions of high turbulence intensity and areas of significant erosion, thereby substantiating the influence of turbulence on material loss. Additionally, the study reveals that concave curvatures induce an “erosion pocketing” phenomenon, making them unsuitable for top side valve geometries. In contrast, “convex” curvatures alleviate the “erosion pocketing” effect, making them better suited to top side valve surfaces. Compared with the industrial design, the proposed valve geometry achieves a favourable balance between mass, material loss and mass flow rate, with improved flow characteristics that reduce erosion. This corresponds to a reduction in material loss from 9.50 × 10 −6 kg/m 2 .s for the industrial geometry to 4.20 × 10 −6 kg/m 2 .s for the novel geometry.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129706",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129706",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Prashan Perera",
+      "Ferdinando G. Guzzomi",
+      "Kevin J. Hayward",
+      "Ana Vafadar"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220472734",
+    "title": "Heat and mass transfer characteristics of direct contact membrane distillation under marine sloshing: Numerical modeling and predictive correlations",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129598",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129598",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chuanjun Yang",
+      "Zhongsheng Li",
+      "Muhammad Wakil Shahzad",
+      "Yutao Guo",
+      "Binbin Li",
+      "Duan Menglan",
+      "Xin Cui",
+      "Qian Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220383259",
+    "title": "Dynamic thermal-radiation modeling of aluminum-containing RDX-beased thermobaric explosive fireballs with temperature-dependent emissivity",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-06",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133489",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133489",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "程志鹏",
+      "Xinyuan Wang",
+      "Yimin Luo",
+      "Yu Xia",
+      "Chuanbiao Zhang",
+      "Feiyang Xu",
+      "Chengli Mao",
+      "Xingliang Wu",
+      "Sen Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220357855",
+    "title": "Multistep reaction kinetic study of calcium ferrite reduction by CO based on thermogravimetric analysis",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133522",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133522",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Wenchao Yang",
+      "Guoyan Chen",
+      "Tuo Zhou",
+      "Man Zhang",
+      "Hairui Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220365401",
+    "title": "Enhanced heat transfer of ultrathin heat pipes enabled by Crassula muscosa-inspired structures",
+    "abstract": "With the rapid iteration of electronic devices toward higher integration and miniaturization, the heat flux of their core components has risen drastically. Ultrathin heat pipes undesirably suffer from a limited heat transfer efficiency owing to structural characteristics of wicks, unable to meet the requirement for high-efficiency heat dissipation. To this end, in this study, we develop a biomimetic nanostructured reentrant channel based ultrathin heat pipe by coupling Crassula muscosa inspired liquid diode microstructures with superhydrophilic nanostructures together. Compared with conventional ultrathin heat pipes with parallel channel wicks, the heat transfer performances of our ultrathin heat pipes are greatly enhanced as manifested by a maximum 81.5% improvement of effective thermal conductivity reaching up to 1851.3 W m −1 K −1 and a maximum 44.9% reduction of thermal resistance approaching 13.4 K/W. We further investigate the role of liquid filling ratio and bionic reentrant microstructures in the regulation of heat transfer performance, and demonstrate superior anti-gravity performance in extreme conditions. Moreover, the BNRC-UHP maintains stable heat transfer performance during 50-h continuous operation and after 50 heating-cooling cycles, demonstrating excellent long-term stability and cycling reliability. Through combined coupling of bionic structural design and nanointerface engineering, this study provides an effective technical approach for the structural innovation and performance optimization of ultrathin heat pipes, which brings broad application prospects in the field of thermal management for microelectronic devices.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133513",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133513",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Lanya Zeng",
+      "Yanbo Sun",
+      "Xing Li",
+      "Yuying Wang",
+      "Hongxing Zhang",
+      "Gongming Xin",
+      "Jiaqian Li"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220368623",
+    "title": "Improved design of a building-integrated solar air heater with volcanic rock as thermal storage: A proof of concept with 3E analysis",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133364",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133364",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Abhishek Saxena",
+      "Atul A. Sagade",
+      "Desh Bandhu Singh",
+      "Prashant Kumar",
+      "Raj Kumar",
+      "Muneesh Sethi",
+      "Nitin Kumar Saxena"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220377320",
+    "title": "Biomass-based bionic solar evaporator for high efficiency and cost effective vapor generation",
+    "abstract": "Solar interfacial evaporation is one of the effective methods to address the freshwater crisis, yet challenges remained in developing solar evaporators that possessed excellent light absorption, photothermal conversion performance, evaporation performance, salt resistance, and cost-effectiveness. Inspired by the echinopsis tubiflora structure, a novel bionic solar evaporator was developed in this study by alkalizing white radish and incorporating carbon dust to efficiently obtain low-cost freshwater. The echinopsis tubiflora -like structure was introduced on the originally smooth walls between pore channels at the evaporation interface, by which the light absorption area was enlarged, multiple reflection and refraction of sunlight were achieved, thereby enhancing the light absorption capability. This evaporator exhibited stable and efficient evaporation performance in seawaters of different salinities as well as in acidic/alkaline wastewater (pH = 2/12). The results showed that the average evaporation rates of this evaporator in deionized water, 3.5 wt% seawater and Huanghai seawater were 2.073, 1.669 and 2.018 kg m −2 h −1 , respectively, with a photothermal conversion efficiency of 98.67% and a light absorption capacity of 94.51%. Furthermore, the average evaporation rates of this evaporator in acidic and alkaline wastewater were 1.795 and 1.722 kg m −2 h −1 , respectively, and the collected condensate was meet neutral water. In a three-day outdoor test, the average evaporation rate of this evaporator under sunshine was 3.012 kg m −2 h −1 . Compared with conventional desalination technologies and other types of solar evaporators, this evaporator was proven to be cost effective, exhibiting a freshwater production cost of 0.35 $ ton −1 . Moreover, this evaporator exhibited excellent salt resistance. Additionally, this evaporator featured a simple fabrication process, high and stable operational performance, and great potential for large-scale production. In summary, this work converted white radish into an efficient solar evaporator through simple chemical treatment and carbon dust loading, by which high-value utilization of biomass was realized and a low freshwater production cost was simultaneously achieved. This work provided a cost effective and efficient new route to alleviate the global freshwater shortage problem.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133510",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133510",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhiyang He",
+      "Bailiang Li",
+      "Qing Yang",
+      "Junhao Tong",
+      "Mengna Bai",
+      "Shukun Wang",
+      "Erguang Huo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220386421",
+    "title": "Physics-informed explainable machine learning and thermodynamic optimisation of CNT-based nanolubricants for enhanced vapour compression refrigeration system performance",
+    "abstract": "The significance of refrigeration lies in decreasing electricity consumption. However, carbon nanotube (CNT) nanolubricants have nonlinear effects that are challenging to predict through traditional analysis. This research develops a comprehensive experimental, thermodynamic, explainable machine learning (ML), and physics-based optimisation framework for the refrigeration system with R134a working fluid and CNT/polyolester (POE) nanolubricant. Experimental data for different concentrations of CNT ranging from 0 to 1 wt% are analysed without data pre-processing, whereas states, refrigeration effect, compressor work, coefficient of performance (COP), and exergy efficiency are determined through CoolProp and TESPy simulations. Random forest and XGBoost models are created using SHAP analysis with thermodynamics and energy balance conditions imposed on optimisation. The optimal concentration is 0.075 wt%, leading to COP equal to 2.031, evaporator refrigeration capacity of 0.640 kW and compressor work of 0.315 kW. The refrigeration effectiveness, compressor work per unit mass, mass flow rate and exergy effectiveness are 148.50 kJ kg −1 , 73.10 kJ kg −1 , 0.00431 kg s −1 and 41.10% respectively. The R 2 values for COP, heat extraction rate and work input obtained by XGBoost are 0.994, 0.992 and 0.989, respectively.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133518",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133518",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "K. Veera Raghavulu",
+      "K. Thavasilingam",
+      "S.P. Jani",
+      "Erdem Cüce"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220397829",
+    "title": "Pressure-mediated coupling between a heat-controlled accumulator and a microchannel evaporator in a mechanically pumped two-phase loop: effects of operating conditions and active versus passive control",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133521",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133521",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jieni Wang",
+      "Xunfeng Li",
+      "Qinhong Chen",
+      "Kai Zhang",
+      "Jingzhi Zhou",
+      "Lin Chen",
+      "Xiulan L. Huai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220398042",
+    "title": "Friction and wear dynamics in a railway tread brake during repeated braking – 3D FEM thermomechanical approach",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133473",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133473",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Piotr Grześ",
+      "Michał Kuciej",
+      "Jacek Kukulski",
+      "Marcin Brykała",
+      "Rafał Zybała",
+      "Marcin Chmielewski",
+      "Piotr Wasilewski"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220415604",
+    "title": "Heat-pipe failure accident analysis of a silent heat-pipe-cooled reactor with thermoelectric conversion",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133435",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133435",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Genglei Xia",
+      "Mingyu Zhu",
+      "Guanghui Jiao",
+      "Yan Xiang",
+      "Yan Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220423208",
+    "title": "Multi-factors analysis of energy conversion enhancement of thermoelectric generator for exhaust waste heat recovery",
+    "abstract": "To enhance the energy efficiency of waste heat recovery, an optimized two-stage thermoelectric generator is developed through coordinated structural design optimization and operating parameter setting. A three-dimensional numerical model with conjugate heat transfer is employed to investigate the effects of exhaust gas velocity, fins height, cooling water velocity, and heat pipe configuration on system performance. Results indicate that increasing the exhaust gas velocity enhances power output but also intensifies heat loss. Optimizing the height of inserted fins improves gas-solid heat transfer and temperature uniformity, thereby raising the hot-side temperature of thermoelectric modules. A higher cooling water velocity improves cold-side heat dissipation, while excessive flow rates yield diminishing returns and impose higher loads on the water-cooling system. Additionally, the integration of heat pipes significantly improves heat recovery efficiency and expands the effective hot-side area, enabling higher electrical output. Further analysis indicates that performance gains from increasing the number of heat pipes become marginal beyond a critical value. Through coordinated optimization of fin setting, heat pipes number, exhaust gas velocity, and cooling water flow rate, the system performance is substantially improved. When V e = 16 m/s and T e = 600 K, the thermoelectric generator with 12 heat pipes and PbTe-Bi 2 Te 3 two-stage modules achieves an electric power output 84.88 W and system efficiency reaches 2.7%. These findings provide design guidelines for high-efficiency thermoelectric generator and demonstrate strong potential for automotive waste heat recovery applications.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133419",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133419",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Depeng Wei",
+      "Chaoqun Huang",
+      "Lei Hu",
+      "Guang Fu",
+      "Fugui Zhang",
+      "Li Xu",
+      "Qingguo Peng"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220432494",
+    "title": "Melting enhancement in Shell-and-tube latent heat storage device with double-deck Y-fins",
+    "abstract": "A novel double-deck Y-shaped longitudinal-fin configuration was experimentally evaluated for melting enhancement in a shell-and-tube latent heat storage device. A transparent shell-and-tube test rig containing paraffin was used to compare the proposed configuration with conventional straight fins at comparable fin volumes. The solid–liquid interface evolution was directly visualized, while temperatures were measured at 15 locations distributed in the axial, radial, and circumferential directions under different HTF inlet temperatures, flow rates, and flow directions. Despite a 3.6% lower fin volume, the Y-shaped configuration provided 2.92 times the surface area of the straight fins, produced a flatter melt front, and mitigated axial thermal stratification. Over the five HTF inlet temperatures of 60–80 °C, its mean temperature response rate was 108–176% higher than that of the straight-fin unit. Averaged over these five conditions, the Y-shaped fins reduced the temperature non-uniformity index by 55.8% and the time to quasi-steady state by 45.1%. Reversing the HTF flow direction changed the time required to reach a given temperature by less than 150 s at the monitored locations. Increasing the HTF flow rate accelerated heating, but the incremental benefit diminished at higher flow rate. Increasing the inlet temperature also accelerated heating and melting, although it increased spatial temperature non-uniformity. Overall, the proposed Y-shaped fins enabled faster and more uniform charging than straight fins under the investigated conditions, demonstrating their effectiveness in enhancing melting heat transfer in shell-and-tube latent heat storage devices.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133500",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133500",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chuan Li",
+      "Zhengyang Li",
+      "Maobing Liang",
+      "Man Zhang",
+      "Ziwei Wang",
+      "Yanping Du",
+      "Geng Qiao",
+      "Qi Li",
+      "Yuting Wu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220453208",
+    "title": "Unraveling evaporative flow spreading behavior underlying transpiration cooling performance under high temperature shear flow",
+    "abstract": "Phase-change transpiration cooling, through utilizing substantial latent heat, has become one of the most promising active thermal protection techniques for aerospace vehicles. Severely inefficient transpiration cooling performance for downstream surface from experimental measurements, however, has drawn attention compared with theoretical prediction, which may cause serious thermal protection failure in practice. In this work, the evaporative flow spreading behaviors after the coolant exits the porous media and their underlying impacts on phase change transpiration cooling are investigated using a self-developed high-temperature wind tunnel combined with thermal interface flow visualization. Two typical cooling modes, cold start and hot start are compared. The results indicate that the spreading behavior of liquid coolant on downstream region undergoes a transition from finger flow to similar film boiling flow with intense vaporization at the liquid-solid interface. A significant decline in cooling efficiency is observed for the downstream region under this condition during transpiration cooling process. Three distinct cooling states for downstream region are identified, which are characterized as vapor cooling without interface boiling, single-phase liquid film cooling and liquid cooling with similar film boiling, respectively. This experimental work highlights a potential optimization direction for numerical simulations by considering the actual liquid film coverage, to improve surface temperature prediction accuracy for aerospace vehicles in the future.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133451",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133451",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yifei Liu",
+      "Jin Zhao",
+      "Kaiyan Jin",
+      "Dongsheng Wen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220455937",
+    "title": "From parameter coupling to constraint-aware optimization: Geothermal organic flash cycles with reinjection and pinch-point limits",
+    "abstract": "Organic flash cycles (OFCs) improve temperature matching between the geothermal brine and the working fluids, but their practical design is constrained by site-dependent reinjection temperature and heat exchanger pinch limits. This study compares a basic OFC (BOFC) and a modified OFC (MOFC) to determine how the primary heat exchanger (PHE) outlet temperature, flash temperature, brine reinjection temperature, and PHE pinch-point temperature difference (PPTD) govern the feasible regions and thermo-economic performance. A segmented PHE model enforces the pinch constraints, a Sobol analysis quantifies the parameter importance and interactions, and NSGA-II–TOPSIS identifies compromise solutions. Results show that, in the BOFC, the PHE outlet temperature and reinjection temperature govern the pinch-point location and temperature matching. In the MOFC, the flash temperature controls the PHE inlet condition and internal heat recovery, and consequently determines the reinjection temperature with the active pinch constraint. Increasing the PHE PPTD shifts the reinjection temperature corresponding to the maximum exergy efficiency upward in both cycles. The levelized electricity cost (LEC) of the BOFC exhibits a minimum with increasing reinjection temperature, while that of the MOFC decreases markedly and then levels off at higher reinjection temperatures. TOPSIS selects reinjection temperatures of 52.4–59.9 °C for the BOFC with geothermal source temperatures of 120–150 °C and 85.4–89.0 °C for the MOFC with source temperatures of 140–170 °C. Therefore, the BOFC favors greater geothermal heat utilization and closer PHE temperature matching, while the MOFC is better suited for higher reinjection temperatures, larger PPTDs and higher source temperatures.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133446",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133446",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Qian Zou",
+      "Qiang Liu",
+      "Qian Wang",
+      "Yuanyuan Duan"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220390280",
+    "title": "Experimental investigation on critical heat flux of external reactor pressure vessel cooling by direct injection",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111392",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111392",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhen Zhang",
+      "Wanyu Xiong",
+      "Dianchuan Xing",
+      "Yuanfeng Zan",
+      "Guangjin Wang",
+      "Jianjun Xu",
+      "Deqi Chen",
+      "Wan-Yuan Shi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220401605",
+    "title": "Effects of hole geometry on coolant transport and film cooling performance of a strut heat shield under large hole spacing conditions",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111386",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111386",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Lin Ye",
+      "Zhang Li",
+      "Wu Fangfang",
+      "Liu Cunliang",
+      "Lin Ye",
+      "Xu Weijiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220419165",
+    "title": "Numerical study on thermal stratification and heat transfer characteristics of supercritical CO2 in helical cruciform tubes",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111391",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111391",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Weihua Cai",
+      "Hao Yang",
+      "Jiarui Liang",
+      "Runyu Jiang",
+      "Xuelong Li",
+      "Jincheng Wang",
+      "Jianchuang Sun"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220429779",
+    "title": "Heat transfer study and optimization of double layer microchannel heat sink using pin fin array in upper layer",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111382",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111382",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Anurag Maheswari",
+      "Yogesh Kumar Prajapati",
+      "Piyush Kumar Pandey",
+      "Om Prakash"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220453353",
+    "title": "Comparative study of different modeling approaches for predicting heat transfer coefficient in fouled heat exchangers",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111371",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111371",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Walaeddine Maaoui",
+      "Ali Fguiri",
+      "Mohamed‐Razak Jeday",
+      "Zouhaier Mehrez",
+      "Mustapha Najjari"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220460884",
+    "title": "Machine learning-driven prediction and interpretability analysis of nucleate pool boiling heat transfer coefficient for R141B-BASED ternary nanofluids",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111385",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111385",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Mert Sinan Turgut",
+      "Muhammet Camcı",
+      "Oğuz Emrah Turgut",
+      "Hadi Genceli",
+      "Ahmet Selim Dalkılıç"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7220379029",
+    "title": "Assessment of Sintered Wick Heat Pipe Performance: Effect of Surface Morphology",
+    "abstract": "",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-10-05",
+    "url": "https://doi.org/10.1080/01457632.2026.2734692",
+    "doi": "https://doi.org/10.1080/01457632.2026.2734692",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Şükrü Kaan Yener",
+      "Barbaros Çetin",
+      "Zafer Dursunkaya"
+    ],
+    "category": "heat-transfer"
   }
 ]
