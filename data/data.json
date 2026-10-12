@@ -337800,35 +337800,358 @@
         "Стефано Сфарра"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221363947",
+      "title": "Power reconstruction in hexagonal-assembly small reactor using thin-plate spline and in-core detector response",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112924",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112924",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Hao Yang",
+        "Tianxiang Wang",
+        "Zhuo Li",
+        "Shengli Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221319472",
+      "title": "Nuclear data-induced uncertainties in the neutron source for vessel fluence evaluations: Application to TVA-watts bar unit 1 cycle 1",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106640",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106640",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Iñigo Gayo",
+        "Emilio Castro",
+        "Nuria García-Herranz",
+        "Cabellos Oscar",
+        "Kostadin Ivanov"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221346999",
+      "title": "A new method for calculating the weak source startup of reactor based on Monte Carlo method",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106643",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106643",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Conglong Jia",
+        "Yuanhao Gou",
+        "Kan Wang",
+        "Shichang Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221313507",
+      "title": "Development and implementation of a surrogate model for bare critical Mass estimation in nuclear fuel cycle simulator",
+      "abstract": "",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1080/00223131.2026.2746565",
+      "doi": "https://doi.org/10.1080/00223131.2026.2746565",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kenji Nishihara",
+        "Akito Oizumi",
+        "Takumi Abe"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221354689",
+      "title": "Experimental Study on Spray Activation in a Containment Atmosphere with Superheated Steam Conditions during a Design Basis Accident",
+      "abstract": "ABSTRACT This study presents experimental results on large-scale containment thermal-hydraulics driven by the combined effects of steam injection and spray activation under a postulated design basis accident scenario, such as a main steam line break. The experimental campaign consisted of two experiments, identified as P1A1_5 and P1A1_6, which form part of the P1A1 series conducted within the OECD/NEA PANDA project to investigate PWR containment spray systems. The experiments were conducted in the facility, which consists of a large-scale cylindrical vessel. Initial conditions involved pressurization with air and steam up to 2.5 bar under superheated conditions. The spray system was activated using a single nozzle. The experiments were divided into three phases: steam injection only, combined steam and spray injection, and spray only injection. The results show that during containment depressurization, steam remains superheated above the spray nozzle, whereas below the nozzle the measured fluid temperature closely follows the saturation temperature. This behavior may be associated with enhanced condensation near the vessel wall and possible spray-induced flow recirculation. Upon spray activation, pressure and temperature gradients below the spray nozzle decrease more rapidly over time than during Phase 2, possibly reflecting spray-induced mixing and droplet dynamics.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104780",
+      "doi": "https://doi.org/10.1016/j.net.2026.104780",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Myeong-Seon Chae",
+        "Domenico Paladino",
+        "Mira Jreissaty",
+        "Jean-Luc Vacher"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221335319",
+      "title": "Flow and heat transfer characteristics and cooling-structure optimization of a fully radial-ventilated rotor in a 1000-MW nuclear turbine generator",
+      "abstract": "",
+      "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.jandt.2026.10.003",
+      "doi": "https://doi.org/10.1016/j.jandt.2026.10.003",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Cun Lu",
+        "Jia Li",
+        "Bin Liu",
+        "Xiaojian Feng",
+        "Haibo Zhang",
+        "Yunpeng Yang",
+        "Deqi Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7221311622",
+      "title": "Adaptive physics-informed neural network with unknown parameter identification for heat conduction in heterogeneous materials",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129723",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129723",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yu TONG",
+        "Bo Yu",
+        "Long Shu",
+        "Ruijiang Jing",
+        "Zeng Meng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221314693",
+      "title": "Numerical investigation of particulate fouling in corrugated tubes considering fouling layer growth effects",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129728",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129728",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiang Li",
+        "Si-Xuan Huang",
+        "You-Rong Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221313348",
+      "title": "Design of the water-cooling system and analysis of the heat dissipation characteristics of the barrel electromagnetic calorimeter in China's new generation electron-positron collider",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133592",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133592",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yan Wang",
+        "Qiming Tang",
+        "Jiadong Ji",
+        "Yunlong Zhang",
+        "Zhongtao Shen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221331989",
+      "title": "The shielding effect in turboexpander-equipped natural gas pressure reduction stations: an advanced exergoeconomic analysis",
+      "abstract": "Natural gas pressure reduction stations dissipate exergy when gas pressure is throttled from transmission to distribution levels. Turboexpanders recover part of this energy, but their expansion requires preheating to prevent hydrate formation, and the preheater-turboexpander coupling governs station performance. Previous studies examined thermodynamic and economic aspects separately. This study presents a conventional and advanced exergoeconomic analysis of a pressure reduction station with a preheater and turboexpander under three scenarios: winter (10 °C, 500 psi), mild (21 °C, 600 psi), and summer (30 °C, 900 psi). The advanced analysis partitions exergy destruction, investment cost, and exergy destruction cost into endogenous/exogenous and avoidable/unavoidable parts. Three findings emerge. First, the turboexpander's inefficiency shields the preheater by lowering required preheat, reducing its exergy destruction by up to 1596 kJ/kmol and generating a negative exogenous investment cost. Second, the preheater's avoidable exogenous exergy destruction changes sign with inlet temperature, from +624 to −236 kJ/kmol between winter and summer, as its specific unavoidable exergy destruction ratio varies. Third, the preheater's low product exergy in winter amplifies the turboexpander's exergy destruction cost to 0.865 $/s, despite the smallest physical exergy destruction. Ideal-point optimization gives a preheater thermal efficiency that is always optimal at 0.95, while the turboexpander isentropic efficiency is optimal at 0.80 when operating costs dominate and at 0.75 when capital and operating costs are weighted equally. This work is the first coupling analysis of the preheater and turboexpander within an advanced exergoeconomic framework and identifies the preheater as the primary economic bottleneck.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133569",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133569",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mohammad Olfati",
+        "Farzad Veysi",
+        "Shoaib Khanmohammadi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221361565",
+      "title": "An effective and reliable solution for forward-type detectors cooling around the LHC accelerator at CERN",
+      "abstract": "The Large Hadron Collider (LHC) experiments at CERN require a wide variety of cooling systems to ensure the stable operation of detectors and associated electronics. While the large-scale systems for superconducting magnets and inner detectors of experiments such as ATLAS and CMS are already well known, and the cooling power requirements are in the order of many tens of kW, and cooling systems in the range of hundreds of kW are now being prepared. Forward detectors present unique challenges due to their relatively low cooling capacity requirements and their significant distance from the proton–proton interaction point. This paper focuses on the design and implementation of efficient cooling solutions for two forward detectors: AFP and PPS2. Specifically, we explore systems based on the vortex-tube principle, which utilize air as the cooling medium. These systems demand highly compact and effective heat exchangers. We report on the development of advanced exchangers incorporating metal foam inserts and recent progress in the use of 3D-printed metallic heat exchangers. These exchangers have demonstrated comparable or improved thermal performance while offering greater design flexibility, representing a promising approach for future applications in forward detector cooling.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133501",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133501",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "V. Vacek",
+        "M. Emrich",
+        "Š. Petrášek",
+        "J. Horváth"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221367272",
+      "title": "Phonon-photon synergistic CNT/BiCuSO phase-change composites for balanced photothermal conversion and thermoelectric generation",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133556",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133556",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Man Mohan",
+        "Tatachari Santhanagopalan Shridharan",
+        "Saikiran Kosame",
+        "Manoj S. Choudhari",
+        "Mukkath Joseph Josline",
+        "Vishesh Manjunath",
+        "Syed Muhammad Zain Mehdi",
+        "In Sun Cho",
+        "Jae‐Hyun Lee",
+        "Jaeyeong Heo",
+        "Naesung Lee",
+        "Veerakumar Chinnasamy",
+        "Byungmin Ahn"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221318813",
+      "title": "Experimental studies of heat transfer regimes with boiling crisis in a vertical channel at high heat fluxes",
+      "abstract": "The results of experimental studies of heat transfer during water boiling in a vertical heated tube with a diameter of 0.013 m and a length of 2.6 m are presented. The studies were conducted in the following ranges of variation: pressure from 4 MPa to 16 MPa, mass velocity from 120 kg/m 2 s to 2000 kg/m 2 s, and heat flux from 0.13 MW/m 2 to 2.59 MW/m 2 and temperatures up to 800°C. Correlations have been obtained for calculating the boundaries of the onset of boiling, the transition to the equilibrium boiling regime, and the heat transfer coefficient in the non-equilibrium boiling region. The influence of flow parameters on the heat transfer coefficient is shown. In the equilibrium boiling region, the mass velocity does not significantly affect the heat transfer coefficient. The heat transfer coefficient increases with increasing pressure and gradually decreases with increasing vapor quality (steam content). In some modes, prior to the heat transfer crisis (critical heat flux, CHF), an intensification of heat transfer and an increase in the heat transfer coefficient up to 162 kW/(m 2 ·K) are observed. Such regimes are characteristic of the second-kind heat transfer crisis (CHF-II), which occurs as a result of the drying out of the near-wall liquid film in a dispersed-annular flow at high values of vapor quality.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111399",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111399",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Andriy A. Avramenko",
+        "Margarita M. Kovetskaya",
+        "Andrii I. Tyrinov",
+        "Kyryl Fedortsev"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221337318",
+      "title": "Role of pulsation generation mechanism on the heat transfer performance of an impinging jet: A contraction-cone configuration",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111384",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111384",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kuldhir Singh Bhati",
+        "Vijai Laxmi",
+        "Harekrishna Yadav"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221347894",
+      "title": "Real-time reconstruction of the internal temperature field of welding using global physics-mixed long short-term memory network and physical constraint reconstruction",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111409",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111409",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zeng He",
+        "Y.C. Lin",
+        "Xianhua Tan",
+        "Hao-hao Huang",
+        "Ying Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221349065",
+      "title": "Impact of liquid distributor design variables on film dynamics and heat and mass transfer on a horizontal flat tube falling film evaporator",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111412",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111412",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wenjie Deng",
+        "Zhenhua Quan",
+        "Chenyang Du",
+        "Jingyi Wu",
+        "Lincheng Wang",
+        "Yaohua Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7221364904",
+      "title": "Thermal performance of a heated tube equipped with a novel perforated V–baffle turbulator: Experimental investigation and artificial neural network prediction",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-10",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111410",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111410",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Suriya Chokphoemphun",
+        "Susama Chokphoemphun",
+        "Pitak Promthaisong",
+        "Somporn Hongkong",
+        "Nuttapan Promsampao",
+        "Dhammasook Mingmuang",
+        "Panit Kamma"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13079,
+    "total": 13096,
     "journals": 277,
-    "last_update": "2026-10-11 05:28:18",
-    "reactor-thermal_count": 1888,
-    "heat-transfer_count": 3555,
+    "last_update": "2026-10-12 05:39:05",
+    "reactor-thermal_count": 1894,
+    "heat-transfer_count": 3566,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2090
+        "count": 2094
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 842
+        "count": 844
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 514
+        "count": 515
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 468
+        "count": 473
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 426
+        "count": 427
       },
       {
         "name": "Nuclear Engineering and Design",
@@ -337836,7 +338159,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 210
+        "count": 212
       },
       {
         "name": "Nuclear Technology",
@@ -337976,7 +338299,7 @@
       },
       {
         "name": "Journal of Nuclear Science and Technology",
-        "count": 77
+        "count": 78
       },
       {
         "name": "Experimental Thermal and Fluid Science",
@@ -338091,6 +338414,10 @@
         "count": 37
       },
       {
+        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "count": 37
+      },
+      {
         "name": "The American Journal of Bioethics",
         "count": 36
       },
@@ -338100,10 +338427,6 @@
       },
       {
         "name": "Regulation & Governance",
-        "count": 36
-      },
-      {
-        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
         "count": 36
       },
       {
@@ -338921,10 +339244,6 @@
     ],
     "trend": [
       {
-        "date": "2026-09-12",
-        "count": 31
-      },
-      {
         "date": "2026-09-13",
         "count": 19
       },
@@ -338998,7 +339317,7 @@
       },
       {
         "date": "2026-10-01",
-        "count": 48
+        "count": 50
       },
       {
         "date": "2026-10-02",
@@ -339034,10 +339353,14 @@
       },
       {
         "date": "2026-10-10",
-        "count": 5
+        "count": 20
       },
       {
         "date": "2026-10-11",
+        "count": 0
+      },
+      {
+        "date": "2026-10-12",
         "count": 0
       }
     ]
@@ -339256,5 +339579,5 @@
       }
     ]
   },
-  "export_time": "2026-10-11T05:28:18.664931"
+  "export_time": "2026-10-12T05:39:05.211492"
 }
