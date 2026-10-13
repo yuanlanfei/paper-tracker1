@@ -338122,5 +338122,135 @@
       "Panit Kamma"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7221435056",
+    "title": "Development and validation of the premixing-phase model in the three-dimensional fuel–coolant interaction code SEINA-3D",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-12",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112926",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112926",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ruiyu Sun",
+      "Qianxi Xiao",
+      "Ronghua Chen",
+      "Kui Zhang",
+      "Wenxi Tian"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221443658",
+    "title": "The effect of pulsating liquid sodium coolant inlets on flow structures and thermal mixing in a T-junction",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-12",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112884",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112884",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "A. Ayodeji",
+      "John Njoroge",
+      "Oluwaseun Talabi",
+      "Junjie Mao",
+      "Bin Ye"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221453388",
+    "title": "Experimental study of void fraction and its distribution characteristics in vertical narrow rectangular channels",
+    "abstract": "Two-phase flow in narrow rectangular channels is of continued interest in multiphase flow research because of its importance in compact heat transfer applications. Gas-liquid flow in these geometries exhibits complex interfacial behavior and flow-regime transitions driven by the interactions of inertial, viscous, and capillary forces, which strongly affect heat and mass transfer performance. In this study, visualization experiments using high-speed photography were conducted to investigate vertical upward gas–liquid two-phase flow in narrow rectangular channels with cross-sectional dimensions of 15 × 2 mm 2 and 50 × 2 mm 2 . A MATLAB-based image-processing procedure was used to identify flow patterns and extract two-phase flow parameters. Four distinct flow patterns were identified, and the corresponding local void fraction distributions and probability density functions (PDFs) of instantaneous cross-sectional void fraction were obtained. The results showed that the void fraction increased consistently from the wall toward the channel center. At a fixed liquid flow velocity, increasing the gas flow velocity shifted the PDF from a sharp peak at low void fraction to a broader distribution at higher void fraction, with the dominant peak gradually evolving into a bimodal distribution. A modified drift-flux model was developed to predict the time-averaged cross-sectional void fraction, and the predicted values agreed well with the experimental data, with errors within 10 % for both channels.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-11",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112927",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112927",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Teng Wang",
+      "Yuhao Zhang",
+      "Yuepeng Ma",
+      "Lu Liu",
+      "Tao Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221439169",
+    "title": "Geometric fidelity, contact-point treatment, and thermal hydraulics in pebble-bed FHR: A review of pebble-bed modeling strategies",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-10-11",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106645",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106645",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Guangyuan Jin",
+      "Chaoyi Chen",
+      "Yongxing Li",
+      "Hongye He",
+      "Yandong Hou"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221444385",
+    "title": "Transient Dynamic Response of a Thorium-Based Molten Salt Reactor Under Reactivity Insertion followed by Loss of Flow and Loss of Heat Sink",
+    "abstract": "ABSTRACT In molten salt reactors the mobile fuel couples neutronics and thermal-hydraulics so closely that a second failure can change the outcome of an accident qualitatively. A nonlinear transient code couples lumped-parameter thermal-hydraulics with point kinetics retaining both the loss and the delayed return of drifting precursors, and resolves the structural wall separately from the salt. Validated against Molten Salt Reactor Experiment data, it was applied to a 200 MWth U-233 thorium-based molten salt reactor (TMSR) for reactivity insertions of 10–500 pcm followed by loss of flow (LOF) or loss of heat sink (LOHS). Temperature feedback always shuts the reactor down, but decay heat then carries the structure past the 800 °C Hastelloy N limit. For a 100 pcm insertion the limit is reached at 2299 s under LOF, where stagnation opens a 59 K fuel–wall temperature difference, and at 5557 s under LOHS, where circulation retains the loop inventory as thermal ballast. This ordering reverses between 200 and 300 pcm, above which neither configuration protects the structural boundary. Inherent feedback therefore bounds the fuel temperature but does not ensure structural integrity, and margins assessed against the salt temperature overstate the available response time by up to a factor of five.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104779",
+    "doi": "https://doi.org/10.1016/j.net.2026.104779",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiaosheng Li",
+      "Tao Zhou",
+      "Jianquan Liu",
+      "Mengbin Li",
+      "Cheng yu-bo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221449943",
+    "title": "Interpreting Representative Parameter Values in Safety Assessment: Implications for System Evolution in Deep Geological Repositories",
+    "abstract": "A safety case is the collection of arguments and evidence to demonstrate the safety of a facility. The safety case includes safety assessments, and representative parameter values are widely used in safety assessments to simplify time-dependent repository conditions in performance assessment modeling. In existing safety assessments, time-dependent repository conditions are commonly represented by a single representative parameter value selected to simplify transport calculations. Repository conditions, however, evolve over time through coupled thermal, hydraulic, mechanical, and chemical processes, and a single representative parameter value may not adequately represent all stages of repository evolution. This study reviews existing safety case approaches, examines the relationship between repository evolution and parameter applicability, and proposes a decision process for evaluating representative parameter values. The analysis indicates that existing modeling approaches remain analytically valid, but representative parameter values should be interpreted and applied with explicit consideration of repository evolution and stage-specific system conditions. Explicit evaluation of representative parameter values with respect to repository evolution stages provides a clearer basis for judging whether representative parameter values remain appropriate for a given stage of repository evolution.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104777",
+    "doi": "https://doi.org/10.1016/j.net.2026.104777",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Myeongjin Kang",
+      "Kunok Chang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7221435240",
+    "title": "Experimental investigation of pressure pulsation during direct contact condensation of steam with noncondensable gas in a square minichannel",
+    "abstract": "Pressure pulsation is a characteristic dynamic response of steam direct contact condensation (DCC) in confined channels and is strongly influenced by noncondensable gas and inlet operating conditions. Steam-air DCC in a square minichannel was investigated experimentally using selected 1.0 s post-stabilization pressure segments. The effects of noncondensable gas content, subcooled-water mass flux, steam mass flux, and subcooled-water temperature were characterized using time-domain pressure signals, root-mean-square pressure fluctuation, paired extreme-pressure statistics, power spectral density analysis, energy-selected Hankel SVD reconstruction, and reconstructed pressure-state trajectories. For each operating condition, the minimum Hankel rank required to reach at least 80% cumulative squared-singular-value energy was retained. Increasing the noncondensable gas content from 0% to 3% reduced the root-mean-square pressure fluctuation from 7.86 to 1.99 kPa, decreased the within-record mean ± SD of the minimum-event depth from 27.67 ± 12.53 to 7.82 ± 1.54 kPa, and contracted the reconstructed pressure-state area from 151.52 to 9.19 kPa 2 . Increasing the subcooled-water mass flux from 298.263 to 597.516 kg·m −2 ·s −1 increased the root-mean-square pressure fluctuation from 2.86 to 7.59 kPa. Higher steam mass flux and higher subcooled-water temperature also attenuated the pressure response, whereas increasing subcooled-water mass flux strengthened it. The opposing liquid- and vapor-side mass-flux effects were consistently resolved across amplitude, event-scale, spectral, and reconstructed pressure-state descriptors. The energy-selected Hankel framework further provided a common basis for comparing reconstructed trajectory geometry among operating conditions, extending the pressure-pulsation characterization beyond conventional amplitude metrics.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-11",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133552",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133552",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Weishu Wang",
+      "Wenhao Zhang",
+      "Haitao Ren",
+      "Tao Lu",
+      "Jie Wang"
+    ],
+    "category": "heat-transfer"
   }
 ]
