@@ -341054,43 +341054,370 @@
         "Weidong Fang"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222412468",
+      "title": "Benchmarking CAPRIX pin behaviour under irradiation with high plutonium content: comparison with experimental data",
+      "abstract": "This paper presents the results of the second phase of the benchmark exercise in the Plutonium Management for More Agility project (PuMMA), which aims to enhance the reliability of fuel performance codes (FPCs) for Mixed Oxide (MOX) fuels with high plutonium content. This phase involved the simulation of the CAPRIX irradiation (45% of Pu) carried out in the PHENIX reactor in France. Thirteen organizations from nine countries participated, using eight different fuel performance codes. In this phase, 7 codes then improved its modelling by optimizing parameters and/or improving the formulation of some models involved in the computation. A comparative analysis was then conducted between the codes and the post-irradiation experimental (PIE) results, with the objective of identifying the improvements made, the discrepancies still observed, and to define future areas for improvement and development. The present paper demonstrates the results for the CAPRIX pin. The main results despite the discrepancies noted between the codes and/or with the experimental data, the work carried out through this benchmark has demonstrated the capacity of the codes to optimise/improve their simulation in order to approximate the PIE. Moreover, the methodology employed yielded a comprehensive and precise analysis, thus facilitating the suggestion of approaches to the development of specific models. This finding thus demonstrates the potential of fuel performance codes modelling pins with high Pu contents.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115270",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115270",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Marie-Margaux DESAGULIER",
+        "D. Jaramillo-Sierra",
+        "B. Burger",
+        "Laureline Argeles",
+        "Magda Stefanowska",
+        "Jean Lavarenne",
+        "V. Dupont",
+        "E. Deveaux",
+        "Alessandro DEL NEVO",
+        "E. Brunetto",
+        "Alessandro Scolaro",
+        "J. Gado",
+        "K. Sturm",
+        "A. Rineiski",
+        "L. Luzzi",
+        "A. Magni",
+        "D. Pizzocri",
+        "Konstantin Mikityuk",
+        "Antonio Jiménez-Carrascosa",
+        "Sergei E. Lemehov",
+        "V. Matocha",
+        "Slavomír Bebjak",
+        "Ctibor Strmensky",
+        "V. Blanc",
+        "Nicolas Chauvin"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222616446",
+      "title": "Thermal-hydraulic assessment of microencapsulated phase change material slurry for natural-circulation loops",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112933",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112933",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Si Yang",
+        "Hangbin Zhao",
+        "Kaiwen Qin",
+        "Tingxiang Lv",
+        "Xiaobin Tang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222619266",
+      "title": "Multivariable control of large-scale pressurized water reactor based on LPV-MPC algorithm over a wide operating range",
+      "abstract": "For energy conservation, large-scale Pressurized Water Reactors (PWRs) are required to participate in grid peak shaving. Compared to traditional PID control, Model Predictive Control (MPC) algorithm offers advantages in handling multivariable control problems. However, PWR systems exhibit strong nonlinearity under wide-range operation, limiting conventional MPC performance. Therefore, Linear Parameter Varying (LPV) models, valued for their nonlinear approximation capability and low computational cost, are employed in nonlinear MPC. This paper proposes an LPV model-based MPC algorithm to enhance the control of a nonlinear HPR1000 model. An iterative optimization strategy is adopted for LPV model identification: first, initial local models are identified using the asymptotic method; then, parameters of the weighting functions are estimated via least squares; finally, the LPV model is optimized iteratively based on the total data. The local models demonstrate good performance in both time-domain and frequency-domain validation. The optimized LPV model shows high similarity to the plant’s step responses at both high and low loads, confirming its suitability for MPC controller. The LPV-MPC is compared with both the original control system and a fixed-model MPC (F-MPC) through test scenarios at 100 % and 50 % FP. The results indicate that the LPV-MPC controller offers comparable performance at 100 % FP, but exhibits faster regulation speed and stronger capability in suppressing SG water level fluctuations at 50 % FP. The comparison with F-MPC demonstrates that the LPV-MPC possesses stronger adaptability and robustness. Meanwhile, a large-scale transition scenario was implemented. The comparative analysis confirms that the LPV-MPC controller possesses superior load-following performance.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112937",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112937",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jinhong Mo",
+        "Peiwei Sun",
+        "XINYU WEI"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222662466",
+      "title": "Impact of regional climate and SMR operation mode on techno-economic performance of nuclear renewable hybrid energy systems for middle scale data centers",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112925",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112925",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shuo Wang",
+        "Yiyang Shen",
+        "Zhenqin Xiong"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222622937",
+      "title": "Proactive maintenance and structural modifications of VVER-1000 steam generator blowdown systems to ensure long-term safety",
+      "abstract": "Steam generators of VVER-1000 pressurized water reactors play a crucial role in separating the primary and secondary circuits and safely removing heat from the reactor core. This paper systematically evaluates the degradation mechanisms on the secondary side of the steam generator, focusing on the continuous blowdown and sludge removal systems in the context of ensuring long-term safety functions. Based on operational data and experience from a reference nuclear power plant, a transition from reactive to proactive preventive maintenance is proposed. This approach combines continuous diagnostics, water chemistry management, technical modifications to piping layouts, and risk-based planning. The study identifies dominant damage mechanisms (pitting corrosion, stress corrosion cracking, sludge accumulation in inspection pockets, and foreign material ingress), quantifies their impact on the integrity of heat transfer tubes, and proposes practical measures to maintain the barrier function of the steam generator. The benefits include a reduced probability of failures, stabilization of the water chemistry regime, shortened outage durations, and improved long-term reliability of Safety Class 1 components.",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106647",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106647",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Karel Vidlák",
+        "Vladimír Mózer"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222690300",
+      "title": "Effects of curvature and inclination on external steam condensation with non-condensable gases under natural convection",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106646",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106646",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ruihan Jing",
+        "Shuhang Zhou",
+        "Daiyong Song",
+        "Xu Zhang",
+        "Chao Jiang",
+        "Haozhi Bian",
+        "Jianjun Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222709508",
+      "title": "Numerical study on effects of tube bundle geometry and arrangement on external steam-air condensation",
+      "abstract": "Condensation of steam mixed with non-condensable gases (NCGs) is a key physical process governing containment depressurization and thermal removal during severe nuclear reactor accidents. Previous studies on steam condensation with NCGs outside tube bundles have mostly focused on bundle structures with a single length and pitch. This paper examines the effects of bundle length, pitch, inclination angle, arrangement, and tube rows number on steam-air condensation outside tube bundles via numerical simulation. The coupling effects between tube length and arrangement, as well as tube pitch and inclination angle, are also analyzed. Calculations indicate that for tubes of different lengths and arrangements, the condensation heat transfer coefficient (CHTC) first decreases and then stabilizes as the tube length increases. Furthermore, the CHTC of different tubes within the bundle increases with larger tube pitch. At a tube pitch of 1.5d, tube innermost tube exhibits the poorest heat transfer performance. At a tube pitch of 3d, its heat transfer capacity becomes 2.55 times that under the 1.5d condition. Inclination induces more obvious overlap effect with narrow tube pitch, at a pitch of 2d, and the overall CHTC of the bundle increases with a larger inclination angle. Additionally, the overall CHTC for a 1m tube bundle gradually increases with increased tube rows, the CHTC surpasses that of a single tube when the number of rows exceeds 10. For 3m and 5m tube bundles, it initially decreases and then tends to stabilize as the number of rows increases.",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106649",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106649",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Daiyong Song",
+        "Nan Zhang",
+        "Ruihan Jing",
+        "Liu Qianru",
+        "Z. T. Sun",
+        "Haozhi Bian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222677637",
+      "title": "High-throughput gamma-ray spectrometry using 1-GS/s current-pulse acquisition and FPGA-based cascaded pile-up recovery",
+      "abstract": "Long decay tails introduced by charge-sensitive preamplifiers increase the probability of pulse pile-up and limit the output count rate of conventional gamma-ray spectrometers under high-count-rate conditions. This work presents a high-throughput gamma-ray spectrometer based on current-pulse readout, 1-GS/s waveform digitization, and field-programmable gate array (FPGA)-based pile-up recovery. The 16-bit analog-to-digital converter (ADC) stream is processed using four parallel 250-MHz preprocessing lanes, event-driven variable-length packetization, dynamic allocation among eight first-in, first-out (FIFO)-backed recovery channels, and 16-stage cascaded template subtraction. The system was evaluated using a 1.5-inch LaBr 3 :Ce detector and a 137 Cs source. The measured single-pulse rise time and decay-time constant were 33 and 47 ns, respectively. For a representative isolated pulse, the normalized root-mean-square error relative to the average template was 0.0134. Noise-injection simulations yielded a standard deviation of 0.776 ns for timing deviations obtained using digital constant-fraction discrimination. For the investigated pulse separations and amplitude ratio, template-alignment errors between −3 and +3 ns resulted in a maximum absolute relative error below 1.8% in the mean recovered secondary-pulse amplitude. Using the estimated input rates, valid-event throughputs of 95.6% and 82.1% were obtained at 1 and 4.96 Mcps, respectively, with corresponding energy resolutions of 3.14% and 5.27% at 661.7 keV under their respective operating conditions. A system-level comparison showed that the proposed spectrometer maintained a more nearly linear input–output count-rate response and a smaller rate-dependent degradation in energy resolution than the conventional charge-sensitive configuration over the common measurement range.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104782",
+      "doi": "https://doi.org/10.1016/j.net.2026.104782",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Lei Yan",
+        "Guoqiang Zeng",
+        "Qiang Li",
+        "Li He",
+        "Jian Yang",
+        "Yang Hou",
+        "Song Qing"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222413410",
+      "title": "Mechanisms of superposition deviations in adiabatic wall temperature on a film cooled turbine vane under hot streak conditions",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129750",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129750",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zhuang Wu",
+        "Si-yuan Shan",
+        "Fei Zeng",
+        "Wenbin Chen",
+        "Jing-xin Wu",
+        "Zhenhua Wen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222559349",
+      "title": "A multiple flow regime CFD methodology for modelling liquid nitrogen chilldown in vertical pipes",
+      "abstract": "Cryogenic fuels are central to the decarbonisation of heavy-duty transport and the deployment of next-generation propulsion systems. However, their widespread adoption is constrained by the lack of reliable predictive tools for transient thermofluid processes. A critical bottleneck is pipe chilldown, in which system hardware undergoes transient cooldown before system operation. Chilldown is a highly coupled, non-linear process governed by rapid transitions between film, transition, and nucleate boiling regimes, which remain challenging to model accurately and efficiently. This study presents a novel, computationally efficient 2D axisymmetric CFD framework for liquid nitrogen (LN 2 ) cryogenic chilldown, validated against LN 2 experiments. The key distinguishing feature of the approach is the use of distinct, regime-specific phase change models within each flow sub-regime, rather than a single correlation applied across the full chilldown transient. The model integrates this multiple flow regime boiling approach within STAR-CCM+ using heat transfer-based phase change, with two heat transfer correlations governing the liquid-vapour phase change investigated: the Hughes–Duffey and Coste models. Both models produce wall temperature predictions within 10% across all validated cases. The Hughes–Duffey model demonstrated better overall agreement with the experimental data, producing more physically consistent boiling curve predictions and more accurately capturing the characteristic features of the chilldown transient. The results demonstrate that a multiple flow regime approach can deliver accurate and generalisable chilldown predictions, providing practical guidance for CFD practitioners and supporting the design of next-generation cryogenic transfer systems.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129735",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129735",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "S. Fernandes",
+        "Christopher D. Ellis",
+        "Stephen Ambrose",
+        "Evgenia V. Korsukova",
+        "Carol N. Eastwick",
+        "Roberto Alegre Usach"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222426500",
+      "title": "Study on improving internal temperature control performance of refrigerated trucks in temperate regions based on external phase change panels",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133573",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133573",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yangyang Zhang",
+        "Zujing Zhang",
+        "Jiri Zhou",
+        "Xing Liang",
+        "Hongwei Wu",
+        "Ruiyong Mao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222431622",
+      "title": "Experimental comparison and development of thermal conductivity correlations for three types of ternary hybrid nanofluids containing CuO, Al2O3, TiO₂, SiO₂ and MWCNT nanoparticles",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133653",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133653",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Seif Al Bustanji",
+        "Raman Kumar",
+        "N. Beemkumar",
+        "Bashar Mahmood Ali",
+        "Akanksha Mishra",
+        "Harjot Singh Gill",
+        "Ahmed Mohsen Khdyr",
+        "Nitin Kumar Yadav"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222620383",
+      "title": "PCM-assisted battery thermal management systems with hybrid fin–rib geometry using numerical modeling and AI-based optimization framework",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133554",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133554",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yanping Wu",
+        "Mohammad Jafar Mokarram",
+        "Hyder H. Abed Balla",
+        "Hemn A.H. BARZANI",
+        "Raymond Ghandour",
+        "Hanaa Abu-Zinadah",
+        "Ilkhom Khaydarov",
+        "Hind Mohammed Albalawi",
+        "Xuan Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222622262",
+      "title": "Irradiance-weighted cellular method for external shading geometry design: A Beijing case study",
+      "abstract": "External shading intercepts direct-beam radiation before it reaches glazing, reducing cooling-season solar gains while potentially obstructing useful winter gains. Published cellular implementations remain largely restricted to rectangular openings and lack equal-area comparisons with both empirical overhangs and optimized rectangles. We develop a polygon-raster implementation for horizontal overhang planforms. Using a single Beijing International Weather for Energy Calculations typical meteorological year, the method constructs a seasonally signed field weighted by direct normal irradiance; diffuse radiation is excluded. Geometry extraction imposes a protrusion cap, a continuous wall root, and a morphological feature filter, after which all candidate outlines are re-evaluated by continuous forward clipping. Continuous forward and analytical reverse shadow areas agree within rounding, and a 2.5 mm re-extraction changes the continuous regularized score by 0.11 kWh. For a 1 m × 1 m south-facing window at equal panel area (0.344 m 2 ), the regularized outline scores 29.84 kWh. On this intercepted direct-beam-energy proxy at SHGC = 1 —not an HVAC-load metric—it is 19.1 % above the empirical overhang (25.05 kWh) and 5.7 % above the optimized rectangle (28.23 kWh). The optimized rectangle therefore captures most of the gain over the empirical overhang; on the west and east walls the additional free-form margin is only 0.6 % and 1.6 %, respectively.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133532",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133532",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ruiqi Bai",
+        "Yichen Yang",
+        "Haowen Wu",
+        "Niannian Liu",
+        "Jiuzhou Tian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222628817",
+      "title": "Experimental investigations of boiling heat transfer of subcooled ammonia in OTEC plate heat exchangers",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133630",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133630",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yang Liu",
+        "Hirofumi Arima"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222553696",
+      "title": "Mitigation of rotational instabilities using multi-turn solenoid in induction heating-based wire additive manufacturing process",
+      "abstract": "Induction heating-based wire additive manufacturing (IH-WAM) has emerged as a promising heat source for processing high melting point materials. The Lorentz force generated by the interaction between the induced current and the magnetic field strongly influences metal transfer mechanism, often leading to delayed transfer and non-uniform deposition due to its rotational effect. In the current work, the role of magnetic flux density in controlling metal transfer dynamics to achieve favourable material deposition is targeted. The application of a multi-turn solenoid positioned near the induction coil is proposed as a novel approach to mitigate the rotational effect of Lorentz force. A simulation-based study is conducted to determine the optimal orientation of the multi-turn solenoid. A detail investigation is carried out to assess the influence of critical process parameters like wire feed rate, applied solenoid current and number of solenoid turns by analysing the temperature distribution within the fed stock wire. The magnetic field and the corresponding Lorentz force interaction between induction coil and the solenoid is performed to understand the mechanism. The baseline simulation without the solenoid exhibits good agreement with the existing experimental results, validating the developed model. However, the potentiality of magnetic field controlled by using a multi-turn solenoid at optimal design of IH-WAM, shows the way of its reliable application in additive manufacturing of high melting point metals.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-16",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111430",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111430",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ashimjyoti Chutia",
+        "Swarup Bag",
+        "Sajan Kapil"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13245,
+    "total": 13261,
     "journals": 277,
-    "last_update": "2026-10-17 04:04:33",
-    "reactor-thermal_count": 1943,
-    "heat-transfer_count": 3666,
+    "last_update": "2026-10-18 04:12:09",
+    "reactor-thermal_count": 1951,
+    "heat-transfer_count": 3674,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2147
+        "count": 2152
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 873
+        "count": 875
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 535
+        "count": 538
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 486
+        "count": 487
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 438
+        "count": 439
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 296
+        "count": 297
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 214
+        "count": 217
       },
       {
         "name": "Nuclear Technology",
@@ -342175,10 +342502,6 @@
     ],
     "trend": [
       {
-        "date": "2026-09-18",
-        "count": 32
-      },
-      {
         "date": "2026-09-19",
         "count": 18
       },
@@ -342228,7 +342551,7 @@
       },
       {
         "date": "2026-10-01",
-        "count": 59
+        "count": 60
       },
       {
         "date": "2026-10-02",
@@ -342288,10 +342611,14 @@
       },
       {
         "date": "2026-10-16",
-        "count": 6
+        "count": 21
       },
       {
         "date": "2026-10-17",
+        "count": 0
+      },
+      {
+        "date": "2026-10-18",
         "count": 0
       }
     ]
@@ -342510,5 +342837,5 @@
       }
     ]
   },
-  "export_time": "2026-10-17T04:04:33.516895"
+  "export_time": "2026-10-18T04:12:09.115437"
 }
