@@ -341381,39 +341381,413 @@
         "Sajan Kapil"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222824072",
+      "title": "Modelling fluidelastic instability in two-phase cross-flow using indicial functions",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115274",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115274",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Loay Alyaldin",
+        "Njuki W. MUREITHI"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222792963",
+      "title": "Numerical simulation of Gamma-Induced background current in cobalt Self-Powered neutron detectors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112952",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112952",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xiong Wu",
+        "Zhihong Liu",
+        "Jiasi Yu",
+        "蒋洁琼",
+        "Li Cai",
+        "Xiangju Zhang",
+        "Zhiqiang Cui"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222837754",
+      "title": "Numerical study of thermal mixing characteristics in lead-bismuth parallel triple-jet based on detached eddy simulation",
+      "abstract": "In lead-cooled fast reactors (LFRs), the temperature difference between hot and cold lead–bismuth eutectic (LBE) streams from different fuel assemblies can exceed 100 K. Their interaction in the upper plenum generates complex turbulent jets, which may cause thermal striping and thermal fatigue in structural components, making thermal mixing critical to reactor safety. Conventional RANS methods struggle to reliably capture transient temperature fluctuations, while pure LES incurs prohibitively high computational cost for multi-condition engineering studies. Detached eddy simulation (DES), which combines near-wall Reynolds-averaged Navier–Stokes modeling with large eddy simulation in separated regions, strikes a practical balance between eddy-resolving capability and computational efficiency, providing an efficient approach for resolving large-scale turbulent structures and temperature fluctuations. In this study, DES was used to investigate the thermal mixing of hot and cold LBE coolant jets in a parallel triple-jet configuration. The method was validated against liquid-sodium triple-jet experimental data and then applied to examine the effects of inlet velocity and temperature difference. The results show that higher inlet velocity enhances jet inertia, delays near-inlet mixing, and broadens the frequency range of temperature fluctuations, whereas a larger temperature difference mainly increases temperature gradients and fluctuation intensity, with little influence on the overall flow structure and dominant frequency range. A reference comparison with LES data further demonstrates that DES can reproduce the overall dependence of temperature fluctuation intensity on the operating parameters with comparable fluctuation amplitude ranges, while requiring approximately 94 % lower estimated computational cost.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112951",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112951",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wenzhen Qiao",
+        "Xingchen Wang",
+        "Weijie Tang",
+        "Rui Zhang",
+        "Jianquan LIU",
+        "Mingchen Xia",
+        "Yuanhao Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222797646",
+      "title": "A reliability data aggregation method for fusion-oriented research facilities",
+      "abstract": "This paper aims to develop a statistical method for integrating multiple incomplete data sources to improve the estimation of the failure-rate probability distribution of fusion-specific devices. The data aggregation approach proposed in this work is to support the Reliability, Availability, Maintainability, and Inspectability (RAMI) studies for fusion-oriented research facilities. This work focuses on developing a procedure for handling missing or incomplete data from multiple sources, as well as formulating a statistical framework for combining data from different sources that refer to the same equipment type and failure mode. Specifically, a Bayesian result is adopted under the assumption of a constant failure rate over time. This framework motivates the use of the Gamma distributions to model the failure-rate parameter of each device. Subsequently, two alternative procedures are introduced to approximate, using a single Gamma distribution, the weighted mixture formed by combining Gamma distributions corresponding to the same equipment type across multiple data sources. The proposed method is validated through an extensive simulation study and further illustrated by application to the accelerator systems of the IFMIF-DONES facility. Finally, the proposed algorithm has been implemented in the open-source software R to facilitate its use in the nuclear fusion community.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104778",
+      "doi": "https://doi.org/10.1016/j.net.2026.104778",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "H. Ortiz",
+        "Juan Eloy Ruiz‐Castro",
+        "C. Acal",
+        "Karol Kowal",
+        "J. Chiachío",
+        "A.M. Aguilera"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222798093",
+      "title": "Toward Reliable Probabilistic CHF Prediction: Physical Interpretation and Evaluation of Epistemic–Aleatoric Uncertainty Decomposition",
+      "abstract": "Critical heat flux (CHF) is a key thermal-hydraulic phenomenon in reactor safety; however, its accurate prediction remains challenging due to highly nonlinear behavior. Accordingly, data-driven models have been developed to overcome limitations of conventional correlations. Although probabilistic neural networks provide uncertainty estimates alongside predictions, the reliability of their calibration and consistency with the underlying data distribution remain unclear. A unified framework is proposed to evaluate uncertainty reliability using 24,579 CHF data points and three probabilistic approaches: Bayesian neural networks, Monte Carlo Dropout, and Deep Ensembles. Calibration is assessed using AUSE, CE, and NLL, while uncertainty consistency is evaluated through Spearman correlation between epistemic uncertainty and data sparsity measures. The results reveal that epistemic uncertainty across models is more strongly influenced by prediction magnitude than data sparsity, indicating limited consistency with the underlying data distribution. To improve the uncertainty calibration and consistency of the probabilistic framework, a pruned diversified deep ensemble (PDiv-DE) is proposed. The PDiv-DE preserves predictive performance while improving calibration accuracy and strengthening the consistency between epistemic uncertainty and data sparsity. Therefore, the proposed framework provides a practical step toward more reliable uncertainty quantification for CHF prediction and supports the development of data-driven models for safety-relevant thermal-hydraulic applications.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104790",
+      "doi": "https://doi.org/10.1016/j.net.2026.104790",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Chanyeong Yoon",
+        "Mooneon Lee",
+        "Juhyung Lee",
+        "Hyouk Kwon",
+        "Kyung Mo Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222822127",
+      "title": "Public valuation of a partial transition from large reactors to enhanced-safety small modular reactors: Evidence from South Korea",
+      "abstract": "This study estimates South Korean households’ willingness to pay (WTP) for a proposed partial transition from conventional large reactors to enhanced-safety small modular reactors (SMRs). The scenario maintains total capacity at 1,400 MW while replacing 700 MW of conventional large-reactor capacity with SMRs. A nationwide contingent valuation survey of 1,000 household heads or spouses, conducted in early 2026, employed one-and-one-half-bound dichotomous-choice questions and a spike model to accommodate zero WTP responses. Mean monthly WTP was KRW 2,677 (USD 1.74) in the model without covariates and KRW 2,591 (USD 1.68) in the covariate model. WTP was positively associated with household income and prior SMR knowledge and negatively associated with the presence of children. The treatment of stated zero responses materially affects the estimated welfare measure, and the high prevalence of payment-vehicle protests underscores the importance of financing design and perceived institutional responsibility. The results indicate that the proposed transition has measurable non-market value; however, the estimate reflects households’ valuation of the bundled policy scenario—including changes in reactor technology, unit scale, capacity composition, and safety-related characteristics—rather than the marginal value of passive safety or any individual SMR attribute.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104792",
+      "doi": "https://doi.org/10.1016/j.net.2026.104792",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Moon-Ki Min",
+        "Bo-Min Seol",
+        "Seung‐Hoon Yoo"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222801566",
+      "title": "A universal multi-factor coupled model for close-contact melting",
+      "abstract": "Latent heat storage (LHS) dominated by gravity-driven close-contact melting (G-CCM) is limited by the late‑stage drop in driving force, resulting in low utilization efficiency in medium-to-low temperature waste heat recovery. To overcome this bottleneck, this study proposes a novel LHS system architecture based on efficient pressure-driven CCM (P-CCM). Using an experimentally validated P-CCM numerical model, this work investigates the effect mechanisms of applied pressure, geometric dimension, and wall temperature on the hydrodynamic and heat transfer characteristics within the molten liquid film and the thermal storage performance. The universal calculation models for the liquid fraction ( β ) are derived using the nonlinear least-squares method. The results reveal that applying pressure enhances both conductive and convective heat transfer, whereas increasing the width primarily lengthens the drainage path with minimal effect on average velocity and pressure drop. Increasing the wall temperature accelerates the melting rate by increasing the temperature gradient. The complete melting time ( t c ) is positively correlated with the modified Archimedes number ( Ar *) and the Stephen number ( Ste ), and negatively correlated with the aspect ratio ( AR ). The specific power ( P m ) reaches its maximum at 100 Pa, first increasing and then decreasing as Ar * increases. Computational models for G-CCM ( β = 21.6293( Fo·Ste 0.75 ·AR −0.65 ) 0.7653 , R ² = 0.9983) and P-CCM ( β = 1.5677( Fo·Ste 0.7 ·Ar * 0.5 ·AR −0.6 ) 0.8907 , R ² = 0.9992) show excellent agreement with the β curves of the 80 cases. These findings provide practical guidance for elucidating the performance enhancement mechanisms of P-CCM and predicting β curves in multidimensional parameter spaces.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129738",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129738",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Huaizhuo Zhang",
+        "Yongping Huang",
+        "Yu Rong",
+        "Chengbin Zhang",
+        "Yunfu Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222822835",
+      "title": "Transport-coupled topology optimization and thermodynamic assessment of porous electrodes in electrochemical systems",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129729",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129729",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Rotanak Visal Sok Tep",
+        "M.B. Long",
+        "Mehrzad Alizadeh",
+        "Danai Phaoharuhansa",
+        "Krisda Tapracharoen",
+        "Takahiro Suzuki",
+        "Shohji Tsushima",
+        "Patcharawat Charoen‐amornkitt"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222840007",
+      "title": "Heat transfer under spray cooling of laser-textured superhydrophilic titanium surface",
+      "abstract": "The relevance of the work is due to the need to improve the efficiency and uniformity of spray cooling of large surfaces in heat-loaded systems. An experimental study of heat transfer during spray cooling with water of unmodified and laser-textured titanium surfaces measuring 70 × 70 mm² was carried out under heating conditions below the saturation temperature. Laser treatment led to the formation of a developed micro- and sub-microrelief and a significant increase in surface hydrophilicity: the water contact angle decreased from 60° for unmodified titanium to 4.8° for the modified surface. It has been shown that under the same heating and spray cooling conditions, the laser-textured surface provides a lower average temperature and more uniform wetting of the working area, including peripheral regions. At a heat flux density of 14.3 W/cm 2 , the average temperature of the modified surface was 1.4–1.6 °C lower than that of the unmodified surface. The maximum achieved heat flux density increased from 16 W/cm 2 for the original surface to 20 W/cm 2 for the laser-modified surface. It was found that under identical spray cooling and heating conditions, the heat transfer coefficient of the modified surface exceeded that of the unmodified surface by 14–42%, with the relative increase growing as the coolant flow rate increased. The obtained results indicate that increased hydrophilicity promotes more uniform liquid distribution, efficient liquid film renewal, and intensification of single-phase convective heat transfer. The practical significance of this work lies in substantiating the use of laser texturing of titanium surfaces as a method to enhance the intensity and spatial uniformity of spray cooling over large surfaces.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129739",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129739",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "А. Д. Назаров",
+        "Миськив Николай Богданович",
+        "Elena M. Starinskaya",
+        "E.A. Sendir",
+        "Yu.A. Shikhevich",
+        "Alexey A. Rodionov",
+        "S.V. Starinskiy"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222783828",
+      "title": "Thermomechanical assessment of horizontal and slightly tilted direct steam generation solar receivers",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133586",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133586",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Israël Aguilera-Cortes",
+        "A. Acosta-Iborra",
+        "Adrien Toutant",
+        "Samuel Mer"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222788875",
+      "title": "Data-efficient multi-objective structural optimization and design space exploration of refrigerant-based cold plate for laser device",
+      "abstract": "Fiber lasers are widely used in advanced manufacturing and aerospace due to their high beam quality, compactness, and operational stability. However, as laser power density and integration level continue to increase, thermal management becomes a key factor limiting performance and service life. This study proposes a data-efficient design framework for a refrigerant-based cold plate applied to fiber-laser cooling. A multi-objective optimization strategy is developed by combining a multi-fidelity surrogate with Bayesian optimization, where pressure drop and mean absolute temperature deviation are treated as conflicting objectives. In addition, Shapley additive explanations analysis is introduced to interpret the influence of structural parameters on thermo-hydraulic performance. The results show that the multi-fidelity surrogate model improves predictive accuracy by 29%–43% compared with single-fidelity surrogate model while significantly reducing the number of expensive high-fidelity simulations. The optimized design achieves a substantial reduction in flow resistance with only a limited thermal-performance penalty. Experimental results further show that, under a heat load of 2800 W, the optimized cold plate reduces flow resistance by 42.5%, while the average surface temperature in the critical region increases by only 1.7 °C relative to the reference design. The proposed framework provides an effective and interpretable solution for the structural design of compact, high-performance refrigerant-cooled cold plates for high-power laser devices.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133678",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133678",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Qingwen Gui",
+        "Youwei He",
+        "Jiangshuo Cui",
+        "Yong Chen",
+        "Chaochao Zhou"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222806047",
+      "title": "Transient thermal modeling of multilayer-insulated liquid-hydrogen tanks: Steady-state error compensation and chilldown boil-off",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133604",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133604",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jean-Gabriel Bauzin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222806816",
+      "title": "Hydrogen crossover in proton exchange membrane electrolysis cells under assembly compression: a one-dimensional multiphysics model and parametric structural design",
+      "abstract": "It is widely acknowledged that proton exchange membrane electrolysis cells constitute the core technology for large-scale green hydrogen production from renewable energy sources. Hydrogen crossover in proton exchange membrane electrolysis cells poses critical safety and efficiency challenges, yet its quantitative correlation with assembly compression remains unclear. This study develops a one-dimensional steady-state model integrating gas-water-heat-charge transfer and electrochemical reactions, with a compression ratio variable to empirically correct transport coefficients and contact resistance. Results reveal that concentration-driven diffusion dominates hydrogen crossover (>90%) over 0–3.6 A/cm 2 . The compression ratio and operating temperature exert a synergistic enhancement effect on hydrogen crossover. Higher compression reduces contact resistance and improves efficiency, but also elevates mass transfer resistance and safety risk of hydrogen crossover. The gradient porosity configuration with high porosity (0.7) in the cathode porous transport layer and low porosity (0.3) in the cathode catalyst layer reduces the hydrogen concentration in oxygen by 46.5% under high-current operating conditions. The gradient hydrophilicity design, featuring a hydrophobic porous transport layer and a hydrophilic catalyst layer, increases the average membrane water content by 4.69%. This work deepens the understanding of the compression effect on the hydrogen crossover, and offering steady-state guidance for safe, efficient electrolyzer design.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133588",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133588",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jianfei Zhang",
+        "Ziqian Zhu",
+        "Jianlin Fu",
+        "Zhiguo Qu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222809066",
+      "title": "Optimal configuration of complementary coupled energy supply stations for remote offshore hydrogen refueling and charging",
+      "abstract": "With the implementation of China's “offshore hydrogen island” project and the development of hydrogen and electric ships, the proposal of “renewable energy + energy storage + combined hydrogen production” has opened up new ideas for remote offshore energy supply. However, extending the cruising range of deep-ocean unmanned ships without requiring them to pull into shore remains a critical logistical and economic challenge. To address this gap and move beyond conventional single-energy platforms, a novel wind turbine-driven complementary coupled energy supply station for remote offshore hydrogen refueling and charging is proposed. This system aims to meet the daily electricity demand of 50 electric ships and the hydrogen refueling demand of 1000 kg, introducing a dual-timescale hybrid storage architecture. The energy station incorporates elements of wind energy, electrolyzers, fuel cells, hydrogen storage, and electricity storage. Based on 24-h hourly wind speed and load profiles from four typical seasonal days, which serve as representative operational boundaries and peak stress scenarios to guide year-round capacity optimization, a nested two-layer optimization framework combining Bayesian Optimization with Particle Swarm Optimization is used to obtain the optimal capacity configuration. The system is evaluated based on three proposed indexes: the system cost of power, the system cost of hydrogen, and the system cost of energy. Comparative analysis shows that the energy supply station with a fuel cell performs significantly better. It achieves a system cost of power of 0.1789 $/kWh and a system cost of hydrogen of 4.9873 $/kg, which are 29.62% and 35.28% lower, respectively, than the configuration without a fuel cell. This validates the advantage of the hybrid energy storage system, where batteries manage short-term intra-day fluctuations, and hydrogen storage successfully addresses multi-day to cross-seasonal energy deficits. Sensitivity analysis reveals that the lithium-ion battery is the most influential component regarding overall system costs. Finally, the conditions for flexible operation under varying load shares are derived. Ultimately, this study demonstrates that the proposed multi-energy station is highly cost-efficient, providing a robust, scalable engineering blueprint for the design of future remote offshore green energy infrastructure.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133593",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133593",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Miao Luo",
+        "Gongnan Xie",
+        "Rui Su",
+        "Shaoqi Song",
+        "Huangqing Zhou",
+        "Pu-Hang Jin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222810829",
+      "title": "Multi-objective optimization of an immersion hybrid preheating system for large-capacity lithium-ion batteries at low temperatures",
+      "abstract": "Low-temperature thermal management, which relies on high-efficiency preheating techniques to avoid performance attenuation and safety risks, is a critical bottleneck for the commercial application and stable operation of large-capacity lithium-ion battery energy storage systems. Herein, a novel immersion-based hybrid preheating system (IHPS) integrating dielectric immersion liquid convection and metallic thin-film conduction heating is proposed for low-temperature battery preheating. Comparative simulations show that the IHPS achieves higher heating rates than the two single-mode preheating strategies under the investigated conditions. Specifically, the battery temperature rise rate of the IHPS is 182.17%–229.94% higher than that of standalone immersion liquid preheating, and 62.27%–91.14% higher than that of independent metallic heating film preheating. Meanwhile, the IHPS reduces the heating-film electrical energy demand by 38.27%–47.62% compared with the single heating film scheme. To further balance preheating efficiency and battery module temperature uniformity, a complete multi-objective optimization design framework is established for the IHPS. The dominant structural and operational design variables are screened and quantitatively ranked via single-factor parametric analysis and global sensitivity analysis. Sequential global multi-objective optimization and local fine-tuning are conducted to obtain optimal system configurations. The optimized IHPS exhibits a 39.08%–135.62% enhancement in temperature rise rate and a 64.39%–77.38% reduction in maximum battery module temperature difference relative to the baseline prototype; the minimum battery module temperature difference reaches 2.94 °C after local parametric refinement. Finally, bench experiments are conducted for the three heating-film layouts under baseline operating conditions to evaluate the agreement between the numerical predictions and experimental measurements. For the tested baseline configurations, the maximum relative deviation in heating rate and maximum absolute deviation in average module temperature between experiments and simulations are 4.76% and 1.67 °C, respectively. This work provides a feasible design and optimization paradigm for rapid and thermally coordinated low-temperature preheating schemes with reduced heating-film electrical energy demand for large-capacity battery energy storage systems.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133642",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133642",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zehua Zhu",
+        "Zhendong Zhang",
+        "Xin Min Lai",
+        "Linxiang Fu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222840093",
+      "title": "Optimization and energy-saving retrofit of recirculating cooling water systems: a review of cooling water network, cooling tower, and pump system coordination",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133596",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133596",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shiqi Liu",
+        "Xin Yang",
+        "Jinchun Song",
+        "Caihang Liang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222842809",
+      "title": "Experimental and numerical study on cold-start safety of a kilowatt-scale chloride salt receiver prototype for the next-generation solar power tower",
+      "abstract": "During cold-start, the lack of effective convective heat transfer inside a high-temperature chloride salt receiver may cause a rapid wall-temperature rise and large circumferential temperature gradients within a short period, resulting in local overheating and thermal stress concentration. These transient thermal loads pose a considerable stress-failure risk and therefore require effective safety regulation. To address the high risk of stress failure, a cold-start safety regulation experimental platform for the high temperature chloride salt receiver was constructed, and a three-dimensional transient thermal-mechanical analysis model was established for a kilowatt-scale receiver prototype. The variations in temperature and thermal stress of the prototype were investigated, and an illuminated-side wall stepwise preheating strategy was proposed. Subsequently, a back-side heating strategy was developed based on an inverse heat conduction problem model, with the ideal circumferential temperature difference and stress safety factor as optimization objectives. The two strategies were further combined for coordinated regulation of the cold-start safety. Results show that the average relative deviations between the experimental and simulated temperatures of the four receiver tubes are 2.22%, 3.16%, 3.82%, and 3.39%, respectively. Compared with simultaneous activation of all xenon lamps, stepwise preheating reduces the peak values of circumferential temperature difference and equivalent stress by 26.94%–42.62% and 26.17%–44.46%, respectively. With the additional back-side heating strategy, these two indicators are further reduced by 10.63%–41.88% and 8.94%–41.47%, respectively. The minimum safety factors reach 1.21–2.88, demonstrating that the combined preheating strategy can effectively improve the cold-start safety of high-temperature chloride salt receivers.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133654",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133654",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Si-Yuan Yang",
+        "Xuan-Zhi Zhang",
+        "Ze-Dong Cheng",
+        "Ya-Ling He"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222849670",
+      "title": "Design challenges in surface-modified falling film evaporators: Heat transfer gains vs. scaling penalties",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133531",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133531",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "N. Hidman",
+        "D. Vleeschhouwers",
+        "Anders Åkesjö",
+        "Erik Karlsson",
+        "Henrik Ström",
+        "S. Sasic"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222851775",
+      "title": "CFD-assisted heat-to-mass correction for open-vent boil-off prediction in an LN₂ benchmark tank",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133610",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133610",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jaewon Kim",
+        "Jong-Chun Park"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222790332",
+      "title": "Experimental investigation on thermal performance of coaxial annular heat pipes under different filling ratios",
+      "abstract": "Thermal protection of infrared sensors in confined high-temperature environments requires compact passive devices capable of maintaining stable two-phase heat transfer under non-uniform heating and variable orientation. In this study, coaxial annular heat pipes (CAHPs) with acetone charges of 1.5, 4.0, 5.0, and 6.0 mL, corresponding to wick-based filling ratios of 136.4%, 363.6%, 454.5%, and 545.5% (FR136, FR364, FR455, and FR546), were experimentally investigated. The effects of the filling ratio on start-up behavior, equivalent thermal resistance, outer-wall circumferential temperature uniformity, and inclination sensitivity were evaluated. The results show that the filling ratio controls the balance between liquid supply and vapor transport. At 15 W, FR364 achieved the lowest equivalent thermal resistance of 0.49 K/W, the shortest start-up time of 209 s, and the minimum evaporator outer-wall circumferential temperature difference of 7.47 K, indicating the best overall vapor–liquid matching among the tested cases. Heating position further affected the thermal performance: bottom heating produced the lowest thermal resistance, whereas circumferential heating promoted a rapid and relatively uniform temperature rise. Positive inclination reduced thermal resistance, while negative inclination deteriorated heat-transfer performance. FR364 exhibited the smallest thermal-resistance variation with inclination, indicating the best orientation tolerance. These results provide guidance for CAHP-based thermal protection of infrared sensors in confined high-temperature environments.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-17",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111435",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111435",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiazhi Sun",
+        "Lixin Yang",
+        "Jinxin Zhang",
+        "Yanyan Xiang"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13261,
+    "total": 13281,
     "journals": 277,
-    "last_update": "2026-10-18 04:12:09",
-    "reactor-thermal_count": 1951,
-    "heat-transfer_count": 3674,
+    "last_update": "2026-10-19 04:21:08",
+    "reactor-thermal_count": 1957,
+    "heat-transfer_count": 3688,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2152
+        "count": 2162
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 875
+        "count": 878
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 538
+        "count": 540
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 487
+        "count": 488
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 439
+        "count": 442
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 297
+        "count": 298
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -342502,10 +342876,6 @@
     ],
     "trend": [
       {
-        "date": "2026-09-19",
-        "count": 18
-      },
-      {
         "date": "2026-09-20",
         "count": 8
       },
@@ -342551,7 +342921,7 @@
       },
       {
         "date": "2026-10-01",
-        "count": 60
+        "count": 63
       },
       {
         "date": "2026-10-02",
@@ -342615,10 +342985,14 @@
       },
       {
         "date": "2026-10-17",
-        "count": 0
+        "count": 17
       },
       {
         "date": "2026-10-18",
+        "count": 0
+      },
+      {
+        "date": "2026-10-19",
         "count": 0
       }
     ]
@@ -342837,5 +343211,5 @@
       }
     ]
   },
-  "export_time": "2026-10-18T04:12:09.115437"
+  "export_time": "2026-10-19T04:21:08.250553"
 }
