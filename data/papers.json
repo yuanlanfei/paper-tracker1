@@ -341754,5 +341754,78 @@
       "Yanyan Xiang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7222890161",
+    "title": "Finite-size scaling and percolation behavior of the effective thermal conductivity in polydisperse porous media",
+    "abstract": "Accurately predicting the effective thermal conductivity (ETC) of random porous media is critical for understanding heat and mass transfer in various engineering applications. Nevertheless, it remains challenging due to microstructural heterogeneity and finite-size effects, which increase the characterization difficulty and may lead to scale-dependent and non-representative predictions. To address these limitations, this study proposes a comprehensive finite-size scaling (FSS) framework. By coupling massive Monte Carlo 2D porous media generation with steady-state heat transfer simulations, considering various particle distribution patterns, a vast dataset of ETC results is obtained. Supported by the microstructural analysis of heat flux density distributions, the results demonstrate that ETC is highly sensitive to the finite-size effect, which is governed by the interplay between domain size and particle radius distributions. It is found that the thermal conductivity of the pore phase significantly lowers the macroscopic percolation threshold by allowing the fluid to act as the filler that bridges isolated solid clusters. Moreover, introducing contact thermal resistance reduces the magnitude of ETC but does not alter the percolation thresholds or the universal scaling behavior. Ultimately, by calculating the optimized critical exponent σ = 1.35 , the highly dispersive ETC data are successfully collapsed onto a single FSS curve. The proposed FSS framework eliminates the finite-size effect and proves that macroscopic thermal transport in polydisperse 2D porous media is fundamentally governed by a universal scaling law, providing a robust tool for porous media ETC determinations in practical engineering designs.",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-18",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129743",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129743",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jiadi Tang",
+      "Sergio Andres Galindo-Torres"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7222892804",
+    "title": "Graph theory-coupled genetic algorithm optimization of piping networks for temperature uniformity in multi-stack SOFC systems",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-19",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133706",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133706",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jiaxuan Wu",
+      "Jingjin Hu",
+      "Guanyu Yang",
+      "Zhengkai Tu",
+      "Run Hu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7222872258",
+    "title": "Interfacial heat transfer and discharging characteristics of a pillow plate-graphite high-temperature sensible heat storage and heating device",
+    "abstract": "Conventional block-type solid sensible heat storage devices based on tubular indirect heat exchange are constrained by a limited heat transfer area per unit volume, a low storage-medium volume fraction, and complex fabrication and assembly. To overcome these limitations, a pillow plate-graphite high-temperature sensible heat storage and heating device (graphite device) was proposed and constructed, employing block graphite as the storage medium and a pillow plate heat exchanger (PPHE) as the working fluid-side component to form a coupled “storage layer-transition layer-PPHE” heat transfer structure. Discharging experiments were conducted on two transition layer structures combined with two PPHE configurations. The effects of storage layer thickness, working fluid mass flow rate, and segmented flow rate regulation were subsequently investigated. The results show that the equivalent transition layer thermal resistance dominates the heat transfer path, accounting for more than 90% of the total resistance. Relative to the filled transition layer, the cast-in-place transition layer reduced this resistance by approximately 11%, promoting more complete discharging of the storage layer. The flat side of the single-sided inflated PPHE lowered the total thermal resistance by approximately 35% compared with the inflated side, thereby increasing the effective discharging time, average effective discharging power, and effective heat release by 11.21%, 43.71%, and 59.80%, respectively, relative to the double-sided inflated PPHE. Increasing the storage layer thickness extended the effective discharging time and cumulative heat release, whereas a lower flow rate favored sustained effective discharging. The segmented flow rate regulation strategy increased the effective heat release by 14.5%–68.2% under high-initial-flow-rate conditions. These findings provide an experimental basis for the structural optimization and operational regulation of block-type high-temperature sensible heat storage devices.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-18",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133667",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133667",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Tong Xiao",
+      "Boqi Yue",
+      "Yilin Wang",
+      "Yunyun Bi",
+      "Liang Zhang",
+      "Liwu Fan"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7222879473",
+    "title": "Battery thermal management",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-01",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111429",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111429",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yasser Mahmoudi",
+      "Yunhua Gan",
+      "Pei-Xue Jiang",
+      "Yan Yuying"
+    ],
+    "category": "heat-transfer"
   }
 ]
