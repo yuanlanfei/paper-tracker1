@@ -341828,39 +341828,465 @@
         "Yan Yuying"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222946138",
+      "title": "Data-driven prediction of eutectic MgCl2–KCl molten salt viscosity using advanced machine learning across 553–1346 K",
+      "abstract": "Eutectic MgCl 2 –KCl (32:68 mol%) molten salt has attracted considerable interest in high-temperature energy applications, including thermal-energy storage and heat-transfer systems. Accurate viscosity prediction is important for optimal system design and operation. In this study, 1045 experimental viscosity data were compiled from the literature, cleaned and screened, resulting in 987 retained observations. Seven conventional viscosity correlations were first evaluated, followed by development of a comprehensive machine-learning framework for modelling viscosity as a function of temperature (553–1346 K) and density (1.46–2.12 g cm -3 ). The models developed in this study included multilayer perceptron (MLP), cascade-forward neural network (CFNN), Group Method of Data Handling (GMDH) and hard-monotonic physics-informed MLP (PI-MLP), with temperature-only and temperature–density inputs. The data-driven neural networks were trained using a range of gradient-based and evolutionary optimisation algorithms. A five-fold cross-validation (CV) process was applied to an 80% development set to select the optimal model, while the remaining 20% was reserved as an independent test set. The MLP-SCG (2-25-25-1) model achieved the lowest CV root mean square error, with test and total RMSE values of 0.779 and 0.603 cP, respectively. In contrast, dependency-aware leave-one-source-out (LOSO) validation indicated reduced generalisation to previously unseen literature sources. MLP-Adam and MLP-BR demonstrated greater robustness at the source level, underscoring the significance of source dependency in evaluating model transferability. The hard-monotonic PI-MLP models produced physically consistent, non-negative apparent activation energies in the liquid domain, with median values of 5.49 and 8.34 kJ mol -1 for the temperature-only and temperature–density formulations, respectively. Williams-plot analysis indicated that 93.91% of test observations were within the applicability domain of MLP-SCG. The proposed framework provides an efficient means of estimating MgCl 2 –KCl viscosity while also allowing predictive accuracy, source-level generalisation, and physical consistency to be assessed separately.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115275",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115275",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Foad Faraji"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222919342",
+      "title": "Analysis of Th-U conversion and fission product characteristics in thorium-based molten salt reactor",
+      "abstract": "Starting a thorium molten salt reactor (TMSR) with Pu or transuranic (TRU) nuclides can enable efficient thorium-uranium conversion while transmuting nuclear waste. Based on the LiF-BeF 2 -(Pu/TRU + Th)F 4 molten salt fuel system, this study systematically investigates the effects of fuel type (Pu + Th vs. TRU + Th, with heavy metal mole concentrations of 12 % and 15 %) and molten salt volume fraction V f (5 %-70 %) in the fuel assembly on the neutron spectrum, Th-U conversion performance, and fission product characteristics. The conversion ratio ( CR ) generally increases with V f . For the various fuel schemes, the annual production of 233 U normalized to 100 MWth ranges from 12.4 to 16.1 kg, with a 233 U isotopic abundance exceeding 97 % and a 232 U content below 0.015 %. This demonstrates the capability for industrial‑scale 233 U production from existing spent fuel, thereby addressing the long‑standing fuel availability challenge for thorium breeder reactors. Under normalized power conditions, the mass distribution of medium-mass fission products is insensitive to fuel composition, heavy metal concentration, and V f . This allows for the estimation of individual fission nuclide yields and radiological activity under different conditions, including neutron poisons, and radiotoxic products.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112947",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112947",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Dongguo Li",
+        "Guifeng Zhu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222922388",
+      "title": "Comprehensive analysis of the coupled effects of geometric-thermal parameters on external steam–air condensation under natural convection",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112934",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112934",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Daiyong Song",
+        "Nan Zhang",
+        "Ruihan Jing",
+        "Jia Guo",
+        "Zhongning Sun",
+        "Haozhi Bian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222925152",
+      "title": "High-precision simulation of NE213 neutron response using GEANT4.11 with integrated optical transport: Validation against experiments and Monte Carlo codes",
+      "abstract": "This research work accurately simulates the response function of a liquid organic scintillator NE213 (BC501A) detector to fast neutrons in the energy range from 15 MeV to 800 MeV, taking into account the light transport within the detector-lightguide assembly. In contrast to previous studies, which mainly focused on the energy deposited by charged particles and neglected the light transport; this investigation uses the new GEANT4.11 code, which has integrated optical physics functions. This allows an investigation of the effects of the geometry, length, and type of polished and painted lightguide layers on the detection efficiency. The results are compared with experimental data and the output of the multipurpose code MCNPX-PHOTRACK. The analysis shows that the GEANT4 code has a high ability to reproduce optical features and neutron interactions accurately and shows improved agreement with experimental data in the investigated configuration and energy range, particularly when optical photon transport is explicitly modeled.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112957",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112957",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ahad Ghavami",
+        "Mojtaba Tajik"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222952553",
+      "title": "Numerical investigation on turbulent mixing of liquid lead-bismuth in wire-wrapped rod bundles",
+      "abstract": "Accurate prediction of subchannel temperatures in lead–bismuth eutectic reactors requires distinguishing directed crossflow from stochastic turbulent mixing. A Reynolds stress model, assessed against experimental temperatures and pressure-drop correlations, was applied to a 19-rod wire-wrapped bundle. The complete Reynolds stress tensor was projected onto the local normal direction of each gap, and quantitative statistics were evaluated downstream of the first wire-wrap pitch. For the 328 mm-pitch bundle, gap-normal velocity fluctuations exhibit approximately periodic variations downstream of the entrance region. The ratios of the pitch-averaged gap-normal fluctuating velocity to the pitch-averaged crossflow velocity are approximately 0.50 for Gap 1, 0.40 for Gap 3, and 0.12 for Gaps 5 and 7, with only minor variation across the tested mass flow rates. The CFD-derived internal mixing parameters are 8.48%-10.43% higher than the Cheng-Todreas predictions, whereas the peripheral sweeping parameters are 18.31%-18.38% lower. The proposed method provides a quantitative link between gap-resolved CFD results and subchannel mixing closures.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112954",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112954",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Sipeng Wang",
+        "Hang Zhang",
+        "Jin Chen",
+        "Baowen Yang",
+        "Jae-Ho Jeong",
+        "Kun Zhuang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222967361",
+      "title": "Introducing GAINS, a GPU-accelerated continuous energy CSG based neutron Monte Carlo simulation code",
+      "abstract": "GAINS is a GPU-accelerated Constructive Solid Geometry (CSG)-based continuous energy Monte Carlo neutron simulation code, designed for full core optimization, with regard to criticality and neutronics reactor performance. GAINS combines a hybrid event-history workflow to curb warp divergence, replaces Probability Density Functions (PDFs) with precomputed Cumulative Distribution Functions (CDFs), direct-indexed data layouts, and unrolls recursive CSG traversal into a stack-based scheme, which is evaluated using a spherical ray-march algorithm. Additionally, GAINS incorporates a localized and customizable distance cache. Accuracy and performance are assessed on three problems: the PU-239 Jezebel critical benchmark, a cylindrical fuel-element case (Base) with a movable hafnium absorber, and a full-core lattice industry benchmark. GAINS reproduces reference trends with small, traceable biases k eff of 21 pcm (Jezebel), 40 pcm average across control-rod positions (Base), and 28 pcm (Benchmark), primarily attributable to resampling inaccuracies in cross-section data leading to a faster spectrum. On an RTX 4090, GAINS completes 136 million histories in 23.26 s (Base) and 271.48 s (Benchmark), achieving 47.2 × and 6.1 × speed-ups over Serpent 2 on a dual-Xeon (160-thread) node, with significantly better cost-to-performance. Enabling the cache increases these speed-ups to an overall speed-up of 57.6x - 8.2x, respectively. The resulting capability enables fast, accurate neutronics calculations suitable for optimization loops and rapid design iteration on commodity hardware, while maintaining agreement with CSG-based CPU codes.",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112919",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112919",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Paul Weimer",
+        "Bastian Märkisch",
+        "C. Reiter"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222946940",
+      "title": "Monte Carlo–Informed Surrogate Model for the Analysis of Decay Heat Behavior in Molten Salt Reactors",
+      "abstract": "Noble metal fission products in molten salt reactors (MSRs) deposit on primary loop surfaces, where their decay heat becomes safety-relevant during drain scenarios: Once the salt is discharged, the deposit remains without active cooling and can drive localized overheating. Predicting it requires tracking the full nuclide inventory across core, bulk, and deposition regions, for which repeated Monte Carlo (MC) depletion is prohibitive. This work develops a MC-informed surrogate built on a sparse transition operator spanning neutron-induced reactions, decay, advection, and deposition, with region-wise mass transfer correlations setting the deposition rates. The neutron-induced rates are extracted from a single MC simulation and rescaled with power under a constant-spectrum assumption, so that the ordinary differential equations (ODEs) system is solved without further transport runs, for a substantially larger nuclide set than historical zero-dimensional models. Applied to the Molten Salt Reactor Experiment (MSRE) fuel loop, the predicted mass transfer coefficients reproduce the original MSRE values, and the calculated 132Te distribution is comparable across surfaces for both the 233U and 235U campaigns without per-nuclide tuning. Benchmarked against a self-consistent MC workflow on a simplified generic MSR case, the surrogate reproduces the total decay heat of both the bulk and deposition nodes from sub-second to yearly time scales, to within ±0.3% at fixed power and ~2% under sinusoidal modulation. It does so at a cost low enough for design exploration and for a digital-twin representation of the primary loop. An uncertainty quantification shows that fission yields dominate the nuclear data budget and that the deposited inventory is markedly more uncertain than the bulk, partly due to non–noble-metal precursors in the yield normalization constraint.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1080/00295639.2026.2744010",
+      "doi": "https://doi.org/10.1080/00295639.2026.2744010",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Nicolò Iaselli",
+        "Stefano Lorenzi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222980351",
+      "title": "Comprehensive Characterization of Powder Ceramic Waste: Implications for TENORM Risk Assessment and Radiation Protection",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104794",
+      "doi": "https://doi.org/10.1016/j.net.2026.104794",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Hanan M. Abdelbary",
+        "M. F. Attallah",
+        "Yasser T. Mohamed",
+        "M. F. Attallah"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7222915840",
+      "title": "Experimental study on subcooled boiling flow of PFO-50 in pillar-array microchannel with flexible tails",
+      "abstract": "To tackle the thermal management challenges of high-power electronic devices, a pillar-array microchannel with flexible tails was proposed, and the pillar side length is a . PFO-50 (perfluoro-4-methylpent-2-ene) was used as the working fluid. The experimental investigations examined the ranges of subcooling (Δ T sub = 15, 25 K), inlet mass flux ( m = 328.8–1644.0 kg·m −2 ·s −1 ), and effective heat flux ( q eff = 100–700 kW·m −2 ). The system was operated at a controlled outlet pressure of 140 ± 3 kPa, which yields a fluid saturation temperature of 331.15 K. The findings indicate that at q eff = 100 kW·m −2 and m = 657.6 kg·m −2 ·s −1 , the average heat transfer coefficient at Δ T sub = 15 K increases by 23% compared with that at Δ T sub = 25 K. At a subcooling of Δ T sub = 25 K, the wall temperatures decrease sequentially by 7.8 K at q eff = 150 kW·m −2 and 3.8 K at q eff = 300 kW·m −2 from m = 657.6–1644.0 kg·m −2 ·s −1 , respectively. The system pressure drop linearly increases at high effective heat flux. At a mass flux of 1644.0 kg·m −2 ·s −1 , the pressure drop per unit heat flux increases by a factor of 7.4 from q eff = 150–675 kW·m −2 . Visualization studies also indicated that at q eff = 300 kW·m −2 , and m = 657.6 kg·m −2 ·s −1 , the maximum oscillation amplitude of the flexible tail at the rear of the microchannel reaches 0.85–1.0a. This motion actively disrupted thermal boundary layers, suppressed bubble coalescence, and triggered a transition from bubbly to churn to homogeneous flow. Frequency analysis identifies three characteristic frequencies at 4.5, 29.5 and 66.8 Hz in the FFT spectrum, which may correspond to large-scale vapor evolution, flexible-tail oscillation, and rapid bubble-interface dynamics, respectively. The multi-peak spectral features reveal a multi-timescale fluid-structure response involving bubble dynamics and flexible-tail oscillation.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129752",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129752",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shuaihua Ma",
+        "Zheng Weng",
+        "Lei Xie",
+        "Mei Lin",
+        "Wenxiao Chu",
+        "Qiuwang Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222936454",
+      "title": "Pressure-dependent spectral-moment-constrained physics-informed neural-network WSGG model for multi-species gas mixtures",
+      "abstract": "Radiative heat transfer in combustion over varying pressures is strongly affected by the nongray absorption of participating gases, making efficient and accurate radiation modeling essential for combustion simulations involving radiative heat transfer. This work develops a pressure-dependent, spectral-moment-constrained physics-informed neural-network weighted-sum-of-gray-gases (PINN-WSGG) model for H 2 O–CO 2 –CO mixtures. Total pressure is introduced as an explicit input, and Planck-weighted spectral moments are incorporated to constrain the gray-gas decomposition. The model covers temperatures from 300 to 3000 K, pressures from 0.1 to 80 bar, and arbitrary mole-fraction combinations of H 2 O, CO 2 , and CO. Validation against line-by-line-based one-dimensional benchmarks, conventional pressure-dependent WSGG models, and full-spectrum correlated- 𝑘 (FSCK) calculations shows that the model maintains high accuracy over this wide parameter range and improves radiative heat-loss predictions. Applications to a laboratory flame and an industrial gas turbine combustor further demonstrate reliable radiative heat transfer predictions with negligible spectral-parameter evaluation overhead. The proposed model provides a compact and practical approach for nongray radiation modeling under diverse combustion conditions.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129746",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129746",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiaxin Wang",
+        "Wei Chen",
+        "Tao Ren",
+        "Zhao Changying"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222948573",
+      "title": "Nonmonotonic heat transport in pressurized hydrogen-loaded hydroquinone clathrate",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129767",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129767",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kaibin Xiong",
+        "Chenxi Guo",
+        "Yongxiao Qu",
+        "Gaoyang Luo",
+        "Yuequn Fu",
+        "Jianyang Wu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222946925",
+      "title": "HVAC exhaust-air-assisted thermal management of rooftop photovoltaics for energy retrofitting toward nearly zero-energy buildings",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-20",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133660",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133660",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mohanad M. Ibrahim",
+        "Nour A. Moharram",
+        "Mohamed A. Hamied",
+        "Aly M. Elharidi",
+        "Ahmed S. Shehata",
+        "Ahmed A. Hanafy"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222920673",
+      "title": "Tailoring bubble dynamics in 3D-printed graded porous lattices for enhanced conjugate pool boiling heat transfer",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133629",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133629",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shaoyun Zhou",
+        "Tingyang Duan",
+        "Feifei Wu",
+        "Chihiro Inoue",
+        "Makoto Kobashi",
+        "Zhenying Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222928048",
+      "title": "One-step spray fabrication of superamphiphobic surface with micro-nano MWCNTs@TiO2 networks for synergistic photothermal deicing and enhanced durability",
+      "abstract": "Ice accretion and corrosion severely affect the reliability and energy efficiency of thermal engineering systems in cold and harsh environments. To address these challenges, a durable photothermal superamphiphobic coating was fabricated via a facile one-step spray-coating strategy based on a γ-aminopropyltriethoxysilane (KH550)-mediated organic–inorganic covalently bridged network. MWCNTs@TiO 2 composite particles were prepared by sol–gel deposition of TiO 2 on MWCNTs, providing hierarchical roughness, reactive sites, mechanical reinforcement, and efficient photothermal conversion. KH550 served as a molecular bridge among MWCNTs@TiO 2 , perfluorodecyltriethoxysilane (PFDTES), and epoxy resin (EP), improving interfacial stability while reducing coating surface energy. The coating formulation was optimized using Box–Behnken response surface methodology and a desirability function based on the contact and sliding angles of water, glycerol, and ethylene glycol. The optimized coating showed contact angles of 162.9°, 161.1°, and 160.3° and sliding angles of 5.0°, 5.9°, and 8.7° for water, glycerol, and ethylene glycol, respectively, while maintaining stable repellency after various durability tests. Electrochemical tests demonstrated strong corrosion protection, with a corrosion inhibition efficiency of 99.81% and a protection efficiency of 93.2%. More importantly, the MWCNTs@TiO 2 -enabled photothermal effect allowed rapid solar-to-heat conversion, with the optimized coating reaching 68.2 °C after 300 s under 1 sun irradiation, whereas the raw SLS remained at only 24.9 °C. This photothermal heating, together with low liquid adhesion, prolonged the water freezing time from 39 to 351 s and enabled effective deicing under only 0.4 sun irradiation. These results indicate that the coating can mitigate icing through passive liquid repellency and active solar-driven heating, providing a scalable strategy for energy-efficient anti-icing/deicing, corrosion protection, and thermal protection in harsh environments.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133634",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133634",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ziyang Meng",
+        "Wenyi Deng",
+        "Yankun Li",
+        "Yanli Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222933488",
+      "title": "Thermodynamic and exergoeconomic assessment of a solar-assisted polygeneration system integrating power, cooling, heating, and desalination technologies",
+      "abstract": "This study proposes a solar-assisted polygeneration system for the simultaneous production of power, heating, cooling, and freshwater through cascaded heat recovery. The system integrates a solar power tower with molten-salt thermal storage, an auxiliary heater, a recompression supercritical carbon dioxide Brayton cycle, a toluene-based organic Rankine cycle, a single-effect LiBr–H 2 O absorption chiller, and a multi-effect distillation–thermal vapour compression desalination unit. Energy, exergy, and exergoeconomic analyses were conducted, followed by a comprehensive parametric assessment. Under baseline conditions, the system produces 263.5 MW of net power, 237.7 MW of heating, 58.89 MW of cooling, and 89.02 kg/s of total distillate freshwater. Compared with the configuration without the ORC and MED–TVC units, the complete system increases the second-law efficiency by 6.57 percentage points and reduces LCOE by 5.14%. The first- and second-law efficiencies are 39.15% and 54.97%, respectively, while the first- and second-law energy-utilization factors reach 86.30% and 58.93%. Based on 8000 equivalent full-load operating hours, the annual-equivalent levelized costs of useful energy and net power are estimated at $24.53/MWh and $54.07/MWh, respectively. The auxiliary heater accounts for approximately 40% of the total exergy destruction, while the organic Rankine cycle contributes only 4%. The parametric analysis identifies favourable operating ranges of 0.5–2 for the supplementary energy ratio, 2.8–3.2 for the sCO₂-cycle pressure ratio, and approximately 0.33 for the recompression split ratio. Reducing reliance on the auxiliary heater improves the second-law efficiency and lowers the system cost. These findings demonstrate the potential of cascaded solar and waste-heat utilization for integrated energy and freshwater production.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133581",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133581",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Milad Bayerinejad",
+        "Elaheh Neshat",
+        "Alireza Rezaei",
+        "Ali Shokri Kalan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222947329",
+      "title": "Boosting systems for hydrogen internal combustion engines",
+      "abstract": "Environmental concerns are becoming increasingly critical, leading to the introduction of stringent emissions regulations. The European Commission is forcing the manufacturers toward net-zero CO 2 emissions. Conventional internal combustion engines are unable to meet these targets, thus requiring alternative propulsion system. While battery electric vehicles represent a viable solution, they are limited by cost, power-to-weight ratio, and charging constraints, particularly in heavy-duty applications. Hydrogen internal combustion engines offer a promising alternative, leveraging mature internal combustion engines technologies. However, hydrogen internal combustion engines operating under stoichiometric conditions produce significant NO x emissions. Ultra-lean combustion strategies can mitigate this issue, but they require advanced turbocharging systems capable of ensuring high air flow rates under both steady state and transient conditions. This article presents a review of boosting solutions for hydrogen internal combustion engines. The analysis includes turbine architectures, regulation systems, compressor technologies, and advanced boosting solutions, including multi-stage and electrically assisted systems.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133599",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133599",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Federico Nannetti",
+        "Vittorio Usai",
+        "Silvia Marelli",
+        "Andrea Gerini",
+        "Raffaele Capuano"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222962288",
+      "title": "Techno-economic impact of liquefaction improvements on the liquid hydrogen value chain: Bridging efficiency and economics",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133665",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133665",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Sihwan Park",
+        "Wangyun Won",
+        "Inkyu Lee"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222985520",
+      "title": "Experimental and numerical validation of a Multi-Fidelity model for Triply Periodic Minimal Surface lattice heat exchangers based on porous media approximation",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133620",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133620",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "A. Chiodi",
+        "Alessandro Alaia",
+        "Andrea Ferrero",
+        "Shahrokh Shahpar"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7160654286",
+      "title": "Comparative assessment of film cooling strategies for thermal protection of a kerosene-fueled oblique detonation combustor",
+      "abstract": "Thermal protection remains a major challenge for oblique detonation engines (ODEs), whose combustors combine intense heat release with a compact geometry anchored on oblique detonation waves (ODWs). This study numerically investigates the effects of coolant type and mass flow rate on the flow structure, thermal environment, and propulsion performance of a film-cooled kerosene–air ODE combustor at Mach 10 and an altitude of 15 km. Three active cooling strategies are compared under identical geometry and injection conditions: air film cooling, gaseous-kerosene film cooling, and liquid-kerosene mist cooling. Stable, wall-attached oblique-detonation propagation and the canonical wave structure are maintained over the investigated range, while the wave–coolant interaction depends systematically on the coolant medium. Air injection causes greater disturbance to the initiation region and strengthens downstream wave interactions, resulting in the greatest propulsion penalty. The cooling strategies substantially reduce the near-wall thermal load, but produce distinct wall-temperature distributions. Gaseous-kerosene cooling generates a spatially periodic response associated with the discrete injection slots/ports, whereas liquid-kerosene mist cooling produces a smoother and lower near-wall fluid temperature through enhanced two-phase mixing and phase-change heat absorption. Liquid-kerosene mist cooling provides the most favorable balance between thermal protection and propulsion performance at low to moderate injection levels. With further increases in injection level, the thermal benefit approaches saturation while the propulsion penalty continues to increase: the mean near-wall fluid temperature reduction remains approximately 87% across both the inter-slot and cooling-slot wall segments, whereas the total specific impulse is reduced by about 3%–5%. These results quantify the thermal–propulsive trade-off associated with different film-cooling media and demonstrate the potential of fuel-based cooling for thermal management in hypersonic ODE combustors.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-15",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133558",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133558",
+      "cited_by_count": 0,
+      "keywords": [
+        "film cooling",
+        "oblique detonation engine",
+        "kerosene fuel",
+        "thermal protection",
+        "air film cooling",
+        "detonation stability",
+        "wave interaction",
+        "two-phase mixing"
+      ],
+      "authors": [
+        "Jianghong Li",
+        "Songbai Yao",
+        "Wenwu Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222921948",
+      "title": "Conjugate heat-transfer performance and flow mechanisms of impingement cooling with corrugated and microchannel target surfaces",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111442",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111442",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xu Guangyao",
+        "Kun Luo"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222934812",
+      "title": "Thermometric inversion of dynamic specific absorption rate for bioheat temperature prediction in microwave ablation",
+      "abstract": "In the bioheat model, the specific absorption rate (SAR) quantifies mass-specific power deposition and is a key factor influencing temperature simulation accuracy in microwave ablation (MWA). Conventional thermometric SAR estimation is based on early-time temperature slopes, which can miss the temporal evolution of effective deposition over the entire heating interval. We propose a physics-constrained thermometric inversion framework to identify an effective dynamic SAR using a fast semi-analytical forward solver for stable full-duration prediction. The recovered SAR adopts a compact, mechanism-informed form that combines a baseline spatial envelope with a constrained spatiotemporal modulation to capture heating dynamics. Phantom experiments demonstrate substantially lower global errors and markedly improved cross-sensor consistency than the early-time slope baseline and two electromagnetic-based SAR models. A model-component ablation study further indicates that spatiotemporal modulation is necessary to reproduce the observed build-up and late-stage heating behavior. The dynamic SAR provides a practical and compact heat-source description for rapid temperature prediction in MWA and related thermal therapies.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111404",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111404",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Rendong Chen",
+        "Fan Xiao",
+        "Haozhuo Zhu",
+        "Ping Liang",
+        "Dexing Kong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222978827",
+      "title": "Accurate thermophysical property measurement of microscale independent dielectric films by pyroelectric current analysis",
+      "abstract": "Precisely characterizing the thermophysical properties of thin dielectric films, such as specific heat and thermal conductivity, is essential for the thermal design and thermal management of microelectronic devices. Nevertheless, accurately measuring the thermophysical parameters of thin dielectric films with thicknesses of only a few micrometers continues to pose significant challenges. In this paper, we propose a novel method that can simultaneously measure the multiple thermal parameters of thin dielectric films. The measurement principle is based on the analysis of the pyroelectric response current generated in the dielectric film when subjected to a thermal pulse, with this current being determined by the thermal properties of the material. An iterative fitting method is employed to extract the target thermal parameters by minimizing the difference between the simulated and the experimental current spectrum. The measurement results for several typical dielectric material samples, including polypropylene (PP), polyimide (PI), and polyethylene (PE), are highly consistent with literature data. Additionally, an analysis of the measurement uncertainty is conducted, demonstrating the feasibility and accuracy of the proposed method.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111427",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111427",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shijie Chen",
+        "Zhuqing Pan",
+        "Feihu Zheng",
+        "Yilun Zhang",
+        "Mengxing Ma"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7222983832",
+      "title": "Multi-physics coupling mechanism of droplet transfer in CMT-P arc additive manufacturing of Inconel 718 alloy",
+      "abstract": "By combining in-situ observation and numerical simulation, this study investigated the effects of different pulse counts on droplet transfer behavior, temperature distribution, flow characteristics and the main forces acting on the droplet during the Cold Metal Transfer with Pulse(CMT-P) arc manufacturing of Inconel 718. Unlike previous CMT-P studies that typically fixed the CMT/P ratio, this work systematically varies the pulse number and suggests a new overheating-induced Marangoni detachment mechanism in Inconel 718. The results reveal that the transition of droplet transfer modes in Inconel 718 is governed by a multi-physics coupling mechanism rather than a single volume threshold. Specifically, by altering the cumulative heat input, the number of pulses can regulate the force balance and heat distribution within the droplet. A single pulse leads to retraction dominated by surface tension; two pulses trigger a projected transfer driven by gravity and electromagnetic force; while three pulses induce an overheating-induced Marangoni backflow, which locally reduces surface tension and enables low-velocity, small-volume detachment. These findings provide a theoretical foundation for optimizing thermal input and improving droplet transfer stability in high-performance nickel-based alloy repair.",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-19",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111438",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111438",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Danni Xie",
+        "Xuecheng Lu",
+        "Zhiqiang Zhang",
+        "Qingze Gou",
+        "Renzhi Luo",
+        "Yinghua Bai"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13285,
+    "total": 13308,
     "journals": 277,
-    "last_update": "2026-10-20 04:31:55",
-    "reactor-thermal_count": 1957,
-    "heat-transfer_count": 3692,
+    "last_update": "2026-10-21 04:24:08",
+    "reactor-thermal_count": 1965,
+    "heat-transfer_count": 3707,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2164
+        "count": 2172
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 879
+        "count": 882
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 540
+        "count": 545
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 489
+        "count": 493
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 442
+        "count": 443
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 298
+        "count": 299
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -341872,7 +342298,7 @@
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 154
+        "count": 155
       },
       {
         "name": "Science",
@@ -342949,10 +343375,6 @@
     ],
     "trend": [
       {
-        "date": "2026-09-21",
-        "count": 35
-      },
-      {
         "date": "2026-09-22",
         "count": 50
       },
@@ -342990,7 +343412,7 @@
       },
       {
         "date": "2026-10-01",
-        "count": 64
+        "count": 65
       },
       {
         "date": "2026-10-02",
@@ -343046,7 +343468,7 @@
       },
       {
         "date": "2026-10-15",
-        "count": 38
+        "count": 39
       },
       {
         "date": "2026-10-16",
@@ -343062,10 +343484,14 @@
       },
       {
         "date": "2026-10-19",
-        "count": 1
+        "count": 21
       },
       {
         "date": "2026-10-20",
+        "count": 1
+      },
+      {
+        "date": "2026-10-21",
         "count": 0
       }
     ]
@@ -343284,5 +343710,5 @@
       }
     ]
   },
-  "export_time": "2026-10-20T04:31:55.184687"
+  "export_time": "2026-10-21T04:24:08.943204"
 }
