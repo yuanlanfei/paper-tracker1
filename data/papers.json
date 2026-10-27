@@ -345705,5 +345705,254 @@
       "Ali Cemal Beni̇m"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223554848",
+    "title": "Large-scale impact tests with reinforced concrete plates for impact safety",
+    "abstract": "This study investigates the impact resistance of reinforced concrete structures under extreme loading conditions, with a particular focus on scenarios relevant to the safety of nuclear power plants. Since airplane crashes have been a critical design consideration since 1977, understanding the structural response of reinforced concrete under high-velocity impact is essential for ensuring safety and resilience. Large-scale impact tests are limited in availability and have been conducted infrequently, but they provide valuable insights that complement small-scale laboratory experiments, allowing researchers to validate scaling laws and improve predictive models. This research, conducted as part of a collaboration between Technische Universität Dresden (TUD/IMB) and the Bundesanstalt für Materialforschung und -prüfung (BAM), aims to bridge the gap between laboratory-scale experiments and real-world structural performance. The experimental setup involved reinforced concrete plates (3.0 m × 3.0 m × 0.4 m) tested in a four-point supported test setup under hard impact loading using a gravity-driven drop tower. A cylindrical steel impactor (404 kg) was released from a height of 9.5 m, achieving an impact velocity of about 13.6 m/s. The study employed high-precision measurement techniques, including load cells, accelerometers, triangulation lasers, and high-speed cameras with digital image correlation (DIC), to capture force, deformation, and failure characteristics. The results indicate a distinct progression of force transmission and deformation, with localized damage characterized by global deformation, a breakout cone and scabbing at the bottom surface of the plate. 3D laser scanning is used to document the outer damage pattern and create a digital image of the specimen after impact event. The experimental data confirmed a significant transfer of impact energy, leading to plastic deformations and possible reinforcement yielding. The findings contribute to a growing database for validating numerical models and refining impact-resistant design strategies for critical infrastructure, such as nuclear power plants. The test results will be further consolidated with additional tests in subsequent publications.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115280",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115280",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Marcus Hering",
+      "Thomas Schubert",
+      "Georg Fiedler",
+      "Falk Hille",
+      "Götz Hüsken",
+      "Birgit Beckmann",
+      "Andreas Rogge"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7223573353",
+    "title": "Ex-core detector–based power distribution reconstruction for micro-reactors",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115282",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115282",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiayu Wang",
+      "Youqi Zheng",
+      "Hongchun Wu",
+      "Du Xia’nan",
+      "Liangzhi Cao"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7223548729",
+    "title": "ROM-EnKF digital twin for real-time nuclear reactor state estimation under fixed-step scheduling",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112942",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112942",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Junnan Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7223559816",
+    "title": "Physico-mechanical and radiation shielding properties of concrete incorporated with palm kernel shell ash and doum palm shell ash",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112964",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112964",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Usman Iliyasu",
+      "Saifullahi Abdullahi",
+      "Anas Shehu",
+      "Mohamad Syazwan Mohd Sanusi",
+      "Mohammed Sultan Al-Buriahi",
+      "Khadijah Mohammedsaleh Katubi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7223576099",
+    "title": "Numerical study on flow-induced vibration characteristics of wire-wrapped fuel rods under high-speed gas coolant conditions",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112959",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112959",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Minxing Chen",
+      "Mingxia Liu",
+      "Haidong Liu",
+      "Yuanming Li",
+      "Yongzhong Huang",
+      "Xinghong Zhang",
+      "Deqi Chen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7160630157",
+    "title": "Quantifying thermal-signature equivalence in infrared breast thermography using a modified Pennes bioheat model",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129785",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129785",
+    "cited_by_count": 0,
+    "keywords": [
+      "Pennes bioheat model",
+      "intratumoral heterogeneity",
+      "thermal diffusion",
+      "thermal screening",
+      "necrotic core",
+      "fat layer thickness",
+      "surface temperature profile",
+      "Euclidean distance"
+    ],
+    "authors": [
+      "Roni Muslim",
+      "Ramacos Fardela",
+      "Tista Artu Indra Kusuma"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223552702",
+    "title": "Assessment of exergy and sustainability of a cylindrically structured polymer electrolyte membrane fuel cell",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133742",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133742",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Sunil Kumar Sethy",
+      "Veena Chaudhary",
+      "Amit C. Bhosale"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223559757",
+    "title": "Interfacial heat transfer-driven soot photothermal coating for anti/de-icing",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133733",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133733",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zilong Liu",
+      "Jiawei Du",
+      "Qian Xu",
+      "Run Hong",
+      "Tianyu Liu",
+      "Huaqiang Chu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223560333",
+    "title": "Heat exchanger sizing and shared-exchanger operation of a transcritical CO2 Carnot battery",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133639",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133639",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Sukhrob Shakirov",
+      "Andreas Werner",
+      "Markus Haider"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223563238",
+    "title": "Overall cooling characteristics and superposition prediction of effusion cooling with multi-row triply periodic minimal surface (TPMS) lattices",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133643",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133643",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chao Xu",
+      "Kunpeng Jia",
+      "Kirttayoth Yeranee",
+      "Yuli Cheng",
+      "Yu Rao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223571060",
+    "title": "Porous annular sleeve fins for PCM thermal storage: interplay between fin placement, natural convection, and melting performance",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133721",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133721",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Alireza Jaberi",
+      "Mostafa Esmaeili",
+      "Mohammad Goharkhah"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223571365",
+    "title": "Experimental study on thrust prediction for live zebrafish maneuvering at St > 1: a wake-vortex-based linear scaling law",
+    "abstract": "",
+    "journal_name": "Experimental Thermal and Fluid Science",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.expthermflusci.2026.111855",
+    "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111855",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Mengchen Gao",
+      "Yin Xie-zhen",
+      "Yongliang Yu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7223557963",
+    "title": "Performance study of cascade thermal energy storage system with waste heat in hydrogen production plant",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-10-25",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111421",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111421",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Wenxian Hui",
+      "Xin Xiao",
+      "Jian Xu",
+      "Feng Huihua",
+      "Jinwen Zhou",
+      "邵雪峰"
+    ],
+    "category": "heat-transfer"
   }
 ]
