@@ -349283,31 +349283,449 @@
         "Tianyuan Liu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225006232",
+      "title": "Long-term mechanical property evolution of biological shielding concrete and its implications for the safe decommissioning of a heavy water research reactor",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112985",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112985",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kuo Wang",
+        "Fengjuan Chen",
+        "Liu Jin",
+        "Ruizhi Li",
+        "Baojun Li",
+        "Wensi Li"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225008790",
+      "title": "Dynamic characteristics and flow field analysis of release isolation valves in nuclear power plants based on CFD and surrogate models",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112986",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112986",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Fuwen Liu",
+        "Zhuangzhuang Gong",
+        "Yong Pang",
+        "Jiale Zuo",
+        "Shuai Zhang",
+        "Xueguan Song"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225017110",
+      "title": "Simulation of oxidation behavior of randomly packed spherical nuclear graphite",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112979",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112979",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wei Xu",
+        "Liang Shi",
+        "Zimo Wang",
+        "Lei Shi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225017452",
+      "title": "Numerical investigation of thermal–hydraulic characteristics in wire-wrapped 7-rod bundles for lead-cooled fast reactors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112961",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112961",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Syed Qasvar Abbas Shah",
+        "Ruifeng Tian",
+        "Hui Cheng",
+        "Wajahat Hussain"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225019626",
+      "title": "Transient power regulation strategy for a mobile gas-cooled microreactor gas-turbine system",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112969",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112969",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yihao Yang",
+        "Kai Zhang",
+        "Dongdong Xu",
+        "Quanxin Guo",
+        "Chenglong Wang",
+        "Jing Zhang",
+        "Dalin Zhang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225000126",
+      "title": "Numerical investigation of heat-transfer enhancement in perforated circular finned tubes for passive cooling",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106661",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106661",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiahao Zhang",
+        "Rui Zhang",
+        "Jianquan LIU",
+        "Weijie Tang",
+        "Hong Peng",
+        "Qihang Zhang",
+        "Xintong Dong"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7224991196",
+      "title": "Multi-carrier thermal transport in UO2 at extreme temperatures: Origin of the anomalous thermal conductivity upturn",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129815",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129815",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Fengnian Zhuang",
+        "Gaosheng Yan",
+        "Hong Chen",
+        "Yi Zhang",
+        "Wenshan Yu",
+        "Minglong Xu",
+        "Shengping Shen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225012033",
+      "title": "Association of cathode compositional characteristics with thermal runaway evolution in large-format lithium iron phosphate batteries",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129797",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129797",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Lei Zhang",
+        "Wei Wang",
+        "Hao Huang",
+        "Yongfeng Zhang",
+        "Liang Shi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225012352",
+      "title": "On the transient local \"negative\" heat flux in nucleate boiling",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129825",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129825",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jia Wei",
+        "Z.Y. Liu",
+        "Shuai Gong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225012416",
+      "title": "Rattling-like vibration and band engineering in LaAsX (X = Se, Te) for enhanced thermoelectrics",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129812",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129812",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yilong Xiao",
+        "Shulin Bai",
+        "Da Wan",
+        "Pengfei Zhang",
+        "Peng Ai",
+        "Song Pei",
+        "Guowei Wang",
+        "Zhanpeng Xu",
+        "Hao Sun",
+        "Shuwei Tang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224992758",
+      "title": "Construction-induced thermal disturbance in permafrost engineering: Spatiotemporal degradation mechanisms and probabilistic prediction",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133819",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133819",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Run-ze Tian",
+        "Xu Li",
+        "Jian-kun Liu",
+        "Qian Wang",
+        "Ziyu Liu",
+        "Ya-ya Fu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224997641",
+      "title": "Experimental study and simulation on the performance of a heat pump system with novel low-GWP R474A for new energy vehicles",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133873",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133873",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yunlong Zhang",
+        "Nie Hao",
+        "YASUTAKA NEGISHI",
+        "Ajioka Shohei",
+        "Bunno Asuka",
+        "Yamamoto Kei",
+        "Junye Shi",
+        "Jiangping Chen",
+        "俞彬彬"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224999410",
+      "title": "Experimental study on the pressure-drop characteristics of the zeotropic R134a/R245fa mixture in a mini-channel",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133793",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133793",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Qiaoling Zhang",
+        "Biyun Huang",
+        "李金华",
+        "Bin Jiang",
+        "Haoran Ma",
+        "Kangming Wang",
+        "Zhendong Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225004211",
+      "title": "Experimental thermal performance analysis for sintered-powder heat pipe with two discrete heat sources at symmetrical and asymmetrical heat loads",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133848",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133848",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Tsrong-Yi Wen",
+        "Tsai Kun-Hsien"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225006305",
+      "title": "Impact of HEFA-SAF blends on heavy-fuel aircraft piston engine performance and emissions under elevated sea-level conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133797",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133797",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Aaqib Zafar",
+        "Muhammad Usman",
+        "Rashid Ali Laghari",
+        "Muhammad Kashif Shahzad",
+        "Longfei Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225020033",
+      "title": "Enhancing immersion cooling of cylindrical lithium-ion batteries via a seagrass-leaf-inspired solid-liquid coupled thermal management strategy",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133841",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133841",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yu Zhou",
+        "Hanfei Zhang",
+        "Tiantian Xiong",
+        "Jing Sun",
+        "Zhanlong Song",
+        "Lilei Zhang",
+        "Yongkang Sun",
+        "Qishuo Zhang",
+        "Yi Liu",
+        "Zihang Kou",
+        "Luyao Zhao",
+        "Mingyi Chen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224998517",
+      "title": "Research on pre-ventilation control strategy for automobile cabin based on neural network",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111425",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111425",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ruizhuo Zhou",
+        "Dongcheng Pan",
+        "Yingchao Zhang",
+        "Guohua Wang",
+        "Zhe Zhang",
+        "Xiaowen Zang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225003662",
+      "title": "An experimental and numerical study of endwall film cooling from sealing coolant through the shaft slot of an adjustable turbine vane",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111468",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111468",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zhenhui Lian",
+        "SiKai Lao",
+        "Xing Yang",
+        "Zhenping Feng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224993116",
+      "title": "Extension of the Effectiveness Method to Volatile Absorbents in Absorption Chillers: application to an NH 3 –H 2 O Combined Generator Integrated into a Single-Stage Cycle",
+      "abstract": "",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1080/01457632.2026.2752477",
+      "doi": "https://doi.org/10.1080/01457632.2026.2752477",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mathilde Wirtz",
+        "Benoı̂t Stutz",
+        "Hai Trieu Phan",
+        "François Boudéhenn"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224993819",
+      "title": "Heat Transfer Enhancement in Continuous Helical Baffled Shell-and-Tube Heat Exchangers Regarding Local Thermal Resistance Analysis",
+      "abstract": "",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1080/01457632.2026.2752478",
+      "doi": "https://doi.org/10.1080/01457632.2026.2752478",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shihong Ma",
+        "Bo Zhang",
+        "Jiaqing Ye",
+        "Wenxiao Chu",
+        "Qiuwang Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7224999736",
+      "title": "Internal Temperature Field Reconstruction in Solids Using Ultrasonic Upper Envelope Area",
+      "abstract": "",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-10-31",
+      "url": "https://doi.org/10.1080/01457632.2026.2752481",
+      "doi": "https://doi.org/10.1080/01457632.2026.2752481",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yue Cui",
+        "Yewei Gui",
+        "Yanxia Du",
+        "Yu Xu",
+        "Dong Wei"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13659,
+    "total": 13680,
     "journals": 277,
-    "last_update": "2026-11-01 05:43:22",
-    "reactor-thermal_count": 2078,
-    "heat-transfer_count": 3945,
+    "last_update": "2026-11-02 05:41:39",
+    "reactor-thermal_count": 2084,
+    "heat-transfer_count": 3960,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2333
+        "count": 2339
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 923
+        "count": 927
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 571
+        "count": 576
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 521
+        "count": 523
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -349319,7 +349737,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 229
+        "count": 230
       },
       {
         "name": "Nuclear Technology",
@@ -349478,12 +349896,12 @@
         "count": 68
       },
       {
-        "name": "Information Communication & Society",
-        "count": 63
+        "name": "Heat Transfer Engineering",
+        "count": 65
       },
       {
-        "name": "Heat Transfer Engineering",
-        "count": 62
+        "name": "Information Communication & Society",
+        "count": 63
       },
       {
         "name": "Environmental Science & Policy",
@@ -350404,10 +350822,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-03",
-        "count": 19
-      },
-      {
         "date": "2026-10-04",
         "count": 15
       },
@@ -350517,10 +350931,14 @@
       },
       {
         "date": "2026-10-31",
-        "count": 0
+        "count": 21
       },
       {
         "date": "2026-11-01",
+        "count": 0
+      },
+      {
+        "date": "2026-11-02",
         "count": 0
       }
     ]
@@ -350739,5 +351157,5 @@
       }
     ]
   },
-  "export_time": "2026-11-01T05:43:22.660527"
+  "export_time": "2026-11-02T05:41:39.965295"
 }
