@@ -353096,5 +353096,555 @@
       "Xin Cui"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225308902",
+    "title": "A hybrid Monte Carlo–nodal–machine learning framework for fast intra-pin power prediction in the PRATIC benchmark",
+    "abstract": "Accurate prediction of intra-pin power distributions can be challenging for state-of-art nodal diffusion solvers, particularly in cores exhibiting strong spatial heterogeneities such as boron-free small modular reactors. Under such conditions, pin power reconstruction methods may not fully capture the potential presence of highly localised flux gradients, leading to biased heat flux and neutron fluence estimates. While Monte Carlo methods can resolve these effects, their computational cost limits their applicability for routine core-follow analyses. This work investigates data-driven surrogate models as a computationally efficient alternative to MC simulations for intra-pin power estimation. The study is based on a depletion calculation of a two-dimensional version of the PRATIC boron-free PWR SMR benchmark, analysed within the Kraken multi-physics framework. For that purpose, the core was consistently modelled with the MC Serpent code and the ANTS diffusion solver to generate a detailed intra-pin power dataset used for surrogate model training under nominal operating conditions. Two modelling approaches were considered: a multivariate linear regression model and a feed-forward neural network (NN), both using rapidly available nodal outputs such as pin power or pin burnup as input. The linear model achieved a coefficient of determination of R 2 = 0.97030 on the test dataset, indicating reasonable predictive capability but limited ability to capture nonlinearity effects. In contrast, the NN significantly improved performance, achieving a R 2 = 0.99962 and reducing the root mean square error by nearly an order of magnitude. The NN predictions showed excellent agreement with MC reference data, with a mean relative deviation of ( 0.02 ± 0.85 ) % , while maintaining prediction times on the order of seconds compared to several days for MC simulations. This study demonstrates the potential of surrogate models to provide rapid intra-pin power estimates across burnup states for the investigated benchmark within the validity envelope of the operating conditions used to generate the training dataset (all rod out, equilibrium xenon, fixed thermal-hydraulic conditions, and burnup states up to 17.5 MWd/kgU). Future developments incorporating a wider range of operating conditions and core states into the training dataset could further extend this validity envelope and enhance the model’s applicability to online core monitoring, as well as to the design, monitoring, and evaluation of fuel material irradiation programmes.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112972",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112972",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "L. A. Berry",
+      "Antti Rintala",
+      "Riku Tuominen",
+      "Alexander Vasiliev",
+      "Hakim Ferroukhi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225306127",
+    "title": "Overview of Microreactor Technical Challenges and Opportunities",
+    "abstract": "",
+    "journal_name": "Nuclear Science and Engineering",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1080/00295639.2026.2733186",
+    "doi": "https://doi.org/10.1080/00295639.2026.2733186",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Abderrafi Mohammed-El-Ami Ougouag",
+      "Abdalla Abou Jaoude",
+      "Samuel E. Bays",
+      "Khaldoon Al-Dawood",
+      "Jason P. Andrus",
+      "Jordan A. Evans",
+      "Andrew Jokisaari",
+      "Chandrakanth Bolisetti",
+      "Virgil O. Peoples",
+      "Vivek Agarwal",
+      "John H. Jackson",
+      "Justin Leigh Coleman",
+      "Frederik Reitsma"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225298324",
+    "title": "Improvements to In-Canal Assay of High Specific Activity 60 Co at the Advanced Test Reactor",
+    "abstract": "",
+    "journal_name": "Nuclear Technology",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1080/00295450.2026.2736903",
+    "doi": "https://doi.org/10.1080/00295450.2026.2736903",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Robert Bentley",
+      "Michael A. Reichenberger",
+      "Kelly McCary",
+      "Román PACHECO",
+      "Jonathan Foster"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225347062",
+    "title": "Atomic structure of selenium incorporated into mackinawite unveiled by density functional theory",
+    "abstract": "Selenium-79 is an important contributor to the long-term radiological hazards in deep geological repositories for high‑level radioactive waste. Investigating the environmental behavior of selenium (Se) is crucial for its safety assessment. In this study, the stable structures of Se incorporated in mackinawite, an iron sulfide mineral, were elucidated using density functional theory (DFT) calculations. The results indicate that it is important for Se atoms to be separated by a sufficient distance from one another. Furthermore, over the full concentration range, a symmetric structure at a Se atomic fraction of 0.5 was found to be the most stable.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1080/00223131.2026.2747906",
+    "doi": "https://doi.org/10.1080/00223131.2026.2747906",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "A. Yamaguchi",
+      "Kevin M. Rosso",
+      "Paul Clarence M. Francisco",
+      "Masahiko Okumura"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225295826",
+    "title": "Chemical aspects of dual environment corrosion by molten lead and cesium molybdate on 15-15Ti cladding tube",
+    "abstract": "15–15Ti stainless steel is one of the prime candidates for cladding and structural materials to be used in Lead-cooled Generation-IV reactors. Currently, the corrosion process of 15–15Ti at elevated temperatures (≥600 °C) is lacking data and more research is needed. Moreover, corrosion research on this field has been focused on the molten lead side, while the fission product (selected as cesium molybdate here) has not received enough attention. In this study, 15–15Ti cladding tube was exposed to molten lead on the outer side, and cesium molybdate on the inner side, aiming to create a dual environment corrosion scenario close to the one present in operation. Severe oxide scale delamination caused by molten lead was identified forming repeated layers of molten lead and iron-oxide. Deeper into the alloy, molten lead has caused spinel type internal oxidation scales, where iron-chromium spinels were seen as intergranular attack, increasing severity with the temperature. Cesium molybdate corrosion was found to cause a similar spinel oxide formation. Diffractograms obtained on complementary coupon experiments were used to differentiate spinel and corundum type oxide scales. Comparing the severity of corrosion by molten lead with that caused by cesium molybdate, it has been molten lead causing significant higher material loss by delamination at all investigated temperatures.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-11-04",
+    "url": "https://doi.org/10.1080/00223131.2026.2748577",
+    "doi": "https://doi.org/10.1080/00223131.2026.2748577",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Doğaç Tarı",
+      "Christine Geers",
+      "Teodora Retegan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225326949",
+    "title": "Gamma-ray abundances and radiological indexes in artisanal bricks from Guadalupe, Zacatecas, Mexico",
+    "abstract": "The abundance of gamma-ray emitters in traditional construction bricks from the municipality of Guadalupe, Zacatecas, Mexico was studied using high‑resolution gamma-ray spectrometry. Samples of both clay and bricks from 10 production sites were taken; average specific activities (Bq/kg) for clay samples were 17.27 ±0.21 for 226Ra, 18.00 ±0.09 for 232Th, 528.93 ±1.23 for 40K, and 0.80 ±0.02 for 137Cs. The averages for brick samples were 21.63 ±0.28 for 226Ra, 18.74 ±0.11 for 232Th, 603.14 ±1.39 for 40K, and 0.58 ±0.02 for 137Cs Risk indexes were calculated, including external and internal radiation risk, equivalent radium activity, alpha index, and dose rates. Results indicate that the use of these construction materials does not represent a radiological risk for the population.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-11-04",
+    "url": "https://doi.org/10.1080/00223131.2026.2753090",
+    "doi": "https://doi.org/10.1080/00223131.2026.2753090",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Julián Eduardo Rivera Perez",
+      "Carlos Ríos Martínez",
+      "Daniel Alejandro Hernández-Ramírez",
+      "FernandoMireles Garcia",
+      "S.A.S. Anaya",
+      "J.I Davila Rangel",
+      "Jose Luis Pinedo Vega"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225296411",
+    "title": "Uncertainty and Sensitivity Analysis of the QUENCH-06 Experiment Using PISAA Code",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104830",
+    "doi": "https://doi.org/10.1016/j.net.2026.104830",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Wanhong Wang",
+      "NingNa Zhang",
+      "He Li",
+      "Xiaoming Yang",
+      "Rubing Ma",
+      "Yidan Yuan",
+      "Wenxi Tian"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225303257",
+    "title": "Combined aberration correction strategy with toroidal ESA and sextupole lenses for high-resolution double-focusing mass spectrometers",
+    "abstract": "Achieving high resolution in double-focusing mass spectrometers requires effective suppression of second-order aberrations, yet the relationship between the electrostatic analyzer (ESA) field profile and second-order aberrations remains insufficiently quantified. This paper proposes a combined aberration correction strategy based on a toroidal ESA and sextupole lenses: an analytical multipole expansion model of the toroidal ESA is first introduced, giving a quantitative link between toroidal factor 𝑐 and the quadrupole 𝑛 1 , sextupole 𝑛 2 components. This model enables rapid parameter scanning for first-order ion-optics design without repeated finite element method (FEM). Afterwards, three candidate sextupole lens configurations are evaluated, and a differential evolution algorithm is used to optimize the lens arrangement for second-order aberration correction. The proposed strategy is validated on a reversed Nier–Johnson geometry design through ion-optics optimization, FEM field simulation, and multi-particle tracking. The design yields an RMS spot size of 2 . 0 8 μ ⁢ m and a mass resolving power of 17,300, which demonstrate that the proposed strategy provides a computationally efficient ion-optical design route for high-resolution double-focusing mass spectrometers.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104823",
+    "doi": "https://doi.org/10.1016/j.net.2026.104823",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kai Cheng",
+      "Ziyi Yang",
+      "Yicheng Liao",
+      "Xu Liu",
+      "Qushan Chen",
+      "Zhiqiang Wang",
+      "QuanWei Liu",
+      "Bin Qin"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225341063",
+    "title": "Overcoming the Limitations of the Conventional Point Model in Neutron Multiplicity Measurement Using a Deep Learning Framework",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104827",
+    "doi": "https://doi.org/10.1016/j.net.2026.104827",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Beomkyu Kwon",
+      "Geehyun Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7224812991",
+    "title": "Sodium hydroxide mediated actinide recovery from radioactive carbonate waste generated during lean solvent cleanup in fast reactor fuel reprocessing",
+    "abstract": "Alkaline carbonate washing of degraded tributyl phosphate (TBP) solvent during PUREX reprocessing generates secondary liquid waste containing residual uranium, plutonium and dibutyl phosphate (DBP), challenging actinide recovery and waste minimization. Unlike conventional treatment schemes, the present work demonstrates a simplified integrated approach in which U and Pu are directly recovered from acidified radioactive carbonate wash effluent by NaOH mediated precipitation, followed by dissolution of the precipitated fraction and recovery through TBP/n-DD solvent extraction, thereby bypassing the requirement for a separate DBP oxidation step via ozonolysis. Nitric acid acidification decomposed carbonate complexes, enabling subsequent NaOH precipitation with efficient recovery of U and Pu and reduced actinide losses in the supernatant. Increasing DBP-derived phosphate promoted formation of a sticky, phosphate rich mass that retained actinides, whereas lower phosphate concentrations produced compact hydroxide sludge with improved settling. Addition of external U(VI) as a carrier did not significantly reduce residual Pu in the supernatant, indicating that Pu losses are governed primarily by carbonate/phosphate complexation rather than carrier precipitation. Dissolution of the recovered precipitate in nitric acid followed by conventional 1.1 M TBP/n-dodecane extraction achieved more than 96% extraction of U and Pu. Multistage cross-current stripping provided cumulative recoveries of about 98% U and 80% Pu. The process offers a simple route for actinide recovery while minimizing secondary waste and eliminating DBP oxidation.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-30",
+    "url": "https://doi.org/10.1016/j.net.2026.104821",
+    "doi": "https://doi.org/10.1016/j.net.2026.104821",
+    "cited_by_count": 0,
+    "keywords": [
+      "actinide recovery",
+      "sodium hydroxide precipitation",
+      "fast reactor fuel reprocessing",
+      "PUREX process",
+      "dibutyl phosphate",
+      "uranium recovery",
+      "plutonium recovery",
+      "solvent extraction",
+      "waste minimization",
+      "phosphate complexation"
+    ],
+    "authors": [
+      "Pradeep Kumar Sharma",
+      "Satyabrata Mishra",
+      "Panantharayil Vishnu Anand",
+      "G. Santhosh Kumar",
+      "Krishnan Dhamodharan",
+      "K. A. Venkatesan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7224920696",
+    "title": "Life cycle assessment of iRE-SOLVE process for the pre-disposal management of spent ion-exchange resins",
+    "abstract": "The management of radioactive spent ion-exchange resins (SIERs) lacks universally adopted technologies and environmental impact data. This study applies the Life Cycle Assessment (LCA) methodology to the patented iRE-SOLVE process for SIER treatment and conditioning, restricting the boundaries to the process itself and primary reagent production. Results show that the most significant environmental impacts stem from the large consumption of H 2 O 2 and NaOH, guiding future R&D optimization. A sensitivity analysis on Endpoint Impact Categories (EICs) revealed that Human Health is the only category negatively affected by increasing 14 C content, and only when it exceeds 10 4 Bq/g. Finally, this paper presents the first-ever comparison of Midpoint Impact Categories (MICs) and EICs between iRE-SOLVE and alternative technologies like pyrolysis and molten salt oxidation. Currently, iRE-SOLVE is the best-performing solution for three out of five EICs, but also the worst for five out of seventeen MICs. Consequently, more extensive comparative studies are required to successfully upscale the iRE-SOLVE technology in the future.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-10-30",
+    "url": "https://doi.org/10.1016/j.net.2026.104824",
+    "doi": "https://doi.org/10.1016/j.net.2026.104824",
+    "cited_by_count": 0,
+    "keywords": [
+      "spent ion exchange resins",
+      "life cycle assessment",
+      "rare earth elements",
+      "nuclear fuel reprocessing waste"
+    ],
+    "authors": [
+      "Andrea Broglia",
+      "Francesco Galluccio",
+      "Eros Mossini",
+      "Andrea Santi",
+      "Fabio Fattori",
+      "Simona Šandalová",
+      "Gabriele Magugliani",
+      "Elena Macerata",
+      "Mario Mariani"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7169866462",
+    "title": "Spray characteristics and high-temperature heat transfer during secondary cooling in continuous casting",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129840",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129840",
+    "cited_by_count": 0,
+    "keywords": [
+      "high-speed continuous casting",
+      "secondary cooling",
+      "high-temperature heat transfer",
+      "water mass flux",
+      "standoff distance",
+      "heat transfer coefficient",
+      "Nusselt number correlation"
+    ],
+    "authors": [
+      "Yazhu Zhang",
+      "Qinglin Peng",
+      "S Zhou",
+      "Yi Wang",
+      "J X Zeng",
+      "Yonghong Wang",
+      "Yutang Ma",
+      "Jun Huang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225296211",
+    "title": "Water vapor adsorption-diffusion behavior in surface-energy heterogeneous shale: Insights into adsorption mechanisms and water transport evolution",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129842",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129842",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xingyue Yang",
+      "Jianhua Li",
+      "Bobo Li",
+      "Yunna Ding",
+      "Haosheng Song",
+      "Xianwei Zeng",
+      "Jia Yue"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225311203",
+    "title": "On the forward and inverse design for the size-dependent thermoelastic damping behaviour of porous functionally graded graphene origami metamaterial microbeam resonators with three-phase-lag heat conduction using case-based reasoning",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129824",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129824",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiujie Wei",
+      "Wenjian Song",
+      "Hongyu Zheng",
+      "Guangyang Fu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225311457",
+    "title": "High fidelity simulations of subcooled nucleate boiling with a bidirectional phase change source smearing method",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129830",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129830",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jia Wei",
+      "Z.Y. Liu",
+      "Shuai Gong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225345264",
+    "title": "Enhancing anti-adhesion performance of modified micro-textured surfaces for CO2 hydrate",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129843",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129843",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiaoyu Wang",
+      "Zefang Zhang",
+      "Zaizheng Jiang",
+      "Daiming Liu",
+      "Guodong Zhang",
+      "Fei Wang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225348376",
+    "title": "Coupled mechanisms of flow regime evolution and conjugate boiling crisis in helical cruciform fuel assemblies",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129841",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129841",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xitong Liu",
+      "Xingchen Yan",
+      "Hongming Zhang",
+      "Mingjun Wang",
+      "Yingwei Wu",
+      "Wenxi Tian",
+      "Suizheng Qiu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225293661",
+    "title": "Characterization of spray dynamics and formation using in-nozzle flow and Eulerian-Lagrangian simulations",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133931",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133931",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hao-Pin Lien",
+      "Le Zhao",
+      "Anqi Zhang",
+      "Ji-Woong Park",
+      "Kyungwon Lee",
+      "Joonsik Hwang",
+      "Roberto Torelli"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225315817",
+    "title": "Quantifying mixing-induced exergy destruction in multi-source district heating networks",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133829",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133829",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Hossein Alimohammadi",
+      "Mohd Basit Wani",
+      "Andrei Dedov",
+      "Igor Krupenski",
+      "Kristina Vassiljeva",
+      "Anna Volkova"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225329478",
+    "title": "Thermal–hydraulic performance of stretched FK-S, Gyroid and diamond TPMS heat exchanger cores using computational fluid dynamics",
+    "abstract": "Triply periodic minimal surface (TPMS) heat exchangers have high surface area density, interconnected flow paths, and enhanced mixing. However, the combined effects of TPMS topology and directional stretching on thermal–hydraulic performance remain insufficiently understood, particularly for the Fischer–Koch S (FK-S) topology. Using ANSYS Fluent 2025 R2, this study numerically investigated Gyroid, Diamond, and FK-S TPMS heat exchanger cores in a crossflow air–water arrangement at approximately 75% porosity. Stretch ratios of 2, 4, and 6 were applied along the principal hot-air flow direction, and the designs were evaluated over a hot-side Reynolds number range of 100–3070. FK-S produced the highest heat transfer performance, with effective hot-side Nusselt numbers 12.8–62.2% higher than Diamond and 29.4–112.2% higher than Gyroid but also generated the largest pressure drop penalty. Directional stretching reduced pressure gradients by 28.10–75.18%, while the effective hot-side Nusselt number reduction was limited to 4.1–35.9%. FK-S achieved the highest overall thermal–hydraulic performance, with zero-stretch (F-0) and stretch ratio of 2 (F-2) reaching performance evaluation criterion (PEC) values of approximately 1.5–1.6. The F-2 design gave the best balance, providing 4.7 times higher volumetric heat transfer rate than G-2, which exhibited the highest PEC within the Gyroid family while improving overhang characteristics. These results show that moderately stretched FK-S TPMS cores are promising for compact heat exchanger applications.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133906",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133906",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Parami P. Dilruk",
+      "Timothy Gordon Walmsley",
+      "Ben Jackson",
+      "Benjamin Wynne Reynolds",
+      "James K. Carson"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225331872",
+    "title": "Sulfate/slag composite phase change materials for packed bed thermal energy storage: From strength to inverse gradient cascade",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133891",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133891",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhao Yanqi",
+      "Yongjian Wu",
+      "Hao Ling",
+      "Zhang Zhou",
+      "Yulong Ding",
+      "Xiang Ling"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225331954",
+    "title": "Portable field parameterization of photovoltaic module thermal models using high-resolution outdoor measurements",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133790",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133790",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Bitian Jiang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225333159",
+    "title": "Research on thermal behavior of Li-ion batteries for polar observation instruments",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.133875",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133875",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xiaoling Shi",
+      "Guangyu Zuo",
+      "Liwei Kou",
+      "Jin Wang",
+      "Yinke Dou"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225305278",
+    "title": "Effect of outlet short-pipe on downstream evolutions of film-induced flapping and non-flapping jets",
+    "abstract": "",
+    "journal_name": "Experimental Thermal and Fluid Science",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1016/j.expthermflusci.2026.111863",
+    "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111863",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Mengwei Wu",
+      "Yuzhuo Tian",
+      "Minyi Xu",
+      "米建春"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225336915",
+    "title": "Power-law nanosuspension natural convection in a cavity having a heat-producing element depending on the heat-conducting substrate material",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-06",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111483",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111483",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhang Peng",
+      "Bernardo Buonomo",
+      "Oronzio Manca",
+      "Mikhail А. Sheremet"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225300621",
+    "title": "Experimental Investigation of Surface Wettability Effects on Flat Plate Pulsating Heat Pipe Thermal Performance",
+    "abstract": "",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1080/01457632.2026.2752480",
+    "doi": "https://doi.org/10.1080/01457632.2026.2752480",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Minsun Kim",
+      "박철우",
+      "Daejoong Kim"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225323888",
+    "title": "Novel Heat Pipe Assembly for Enhanced Thermal Performance of Air-Cooled Condenser",
+    "abstract": "A significant constraint in enhancing the heat transfer efficiency of air-cooled condensers is the limited installation space, which necessitates the use of compact condensers that are often cost-prohibitive. To address this, the present study investigates a novel approach: integrating a heat-pipe assembly with an air-cooled condenser to augment its thermal performance. In this configuration, multiple heat pipes are installed within the condensing liquid reservoir at the base of the condenser and extended along the outer surface of the radiator fins. The thermal performance of the air-cooled condenser, both in its conventional and modified forms, was numerically investigated under various design and off-design ambient temperatures. Design conditions were set at an ambient air temperature of 35 °C and a fan mass flow rate of 6.8 kg/s, utilizing R134a as the refrigerant with a mass flow rate of 0.34 kg/s, a saturation temperature of 49.7 °C, and a condenser outlet temperature of 43.5 °C, resulting in a heat rejection rate of approximately 59.6 kW. The results demonstrate that the heat-pipe assembly significantly enhances the heat transfer performance of the base condenser, although the magnitude of improvement diminishes as ambient temperature rises. Specifically, the modified condenser exhibited a percentage improvement in heat transfer ranging from 2.5 to 3.4% as the ambient temperature varied between 15 and 35 °C.",
+    "journal_name": "Heat Transfer Engineering",
+    "published_date": "2026-11-05",
+    "url": "https://doi.org/10.1080/01457632.2026.2752479",
+    "doi": "https://doi.org/10.1080/01457632.2026.2752479",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Masoud Darbandi",
+      "Kazem Mashayekh",
+      "Fakhereh Seyedi"
+    ],
+    "category": "heat-transfer"
   }
 ]
