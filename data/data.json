@@ -354984,14 +354984,72 @@
         "Zhen Zhang"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225571365",
+      "title": "Experimental investigation on simulated fission gas release via cladding defects for LBE reactor source-term evaluation",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-08",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112928",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112928",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yuchen Song",
+        "Lili Li",
+        "Yingzhe Du",
+        "Bing Dong",
+        "Zihao Liu",
+        "Peng Lin",
+        "Dezhong Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225579942",
+      "title": "Development of novel oval-twisted helical tube once-through steam generator: Part II: Single-phase turbulent flow",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-08",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106695",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106695",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kyle Schroeder",
+        "Amir F. Ali",
+        "Scott Wahlquist",
+        "Piyush Sabharwall"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225571497",
+      "title": "Experimental study on ultrasound-enhanced ice-making efficiency in ice storage systems: Predictive model construction and factor analysis",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-08",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111487",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111487",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yunfeng Qiu",
+        "Shenghao Huang",
+        "Chuang Pan",
+        "Shuhong Li",
+        "Jun Wu"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13919,
+    "total": 13922,
     "journals": 277,
-    "last_update": "2026-11-09 05:54:54",
-    "reactor-thermal_count": 2179,
-    "heat-transfer_count": 4104,
+    "last_update": "2026-11-10 06:58:53",
+    "reactor-thermal_count": 2181,
+    "heat-transfer_count": 4105,
     "today": 0,
     "by_journal": [
       {
@@ -355004,11 +355062,11 @@
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 604
+        "count": 605
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 537
+        "count": 538
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -355020,7 +355078,7 @@
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 245
+        "count": 246
       },
       {
         "name": "Nuclear Technology",
@@ -356105,10 +356163,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-11",
-        "count": 3
-      },
-      {
         "date": "2026-10-12",
         "count": 22
       },
@@ -356218,10 +356272,14 @@
       },
       {
         "date": "2026-11-08",
-        "count": 0
+        "count": 3
       },
       {
         "date": "2026-11-09",
+        "count": 0
+      },
+      {
+        "date": "2026-11-10",
         "count": 0
       }
     ]
@@ -356440,5 +356498,5 @@
       }
     ]
   },
-  "export_time": "2026-11-09T05:54:54.678713"
+  "export_time": "2026-11-10T06:58:53.401061"
 }
