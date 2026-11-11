@@ -355042,27 +355042,618 @@
         "Jun Wu"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225615091",
+      "title": "Effects of imaging parameters and bubble geometry on digital radiographic measurement of millimeter-scale bubbles in liquid lead–bismuth based on simulated-bubble experiments",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115309",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115309",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Liandong Zhang",
+        "Weiguo Gu",
+        "Yufei Han",
+        "Shiwei Liao",
+        "Dezhong Wang",
+        "Chong Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225648104",
+      "title": "Numerical study of the effects of volumetric and wall heating on flow and heat transfer in a natural-circulation loop",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115301",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115301",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Si Cheng",
+        "Shanwu Wang",
+        "Yang Zou",
+        "Xiaohan Yu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225615572",
+      "title": "Neutron shielding benchmark experiment on Cf-252 source (NSBEC): Part I experimental design and uncertainty pre-evaluation",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.anucene.2026.112992",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.112992",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zian Zhai",
+        "Songqian Tang",
+        "Xingjian Wen",
+        "Sifan Liu",
+        "Wang XiangLei",
+        "Xiaomiao Chi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225632524",
+      "title": "Aerodynamic design space analysis and three-dimensional blade optimization for supercritical CO2 compressor based on OpenFOAM",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106680",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106680",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yongqing Xiao",
+        "Jianli Zhao",
+        "Zhiqiang Bao",
+        "Ziang Kong",
+        "Mohammed E. Al Moghazy",
+        "Xu Chen",
+        "Jianhui Qi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7163135315",
+      "title": "Rossi- α Benchmark Validation of a Static Alpha Eigenvalue Capability in OpenMC",
+      "abstract": "A static alpha eigenvalue capability was implemented in a modified version of the open-source Monte Carlo radiation transport code OpenMC and validated against Rossi-alpha measurements from 21 delayed-critical benchmark experiments and 33 subcritical configurations spanning fast, intermediate, and thermal systems with U-233, HEU, IEU, LEU, and plutonium fuels. The effective delayed neutron fraction was calculated using the k-prompt method, and the prompt neutron lifetime was calculated using the iterated fission probability method, both evaluated within the standard k-eigenvalue power iteration. The delayed-critical alpha eigenvalue was calculated from these quantities using the point kinetics equation alpha_dc = -beta_eff / ell_p. Agreement was generally within 10% for fast metal systems and within 5% for thermal solution systems. Subcritical extrapolation studies derived from the SHE-8 and STACY benchmark families show that alpha_dc remains stable as the system is driven subcritical.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295639.2026.2752320",
+      "doi": "https://doi.org/10.1080/00295639.2026.2752320",
+      "cited_by_count": 0,
+      "keywords": [
+        "effective delayed neutron fraction",
+        "prompt neutron lifetime",
+        "point kinetics",
+        "OpenMC",
+        "Monte Carlo radiation transport",
+        "nuclear fuel"
+      ],
+      "authors": [
+        "William Zywiec",
+        "A P Ingegno",
+        "David P. Heinrichs",
+        "Benoit Forget"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225627134",
+      "title": "Burnup Analysis of a NuScale-Like Small Modular Reactor Core with a Modified Beryllium Oxide Reflector",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295639.2026.2755179",
+      "doi": "https://doi.org/10.1080/00295639.2026.2755179",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jhao-Yang Hong",
+        "Shin-Rong Wu",
+        "Der-Sheng Chao",
+        "Jenq‐Horng Liang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225644056",
+      "title": "Physics-Guided Inverse Estimation of Standard-Specimen-Equivalent UTS from Subsized Tensile Measurements Using Explainable Machine Learning",
+      "abstract": "",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295639.2026.2751339",
+      "doi": "https://doi.org/10.1080/00295639.2026.2751339",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Aswin Karkadakattil"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225615687",
+      "title": "Analysis of Nuclear Equivalent Device Fidelity in Clipped Reactivity Insertion Accident Transients at TREAT",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295450.2026.2747521",
+      "doi": "https://doi.org/10.1080/00295450.2026.2747521",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Paul Ferney",
+        "Andrew S. Chipman",
+        "Connie M. Hill",
+        "Charles P Folsom",
+        "Tommy Holschuh",
+        "Sara Kathryn Pariseau",
+        "Benjamin M. Chase",
+        "Philip L. Tufts",
+        "Colby B. Jensen",
+        "James Roswell Parry"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225615980",
+      "title": "Flow-Induced Vibration Characteristics of M310 and Novel Segmented Fuel Rods under Single-Spacer-Grid-Failure Conditions",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295450.2026.2746155",
+      "doi": "https://doi.org/10.1080/00295450.2026.2746155",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shuguang Yang",
+        "Yilong Li",
+        "Hongbin Peng",
+        "Guangyun Min"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225637024",
+      "title": "Future-Ready Nuclear Engineering Education: Integrating AI, Digital Systems, and Advanced Technologies to Close Critical Skills Gaps",
+      "abstract": "The U.S. nuclear sector faces a workforce challenge of national scale. U.S. Department of Energy projections indicate the nuclear workforce may need to grow from roughly 100 000 to approximately 375 000 workers by 2050 to support construction, operations, and supply chain roles across advanced reactor deployment. Meeting this demand requires not only more graduates but also graduates prepared for a qualitatively different operating environment. Modern nuclear facilities function as closed-loop, data-driven, cyber-physical systems in which digital instrumentation and control, artificial intelligence–assisted monitoring, digital twin modeling, and cybersecurity governance are now routine features of plant operation. This paper proposes a general, four-layer curriculum framework (physical systems, measurement and control, digital intelligence, and security and governance) intended to help any ABET-accredited nuclear engineering or nuclear engineering technology program map these competencies onto existing degree structures without necessarily increasing credit hour requirements. The framework preserves the traditional physics-based and fundamentals-based core of nuclear engineering education while adding explicit, regulatory-anchored coverage of digital and cyber-physical competencies as a complement to that core rather than a replacement for it. To illustrate how the framework can be instantiated in practice, the paper presents a single-institution case study: the Thomas Edison State University PSEG-Supported Nuclear Workforce Development Initiative, comprising six stackable undergraduate certificates and three newly developed courses, mapped to ABET Engineering Technology Accreditation Commission and Engineering Accreditation Commission outcomes using a three-level Introduced/Reinforced/Mastered framework. The case study is offered as one worked example of the general framework, not as its primary contribution, and the paper explicitly discusses applicability beyond commercial nuclear power, including fuel cycle, defense, and national laboratory pathways, and the risk that expanded digital systems content could crowd out fundamentals if not deliberately guarded against. The paper’s contributions are (1) a general, system-aligned curriculum architecture usable by any nuclear program; (2) a documented single-institution implementation case study with governance timeline and enrollment projections, offered for adaptation rather than replication in kind; and (3) explicit regulatory anchoring intended to make each curriculum element independently verifiable and transferable.",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00295450.2026.2749026",
+      "doi": "https://doi.org/10.1080/00295450.2026.2749026",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Vaibhav Sinha"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225616587",
+      "title": "Estimating dry density of bentonite blocks during swelling for geological disposal tunnel closure using actively heated fiber-optic distributed temperature sensing: laboratory validation",
+      "abstract": "Actively heated fiber-optic distributed temperature sensing (a-DTS) is a method that uses heatable fiber-optic cables to measure temperature distributions. In this study, the a-DTS method was applied to monitor the swelling of bentonite blocks and validate its effectiveness. Thermal conductivity was calculated from measured temperature changes, and dry density was estimated from the obtained thermal conductivity. A laboratory experiment was conducted using a cylindrical experimental setup to monitor the swelling of blocks made of two types of bentonite-sand mixtures prepared from Kunigel V1 and silica sand. Dry densities were estimated from measured thermal conductivities using calibration data separately obtained at low dry densities and compared with the values obtained by dismantling and sampling 585 days after the start of water injection. Thermal conductivity measurements and visual observations identified three phases of swelling: the Primary Sealing Phase, in which thermal conductivity decreased as the bentonite-sand mixtures swelled and displaced water; the Secondary Sealing Phase, in which thermal conductivity increased without significant visual changes; and the Slow Phase, in which no significant changes were observed in either thermal conductivity or visual appearance. However, quantitative estimation of dry densities with sufficient accuracy remains difficult. The assumption of using calibration data obtained from saturated specimens was considered reasonable because the injected water volume was sufficient to achieve saturation and the degree of saturation of the dismantled samples was approximately 100%.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00223131.2026.2759178",
+      "doi": "https://doi.org/10.1080/00223131.2026.2759178",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Hisayuki Watanabe",
+        "Yohei Nakamichi",
+        "Toshihiro Sakaki",
+        "Hirokazu Fujii",
+        "Ryo Yasuda",
+        "Takayuki Abe"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225623405",
+      "title": "Diffusion behavior of Np(V) coexisting as multispecies in compacted Na-montmorillonite",
+      "abstract": "The diffusion of multivalent radionuclides in compacted bentonite is strongly affected by aqueous speciation, which complicates the elucidation of diffusion behavior. In this study, through-diffusion experiments were conducted on 237Np(V) at controlled carbonate concentrations (5 × 10−4–5 × 10−1 mol L−1) to investigate multispecies diffusion. The results show a clear dependence of 237Np(V) diffusion on carbonate concentration, with cation-dominated diffusion (NpO2+) at low carbonate concentrations and anion-dominated diffusion (NpO2CO3− and NpO2(CO3)23−) at high carbonate concentrations. The experimental effective diffusion coefficient (De) showed reasonable agreement with the values calculated using the weighted average of species-specific De derived from the integrated sorption and diffusion (ISD) model and the relative abundance of coexisting aqueous Np(V) species. Furthermore, PHREEQC transport simulations using the species-specific De derived from the ISD model reproduced some features of the experimental observations. These findings suggest that multispecies diffusion can be quantitatively evaluated based on the relative abundances of individual species and species-specific De, contributing to the parameterization of multivalent radionuclide diffusion under geochemical conditions relevant to geological disposal.",
+      "journal_name": "Journal of Nuclear Science and Technology",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/00223131.2026.2755579",
+      "doi": "https://doi.org/10.1080/00223131.2026.2755579",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yuta Fukatsu",
+        "Yuki Sugiura",
+        "Kenji Yotsuji",
+        "Takamitsu Ishidera",
+        "Yukio Tachi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225632461",
+      "title": "Development of a Low Density Calibration Source Prepared with Polyurethane Foam for HPGe Detector Gamma-Ray Spectrometry",
+      "abstract": "Stable, low-density reference materials are important for gamma-ray spectrometric measurements of low-density materials, particularly when conventional solid matrices or gaseous standards are unavailable or impractical. In this study, a low-density solid reference material was prepared by incorporating 0.2 g of BL-5, a Canadian Certified Reference Material for uranium ore, into a two-component, rapid-curing rigid polyurethane (PU) foam matrix. Three nominally identical samples were prepared to evaluate reproducibility. The cured PU foam had a density of approximately 0.130 g·cm -3 . Gamma-ray measurements were performed using a 78.5 % relative-efficiency n-type HPGe detector. Full-energy peak efficiencies were determined using a CBSS-2 volumetric multi-gamma reference source and transferred to the PU foam-BL-5 matrix by correcting for differences in photon attenuation. Self-attenuation corrections were calculated using NIST XCOM data, while true coincidence summing corrections were obtained with EFFTRAN. The experimental configuration was independently validated using RayXpert Monte Carlo simulations. The mean measured activities of 238 U, 210 Pb, and 226 Ra were 170± 10, 181 ± 6, and 174 ± 5 Bq, respectively, demonstrating excellent preparation reproducibility. These results indicate that rigid PU foam is a promising stable, substantially lower-density matrix for gamma-ray spectrometric reference materials.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104843",
+      "doi": "https://doi.org/10.1016/j.net.2026.104843",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "İbrahim Demirel",
+        "S. Demirel",
+        "E. C. Karanfil"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225643944",
+      "title": "Experimental and Numerical Investigation of Shear Capacity for Concrete Walls with High Reinforcement Ratio Considering Internal Voids",
+      "abstract": "ABSTRACT The high density of reinforcement in nuclear containment structures often leads to unintentional internal voids due to construction difficulties. This study evaluates the cyclic performance of reinforced concrete shear walls with high reinforcement ratios and low aspect ratios, specifically addressing these construction-induced defects. Through a comprehensive experimental and numerical program, six specimens were tested under cyclic loading, with artificial voids introduced as primary variables. Results indicate that global responses remain similar, however voids significantly accelerate post-peak strength degradation and localize damage by disrupting internal shear transfer mechanisms. The developed finite element model, validated within a 5% error margin, was utilized for an extensive parametric study. The analysis identifies the void area ratio as the governing factor, showing a linear strength reduction that becomes more pronounced beyond a 20% ratio. Based on these findings, a practical evaluation-oriented approach is proposed to quantify shear strength reduction as a function of the void area ratio. This research provides essential guidance for the structural assessment and maintenance of heavily reinforced nuclear facilities containing internal defects.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104840",
+      "doi": "https://doi.org/10.1016/j.net.2026.104840",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Hyeon-Keun Yang",
+        "Yong-Moon Hwang",
+        "Jae-Wook Jung"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7224847538",
+      "title": "Prototype of the room-temperature readout system for microwave multiplexing readout of transition edge sensor",
+      "abstract": "Transition Edge Sensors (TESs) are highly sensitive cryogenic detectors widely used in astronomy, high-energy physics and nuclear radiation detection. As TES is increasingly deployed in large-scale arrays to improve sensitivity and effective collecting area, multiplexed readout becomes essential for reducing system complexity. Microwave SQUID multiplexing (μMUX) technology combining superconducting resonators with radio-frequency superconducting quantum interference devices (RF-SQUIDs), represents a state-of-the-art solution. In this work, a room-temperature readout prototype for TES μMUX readout was designed. The system features a scalable two-stage architecture, including a highly integrated, chassis-independent front-end signal processing module and back-end event-reconstruction module. A high-frequency-resolution frequency-comb signal generation method with real-time, per-tone frequency and phase tunability was developed. In addition, optimization of the firmware implementation effectively overcomes the computational-resource bottleneck of the Field Programmable Gate Array (FPGA). The prototype supports autonomous frequency sweeping, parameter diagnostics, and online event reconstruction. Self-test shows S 21 phase noise better than −110 dBc/Hz at −30 dBm, remaining stable with increasing channel count. Joint tests with a μMUX cryogenic system successfully captured the RF-SQUID response and achieved an equivalent noise current of 44 pA/√Hz referred to the TES, validating the prototype as a practical solution of the room-temperature system for TES μMUX readout.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-10-30",
+      "url": "https://doi.org/10.1016/j.net.2026.104818",
+      "doi": "https://doi.org/10.1016/j.net.2026.104818",
+      "cited_by_count": 0,
+      "keywords": [
+        "transition edge sensors",
+        "rf SQUID",
+        "superconducting resonators",
+        "event reconstruction",
+        "cryogenic detector arrays",
+        "phase noise"
+      ],
+      "authors": [
+        "Yuanda Wang",
+        "Cao Ping",
+        "Weigang Yin",
+        "Y. Zhang",
+        "Yu Zhu",
+        "Xianke Liu",
+        "Yunxiao Li",
+        "Yu Li",
+        "Feng Li",
+        "Zhenhai Li",
+        "Zhijia Sun"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225615313",
+      "title": "Simulation and Validation of Four-parameter RANS Model Applied to LBE Turbulent Heat Transfer in Typical Channel Flows",
+      "abstract": "",
+      "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.jandt.2026.11.002",
+      "doi": "https://doi.org/10.1016/j.jandt.2026.11.002",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Hao Yao",
+        "Fang Chen",
+        "Weiru Wang",
+        "Mingyu Jiang",
+        "Yicheng Ou",
+        "Xuefeng Fu",
+        "Yingwei Wu",
+        "Desheng Jin",
+        "Yisong Hu",
+        "Wei Zhang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7171656074",
+      "title": "AI-augmented models for thermofluid behavior prediction in cold-climate-specific molten salt volumetric solar thermal receivers with integrated thermal energy storage",
+      "abstract": "While molten salt volumetric solar thermal receivers with integrated storage are considered techno-economically feasible for industrial heat decarbonization in cold climates, accurately predicting their performance remains challenging, limiting the design and development of commercial-scale units. At high operating temperatures (>400°C), their thermofluid behaviour is governed by complex interactions between radiation-induced natural convection and volumetric heating, making accurate performance prediction difficult. Recent studies have reported mechanistic models to predict the system thermofluid response; however, due to unquantifiable radiation-induced optical property variations, simplifying assumptions, and the lack of accurate Nusselt number correlations, their accuracy was limited at the system boundaries and during long heating times. To overcome these challenges, this study proposes two physics-guided data-driven models. A Physics-Guided Neural Network (PGNN) integrates mechanistic models into its training process to predict spatiotemporal temperature distributions. In parallel, a Physics-Guided Long Short-Term Memory (PG-LSTM) model utilizes past experimental temperature profiles and receiver parameters to forecast vertical temperature distributions in real time. In both modeling approaches, a physics-based loss function derived from the law of conservation of energy is implemented to ensure physically plausible predictions. Validation against experimental data demonstrates strong predictive performance, with the PGNN achieving a Mean Absolute Error (MAE) below 1.0°C while maintaining physical plausibility under boundary sensor drifts expected in high-temperature environments, while the PG-LSTM maintains forecast errors below 2.0°C over 60-300 s. These results highlight the potential of physics-guided modeling approaches as a practical aid for commercial-scale design studies, virtual experimentation, and real-time decision support for next-generation clean heat technologies.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129790",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129790",
+      "cited_by_count": 0,
+      "keywords": [
+        "cold climate",
+        "physics-guided neural networks",
+        "volumetric heating",
+        "Nusselt number correlation",
+        "virtual experiments"
+      ],
+      "authors": [
+        "Roshan Banisetti",
+        "Bhuvan Veeravalli",
+        "Mojolaoluwa Keshiro",
+        "Muhammad Taha Manzoor"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225645804",
+      "title": "A superbiphilic hierarchical inverse simple cubic structure for superior boiling heat transfer performance",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129861",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129861",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yanan Li",
+        "Yawen Shi",
+        "Chun-Ling Wang",
+        "Jian Zheng",
+        "Zeng-Yao Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225608846",
+      "title": "Research on the effect of spark plug with different specification on the performance and stability and new evaluation method for combustion status of passive pre-chamber engine",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133699",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133699",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Haishan Ren",
+        "Yongqiang Han",
+        "Haotian Ma",
+        "Xiangyang Wang",
+        "Jingyi Hu",
+        "Kechao Zhang",
+        "Liang Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225624295",
+      "title": "Dynamic thermal performance of a multilayer PCM Trombe wall for heating: Effects of material distribution and operation mode",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133817",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133817",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Tuanjie Wang",
+        "Shiqiang Zhou",
+        "Kui Shan",
+        "Yulin Ma",
+        "Xinyang Wang",
+        "Chunli Qin",
+        "Junfeng Duan",
+        "Mongjie Song"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225629151",
+      "title": "Thermo-economic comparison of molten salt thermal energy storage configurations for deep peak shaving in a 1050 MW ultra-supercritical coal-fired power unit",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133794",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133794",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wenyu Cheng",
+        "Guoqing Chen",
+        "Wentian ZHANG",
+        "Yonghua Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225635969",
+      "title": "Shock compression induced by flash evaporation in shock tubes",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133940",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133940",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kaixuan Duan",
+        "代玉强",
+        "Ning Yu",
+        "Yuhang Pan",
+        "Fengjun Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225639727",
+      "title": "ML-based optimization of a novel segmented multi-pillar TEG with thermo-economic analysis",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133910",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133910",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Manwen Tian",
+        "Tirumala Uday Kumar Nutakki",
+        "Sarminah Samad",
+        "Hyder H. Abed Balla",
+        "Raymond Ghandour",
+        "Zaher Al Barakeh",
+        "Mohamed Ismail Bassyouni",
+        "Hanaa Abu-Zinadah",
+        "Thanh Nam Dang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225640727",
+      "title": "Prediction and optimization of film cooling effectiveness using a novel conditional generative adversarial network",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133962",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133962",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wen Wang",
+        "Ruohan Ke",
+        "Nina Li",
+        "Lin Qi",
+        "Tingkai Gong",
+        "Zhigang Ruan",
+        "Xiangyu Ding",
+        "Jiahuan Cui"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225651109",
+      "title": "Impact of compression and geometry on the slot liner thermal resistance in electric motors",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133782",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133782",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shanmukhi Sripada",
+        "Lindsay K. Sutherland",
+        "Chelsea S. Davis",
+        "Amy Marie Marconnet"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225657877",
+      "title": "Design and discharging performance optimization of a heat pipe-based latent heat thermal energy storage module",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133989",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133989",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jian’an Tian",
+        "Ziqi Cao",
+        "Zeyu Xu",
+        "Changhui Liu",
+        "Jiateng Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225663561",
+      "title": "Expansion thermosensitive nanocomposite hydrogel for lithium iron phosphate battery thermal runaway fire suppression",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133967",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133967",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Qi Zhang",
+        "Bingyu Guo",
+        "Qi Huang",
+        "Jun Wang",
+        "Xiajiaoyang Ning",
+        "Hongda Cao",
+        "Gang Zhou",
+        "Zefeng Chen",
+        "Ying Wan",
+        "Haotong Yang",
+        "Qunzhi Meng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225650210",
+      "title": "Auto-ignition dynamics of a reacting jet in vitiated crossflow studied by burst-mode PIV and PLIF thermometry",
+      "abstract": "",
+      "journal_name": "Experimental Thermal and Fluid Science",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1016/j.expthermflusci.2026.111859",
+      "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111859",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shuo Wang",
+        "Chen Wang",
+        "Hao Hui",
+        "Yinbin Gao",
+        "Xunchen Liu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225658922",
+      "title": "Sequential Hybrid Method for Inverse Estimation of Transient Boundary Heat Flux",
+      "abstract": "",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-11-09",
+      "url": "https://doi.org/10.1080/01457632.2026.2752482",
+      "doi": "https://doi.org/10.1080/01457632.2026.2752482",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mohammad Mazidi Sharfabadi",
+        "Leila Nourpour",
+        "Mansour Alizadeh",
+        "Mohammad Salimi Delshad",
+        "Marc A. Rosen"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 13922,
+    "total": 13951,
     "journals": 277,
-    "last_update": "2026-11-10 06:58:53",
-    "reactor-thermal_count": 2181,
-    "heat-transfer_count": 4105,
+    "last_update": "2026-11-11 05:50:43",
+    "reactor-thermal_count": 2197,
+    "heat-transfer_count": 4118,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2421
+        "count": 2430
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 967
+        "count": 969
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 605
+        "count": 606
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -355070,23 +355661,23 @@
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 489
+        "count": 492
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 326
+        "count": 328
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 246
+        "count": 247
       },
       {
         "name": "Nuclear Technology",
-        "count": 209
+        "count": 212
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 168
+        "count": 171
       },
       {
         "name": "Science",
@@ -355161,6 +355752,10 @@
         "count": 97
       },
       {
+        "name": "Journal of Nuclear Science and Technology",
+        "count": 97
+      },
+      {
         "name": "Journal of Business Research",
         "count": 96
       },
@@ -355189,10 +355784,6 @@
         "count": 95
       },
       {
-        "name": "Journal of Nuclear Science and Technology",
-        "count": 95
-      },
-      {
         "name": "Energy Economics",
         "count": 94
       },
@@ -355205,11 +355796,11 @@
         "count": 92
       },
       {
-        "name": "The Science of The Total Environment",
-        "count": 91
+        "name": "Experimental Thermal and Fluid Science",
+        "count": 92
       },
       {
-        "name": "Experimental Thermal and Fluid Science",
+        "name": "The Science of The Total Environment",
         "count": 91
       },
       {
@@ -355238,7 +355829,7 @@
       },
       {
         "name": "Heat Transfer Engineering",
-        "count": 67
+        "count": 68
       },
       {
         "name": "Information Communication & Society",
@@ -355293,11 +355884,11 @@
         "count": 45
       },
       {
-        "name": "International Journal of Epidemiology",
-        "count": 43
+        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "count": 44
       },
       {
-        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "name": "International Journal of Epidemiology",
         "count": 43
       },
       {
@@ -356163,10 +356754,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-12",
-        "count": 22
-      },
-      {
         "date": "2026-10-13",
         "count": 35
       },
@@ -356236,7 +356823,7 @@
       },
       {
         "date": "2026-10-30",
-        "count": 38
+        "count": 39
       },
       {
         "date": "2026-10-31",
@@ -356244,7 +356831,7 @@
       },
       {
         "date": "2026-11-01",
-        "count": 93
+        "count": 105
       },
       {
         "date": "2026-11-02",
@@ -356276,10 +356863,14 @@
       },
       {
         "date": "2026-11-09",
-        "count": 0
+        "count": 16
       },
       {
         "date": "2026-11-10",
+        "count": 0
+      },
+      {
+        "date": "2026-11-11",
         "count": 0
       }
     ]
@@ -356498,5 +357089,5 @@
       }
     ]
   },
-  "export_time": "2026-11-10T06:58:53.401061"
+  "export_time": "2026-11-11T05:50:43.860287"
 }
