@@ -357162,14 +357162,164 @@
         "Somasundharam Sankaran"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225879196",
+      "title": "Accident progression and fission product behavior of the i-SMR under LOCA scenario using CINEMA and MELCOR codes",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-12",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115315",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115315",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Sehee Kwon",
+        "Hyo Jun An",
+        "Geunyoung Byeon",
+        "Joon Eun Yang",
+        "JinHo Song",
+        "Jaehyun Ham",
+        "Seokgyu Jeong",
+        "Sang Ho Kim",
+        "Heesoo Kim",
+        "Heetae Lee",
+        "Sung Joong Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7167264892",
+      "title": "Neutronics, thermal-hydraulics, and burnup coupling analyses of a high-power-density PWR assembly using RMC and Fluent",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-12",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106689",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106689",
+      "cited_by_count": 0,
+      "keywords": [
+        "two-phase flow",
+        "slug flow",
+        "power peaking factor",
+        "void fraction",
+        "burnup calculation",
+        "fuel temperature",
+        "conversion ratio",
+        "breeding performance",
+        "fuel assembly"
+      ],
+      "authors": [
+        "Y U E J I He",
+        "Guodong Liu",
+        "Xingyu Zhao",
+        "Haisheng Chen",
+        "Junren Hou",
+        "Meiming Qiu",
+        "Shanfang Huang",
+        "Zhigang Li",
+        "Bo Zhao",
+        "Chuan Lu",
+        "Kan Wang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225892597",
+      "title": "A Feasibility Study of a Molten Salt Fast Reactor with Moderated Blanket for Long-Lived Fission Product Transmutation",
+      "abstract": "",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-12",
+      "url": "https://doi.org/10.1080/00295450.2026.2753936",
+      "doi": "https://doi.org/10.1080/00295450.2026.2753936",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ryan Willat",
+        "Puran Deng",
+        "Won Sik Yang",
+        "Taek Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225884966",
+      "title": "Genuine Multi-Objective Optimization of Multi-Step Square Cascades for 82Kr Isotope Separation: A Comparative Study of Metaheuristic Algorithms",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104848",
+      "doi": "https://doi.org/10.1016/j.net.2026.104848",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "S. Dadashzadeh",
+        "Jaber Safdari",
+        "S. Yousefi-Nasab",
+        "L. Mirmohammadi"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7225851878",
+      "title": "Radial venting resistance and scale-dependent optimal packing in hollow fiber spacesuit water membrane evaporators: A radial layered model",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-13",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111495",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111495",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Kai-Feng Chang",
+        "Yunze Li",
+        "Yu-Ying Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225863059",
+      "title": "Design and multi-objective optimization of a shark-pin-fin cold plate for battery thermal management",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-12",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111441",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111441",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yang Lebin",
+        "Han Yong",
+        "Fanlin Meng",
+        "Xuehong Wu",
+        "Cai Lv",
+        "Yanling Wang",
+        "Jiajing Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7225917328",
+      "title": "Influence of pin slotting on thermal hydraulic performance of staggered pin arrays with different cross-sectional shapes and spacings",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-12",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111499",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111499",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shadman Sakief Hridoy",
+        "Prashant Singh"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 14024,
+    "total": 14031,
     "journals": 277,
-    "last_update": "2026-11-13 06:17:47",
-    "reactor-thermal_count": 2217,
-    "heat-transfer_count": 4171,
+    "last_update": "2026-11-14 05:59:25",
+    "reactor-thermal_count": 2221,
+    "heat-transfer_count": 4174,
     "today": 0,
     "by_journal": [
       {
@@ -357186,23 +357336,23 @@
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 540
+        "count": 543
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 497
+        "count": 498
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 329
+        "count": 330
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 252
+        "count": 253
       },
       {
         "name": "Nuclear Technology",
-        "count": 213
+        "count": 214
       },
       {
         "name": "Nuclear Science and Engineering",
@@ -358283,10 +358433,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-15",
-        "count": 39
-      },
-      {
         "date": "2026-10-16",
         "count": 21
       },
@@ -358352,7 +358498,7 @@
       },
       {
         "date": "2026-11-01",
-        "count": 122
+        "count": 123
       },
       {
         "date": "2026-11-02",
@@ -358396,10 +358542,14 @@
       },
       {
         "date": "2026-11-12",
-        "count": 1
+        "count": 6
       },
       {
         "date": "2026-11-13",
+        "count": 1
+      },
+      {
+        "date": "2026-11-14",
         "count": 0
       }
     ]
@@ -358618,5 +358768,5 @@
       }
     ]
   },
-  "export_time": "2026-11-13T06:17:47.619801"
+  "export_time": "2026-11-14T05:59:25.896234"
 }
