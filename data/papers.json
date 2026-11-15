@@ -357311,5 +357311,260 @@
       "Prashant Singh"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7140313556",
+    "title": "A risk-informed performance-based graded classification approach for maintaining seismic qualification of NPPs in Canada",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115317",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115317",
+    "cited_by_count": 0,
+    "keywords": [
+      "seismic qualification",
+      "nuclear power plants",
+      "performance limit states",
+      "performance goals",
+      "administrative control",
+      "seismic hazard"
+    ],
+    "authors": [
+      "Ayman Saudy",
+      "Medhat Elgohary"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7165614004",
+    "title": "Reactor operation induced thermal effects on neutron flux measurements using 3He neutron detectors at a TRIGA Mk II research reactor",
+    "abstract": "A variation of the measured neutron flux using 3 He detectors at a TRIGA Mk II nuclear research reactor during steady-state operation is reported in this article. The observed effect shows a statistically significant anti-correlation ( > 7 σ ) between the temperature in the reactor pool and recorded neutron count rates. Following reactor start-up under nominal operating conditions, the effect occurs for a specific time period until both thermal equilibrium and a constant neutron count rate are reached. Simultaneous neutron and temperature measurements are performed in different configurations around the reactor in order to gain qualitative insights about the temperature dependent count rate behavior.",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115305",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115305",
+    "cited_by_count": 0,
+    "keywords": [
+      "helium-3 detectors",
+      "neutron flux measurement",
+      "reactor start-up",
+      "thermal equilibrium"
+    ],
+    "authors": [
+      "S. Dorer",
+      "Clemens Trunner",
+      "Robert Bergmann",
+      "Dieter Hainz",
+      "E. Jericha",
+      "Stephan Sponar",
+      "Thomas Stummer",
+      "Mario Villa"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7226017064",
+    "title": "Neutronics and thermal-hydraulics coupling method for multi-size petal-shaped helical fuel rods",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113015",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113015",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jincheng Wang",
+      "Zhijiang Yuan",
+      "Deping Du",
+      "Zhongyan Li",
+      "Jianchuang Sun",
+      "Weihua Cai"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7163066760",
+    "title": "Optimizing entrained-flow reactors for biomass gasification: a novel framework for controlling slag–refractory interactions and enhancing durability",
+    "abstract": "Biomass-fed entrained-flow reactors are promising for syngas production, but slag formation and refractory degradation remain major challenges for their reliable operation. This study investigates the coupled effects of biomass ash chemistry, slag phase evolution, heat transfer, and slag–refractory interactions, with particular emphasis on the cold-crucible concept. Thermodynamic modelling and laboratory-scale experiments were combined to characterize inorganic species transformation, slag liquidus temperature, and the interaction of miscanthus-derived slag with silicon carbide (SiC) refractory. Alkali- and chlorine-containing species were found to play a major role in deposit formation, with KCl identified as a potentially corrosive species. The experimentally determined liquidus temperature of miscanthus ash was approximately 1230 °C, compared with 1324 °C predicted by thermodynamic calculations, highlighting limitations in existing databases for alkali-rich systems. At 1300 °C, molten slag caused limited SiC infiltration and dissolution, with penetration restricted to approximately 100 µm. Under a controlled thermal gradient, a stable 8 mm solid slag layer developed, providing thermal protection to the refractory. The liquid slag/solid slag and solid slag/SiC interfaces stabilized at 1231 °C and 1130 °C, respectively, corresponding to a heat flux of 12.9 kW m −2 . These results support the potential of cooled SiC linings and self-forming slag layers for improving wall stability and provide a basis for optimizing reactor operating conditions.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.anucene.2026.112989",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.112989",
+    "cited_by_count": 0,
+    "keywords": [
+      "entrained flow reactor",
+      "biomass conversion",
+      "slag-refractory interaction",
+      "refractory lining durability",
+      "ash composition",
+      "reactor operating conditions",
+      "energy efficiency",
+      "biomass ash"
+    ],
+    "authors": [
+      "Jacques Poirier",
+      "Karine Froment",
+      "F. Defoort"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7226013866",
+    "title": "Machine learning-based optimization of the NSSS control system of i-SMR",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113020",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113020",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Semin Joo",
+      "Taeho Roh",
+      "Jihong Min",
+      "Jeong Ik Lee"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7126405618",
+    "title": "Development and application of accident consequence assessment software",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106696",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106696",
+    "cited_by_count": 0,
+    "keywords": [
+      "accident consequence analysis",
+      "multi-scenario analysis",
+      "software validation"
+    ],
+    "authors": [
+      "Baoying Li",
+      "Liguo Zhang",
+      "Haiyan Xiao",
+      "Jingang Liang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7165654487",
+    "title": "Between hype and uncertainty: Expert assessments of nuclear small-modular reactors (SMRs) under data center energy boom",
+    "abstract": "The unprecedented growth in artificial intelligence and data center energy demand has renewed interest in small modular reactors (SMRs) as a potential low-carbon baseload solution. Yet significant uncertainty persists around the techno-economic characteristics and policy solutions necessary for SMR commercialization in the United States. This inadvertently leaves policymakers navigating critical decisions about resource allocation, regulatory reform, and long-term energy planning without a clear picture of near-term prospects of SMRs. This study addresses that gap by conducting a mixed methods expert survey of 33 professionals from industry, academia, government, utilities, and think tanks. Results collectively suggest a moderate confidence in an outlook with high overnight capital cost of over $6000/kW and cost overruns of over 30%, falling short of DOE's commercialization target. They also reflect cautious optimism rooted in the expectation of an incremental learning rate due to rapid electricity demand growth from data centers and standardization of design. Overall, experts highlight a significant gap between promotional narratives and realistic techno-economic trajectories.",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106688",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106688",
+    "cited_by_count": 0,
+    "keywords": [
+      "small modular reactors",
+      "data center energy demand",
+      "artificial intelligence energy demand",
+      "learning rate",
+      "cost overruns",
+      "energy policy",
+      "expert survey"
+    ],
+    "authors": [
+      "Niraj Palsule",
+      "Marilyn A. Brown",
+      "Brian An"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7225995633",
+    "title": "Assessing Saudi Arabia’s readiness for fusion RDI: A comparative framework and roadmap to 2035",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104831",
+    "doi": "https://doi.org/10.1016/j.net.2026.104831",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Anas Alwafi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7226019037",
+    "title": "Investigation of Hydrodynamic Parameters for FAC-Induced Wall Thinning in Elbow Pipes Using CFD and Machine Learning",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104850",
+    "doi": "https://doi.org/10.1016/j.net.2026.104850",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Seongin Moon",
+      "Jong-Yeon Lee",
+      "Kyung-Mo Kim",
+      "Soon-Woo Han",
+      "Gyeong-Geun Lee",
+      "Wan-Young Maeng",
+      "Dong-Jin Kim",
+      "Jae Seong Im",
+      "Hyeonseung Jo",
+      "Shin Hyuk Kim"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7226019472",
+    "title": "Development of Collapse Pressure Prediction Equations for Helical-Coil Steam Generator Tubes in Small Modular Reactors Considering Geometric Effects",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104849",
+    "doi": "https://doi.org/10.1016/j.net.2026.104849",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ik-Joong Kim",
+      "Yong-Gyun Shin",
+      "Yoon‐Suk Chang",
+      "Seongin Moon"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7226036629",
+    "title": "Partial rebound behaviors and freezing processes of droplets impacting upon laser-textured surfaces with various hydrophobic coatings",
+    "abstract": "",
+    "journal_name": "Experimental Thermal and Fluid Science",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.expthermflusci.2026.111865",
+    "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111865",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yuheng Shang",
+      "Matic Može",
+      "Sylvie Castagne",
+      "David Seveno",
+      "Iztok Golobič",
+      "Maria Rosaria Vetrano"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7225995897",
+    "title": "Revisiting the vanadium dioxide based conductive thermal memristor",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-13",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111486",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111486",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Cagatay Haratoka",
+      "Karl Joulain",
+      "Younès Ezzahri"
+    ],
+    "category": "heat-transfer"
   }
 ]
