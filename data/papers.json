@@ -357566,5 +357566,190 @@
       "Younès Ezzahri"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7202287653",
+    "title": "New mechanisms for separation of uranium isotopes in super-strong centrifugal fields under impact of waves in a gas",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113004",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113004",
+    "cited_by_count": 0,
+    "keywords": [
+      "uranium isotope separation",
+      "gas centrifuge",
+      "longitudinal acoustic waves",
+      "barodiffusion",
+      "gas viscosity",
+      "rotating gas"
+    ],
+    "authors": [
+      "S. V. Bogovalov",
+      "D. N. Dzhulya",
+      "I. V. Tronin"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7227759320",
+    "title": "Interfacial structure-based flow regime identification for two-phase flow in large diameter pipes",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106708",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106708",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Ling Chen",
+      "Takashi Hibiki"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7135181885",
+    "title": "False Data Injection Detection in Nuclear Power Plants using Autoencoder with Latent-Conditioned Mahalanobis Scoring",
+    "abstract": "As instrumentation and control (I&C) systems in nuclear power plants (NPPs) are digitalized, cybersecurity concerns have grown. A particular concern is false data injection (FDI) attacks, which can induce malfunctions of plant systems and degrade the situational awareness of main control room operators. Against such attacks, monitoring the integrity of process data can serve as a defensive barrier, and autoencoders have been studied as a promising tool for this purpose. However, their reconstruction error varies across operating conditions even for normal data, which forces the detection threshold above the errors of rare but normal conditions and allows well-crafted manipulations to evade detection. To improve sensitivity where false alarms must be minimized, this study proposes latent-conditioned Mahalanobis scoring, which requires no modification of the conventional autoencoder. The method clusters the latent vectors of calibration data, estimates the mean and covariance of reconstruction residuals per cluster, and scores a query input by the Mahalanobis distance under its nearest clusters' statistics. Experiments with emergency operation data from an NPP simulator and 10 synthetic FDI scenarios injected during accident conditions show that the proposed score outperforms the conventional reconstruction-error score and other scoring methods at high specificity levels.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104855",
+    "doi": "https://doi.org/10.1016/j.net.2026.104855",
+    "cited_by_count": 0,
+    "keywords": [
+      "false data injection detection",
+      "nuclear power plants",
+      "autoencoder",
+      "reconstruction error",
+      "anomaly detection",
+      "instrumentation and control systems",
+      "cyberattack detection",
+      "k-nearest neighbor distance",
+      "memory bank",
+      "false positive reduction",
+      "situational awareness"
+    ],
+    "authors": [
+      "Junyong Bae",
+      "Ji Hyeon Shin",
+      "Seung Jun Lee"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7232496547",
+    "title": "Life-Cycle Flow-Induced Vibration Characteristics of Nuclear Fuel Rods Subject to Multi-Source Uncertainties",
+    "abstract": "Flow-induced vibration (FIV) affects grid-to-rod fretting wear and the service life of nuclear fuel rods. During operation, irradiation and corrosion alter material properties and spacer-grid supports, while axial coolant turbulence and local transverse disturbances generate stochastic excitation. Their combined effects on life-cycle nonlinear vibration and correlated uncertainties remain insufficiently quantified. This study develops a multi-span beam model incorporating axial and transverse flow excitation, burnup-dependent preload relaxation, grid-to-rod clearance, and unilateral contact. Stochastic time-domain integration is employed to predict the vibration response, while a non-probabilistic ellipsoidal model quantifies response bounds and parameter correlations. Including transverse-flow excitation increases the predicted root-mean-square (RMS) displacement by 19% at 3 m/s and reduces the experimental prediction error by 20.1%. The maximum RMS displacement increases from 4.92 μm at the beginning of life to 14.00 μm near 34.3 GW d/t, before decreasing to 9.11 μm at 50 GW d/t. The response bounds evolve non-monotonically, while positive correlation between transverse-flow parameters widens the uncertainty interval.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104852",
+    "doi": "https://doi.org/10.1016/j.net.2026.104852",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Junwei Kang",
+      "Zhengyang Li",
+      "Shuyong Duan",
+      "Haodong Duan",
+      "Hang Fan",
+      "Jian Deng",
+      "Kun Zhang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7227613673",
+    "title": "Experimental study of hydroacoustic quadrupole produced by vortex ring leapfrogging",
+    "abstract": "",
+    "journal_name": "Experimental Thermal and Fluid Science",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.expthermflusci.2026.111866",
+    "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111866",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "guangwei liu",
+      "Duo Xu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7226158027",
+    "title": "The heat transfer behavior of supercritical n-decane flowing upward in a vertical tube subjected to high-temperature crossflow air",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111494",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111494",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chao Li",
+      "Haodong Han",
+      "Yong Li",
+      "Lei Zhang",
+      "Gongnan Xie"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7226934597",
+    "title": "Critical heat flux and pre-CHF vapor-structure dynamics during flow boiling on micropillar surfaces",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111473",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111473",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Haidong Liu",
+      "Dingkai Liu",
+      "Yu Bian",
+      "Jiang He",
+      "Yangyang Wang",
+      "Mingxia Liu",
+      "Deqi Chen",
+      "Xuan Gao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7227516462",
+    "title": "An efficient multi-spectral light-field compression denoising method for 3D combustion flame reconstruction",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111492",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111492",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Qingran Wang",
+      "Ya-Tao Ren",
+      "牛志田",
+      "Hong Qi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7230749591",
+    "title": "A thermoregulation-based mathematical model for predicting hypothermia progression and survival window of immersed personnel in cold water",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-14",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111502",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111502",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Qing Zhang",
+      "Hetian Feng",
+      "Lihao Xue",
+      "Xueqi Leng",
+      "Jiachen Nie",
+      "Li Ding"
+    ],
+    "category": "heat-transfer"
   }
 ]
