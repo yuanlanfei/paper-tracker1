@@ -362367,5 +362367,325 @@
       "Jia‐Yue Yang"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7156102028",
+    "title": "Analysis of dynamic response of passive ECCS valves using MARS-KS code-based scheme, SEMICOM",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115322",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115322",
+    "cited_by_count": 0,
+    "keywords": [
+      "dynamic response",
+      "spring stiffness",
+      "damping coefficient"
+    ],
+    "authors": [
+      "Young Seok Bang",
+      "Youngjae Park",
+      "You Cho Choi",
+      "Seong-Su Jeon",
+      "Soon-Joon Hong"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7237333423",
+    "title": "A systematic exploration of mapping knowledge domains for steam generator control method in pressurized water reactors",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113039",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113039",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhu Yuhan",
+      "Peiwei Sun",
+      "XINYU WEI"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7237365837",
+    "title": "Study on hydrogen redistribution in uranium zirconium hydride reactors based on multi-physics coupling",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113016",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113016",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Lipeng Wang",
+      "Jingjie ZOU",
+      "Meng Zhao",
+      "Lu Cao",
+      "Tianliang Hu",
+      "Duoyu Jiang",
+      "Lixin Chen"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7237340046",
+    "title": "Analytical modeling and finite element verification of irradiation-growth-induced bowing of fuel channels under non-uniform axial flux distributions",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106706",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106706",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Junzheng Zheng",
+      "Shengjie Du",
+      "Musen Lin",
+      "Songyang Li",
+      "Dingqu Wang",
+      "Yueyuan Jiang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7237366881",
+    "title": "Experimental assessment of the applicability of a 1D system code (MARS-KS) to a 3.2-m-long air-cooled two-phase closed thermosyphon for long-term passive decay-heat removal",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106700",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106700",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yonadan Choi",
+      "Min Suk Lee",
+      "Hyoung Suk Yu",
+      "Dong-Hun Shin",
+      "Yong Hoon Jeong"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7237342810",
+    "title": "Long-term high-sensitivity operation of a reprogrammable floating-gate MOS dosimeter: Gamma irradiation and a non-ionizing UV control",
+    "abstract": "Commercial electrically programmable analog devices (EPADs) based on a reprogrammable floating-gate MOS structure were operated in a high-sensitivity ( HighSens ) regime, in which two devices on the same ALD1108E chip alternate between radiation monitoring and electrical recharging of the floating gate. Long-term experiments were performed under 6 0 ⁢ C o gamma irradiation and under 311 nm UV exposure using matched cycling and reprogramming protocols. Under zero-bias gamma irradiation, HighSens operation provided a near-linear reconstructed dose response with a sensitivity of 8 . 9 5 m V / G y up to 560 Gy, without functional failure. Static positive bias and negative bias produced a progressive loss of reprogramming efficiency and eventual failure to restore the target threshold voltage. A matched zero-bias UV control, in which 311 nm photons discharge the floating gate without generating electron–hole pairs in S i O 2 , showed stable reprogramming jumps and no device failure over a larger equivalent-dose range. The comparison indicates that the long-term degradation of reprogramming efficiency under gamma irradiation is associated with ionizing-radiation effects in combination with repeated electrical stress, rather than with electrical stress alone.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104836",
+    "doi": "https://doi.org/10.1016/j.net.2026.104836",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Stefan D. Ilić",
+      "Srboljub Stanković",
+      "Dana G. Vasiljević-Radović",
+      "Goran S. Ristić"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7202157720",
+    "title": "Identification of stable low- and high-load reference states and net-power mapping under selected 2025 ocean-condition scenarios for a 30 kW-class OTEC-MLE system",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-22",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134096",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134096",
+    "cited_by_count": 0,
+    "keywords": [
+      "ocean thermal energy conversion",
+      "auxiliary loss",
+      "South China Sea"
+    ],
+    "authors": [
+      "Wenzhong Gao",
+      "Shuren Dong",
+      "Yuan Zhang",
+      "Zhen Tian",
+      "Chaofan Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237331792",
+    "title": "Influence of relative eccentricity on leakage-path evolution, internal flow characteristics and performance of an R290 oil-free twin-cylinder rotary compressor",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134058",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134058",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Guige Zhao",
+      "王小燕",
+      "Yun Liu",
+      "Wenjie Zhou",
+      "Jiancheng Cai"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237342608",
+    "title": "Physics-driven Bayesian hyper reduced-order thermo-mechanical modeling for preload optimization and flexible peak-load regulation operation in steam turbines",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134059",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134059",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chaohui Huang",
+      "Ming Kang",
+      "Yuheng Zhang",
+      "Weizhe Wang",
+      "Yingzheng Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237348168",
+    "title": "Performance map for decentral ventilation system with integrated heat pump",
+    "abstract": "Decentralized ventilation systems (DVS) integrated with reversible heat pumps are highly promising for non-residential building retrofits, offering both hygienic air exchange and efficient space conditioning. However, existing literature predominantly focuses on high-airflow residential applications, frequently neglects cooling mode characteristics, and relies on simplified black-box heat pump models that prevent flexible system simulations. To address these gaps, this study experimentally characterizes and numerically models an R290 reversible heat pump specifically designed for the low air volume flows (40 - 120 m 3 /h) typical of office environments. Based on 239 steady-state experiments in heating mode and 126 in cooling mode, a physics-based, component-level simulation model is calibrated. The model demonstrates high predictive fidelity, achieving R 2 values above 0.86 for heating and 0.70 for cooling, with a MAPE strictly below 8.6 % across all capacities and electrical power demands. The calibrated simulation model achieves a modulatable heating capacity of 132 - 657 W and a cooling capacity of 155 - 562 W over all air volume flow configurations. The performance maps enable robust multi-linear interpolation for subsequent annual building energy simulations, providing a critical tool for evaluating the ecological and economic viability of DVS in non-residential retrofits.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134102",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134102",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Tobias Fröhlingsdorf",
+      "Philipp Ostmann",
+      "Dirk Müller"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237351796",
+    "title": "Optimal membrane stack design for deep salinity gradient energy recovery in reverse electrodialysis heat engines",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134006",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134006",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Huimin Zhang",
+      "Xin Wang",
+      "Xiaohan Zhang",
+      "Yanchang Song"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237356854",
+    "title": "Green ammonia cracking integrated with coal gasification for syngas production with flexible H2/CO adjustment and employment for methanol synthesis",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134057",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134057",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jiaming Ning",
+      "Dongtai Yang",
+      "Zhenxiao Xia",
+      "Yu Gu",
+      "Wei Han",
+      "Lin Gao",
+      "Song He"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237363128",
+    "title": "Cascaded electrochemical–radiative energy conversion: Integrating near-field thermoradiative cells with solid oxide fuel cells",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134089",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134089",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Tiankuo Sun",
+      "Yang Xu",
+      "Zhuo Sun",
+      "Xin Zhang",
+      "Yan Li",
+      "Ehsanur Rahman"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237363630",
+    "title": "Measurement of temperature and absorption coefficient in a 660 MW coal-fired boiler during deep peak shaving by flame imaging processing",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134043",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134043",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Kuangyu Li",
+      "Zhi Wang",
+      "Han Guo",
+      "Wen Sheng",
+      "Li Ding",
+      "Hao Yang",
+      "Bo Yu",
+      "Yang Liu",
+      "Chengyong Liu",
+      "Liang Cheng",
+      "亦鹏 孙",
+      "Fengshan Liu",
+      "Zhou Huaichun"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237335406",
+    "title": "Thermal conductivity measurement of plateau permafrost near 0°C: Phase-change interference processes and numerical correction for Thermo-TDR",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-22",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111524",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111524",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "崔福庆",
+      "Linlin Tang",
+      "Qifan Zhang",
+      "Gongnan Xie",
+      "Jianbing Chen",
+      "Qingyi Mu",
+      "Xuna Wang",
+      "Zhiyun Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7237354927",
+    "title": "Experimental investigation of compound angle effects in a double-wall cooling configuration for a gas turbine combustor",
+    "abstract": "",
+    "journal_name": "International Journal of Thermal Sciences",
+    "published_date": "2026-11-21",
+    "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111513",
+    "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111513",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Deokhyeong Kim",
+      "Heesung Park"
+    ],
+    "category": "heat-transfer"
   }
 ]
