@@ -362688,14 +362688,352 @@
         "Heesung Park"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7171399478",
+      "title": "Thermal-hydraulic and delayed neutron precursor transport responses to circulation perturbations in a graphite-moderated channel-type molten salt reactor",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115348",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115348",
+      "cited_by_count": 0,
+      "keywords": [
+        "molten salt reactors",
+        "graphite-moderated reactors",
+        "thermal-hydraulic response",
+        "flow redistribution",
+        "periodic forcing",
+        "Morris screening",
+        "Sobol sensitivity analysis",
+        "multiphysics simulation"
+      ],
+      "authors": [
+        "JL Zhou",
+        "Jie Cheng",
+        "Di Wu",
+        "Jianjun Wang",
+        "Y. N. Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7237417074",
+      "title": "Reactor physics and thermal hydraulics analysis of lead-cooled fast reactors",
+      "abstract": "Lead-cooled Fast Reactors (LFR) have been identified as one of the six promising reactor types for the future of nuclear energy by the Generation IV International Forum. Worldwide, there is an important interest in the use of heavy liquid metals, lead or alloys of lead, as coolants due to their favorable thermal and neutronic characteristics. The development of LFR opens exciting opportunities for innovation in design and brings new challenges in licensing for deployment and commercial operation. This special issue presents papers in the area of Lead Fast Reactor technology, focusing on engineering and design aspects within the scope of the journal. A total of 20 research articles were published about: (a) Numerical modelling and extensive use of Computational Fluid Dynamics (CFD) for the analysis and design of LFR; (b) Adaptation and coupling of best estimate codes for the analysis and design of LFR; (c) Experimental facilities that enable, first and foremost, the acquisition of experimental data and the generation of benchmark-type applications, which are fundamental in the validation of numerical codes; (d) Expansion strategies in nuclear energy generation with light water reactors and small modular reactors (case Netherlands); (e) Development of upscaled numerical models to simulate the behavior of neutron and thermohydraulic processes at the reactor scale (case Mexico); (f) Safety of compact lead-cooled pool fast reactors in seismic events; g) Multiphase phenomena for evaluating Steam Generator Tube Rupture (SGTR) risks in Lead-cooled Fast Reactors; h) Analysis of pool thermal-hydraulic phenomena in heavy-liquid metal systems, combining experimental research with numerical simulations.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115342",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115342",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Gilberto Espinosa-Paredes",
+        "Ferry Roelofs",
+        "Katrien Van Tichelen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7237590819",
+      "title": "Structural impediments to safety goals and risk-informed regulation in Japan",
+      "abstract": "In Japan, safety goals and risk-informed regulation (RIR) have been discussed for decades as approaches to improving the transparency, coherence, and consistency of nuclear regulation. Although probabilistic risk assessment (PRA) was introduced in the 1990s and draft safety goals were proposed in the early 2000s, safety goals have not been institutionalized, and the practical application of RIR remains limited. This study examines the structural impediments that have hindered the institutionalization of safety goals and the increased use of RIR in Japan. Based on a literature review, the historical development of safety goals, PRA, and risk-informed applications in Japanese nuclear regulation is summarized. The impediments are then analyzed from four perspectives: legal and institutional, technical, economic, and cultural. Legally, the regulatory framework does not clearly specify how safety goals should be related to the licensing criterion of ensuring “not hinder the prevention of disasters” under the Reactor Regulation Act, limiting their use in regulatory decisions. Technically, the long-standing limitation of PRA applications, particularly regarding external events, together with challenges in the treatment of uncertainty, has reduced the acceptability of PRA as a basis for regulatory judgments. Economically, weak incentives for sustained investment in PRA have constrained progress. As a cultural impediment, a tendency to preserve the Safety Myth has fostered a cautious attitude toward the quantification and disclosure of accident risks, further constraining progress. This study concludes that the interaction of these factors has formed a vicious circle, impeding the institutionalization of safety goals and the increased use of RIR in Japan.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115316",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115316",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Takafumi Narukawa",
+        "Xiaoyu Zheng",
+        "Shogo Takahara",
+        "Toshimitsu Homma",
+        "Ken Muramatsu",
+        "Masashi HIRANO",
+        "T. Ogino",
+        "Toyoshi FUKETA"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238193682",
+      "title": "Heat transfer tests and temperature field prediction model for HPR1000 containment",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115344",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115344",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Lujie Zhuang",
+        "Bin Zhao",
+        "Dabing Gao",
+        "Min Ban",
+        "Di Jiang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7161545985",
+      "title": "In-situ thermal-vacuum regeneration of spent activated carbon from nuclear power plant off-gas systems: Pilot-scale validation and industrial demonstration",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113055",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113055",
+      "cited_by_count": 0,
+      "keywords": [
+        "in situ regeneration",
+        "krypton-85",
+        "xenon-133",
+        "radiation exposure risk",
+        "pilot-scale demonstration"
+      ],
+      "authors": [
+        "Shaoyu Wang",
+        "Zhenzhong Zhang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7167838123",
+      "title": "DMC-GAN: a dual-modal corrective GAN-based surrogate model for rapid core-outlet temperature field prediction and hotspot identification",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113053",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113053",
+      "cited_by_count": 0,
+      "keywords": [
+        "generative adversarial networks",
+        "surrogate models",
+        "pressurized water reactor core",
+        "thermal-hydraulic analysis",
+        "porous media",
+        "spatial attention mechanism"
+      ],
+      "authors": [
+        "chenyang guan",
+        "Guangliang Chen",
+        "Yanping Xue",
+        "yuchen sun",
+        "Hao Qian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7237495435",
+      "title": "Continuous-Energy Fission-Yield reconstruction for depletion and Radiation-Source calculations",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113042",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113042",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xirui Zhang",
+        "Ganglin Yu",
+        "Zeguang LI",
+        "Zuoyi Zhang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7237869992",
+      "title": "Source-term inversion of I-131 in nuclear accidents using gradient feature construction and hybrid dataset optimization",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113046",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113046",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yongsheng Ling",
+        "Jiacheng Lin",
+        "Sirui Hu",
+        "Shiwei Nie",
+        "Zhipeng Zhang",
+        "Qing Shan",
+        "Chao Shi",
+        "Jiandong Zhang",
+        "Wenbao Jia"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238087976",
+      "title": "Thermal-hydraulic modeling of dual-layered mini-channel plate heat exchangers for nuclear thermoelectric energy conversion",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106718",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106718",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zichao Han",
+        "Ruibo Zhang",
+        "Kailun Guo",
+        "Mingjun Wang",
+        "Hanrui Qiu",
+        "Jing Zhang",
+        "Wenxi Tian"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214021062",
+      "title": "Electric-field regulation of boiling transition in a rectangular mini-channel: From localized dryout suppression to electrically reorganized vapor structures",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129899",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129899",
+      "cited_by_count": 0,
+      "keywords": [
+        "flow boiling",
+        "minichannels",
+        "HFE-7100",
+        "critical heat flux",
+        "leaky dielectric model",
+        "conjugate heat transfer",
+        "coherent structures",
+        "electric capillary number",
+        "inlet velocity"
+      ],
+      "authors": [
+        "Qi Wang",
+        "Xin Wang",
+        "Chengzhe Liu",
+        "Chang Liu",
+        "Yifei Guan",
+        "Kang Luo",
+        "Wei Wang",
+        "Jian Wu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7237548273",
+      "title": "Enhancing the thermal performance of vapor chambers by dropwise condensation on hybrid striped surfaces",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129930",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129930",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xin Wu",
+        "Haikang Chen",
+        "Haidong Xie",
+        "Yiwen He",
+        "Wei Chang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7237587010",
+      "title": "Two-stage heat transfer of CaCl2 droplet impact: from nucleate boiling to residual film evaporation",
+      "abstract": "The transient boiling heat transfer of saline droplets on heated surfaces is critical for spray cooling and thermal management, yet the effects of salt type and concentration on short-time heat transfer mechanisms remain unclear. Here synchronized side- and bottom-view high-speed visualization (10000 Hz, ~10 µm/pixel) and infrared thermography (2000 Hz, ~ 25 μm/pixel) are used to investigate the impact boiling of DI water and CaCl₂ solutions (5 and 10 wt%) on a heated sapphire substrate ( We ~ 47, 120–240 °C). The results reveal a two-stage heat transfer framework. During the early stage ( t < 10 ms), heat transfer is governed by inertial spreading, liquid–solid contact, and nucleate boiling. At low wall temperature ( T w0 ≤ 180 °C), high viscosity and suppressed bubble nucleation of CaCl₂ solutions reduce heat transfer relative to DI water. At elevated wall temperatures ( T w0 ≥ 210 °C), however, this behavior reverses. The stronger hydration of Ca 2+ delays the onset of transition boiling and vapor film formation, allowing salt solution to sustain nucleate boiling while DI water enters transition boiling. In the later stage ( t > 10 ms), droplet dynamics ceases and the dominant mechanism shifts to residual-film evaporation. DI water undergoes nearly complete rebound, whereas the hygroscopic CaCl 2 solution leaves a liquid film that sustains wetting and heat transfer. This work provides the first transient, quantitative account of salt-induced delay in boiling regime transition and a hydration-driven evaporation mechanism for a non-crystallizing, hygroscopic divalent salt, providing practical guidance for optimizing spray cooling involving saline liquids.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129926",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129926",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yan Yan",
+        "Zhongqi Liu",
+        "Xiaolong Ma",
+        "Wenxuan Pu",
+        "Dongsheng Wen"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238396934",
+      "title": "Ethanol condensation heat-transfer on a fluorine-free liquid-like surface under different pressure and non-condensable gas conditions",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129929",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129929",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yang Wen-ze",
+        "Zhenyu Lu",
+        "Meng-Qian An",
+        "Yi-Fei Sun",
+        "Yu-Min Ye",
+        "Li‐Wu Fan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238050316",
+      "title": "Molecular dynamics study for nucleate boiling heat transfer on biphilic surfaces with different hydrophobic region ratios",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111523",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111523",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Linsong Gao",
+        "Lian Duan",
+        "Hongyang Li",
+        "Chengzhi Hu",
+        "Yubai Li",
+        "Jianxin Hu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7237605156",
+      "title": "Thermal Performance Evaluation of Cold Plate Designs for LiFePO 4 Prismatic Pouch Cells Under Normal Operating Conditions",
+      "abstract": "In large pouch cells, the liquid cooling is used for maintaining the battery temperature in a safe range. In this work two designs of cold plates are examined for LiFePO4 prismatic pouch cells. This study focuses on the performance of cold plates in terms of maximum temperature, temperature uniformity and pressure drop in normal and high heat generation. Out of two designs, the first design has curved fins, and the second design has oval fins in a staggered manner, including bifurcation at the inlet. The numerical analysis is conducted in Ansys Fluent to estimate the parameters. The results indicate maximum temperature reduction of up to 4% in the oval-fin cold plate compared to design 1. Also, it has more temperature uniformity, as the temperature difference is reduced by up to 15%. At higher discharge rates, the oval fin configurations showed better improvement, like a 6% decrease in peak temperature, and temperature uniformity also improves as the temperature difference lowers by 10%. The pressure drop in both designs is same. The numerical work is validated with the experimental literature, which shows agreement, having 4% error. Designs having uniform coolant distribution and geometric features perform better at high discharge rates.",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-11-21",
+      "url": "https://doi.org/10.1080/01457632.2026.2762692",
+      "doi": "https://doi.org/10.1080/01457632.2026.2762692",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Vishal Ramdas Warule",
+        "Karthik Balasubramanian"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7237791396",
+      "title": "Lumped Capacitance Method: Historical Background and Extension to Time-Varying Surroundings Temperature",
+      "abstract": "The origins of heat conduction in solids go back to the beginning of the eighteenth century and the early experimental works of Amontons and Lambert. Almost a century later, Joseph Fourier laid the mathematical foundations of the theory of heat conduction, most notably through the formulation of the so-called heat equation. Over the past two centuries considerable effort has been devoted to obtaining analytical solutions to this equation for a wide range of problems of practical interest. When analytical solutions are not available, powerful and robust computational methods (e.g., the finite volume and finite element methods) may be utilized. Nevertheless, there is a class of problems where the spatial gradients within the solid body may be ignored, so that the temperature field may be considered to be varying only with time. This approach, known as the lumped capacitance method, provides great simplification since it reduces the partial differential equation to an ordinary one. In the “standard” lumped capacitance method the temperature of the surroundings is assumed constant; in this work we extend the method to cases where the surroundings temperature varies with time.",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-11-21",
+      "url": "https://doi.org/10.1080/01457632.2026.2762695",
+      "doi": "https://doi.org/10.1080/01457632.2026.2762695",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ioannis Psychogios",
+        "Stylianos Vasileios Kontomaris"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 14289,
+    "total": 14305,
     "journals": 277,
-    "last_update": "2026-11-23 07:13:00",
-    "reactor-thermal_count": 2322,
-    "heat-transfer_count": 4331,
+    "last_update": "2026-11-24 09:36:31",
+    "reactor-thermal_count": 2331,
+    "heat-transfer_count": 4338,
     "today": 0,
     "by_journal": [
       {
@@ -362704,15 +363042,15 @@
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 1031
+        "count": 1035
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 634
+        "count": 638
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 569
+        "count": 570
       },
       {
         "name": "Nuclear Engineering and Technology",
@@ -362720,11 +363058,11 @@
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 342
+        "count": 346
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 268
+        "count": 269
       },
       {
         "name": "Nuclear Technology",
@@ -362880,7 +363218,7 @@
       },
       {
         "name": "Heat Transfer Engineering",
-        "count": 69
+        "count": 71
       },
       {
         "name": "American Journal of Epidemiology",
@@ -363809,10 +364147,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-25",
-        "count": 15
-      },
-      {
         "date": "2026-10-26",
         "count": 35
       },
@@ -363918,14 +364252,18 @@
       },
       {
         "date": "2026-11-21",
-        "count": 14
+        "count": 16
       },
       {
         "date": "2026-11-22",
-        "count": 2
+        "count": 16
       },
       {
         "date": "2026-11-23",
+        "count": 0
+      },
+      {
+        "date": "2026-11-24",
         "count": 0
       }
     ]
@@ -364144,5 +364482,5 @@
       }
     ]
   },
-  "export_time": "2026-11-23T07:13:00.935695"
+  "export_time": "2026-11-24T09:36:31.139632"
 }
