@@ -363026,39 +363026,467 @@
         "Stylianos Vasileios Kontomaris"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238874206",
+      "title": "Research on sequential decoupled reliability-based robust design optimization method for passive residual heat removal systems",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115339",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115339",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yuepeng Bi",
+        "Genglei Xia",
+        "Chenyang Wang",
+        "Minjun Peng",
+        "Rongbing Huo"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7165684678",
+      "title": "CFD assessment of scaling distortions in passive cooling water systems",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113063",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113063",
+      "cited_by_count": 0,
+      "keywords": [
+        "small modular reactors",
+        "scaling laws",
+        "Buckingham pi theorem",
+        "geometric scaling",
+        "water-cooled reactors",
+        "thermal-hydraulic test facility",
+        "scale-up",
+        "geometric aspect ratio"
+      ],
+      "authors": [
+        "Jong Chull Jo",
+        "Yong  Kab Lee"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238729704",
+      "title": "Quantitative evaluation method for radioactive consequences of severe accidents in advanced nuclear power plants based on fuzzy mathematics",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113056",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113056",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mingqiang Song",
+        "Chen Yang",
+        "Shanfang Huang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238780295",
+      "title": "Energy response and migration of dangerous cross sections in nuclear-grade special valves under variable operating conditions",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113052",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113052",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xiongtao Lv",
+        "Yufeng Su",
+        "Fuqiang Chen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238802279",
+      "title": "Introduction scenarios for innovative molten chloride salt fast reactors",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113058",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113058",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Masahiko Nakase",
+        "Tomohiro Okamura"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238834834",
+      "title": "PSO-optimized random forest method for few-group constants parameterization in multi-state-variable space",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113043",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113043",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiahe Bai",
+        "Ping QU",
+        "Chenghui Wan",
+        "Yufeng Zhou",
+        "Zhewen Xiao",
+        "Tingyu Zhao",
+        "Lin Zhao",
+        "Hongchun Wu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238807432",
+      "title": "Development and Characterization of a Low-Cost Integrated Scintillation Detector and Multi-Parameter Soil DAQ Prototype for Real-Time Radionuclide Migration Studies in Lysimeters",
+      "abstract": "Monitoring gamma-emitting radionuclide migration alongside controlling soil geochemical parameters is vital for radioactive waste management. This work presents the design, fabrication, and metrological characterization of an integrated prototype instrumentation platform for soil-column lysimeters. The system couples a custom BC-408 plastic scintillation probe and discrete analog front-end (high-voltage supply, preamplifier, shaping amplifier, and single-channel analyzer discriminator) with a dual-microcontroller architecture. TTL pulses are registered by an ATmega328P hardware timer, while an ESP32 gateway synchronously logs radiation count rates via I 2 C and soil properties (moisture, temperature, EC, pH, NPK) from a Modbus RTU RS-485 probe into a zero-loss multi-process Python application. Bench-scale evaluation against an AT1120M spectrometer with a sealed 137 Cs source demonstrated high linearity (R 2 = 0.9940, y = 0.00343x + 0.479 μSv h -1 ), an absolute efficiency of 0.726%, and Poissonian counting stability (χ 2 = 23.95 and 29.72). For 1-s acquisitions, the decision threshold, detection limit, and quantification limit were 4.08, 8.15, and 24.78 cps, respectively. An eight-hour soil-column test verified multi-protocol synchronization across all 960 frames. The platform provides a validated instrumentation prototype for future in-situ radionuclide transport investigations.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104869",
+      "doi": "https://doi.org/10.1016/j.net.2026.104869",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Nabila Putri Ryanni",
+        "Prita Widiani",
+        "Imam Kambali",
+        "Zico Pratama Putra",
+        "Joko Triyanto",
+        "Hendra Adhi Pratama"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7238893365",
+      "title": "Study on the Thermal-Mechanical Performance of UZrH-HT9 Fuel System",
+      "abstract": "Uranium zirconium hydride (UZrH) fuel offers significant advantages for micro-reactors, but specialized thermal-mechanical analysis tools remain limited. In this study, the fuel performance code FORWARD was extended to incorporate models for UZrH fuel and HT9 cladding. The thermal-mechanical performance of the UZrH-HT9 system within a micro-reactor was then analyzed with the extended code and compared with that of the conventional UO 2 -Zr system, together with a UZrH-Zr case that separates the fuel and the cladding contributions. At the end of the analyzed 400-day irradiation, the peak fuel temperature was 799 K for UZrH and 951 K for UO 2 , a reduction of 152 K that is consistent with the higher thermal conductivity of UZrH. The peak hoop strain of the UZrH pellet localized near the pellet bottom because of hydrogen redistribution, in contrast to the mid-to-upper distribution obtained for UO 2 . This spatial shift is attributed to hydrogen migration toward lower-temperature regions and the associated hydrogen-induced expansion strain. These results illustrate the coupled thermal-hydrogen-mechanical response of the UZrH-HT9 system and indicate the need to account for hydrogen redistribution in UZrH fuel design and safety analysis.",
+      "journal_name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.jandt.2026.11.003",
+      "doi": "https://doi.org/10.1016/j.jandt.2026.11.003",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Chaoqun Deng",
+        "Zhou Yi",
+        "Guangliang Yang",
+        "Qiuyao Zhu",
+        "Yile Zhang",
+        "Zhenhai Liu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7162791086",
+      "title": "Neural operator-based surrogate model for CFD: Helical coil steam generator in small modular reactors",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129920",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129920",
+      "cited_by_count": 0,
+      "keywords": [
+        "neural operators",
+        "surrogate models",
+        "small modular reactors",
+        "helical coil steam generator",
+        "SMART reactor",
+        "digital twin",
+        "model reduction",
+        "DeepONet",
+        "Fourier neural operator",
+        "autoencoder",
+        "convolutional autoencoder",
+        "multiscale methods",
+        "spectral bias",
+        "Karman vortex street",
+        "pressure drop prediction",
+        "transient thermal-hydraulics"
+      ],
+      "authors": [
+        "Minseo Lee",
+        "Seongmin Oh",
+        "Chaehyeon Song",
+        "BumJin Cho",
+        "Shilaj Baral",
+        "Sudeep Khanal",
+        "Minseop Song",
+        "Joongoo Jeon"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238753077",
+      "title": "Concentration-dependent and intrinsic mechanism of thermal conductivity at TiO2/electrolyte interfaces: a molecular dynamics study",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129943",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129943",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zichao Zheng",
+        "Lixia Sang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238821665",
+      "title": "Performance investigation of PEM fuel cells employing graphite bipolar plates with “circular-matrix” gas distribution zones and multichannel wavy flow fields for reactant gas and coolant",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129938",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129938",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xuefang Hu",
+        "Jing Qin",
+        "Qiming Li",
+        "Haoyan Fang",
+        "Jing Cao",
+        "Qingshan Liu",
+        "Yong Zhang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238786814",
+      "title": "Ventilation heat loss and envelope thermal performance of a shallow-buried underground space under solar and sky radiation in a high-altitude cold region",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-24",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133986",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133986",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ziming Liao",
+        "Guangqin Huang",
+        "Chunlong Zhuang",
+        "Hongyu Zhang",
+        "Shengbo Li",
+        "Fei Gan",
+        "Yuhang Liu",
+        "Ningge Xu",
+        "Lei Cheng"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7125929460",
+      "title": "Numerical study of flow and heat transfer characteristics over a four-cylinder array",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.133705",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.133705",
+      "cited_by_count": 0,
+      "keywords": [
+        "cylinder arrays",
+        "heat transfer",
+        "flow characteristics",
+        "pitch ratio",
+        "Nusselt number",
+        "vortex impingement",
+        "shielding effect",
+        "gap flow",
+        "vortex shedding",
+        "convective heat transfer enhancement"
+      ],
+      "authors": [
+        "Li-Chieh Hsu"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238734694",
+      "title": "Pore-scale freezing in PEMFC catalyst layers during cold start: Effects of liquid-water morphology and rapid prediction",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134082",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134082",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zi-Hao Xuan",
+        "Wen‐Zhen Fang",
+        "Tao Huang",
+        "Kaibo An",
+        "Deng-Ke Hu",
+        "Yi Zhu",
+        "Yu-Han Xu",
+        "Wen‐Quan Tao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238823995",
+      "title": "A critical review of computational modeling for high-temperature heat pipes: Current capabilities, limitations, and the emerging role of physics-informed neural networks",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134019",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134019",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Imtiyaz Hussain",
+        "Pieter David Boom"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238857507",
+      "title": "Impact of adopting a hybrid control to enhance part-load performance in the reversed Brayton heat pump",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134094",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134094",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yeo Jin Bae",
+        "Jin Seo Kim",
+        "Tong Seop Kim",
+        "Chan Ho Song"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238760304",
+      "title": "Resonant energy dissipation in Fe2O3/W/graphene/Cr concentric-ring metamaterials for broadband solar-thermal energy harvesting in renewable energy applications",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111515",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111515",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "K. E. Lakshmiprabha",
+        "S. Karthikeyan",
+        "D. Sunitha",
+        "U. Arun Kumar"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238822181",
+      "title": "Structural and operational optimization of a liquid cold plate center revolving flow channel for power batteries",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111525",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111525",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yongchang Zhang",
+        "Runze Liu",
+        "Agula Chen",
+        "Miao Wang",
+        "Xiaolin Wang",
+        "Min Zhou",
+        "Yi Yang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238868277",
+      "title": "Ablation and cross-scale interfacial damage of carbon fiber-reinforced composites under pulsed laser irradiation",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111522",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111522",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zhongya Yin",
+        "Jiahao Song"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238879890",
+      "title": "Coupled magnetohydrodynamic and thermal analysis of laminar mixed convection in an open flexible-walled cavity with a rotating cylinder",
+      "abstract": "",
+      "journal_name": "International Journal of Thermal Sciences",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1016/j.ijthermalsci.2026.111521",
+      "doi": "https://doi.org/10.1016/j.ijthermalsci.2026.111521",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Duna T. Yaseen",
+        "Muneer A. Ismael",
+        "Salah M. Salih"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7238829986",
+      "title": "Computational Analysis of Nanofluid-Driven Conjugate Heat Transfer Enhancement in Vertically Stacked Mini/Microchannel Heat Sinks",
+      "abstract": "Numerical simulations are performed to examine conjugate heat transfer and nanoparticle-assisted thermal behavior in a conventional single-tier microchannel heat sink and an advanced vertically stacked dual-layer mini–microchannel architecture. Pure water and alumina–water nanofluids, modeled as homogeneous suspensions containing dispersed nanoparticles, are employed as the working media. The investigation mainly aims to clarify the influence of nanoparticle volume fraction and flow-rate allocation on the overall heat dissipation performance. Moreover, the superior thermal performance associated with the vertically stacked dual-layer configuration, compared to the single-layer design, is systematically assessed. The numerical findings indicate that, under a flow-rate partitioning ratio of 0.5 with an imposed total volumetric throughput of 38.77 cm³/min, the stacked dual-layer heat sink exhibits an increase of up to 19.19% in the global heat transfer coefficient relative to its single-layer microchannel counterpart when pure water is used as the coolant. The incorporation of alumina nanoparticles significantly improves heat removal performance, particularly at lower flow rate ratios, where enhanced particle-induced thermal conductivity effectively reduces wall temperatures. Conversely, higher flow rate ratios result in elevated wall surface temperatures due to flow maldistribution effects. Increasing nanoparticle concentration leads to stronger temperature reduction capability, highlighting the critical role of particle loading in thermal enhancement. Furthermore, a hybrid cooling strategy combining pure water and higher-concentration nanofluids yields superior overall heat transfer performance. These findings provide insight into particle-assisted heat dissipation mechanisms in mini/microchannel heat sinks and support the application of nanofluids in advanced thermal management systems.",
+      "journal_name": "Heat Transfer Engineering",
+      "published_date": "2026-11-23",
+      "url": "https://doi.org/10.1080/01457632.2026.2762696",
+      "doi": "https://doi.org/10.1080/01457632.2026.2762696",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ching-Jenq Ho",
+        "Jr-Wei Liao",
+        "Chun-Han Li",
+        "Seyed Mohammad Vahidhosseini",
+        "Wei-Mon Yan"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 14305,
+    "total": 14326,
     "journals": 277,
-    "last_update": "2026-11-24 09:36:31",
-    "reactor-thermal_count": 2331,
-    "heat-transfer_count": 4338,
+    "last_update": "2026-11-25 08:07:58",
+    "reactor-thermal_count": 2339,
+    "heat-transfer_count": 4351,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2543
+        "count": 2548
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 1035
+        "count": 1038
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 638
+        "count": 643
       },
       {
         "name": "International Journal of Thermal Sciences",
-        "count": 570
+        "count": 574
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 524
+        "count": 525
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 346
+        "count": 347
       },
       {
         "name": "Progress in Nuclear Energy",
@@ -363218,7 +363646,7 @@
       },
       {
         "name": "Heat Transfer Engineering",
-        "count": 71
+        "count": 72
       },
       {
         "name": "American Journal of Epidemiology",
@@ -363249,15 +363677,15 @@
         "count": 49
       },
       {
+        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
+        "count": 47
+      },
+      {
         "name": "Journal of Public Economics",
         "count": 46
       },
       {
         "name": "Public Administration Review",
-        "count": 46
-      },
-      {
-        "name": "International Journal of Advanced Nuclear Reactor Design and Technology",
         "count": 46
       },
       {
@@ -364147,10 +364575,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-26",
-        "count": 35
-      },
-      {
         "date": "2026-10-27",
         "count": 40
       },
@@ -364172,7 +364596,7 @@
       },
       {
         "date": "2026-11-01",
-        "count": 149
+        "count": 151
       },
       {
         "date": "2026-11-02",
@@ -364260,10 +364684,14 @@
       },
       {
         "date": "2026-11-23",
-        "count": 0
+        "count": 18
       },
       {
         "date": "2026-11-24",
+        "count": 1
+      },
+      {
+        "date": "2026-11-25",
         "count": 0
       }
     ]
@@ -364482,5 +364910,5 @@
       }
     ]
   },
-  "export_time": "2026-11-24T09:36:31.139632"
+  "export_time": "2026-11-25T08:07:58.689626"
 }
