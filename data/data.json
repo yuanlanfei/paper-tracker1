@@ -363963,27 +363963,678 @@
         "Shung-Wen Kang"
       ],
       "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7154368993",
+      "title": "Machine learning-based surrogate modeling for fast prediction of porosity evolution in U3Si2 nuclear fuel",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115335",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115335",
+      "cited_by_count": 0,
+      "keywords": [
+        "U3Si2 fuel",
+        "accident tolerant fuel",
+        "surrogate models",
+        "thermal conductivity degradation",
+        "phase-field simulation",
+        "multilayer perceptron",
+        "SHAP feature attribution",
+        "diffusion-controlled kinetics",
+        "nuclear fuel performance"
+      ],
+      "authors": [
+        "Jie Chen",
+        "Guangliang Yang",
+        "Xun Lan",
+        "Zhenhai Liu",
+        "Zhipeng Sun",
+        "Yong Xin",
+        "Yong Lu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7204894791",
+      "title": "Design optimisation of the ARAMIS-A molten salt reactor: Core vortex dynamics, thermal behaviour, and power oscillations",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115336",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115336",
+      "cited_by_count": 0,
+      "keywords": [
+        "molten salt fast reactor",
+        "thermal stratification",
+        "temperature oscillations",
+        "power system oscillations",
+        "delayed neutron precursors",
+        "k-epsilon turbulence model",
+        "thermal-hydraulic feedback",
+        "reactivity"
+      ],
+      "authors": [
+        "Riccardo Zancan",
+        "A. Bergeron",
+        "François Martin",
+        "Luigi Buttice"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239727910",
+      "title": "Assessment of the TRANSURANUS fuel performance code against a batch of FR-MOX experiments",
+      "abstract": "An integral assessment of the TRANSURANUS fuel performance code was carried out against four fast-reactor mixed-oxide fuel datasets gathered within the IAEA Coordinated Research Project Fuel Materials for Fast Reactors: Superfact-1, FBTR MOX, Joyo B5D-2 series and Santenay. A standard option for the thermomechanical properties of MOX fuel was selected for the simulations with the TRANSURANUS code after a separate-effects assessment conducted in previous work. Calculated quantities such as fuel burnup, fuel and clad diameters, fuel stack elongation, fuel restructuring diameters, gap size, fission gas release (FGR) and internal pressure were compared with the experimental values. The molten area fraction and power-to-melt were also computed for the B5D-2 series experiments showing good agreement with the experimental data. The EGIFE benchmark with reference fuel performance codes and GERMINAL results provide an independent code-to-code assessment for Superfact-1, FBTR, B5D-2 and Santenay case studies. Numerical results are presented for some figures of merit, such as temperature, fuel-to-clad gap diameter and gap conductance as functions of irradiation time. The analysis enables to suggest further code improvements such as the implementation of a model for Joint Oxyde Gaine (JOG) formation, the development of a fission product layer at the fuel-clad interface, specific relocation model for MOX and fission gas behaviour to be considered in the frame of the upcoming coordinated research project of the IAEA.",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115356",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115356",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "ANDREA FORMOSI",
+        "D. Jaramillo-Sierra",
+        "P. Aragón",
+        "Giacomo Grasso",
+        "Matteo Gherardi",
+        "Paul Van Uffelen"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239787508",
+      "title": "Influence of regional alluvial deposits on the seismic response of a piled-raft supported nuclear reactor building in the Indo-Gangetic Plain",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115343",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115343",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Rajat Banik",
+        "Rajib Sarkar"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239789795",
+      "title": "Design and coupled neutronic/thermal-hydraulic analysis of irradiation channel for activation-based 99Mo production in THFR",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115347",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115347",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Wenhui Liu",
+        "Haojie Zhang",
+        "Yutong Wen",
+        "Ding She",
+        "Bo Yang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239800604",
+      "title": "Property and structural parameter recovery in E110 alloy during annealing within the spent nuclear fuel dry storage temperature range. Part 1: Mechanical testing",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115310",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115310",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "A.S. Frolov",
+        "D.V. Safonov",
+        "Ivan Fedotov"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239833657",
+      "title": "Seismic safety analysis of nuclear safety-class corridors on graded sand-gravel foundations",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115346",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115346",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yin Xunqiang",
+        "Junkai Zhang",
+        "Zuo Haowen",
+        "Sui Meng"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239898794",
+      "title": "High-data-rate nondestructive ultrasonic half-duplex data transmission through spent fuel canister walls at elevated temperatures",
+      "abstract": "",
+      "journal_name": "Nuclear Engineering and Design",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.nucengdes.2026.115308",
+      "doi": "https://doi.org/10.1016/j.nucengdes.2026.115308",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Mitali Hardik Desai",
+        "Haifeng Zhang",
+        "Bozhou Zhuang",
+        "Bora Gencturk",
+        "Shuai Ju"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7214538521",
+      "title": "Genetic-algorithm calibration of a two-phase heat-transfer coefficient for a sodium-water once-through steam generator",
+      "abstract": "",
+      "journal_name": "Annals of Nuclear Energy",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.anucene.2026.113076",
+      "doi": "https://doi.org/10.1016/j.anucene.2026.113076",
+      "cited_by_count": 0,
+      "keywords": [
+        "two-phase heat transfer coefficient",
+        "real-coded genetic algorithm",
+        "model regularization",
+        "parameter sensitivity"
+      ],
+      "authors": [
+        "Yan Zhang",
+        "Bo Wang",
+        "yang yang",
+        "Zhengrong Guo",
+        "Jun Li",
+        "Shirui Ren"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7160216379",
+      "title": "Thermal-hydraulic effects of irregular roughness in liquid metal cooled narrow rectangular channels",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106715",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106715",
+      "cited_by_count": 0,
+      "keywords": [
+        "liquid metal cooling",
+        "narrow rectangular channel",
+        "erosion-corrosion",
+        "random rough surfaces",
+        "turbulent heat transfer",
+        "low Prandtl number fluids",
+        "Nusselt number enhancement",
+        "friction factor",
+        "pressure drop",
+        "fully rough flow",
+        "liquid metal reactors",
+        "thermal-hydraulic performance"
+      ],
+      "authors": [
+        "Xue Zhang",
+        "Baiping Wang",
+        "Wenpei Feng",
+        "Xiaoqiang He",
+        "Jian Deng",
+        "Hongxing Yu"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239763163",
+      "title": "Thermal-hydraulics of a 19-pin bundle under uniform and non-uniform heating during the transition from forced to natural circulation in the heavy liquid metal loop of the NACIE-UP facility",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106679",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106679",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Dhrumil Ganatra",
+        "Amit Kumar Singh Chauhan",
+        "M. Rajendrakumar",
+        "R. Suresh Kumar",
+        "Kumaresan Natesan"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239793990",
+      "title": "Numerical investigation of melting and opening mechanisms in molten salt reactor freeze valves",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106719",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106719",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Juhyeong Lee",
+        "Ye Hwan Chun",
+        "Jeonghyeon Lee",
+        "Sangmin Park",
+        "Sung Joong Kim"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239865134",
+      "title": "Design and multi-objective optimization of a Venturi-based thermal mixing structure for energy-balance flow meters in liquid metal reactors under low-velocity conditions",
+      "abstract": "",
+      "journal_name": "Progress in Nuclear Energy",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.pnucene.2026.106717",
+      "doi": "https://doi.org/10.1016/j.pnucene.2026.106717",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jiahao Zhao",
+        "Aiguo Liu",
+        "Bin Han",
+        "Xiaoliang Zhu",
+        "Baowen Yang",
+        "Junlin Huang"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7158557253",
+      "title": "Resonance Statistics–Informed Fitting Applied to Automated Cross Section Evaluation",
+      "abstract": "This work considers the following hypothesis: Resonance statistics–informed spin group assignment and fitting improve nuclear resonance analysis by (1) better reproducing the expected resonance statistics distributions and (2) improving the agreement with the measured cross sections. This hypothesis is tested by comparing the fitting performance of an automated resonance identification tool with and without various resonance statistics methods. The results indicate that incorporating resonance statistics yields more physically consistent statistical distributions while maintaining cross section reproduction, supporting the hypothesis.",
+      "journal_name": "Nuclear Science and Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1080/00295639.2026.2746811",
+      "doi": "https://doi.org/10.1080/00295639.2026.2746811",
+      "cited_by_count": 2,
+      "keywords": [
+        "resonance density",
+        "nuclear data evaluation",
+        "chi-square statistic"
+      ],
+      "authors": [
+        "William Fritsch",
+        "Noah Walton",
+        "Oleksii Zivenko",
+        "Justin Loring",
+        "Jacob Forbes",
+        "Elan Park-Bernstein",
+        "Aaron Clark",
+        "Vladimir Sobes"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239810815",
+      "title": "From Newton’s Opticks to Modern Applications in Molten Salt Systems: A Pedagogical Review of UV-Visible Spectroscopy",
+      "abstract": "This pedagogical review traces the development of ultraviolet-visible (UV-Vis) spectroscopy from early optical experiments to modern analytical practice. It introduces the historical discoveries, physical principles, instrumentation, and representative applications that established UV-Vis spectroscopy as a broadly useful characterization method. The review then considers molten salt systems as a focused modern application, compares UV-Vis with selected electrochemical and spectroscopic alternatives, and discusses the opportunities and practical constraints associated with high-temperature, corrosive environments.",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1080/00295450.2026.2760093",
+      "doi": "https://doi.org/10.1080/00295450.2026.2760093",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Joseph V. Lee",
+        "Supathorn Phongikaroon"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239837289",
+      "title": "Lessons Learned from Efforts to Site Low-Level Radioactive Waste Disposal Facilities in North Carolina and California",
+      "abstract": "In response to fears that the nation might run out of storage capacity for the low-level radioactive waste (LLRW) generated by nuclear power plants, medical facilities and radiopharmaceutical manufacturers, university research facilities, the mining industry, government agencies (such as the National Institute of Standards and Technology) and other research and development institutions, the U.S. Congress passed the Low-Level Radioactive Waste Policy Act in 1980. The Act encouraged states to form regional compacts to more equitably distribute responsibility for their collective disposal needs. However, siting new disposal facilities has proven more difficult than the Act’s authors envisaged. Only two LLRW facilities have been sited since 1980 and only one of those was a result of the compact system. This article examines two siting failures during the 1980s and 1990s that garnered national attention: North Carolina and California. While they failed for different reasons, a number of themes emerge that are applicable to the siting of large infrastructure projects, particularly waste storage and disposal facilities, including: top-down site selection processes; facility operator reputation; institutional trust; disputed science; and public meeting logistics.",
+      "journal_name": "Nuclear Technology",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1080/00295450.2026.2755656",
+      "doi": "https://doi.org/10.1080/00295450.2026.2755656",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Andrew Newman"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7239898456",
+      "title": "A Hydride-Morphology-Based Statistical Model for the Fracture Failure Probability of Spent Nuclear Fuel Cladding",
+      "abstract": "The crack-depth distribution P(a) of spent nuclear fuel (SNF) cladding is the key input for probabilistic failure assessment, yet in the authors' previous study it was back-calculated from the aggregate failure statistics of the 1980s U.S. demonstration program (SAND90) rather than from the microstructure of a specific storage condition. This study builds P(a) directly from measured hydride morphology. Individual hydrides are placed in a 30° sector of the cladding wall using a two-pool (reorientation-immune rim / reorientation-active bulk) architecture; Monte Carlo ensembles of 3,000 realizations per condition give P(a) as the distribution of the deepest surface-connected cluster per sector. Under the same mode-I fracture criterion as the prior study, the per-rod failure probability is bounded by two assumptions on the axial extent of the microstructure: one representative cross-section per rod and independent axial cells. At the yield strength (640 MPa) it spans – and – , respectively; the SAND90 baseline ( ) lies below both estimates for the six conditions with RHF ≥ 0.30 and within or above them for the others. The radial hydride fraction dominates and the ranking of the conditions is the same under both assumptions. Because the two-dimensional treatment underestimates connectivity, the values are a relative ordering rather than safety margins.",
+      "journal_name": "Nuclear Engineering and Technology",
+      "published_date": "2026-11-01",
+      "url": "https://doi.org/10.1016/j.net.2026.104866",
+      "doi": "https://doi.org/10.1016/j.net.2026.104866",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Sangil Choi",
+        "Ju-Chan Lee",
+        "Dong-Hak Kook",
+        "Woo-Seok Choi",
+        "Taehyung Na"
+      ],
+      "category": "reactor-thermal"
+    },
+    {
+      "openalex_id": "W7204133371",
+      "title": "Transient surface heat-flux reconstruction from sparse internal temperatures: Effects of sensor placement and model mismatch",
+      "abstract": "",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129915",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129915",
+      "cited_by_count": 0,
+      "keywords": [
+        "sensor placement",
+        "D-optimal design",
+        "model mismatch",
+        "Tikhonov regularization",
+        "boundary shift",
+        "ill-posed inverse problems"
+      ],
+      "authors": [
+        "Chuxiao Zhang",
+        "Jianghui Pu",
+        "Zhixu Jin"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239878806",
+      "title": "Co-designed solid–solid PCM heat sinks for transient thermal management in data centers",
+      "abstract": "High-density electronic packages used in modern computing hardware are increasingly subjected to intermittent and spatially concentrated thermal loads, making transient heat-flux buffering, effective heat dissipation, and rapid thermal recovery important requirements for reliable operation. Phase change material (PCM)-based heat sinks offer a compact passive route for absorbing short-duration heat pulses; however, their practical performance is limited by low thermal conductivity, slow thermal recovery, and strong sensitivity to fin architecture, PCM selection, nanoparticle loading, heating conditions, and heat-spreader materials. This study numerically investigated a solid–solid PCM (SS-PCM)-based heat-sink module under pulsed heating conditions, with emphasis on geometry and material co-design for transient thermal management. The developed model was validated against published pin-fin and spiral-fin configurations, followed by grid- and time-step-independence studies and an assessment of spatial-discretization sensitivity. Several fin and plate arrangements were evaluated, including prism fins, pin fins, spiral fins, simple plates, tapered plates, perforated plates, and double-sided source/sink plate configurations, while maintaining a common PCM mass of 60 g for the geometry comparisons. The results showed that prism fin cross-sectional shape produced relatively small differences in the global transient response, with the pinwheel prism-fin configuration achieving an application-oriented TPI of 0.914 compared with 0.391 for the baseline pin-fin configuration . Increasing the number of source-side plates substantially improved heat spreading and source-temperature suppression: the six-simple plate configurations yielded the weakest response (application-oriented index 0.049), whereas the 28-simple and 28-perforated plate configurations provided the strongest source-side performance (indices of 0.845 and 0.850, respectively). Among the selected best-performing geometries, the 14/14 double-sided plate configuration provided the most balanced response by combining low source temperature, strong sink-side heat extraction, acceptable solid–solid transformation fraction, and rapid recovery. Relative to the baseline pin fin, this configuration lowered the peak source temperature by approximately 23 K and shortened the recovery time by approximately 79%. PCM selection strongly affected the balance between retained energy and thermal regulation. The Mn-layered perovskite provided the highest mass-normalized TPI among the investigated PCM candidates under the baseline condition, whereas PEG was selected for subsequent higher-heat-load analyses because its 330–340 K transition window is better suited to the elevated source temperatures of the higher heat loads. Graphene enhancement improved source-temperature suppression and sink-side heat removal, with 4% graphene-enhanced PEG being most favorable when heat-removal-oriented performance is prioritized. The fin-material comparison showed that copper provided the lowest source temperature and fastest heat removal, while graphite offered the highest balanced mass-normalized thermal performance index when all metrics were considered together. A normalized, multi-criteria thermal performance index (TPI) was developed to support geometry-material co-design, combining source-temperature suppression, solid–solid transformation fraction, maximum stored energy, sink heat extraction, recovery time, and latent-energy contribution under both equal and application-oriented weightings. Additional sensitivity assessments examined the effects of thermophysical-property variations, recovery criteria, sink-side convection, and thermal contact resistance on the predicted thermal response and geometry rankings. Under equal-energy loading, the peak local source-surface temperature increased from 371.34 K under constant uniform heating to 374.92 K for Workload uniform heating and 388.01 K for Workload hotspot heating. For the two time-varying workload cases, spatial localization also increased the maximum source-temperature spread from 4.29 to 21.36 K and the area-weighted temperature standard deviation from 0.97 to 5.01 K. In a separate 100 W high-flux assessment, concentrating the heat input from the full 40 cm² source face onto a 4 cm² patch increased the local heat flux from 2.5 to 25 W/cm² and raised the peak area-averaged source temperature from 385.73 to 475.19 K, despite comparable peak sink heat-rejection rates. These results highlight that global heat rejection and energy-storage metrics alone do not adequately capture localized thermal exposure. Overall, the numerical results show that, within the investigated configurations and operating conditions, SS-PCM heat-sink performance cannot be characterized or optimized using a single metric alone. The proposed TPI therefore provides a systematic decision framework for comparing geometry–material combinations for transient thermal buffering in high-density electronic packages.",
+      "journal_name": "International Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129948",
+      "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129948",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Prashant Saini",
+        "Julian David Osorio",
+        "Munjal Purnkant Shah"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7151395311",
+      "title": "Direct-to-chip evaporative cooling: Effect of liquid delivery layer on flow maldistribution and thermal performance",
+      "abstract": "The increasing power density of modern electronic devices has driven the need for advanced cooling technologies capable of dissipating high heat fluxes. Direct-to-chip evaporative cooling (DCEC) employs arrays of hollow micropillars to enable efficient phase-change heat transfer, integrated with a liquid delivery layer (LDL). The LDL plays a critical role in governing the hydraulic and thermal performance of the DCEC system. In this study, a combined experimental and numerical investigation is conducted to examine the effects of LDL geometry and evaporator surface wettability on DCEC performance. Visualization experiments are used to analyze droplet formation and flow behavior, while numerical simulations quantify pressure drop and liquid distribution across different LDL configurations. The wettability study shows that hydrophobic surfaces can sustain higher pressures before bursting. However, thermal measurements indicate a 22 °C higher substrate temperature compared to hydrophilic surfaces at the same heat load. Numerical results further demonstrate that increasing the LDL height from 15 μ m to 90 μ m reduces liquid maldistribution by more than 40 × for R-1336 mzz(Z) at 2 kW and up to 32 × for water at 5 kW. The relationship between thermal resistance and liquid maldistribution is evaluated using a combined performance metric introduced for the LDL, enabling simultaneous optimization of thermal and hydraulic performance. These findings highlight the strong coupling between hydraulic resistance, liquid distribution, and thermal performance, and provide design guidelines for hollow micropillar-based DCEC systems operating under high heat flux conditions.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134123",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134123",
+      "cited_by_count": 1,
+      "keywords": [
+        "flow maldistribution",
+        "wettability",
+        "hydrophobic surfaces",
+        "droplet formation",
+        "pressure drop",
+        "thermal resistance",
+        "phase change heat transfer",
+        "electronics cooling",
+        "high heat flux",
+        "water cooling",
+        "liquid distribution"
+      ],
+      "authors": [
+        "Kidus Guye",
+        "Vivek V. Manepalli",
+        "Ayşenur Ateş",
+        "Samuel Lindsay Graham",
+        "Damena D. Agonafer"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239717464",
+      "title": "Numerical simulation of CO2 radiative participation in fluidized bed particle receivers: From single-particle to equipment scale",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134098",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134098",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Longtian He",
+        "Xiaoze Du"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239725289",
+      "title": "Deep thermal integration of calcium looping and solid oxide co-electrolysis for renewable-driven carbon capture and methanol production: a 4E analysis",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134063",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134063",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Jingmei Yu",
+        "Xingming Yuan"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239771462",
+      "title": "Original thermodynamic cycle, experimental compression test and numerical simulation of thermal losses of a hydro-CO2 heat pump for high temperature applications",
+      "abstract": "High temperature heat pumps (HTHPs) are expected to highly contribute to industrial decarbonation. As current state-of-the-art technologies do not cover sufficiently wide temperature ranges and have limited exergy efficiency, a novel CO 2 heat pump, where compression and expansion transformations are achieved with a hydraulic piston, was developed to minimize exergy losses. This paper studies a novel architecture that is designed for exergy loss minimization. Theoretically, the hydro-CO 2 heat pump enables isochoric, isentropic, quasi-isothermal transformations and novel thermodynamic cycles. To describe this novel cycle, a numerical model details the performance in ideal conditions and shows maximal COPs of 1.82 at the heat source and 2.76 at the heat sink with a temperature lift of 187 K. To evaluate exergy losses on a real system, a laboratory-scale prototype was developed. Experimental results show that standard compressions achieved with the hydro-CO 2 system are far from the isentropic isoline, with an isentropic performance of 15.6%, mainly because of heat losses. Those heat losses are estimated with an additional numerical model, which is validated with the experimental data. The final simulations show that upscaling the prototype towards greater dimensions and reducing the compression time by a factor 10 allows to reach an isentropic performance of 87.3% without improving insulation solutions. The provided conclusions validate the hydro-CO 2 heat pump potential to provide better compression solutions.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134143",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134143",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "François Faraldo",
+        "Paul Byrne",
+        "Olivier Thomé"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239806927",
+      "title": "Experimental 3E analysis and sustainability index evaluation of an air-cooled chiller: Constant-speed (on-off) and VFD speed-controlled condenser fan",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134189",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134189",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Burak Duman",
+        "Gökhan Yıldız",
+        "Ali Etem Gürel"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239853484",
+      "title": "Revisiting the energy conversion in thermochemical energy storage from a thermodynamic cycle perspective: Heat engine driving heat pump",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134154",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134154",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Ruihua Chen",
+        "Ruizhao Gao",
+        "Jiaqi Pei",
+        "Jiayao Dong",
+        "劲松 周",
+        "Jiuxing Liao",
+        "Gang Xiao",
+        "Li Zhao"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239860270",
+      "title": "Simulation analysis of the cooling performance of an R290 indirect thermal management system",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134103",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134103",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Haoran Zhou",
+        "Qinghua Yu",
+        "Borui Wang"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239868453",
+      "title": "Parametric analysis of flow and combustion phenomena for passive pre-chamber methanol rotary engines",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134107",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134107",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shiqi Zhang",
+        "Boyang Cao",
+        "Huaiyu Wang",
+        "Xujia Li",
+        "Zhanming Yao",
+        "Cheng Shi"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239884936",
+      "title": "Shape-memory-enabled structural reconfiguration for overcoming the seasonal trade-off in radiative thermal management",
+      "abstract": "Adaptive thermal management capable of switching between radiative cooling and solar heating is critical for reducing building energy consumption throughout the year, yet most existing systems remain limited by fixed optical properties or complex adaptive mechanisms. Here, we present a shape-memory-enabled reconfigurable thermal management system that overcomes this seasonal trade-off through geometry-controlled exposure of complementary optical surfaces. A 3D-printed shape-memory polylactic acid (PLA) architecture supports a radiative cooling layer (PDMS–ZrO 2 ) and an underlying solar heating layer (MXene), enabling switching between cooling and heating modes via thermally activated structural reconfiguration. The unfolded cooling state demonstrates high solar reflectance of 95.9% and mid-infrared emissivity of 97.4%, whereas the folded heating state exhibits a low solar reflectance of 11.2% and a reduced emissivity of 35.2%. Outdoor experiments confirm effective thermal regulation across seasons, achieving sub-ambient cooling in summer and a temperature increase of 10.68 °C above ambient in winter. Building energy simulations across 16 representative U.S. climate zones further show that adaptive operation mitigates the seasonal energy penalties associated with static surfaces, yielding a mean annual HVAC energy saving of 9.86 MJ/m 2 across the simulated cities. This work establishes shape-memory-enabled structural reconfiguration as a simple and scalable strategy for year-round adaptive radiative thermal management in buildings.",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134128",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134128",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Nuzhat Aqila Tushe",
+        "Pranto Karua",
+        "Songtao Tang",
+        "Lili Cai"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239895998",
+      "title": "Dynamic thermal response of a printed circuit heat exchanger in a supercritical compressed carbon dioxide energy storage system: Effects of flow maldistribution and its interplay with thermophysical property variation",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134159",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134159",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Xinwen Xiao",
+        "Hao Feng",
+        "Ying Zhang",
+        "Dong Liu",
+        "Qiang Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239896536",
+      "title": "A unified Knudsen-number-dependent heat-transfer correlation for hot-wire anemometer under low-pressure conditions",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134116",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134116",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Shen Gao",
+        "Yanxing Zhao",
+        "Yunxiao Wang",
+        "Siwei Li",
+        "Maoqiong Gong"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239903909",
+      "title": "Empirical modeling and sensitivity analysis of spatially heterogeneous two-phase heat transfer in solid rocket motors",
+      "abstract": "",
+      "journal_name": "Applied Thermal Engineering",
+      "published_date": "2026-11-25",
+      "url": "https://doi.org/10.1016/j.applthermaleng.2026.134114",
+      "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134114",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Zilong Wang",
+        "Moding Peng",
+        "Yang Liu",
+        "Yiwen Guan",
+        "Yan Ba",
+        "Liang Li"
+      ],
+      "category": "heat-transfer"
+    },
+    {
+      "openalex_id": "W7239796670",
+      "title": "Nonlinear Cellular Convection in Rotating Dielectric Fluids Under a Vertical AC Electric Field",
+      "abstract": "Finite‐amplitude convection in a dielectric fluid confined between horizontal planes heated from below is examined. The system is assumed to rotate uniformly about the vertical axis and subject to a vertical AC electric field, with stress‐free conditions imposed at the horizontal boundaries. The nonlinear governing equations for velocity, temperature, and electric field are expanded as a sequence of nonhomogeneous linear equations that depend on solutions of the corresponding linear stability problem. A classical perturbation method is employed to investigate heat‐transfer characteristics of this electro‐rotational problem. The equations are solved until eighth order, that is, with respect to the normalized perturbation parameter , expressed as a function of the thermal Rayleigh number . Analysis of the fastest growing modes indicates that both and electrical Rayleigh number destabilize the convection, whereas the Taylor number and large Prandtl number have stabilizing effects. The unstable modes are confined to finite wavenumber bands, which determine the dominant flow scales. The dependence of heat transfer rate on , , , and is examined. In the absence of rotation and electric field, that is, Rayleigh–Bénard convection, the Nusselt number, follows approximately with , where denotes the critical for stationary convection. This result is in agreement with the previous nonlinear theoretical results and experimental observations. The heatfunction formulation is used to visualize the convective heat transport and energy distribution.",
+      "journal_name": "ASME Journal of Heat and Mass Transfer",
+      "published_date": "2026-11-24",
+      "url": "https://doi.org/10.1002/jhmt.70000",
+      "doi": "https://doi.org/10.1002/jhmt.70000",
+      "cited_by_count": 0,
+      "keywords": [],
+      "authors": [
+        "Yadagiri Rameshwar",
+        "A. Pramesh Rao",
+        "Hari Ponnamma Rani",
+        "M. A. Rawoof Sayeed",
+        "David Laroze"
+      ],
+      "category": "heat-transfer"
     }
   ],
   "stats": {
-    "total": 14351,
+    "total": 14383,
     "journals": 277,
-    "last_update": "2026-11-26 07:57:08",
-    "reactor-thermal_count": 2350,
-    "heat-transfer_count": 4365,
+    "last_update": "2026-11-27 07:58:26",
+    "reactor-thermal_count": 2367,
+    "heat-transfer_count": 4380,
     "today": 0,
     "by_journal": [
       {
         "name": "Applied Thermal Engineering",
-        "count": 2553
+        "count": 2565
       },
       {
         "name": "International Journal of Heat and Mass Transfer",
-        "count": 1045
+        "count": 1047
       },
       {
         "name": "Annals of Nuclear Energy",
-        "count": 647
+        "count": 648
       },
       {
         "name": "International Journal of Thermal Sciences",
@@ -363991,23 +364642,23 @@
       },
       {
         "name": "Nuclear Engineering and Technology",
-        "count": 527
+        "count": 528
       },
       {
         "name": "Nuclear Engineering and Design",
-        "count": 348
+        "count": 356
       },
       {
         "name": "Progress in Nuclear Energy",
-        "count": 270
+        "count": 274
       },
       {
         "name": "Nuclear Technology",
-        "count": 221
+        "count": 223
       },
       {
         "name": "Nuclear Science and Engineering",
-        "count": 184
+        "count": 185
       },
       {
         "name": "Journal of Nuclear Science and Technology",
@@ -364770,6 +365421,10 @@
         "count": 12
       },
       {
+        "name": "ASME Journal of Heat and Mass Transfer",
+        "count": 12
+      },
+      {
         "name": "Journal of Political Economy",
         "count": 11
       },
@@ -364831,10 +365486,6 @@
       },
       {
         "name": "Journal of Heat Transfer",
-        "count": 11
-      },
-      {
-        "name": "ASME Journal of Heat and Mass Transfer",
         "count": 11
       },
       {
@@ -365084,10 +365735,6 @@
     ],
     "trend": [
       {
-        "date": "2026-10-28",
-        "count": 34
-      },
-      {
         "date": "2026-10-29",
         "count": 39
       },
@@ -365101,7 +365748,7 @@
       },
       {
         "date": "2026-11-01",
-        "count": 154
+        "count": 155
       },
       {
         "date": "2026-11-02",
@@ -365193,14 +365840,18 @@
       },
       {
         "date": "2026-11-24",
-        "count": 22
+        "count": 23
       },
       {
         "date": "2026-11-25",
-        "count": 0
+        "count": 30
       },
       {
         "date": "2026-11-26",
+        "count": 0
+      },
+      {
+        "date": "2026-11-27",
         "count": 0
       }
     ]
@@ -365419,5 +366070,5 @@
       }
     ]
   },
-  "export_time": "2026-11-26T07:57:08.431294"
+  "export_time": "2026-11-27T07:58:26.743465"
 }
