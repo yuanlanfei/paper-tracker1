@@ -364613,5 +364613,735 @@
       "David Laroze"
     ],
     "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240045868",
+    "title": "Numerical simulation of flow distribution in high-temperature hydrogen-cooled nuclear thermal propulsion cores: a conjugate heat transfer study of thermophysical-property feedback",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115354",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115354",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jiabin Gui",
+      "Liangxing Li",
+      "Yiwen Guo",
+      "Weimin Ma",
+      "Jingwen Jia",
+      "Junpeng Han"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240089360",
+    "title": "Industrial-scale dehydration of sorption-immobilized saline liquid radioactive waste: A scaling study for the BN-350 facility",
+    "abstract": "",
+    "journal_name": "Nuclear Engineering and Design",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.nucengdes.2026.115351",
+    "doi": "https://doi.org/10.1016/j.nucengdes.2026.115351",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "G. A. Vityuk",
+      "Владимир Анатольевич Витюк",
+      "Yerbolat T. Koyanbayev",
+      "Nurzhan Ye. Mukhamedov"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7171782600",
+    "title": "Numerical simulation of a heated mass exchanger with solid-phase oxygen control for liquid lead-bismuth eutectic",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113068",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113068",
+    "cited_by_count": 0,
+    "keywords": [
+      "lead-bismuth eutectic",
+      "oxygen supply rate",
+      "oxygen concentration",
+      "material corrosion",
+      "lead-bismuth fast reactor",
+      "heating power",
+      "operating temperature",
+      "motion effects",
+      "marine environment"
+    ],
+    "authors": [
+      "Jinyu Yue",
+      "Yang Zhang",
+      "Xian Zeng",
+      "Ziyi Liang",
+      "Qin Wang"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7204812149",
+    "title": "Validation of the thermal–hydraulic module of NECP-Panda based on the SANA experimental facility and the HTR-10 benchmark problem",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113069",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113069",
+    "cited_by_count": 0,
+    "keywords": [
+      "pebble-bed high-temperature gas-cooled reactor",
+      "thermal-hydraulic code validation",
+      "temperature distribution prediction",
+      "asymmetric heating",
+      "coupled neutronics-thermal-hydraulics",
+      "steady-state heat transfer"
+    ],
+    "authors": [
+      "Dongyu Xu",
+      "Yongping Wang",
+      "Yuxuan Wu",
+      "Chuangye Zhou",
+      "Liangzhi Cao",
+      "Hongchun Wu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240051964",
+    "title": "An intelligent power control method for advanced nuclear energy systems based on imitation and ensemble learning",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113048",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113048",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yu Xing",
+      "Jiaqiang Wang",
+      "Xiaojing Liu",
+      "Meiqi Song"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240057723",
+    "title": "Systematic validation and uncertainty quantification of SPARC90 pool scrubbing code against a qualified database",
+    "abstract": "Pool scrubbing is a passive mitigation system with huge potential for drastically reducing source term across diverse Severe Accident (SA) scenarios and reactor designs. Due to the wide variability of the governing thermal–hydraulic and physicochemical parameters, achieving accurate code predictions remains a significant challenge. This study presents a comprehensive and systematic validation of the SPARC90 code, which is the basis of pool scrubbing modules implemented in MELCOR, against an extensive database of over 100 “qualified for validation” experiments covering relevant SA Boundary Conditions (BC). The assessment also includes a systematic uncertainty quantification and an analysis of individual BC effects to check the code’s sensitivity to key parameters. The results indicate that SPARC90 generally captures global experimental trends, even though it tends to underpredict aerosol retention, yielding an overall Mean Relative Error (MRE) of −21 %. The code, initially developed for BWR suppression pool scenarios, show a good performance for flooded molten core interaction conditions (−12 % MRE). However, it systematically fails to reproduce experiments from specific scenarios such as steam generator tube rupture (−88 % MRE) and filtered containment venting system configurations (−95 % MRE), as expected from the lack of adequate models. An individual analysis of the code responses to governing boundary conditions demonstrates that it qualitatively follows expected physical trends. These findings identify specific modeling gaps and offer a structured framework to guide future developments in pool scrubbing codes.",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113045",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113045",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "G. Tinfena",
+      "Michela Angelucci",
+      "Sandro Paci",
+      "Luis Enrique Herranz"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240092722",
+    "title": "Innovative core design for the high-flux TRIGA 2000 Bandung reactor using cylindrical fuel configuration",
+    "abstract": "",
+    "journal_name": "Annals of Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.anucene.2026.113060",
+    "doi": "https://doi.org/10.1016/j.anucene.2026.113060",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Fajri Prasetya",
+      "Zaki Su’ud",
+      "Nuri Trianti",
+      "Ratna Dewi Syarifah",
+      "Indah Rosidah Maemunah"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7140073513",
+    "title": "Surrogate fission gas detection in a horizontal canister mock-up considering temperature effects1",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106722",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106722",
+    "cited_by_count": 0,
+    "keywords": [
+      "spent nuclear fuel",
+      "dry cask storage",
+      "ultrasonic sensors",
+      "temperature compensation",
+      "time-of-flight method",
+      "xenon release",
+      "helium atmosphere",
+      "non-invasive monitoring",
+      "acoustic attenuation"
+    ],
+    "authors": [
+      "Bozhou Zhuang",
+      "Bora Gencturk",
+      "Assad A. Oberai",
+      "Ryan M. Meyer",
+      "Anton Sinkov",
+      "Morris S. Good"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7157815093",
+    "title": "Development of MOOSE-based phase field model for pitting corrosion of SS304: Numerical verification and experimental validation",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106702",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106702",
+    "cited_by_count": 0,
+    "keywords": [
+      "pitting corrosion",
+      "304 stainless steel",
+      "phase-field model",
+      "moose",
+      "spent fuel casks",
+      "chemical stability",
+      "pit depth",
+      "ion concentration distribution",
+      "electrolyte potential",
+      "model validation"
+    ],
+    "authors": [
+      "Pilhyeon Ju",
+      "Kwanil Chae",
+      "Nakkyu Chae",
+      "Samuel Park",
+      "Richard  Ian Foster",
+      "Kyoungdoc Kim",
+      "Sungyeol Choi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7166582312",
+    "title": "Asymptotic-collapse predictor and multi-fidelity validation for bimodal-response surrogate reliability on a simulated PWR axial xenon-oscillation testbed",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106712",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106712",
+    "cited_by_count": 0,
+    "keywords": [
+      "pressurized water reactor",
+      "bimodal response",
+      "Kriging surrogate model",
+      "failure probability estimation",
+      "Doppler feedback",
+      "bifurcation",
+      "bias correction",
+      "decision tree",
+      "uncertainty quantification"
+    ],
+    "authors": [
+      "Chengyuan Li",
+      "Zhangrui Yan",
+      "Shanfang Huang",
+      "Jian Deng",
+      "Zhifang Qiu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240100311",
+    "title": "Geometry reconstruction and Monte Carlo radiation field computation for nuclear facilities using multiview images and projected contour simplification",
+    "abstract": "",
+    "journal_name": "Progress in Nuclear Energy",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.pnucene.2026.106723",
+    "doi": "https://doi.org/10.1016/j.pnucene.2026.106723",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhehan Pei",
+      "Ruogu She",
+      "Hòng Xu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240047960",
+    "title": "Fundamental study of a heat-resistant self-powered gamma-ray detector",
+    "abstract": "Self-powered gamma-ray detectors (SPGDs) are promising for monitoring nuclear reactor cores. Since they require no high-voltage supply, they mitigate surge-induced electrical failures and remain applicable even under accident scenarios involving hydrogen generation. In this work, we propose a heat-resistant SPGD designed to reduce neutron-induced reactions in the emitter and measure gamma rays in high-temperature environments. We fabricated a prototype using a lead–bismuth (Pb–Bi) alloy emitter enclosed in an Al2O3 case. Continuous measurements showed constant sensitivity in both solid and molten states, with an increase near the 125°C melting point. The SPGD current exhibited excellent linearity (R2 > 0.99) with dose rate at both room temperature and 300°C. The measured sensitivity at 300°C was 2.2 times that at room temperature, although the origin of this difference could not be determined from the present experiment. Although expansion space in the emitter case caused molten metal separation and 10% sensitivity fluctuations, this can be resolved by optimizing the case volume and electrode geometry. These results demonstrate the feasibility of the proposed SPGD concept for stable operation up to 300°C without liquid-metal leakage, providing a robust solution for gamma-ray monitoring in harsh reactor environments.",
+    "journal_name": "Journal of Nuclear Science and Technology",
+    "published_date": "2026-11-25",
+    "url": "https://doi.org/10.1080/00223131.2026.2766291",
+    "doi": "https://doi.org/10.1080/00223131.2026.2766291",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "K. Okada",
+      "A. Fushimi",
+      "Y. Murakami"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7163075346",
+    "title": "Practical Removal of Radioactive Pertechnetate from Radioactive Waste Using an Aluminum-Based MOF",
+    "abstract": "The selective removal of radioactive pertechnetate (TcO₄⁻) from complex radioactive effluents remains a critical challenge in nuclear and radioactive wastewater management due to severe competitive ion effects. Herein, an aluminum-based metal–organic framework (Al-NH₂-MOF) was evaluated for TcO₄‒ removal from real radiopharmaceutical wastewater. The material exhibited a high specific surface area (997 m² g‒¹) and microporous structure enriched with amine-functional binding sites. Equilibrium data followed the Langmuir isotherm model (R² = 0.9997), confirming monolayer adsorption on homogeneous active sites. Under real multicomponent radioactive conditions, total β activity decreased from 148 to 16 Bq mL‒¹, corresponding to 89% removal efficiency and a decontamination factor (DF) of 9.25. Notably, efficient TcO₄‒ removal was achieved despite the presence of high nitrate concentration (202 mg L‒¹), multivalent competing anions (PO₄³‒, SO₄²‒), and coexisting gamma-emitting radionuclides (Cs-137, Ce-144, Ru-103, etc.). Mechanistic analysis indicates that adsorption is governed by selective electrostatic ion exchange between TcO₄⁻ and cationic amine sites, as supported by isotherm modeling, dosage-dependent site utilization, and radiometric validation. The ability to achieve significant radiological decontamination in untreated real waste highlights the practical applicability of aluminum-based MOFs for nuclear wastewater treatment",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104870",
+    "doi": "https://doi.org/10.1016/j.net.2026.104870",
+    "cited_by_count": 0,
+    "keywords": [
+      "pertechnetate removal",
+      "aluminum-based metal-organic frameworks",
+      "radioactive waste treatment",
+      "competitive ion effects",
+      "amine-functionalized MOFs",
+      "decontamination factor",
+      "nitrate interference",
+      "Langmuir isotherm",
+      "nuclear wastewater treatment"
+    ],
+    "authors": [
+      "Parisa Zaheri",
+      "Mustafa Aghazadeh",
+      "Hamzeh Forati Rad",
+      "Hassan Aghayan"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240047663",
+    "title": "Nuclear energy quest for decarbonization in an era of Artificial Intelligence: Empirical evidence from selected economies",
+    "abstract": "The energy-hungry nature of Artificial Intelligence (AI) has intensified the importance of energy security and climate change in an era of geopolitical strains and rapid technological transformation. The accelerating energy demand and associated sustainability issues have amplified the question of energy security and the importance of transition energy sources such as nuclear energy in future energy-emission scenarios. Although, nuclear energy supportive role promoted by energy security provision, potential to meet rising energy demands along with environmental benefits, but its relative environmental performance is still debatable and demands further investigation with contextual settings for effective energy-emissions planning. The present work explores the role of nuclear energy in decarbonization strategies to extends the literature by investigating its environmental performance along with ecological footprints (EFPs), carbon emissions (CE) and air quality management (AIQ) in selected economies from 1990 to 2024. The empirical findings endorse the supportive role of nuclear energy in mitigation efforts. The positive role is more significant for air quality improvement compared to ecological footprints and carbon emissions, respectively. Investigation-based actionable policy suggestions are recommended to support nuclear deployment, along with renewables, requiring strong policy commitments and financial incentives to achieve economic and sustainable development.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104854",
+    "doi": "https://doi.org/10.1016/j.net.2026.104854",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Nasir Mahmood",
+      "Bilal Akbar Chuddher",
+      "Syed Tauseef Hassan",
+      "Muzzammil Hussain",
+      "Adnan Bashir Butt",
+      "Atteequrahman"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240094144",
+    "title": "Performance-Based Integrated Safety Assessment Framework for the Low- and Intermediate-Level Radioactive Waste Disposal Facility in Korea",
+    "abstract": "An Integrated Safety Assessment (ISA) framework for nuclear facilities, modeled after the US Nuclear Regulatory Commission’s Reactor Oversight Process (ROP), has been explored in Korea. Previous research has focused on nuclear power plants, whereas growing interest in radioactive waste management requires a specialized approach. This study developed a performance-based ISA framework for a low- and intermediate-level radioactive waste (LILW) disposal facility, tailored to the Korean oversight environment. The ROP characteristics were analyzed and ISA frameworks for LILW disposal facilities in Japan, Spain, Sweden, and the UK were reviewed. Potential ISA inputs were identified based on Korean nuclear regulatory legislation. Six assessment areas (cornerstones) were proposed using defense-in-depth and cornerstone approaches, with supporting attributes and performance elements. A four-level significance classification scheme for input issues and a response matrix differentiating oversight levels were also developed. The assessment areas were examined against key inspection items and 65 inspection findings from the Phase 1 LILW disposal facility in Korea, whereas the significance methodology, illustrated with hypothetical cases, was not formally applied to these findings and requires verification through future pilot applications. The proposed ISA framework is expected to optimize regulatory resource allocation toward more critical issues and enhance licensee accountability for safety.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104880",
+    "doi": "https://doi.org/10.1016/j.net.2026.104880",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "정효숙",
+      "Sujin Jung",
+      "Chan Woo Jeong",
+      "Sungyeol Choi"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240094942",
+    "title": "Research on Irradiation Performance Degradation and Lifetime Prediction of Bipolar Devices Based on Adaptive Differential Evolution",
+    "abstract": "Space ionizing radiation induces defect evolution in bipolar transistors, resulting in increased base current and degraded current gain, which seriously compromises the reliability of aerospace electronic systems. To overcome the limitations of empirical models, such as parameter dependence, large fitting errors under varying irradiation conditions, and poor generalization, this paper proposes an analytical degradation model for NPN bipolar transistors that accounts for interface traps, bulk defects, hydrogen concentration, and dose rate effects. Analytical expressions for base current degradation are derived, enabling numerical computation of Δ(1/β) curves. To address the poor adaptability of empirical parameters, the self-adaptive differential evolution (SADE) algorithm is introduced to globally optimize three key physical parameters: the surface and bulk recombination cross-sections and the oxide-trap conversion coefficient. Calibration is performed using measured degradation data under multiple hydrogen and dose-rate conditions, and the optimized model is subsequently applied to predict device lifetime defined as a 50% drop in current gain under various stress conditions. Results demonstrate that the SADE-based model converges stably, significantly reduces fitting errors compared with empirical approaches, and maintains good performance across a broad range of hydrogen concentrations and dose rates. The proposed method provides a robust framework for radiation effect evaluation, parameter calibration, and long-term lifetime prediction of bipolar devices in aerospace applications.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104884",
+    "doi": "https://doi.org/10.1016/j.net.2026.104884",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yanru Ren",
+      "Min Zhu",
+      "Yang Liu",
+      "Xuehui Dai",
+      "Jingyun Zhao",
+      "Lei Jian",
+      "Minghui Liu"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240101958",
+    "title": "Machine learning-based joint probabilistic source term inversion for uncertainty quantification of plutonium aerosol releases in explosion scenarios",
+    "abstract": "Rapid source term inversion for plutonium aerosol releases in explosion scenarios supports consequence assessment. However, most machine learning methods provide deterministic estimates and cannot quantify joint uncertainty in coupled source parameters. This study developed machine learning-based joint probabilistic source term inversion (JPSTI) to infer joint probability regions for the total mass of plutonium released into the atmosphere during an accident (the airborne plutonium source term) and the stabilized debris cloud top (DCT). Inputs were meteorological variables and downwind integrated air concentrations. JPSTI combines natural gradient boosting for marginal distribution parameters with a Gaussian copula for the bivariate predictive distribution. It was evaluated against three probabilistic baselines using 4,000 simulated scenarios. Empirical coverages of the 90% and 95% joint probability regions were 89.53% and 93.78%, respectively. The joint absolute calibration error was 1.65 percentage points, 54.02–74.01% lower than those of the baselines. JPSTI maintained reliable coverage without overly broad regions and achieved a lower standardized energy score, indicating balanced calibration, compactness and distributional quality. Diagnostics showed that unfavorable meteorology and near-field monitoring perturbations can reduce region reliability. JPSTI provides fast source term inversion with joint uncertainty quantification for early assessment, with potential extension to joint inversion of additional source parameters.",
+    "journal_name": "Nuclear Engineering and Technology",
+    "published_date": "2026-11-01",
+    "url": "https://doi.org/10.1016/j.net.2026.104877",
+    "doi": "https://doi.org/10.1016/j.net.2026.104877",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chiyu Zhao",
+      "Li Sufen",
+      "Xingfu Cai",
+      "Yonggang Huo",
+      "Ziyi Yu",
+      "Wenyu Fan",
+      "YiLi Sun",
+      "Yibo Luo"
+    ],
+    "category": "reactor-thermal"
+  },
+  {
+    "openalex_id": "W7240048764",
+    "title": "Modulating near-field radiative heat transfer through spectral resonance matching in spherical geometries",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129936",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129936",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jian-You Wang",
+      "Yong Zhang",
+      "Yun-Chao Hao",
+      "Si-Zhuang Ma",
+      "Jiaqi Zhu",
+      "Hong-Liang Yi"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240063978",
+    "title": "Theoretical investigation of water spray quenching on oxidized plates at high temperatures",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129932",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129932",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jongbin Lee",
+      "Yutaku Kita",
+      "Minsub Jeong",
+      "Yasuyuki Takata",
+      "Aejung Yoon"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240083209",
+    "title": "Transient thermal management of the high-heat-flux AI server: Data-driven optimization and hardware-in-the-loop validation",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129960",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129960",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Xingyang Niu",
+      "Wei Zhang",
+      "Fang Ye",
+      "Qingfei Shen",
+      "Hang Guo"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240102535",
+    "title": "Regulation of near-field radiative heat transfer via anisotropic hyperbolic surface plasmon polaritons in GaN/BP multilayers",
+    "abstract": "",
+    "journal_name": "International Journal of Heat and Mass Transfer",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129955",
+    "doi": "https://doi.org/10.1016/j.ijheatmasstransfer.2026.129955",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Zhixin Pan",
+      "Jinlin Song",
+      "Anqi Hu",
+      "Yunfeng Ge",
+      "Qiang Cheng"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7165684113",
+    "title": "Numerical thermal-hydraulic study of microchannels with interrupted fins and cavities",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134111",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134111",
+    "cited_by_count": 0,
+    "keywords": [
+      "microchannel heat sinks",
+      "wavy fins",
+      "trapezoidal cavity",
+      "thermal-hydraulic performance",
+      "Nusselt number enhancement",
+      "pressure drop",
+      "drag reduction",
+      "microelectronics cooling"
+    ],
+    "authors": [
+      "Kaihua Zhang",
+      "Kunyan Wang",
+      "Bilin Dong",
+      "Yue Wang",
+      "Xiaohu Wu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7167789188",
+    "title": "Heat exchanger network optimization and cleaning scheduling under fouling: Application to UHT dairy processing",
+    "abstract": "Heat exchanger network (HEN) performance in dairy processing plants is strongly affected by fouling and cleaning-related production interruptions, yet network design and cleaning scheduling are commonly treated separately. This work develops a two-step mixed integer nonlinear programming framework that couples utility-substage HEN synthesis with fouling-aware exchanger sizing and event-based production, aseptic intermediate cleaning (AIC), and cleaning-in-place (CIP) scheduling. The framework is adapted and demonstrated through an industrially relevant ultra-high-temperature (UHT) whole-milk case study. In Step 1, exchanger topology, utility placement, and heat transfer area are optimized under clean and fully fouled conditions. In Step 2, the selected topology is retained while exchanger areas are reoptimized jointly with the production and cleaning schedule over a one-week operating horizon. For the baseline case, the required heat-transfer area approximately doubles from 370 m 2 under clean conditions to 744 m 2 under fully fouled conditions, while dynamic scheduling results in intermediate areas of 612–656 m 2 across the cleaning-policy scenarios. The OneStep technology reduces combined external utility duty from 525 to 425 kW and lowers total annualized cost despite requiring additional exchanger area. Reducing AIC fouling removal after 1 h from 65% to 45% decreases production share from 84.3% to 80.0% and profit by 6.1%, demonstrating the operational and economic importance of cleaning effectiveness. The proposed framework provides an industrially applicable approach for integrating HEN design, fouling development, cleaning strategy, and operational economics under realistic UHT process constraints.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134112",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134112",
+    "cited_by_count": 0,
+    "keywords": [
+      "heat exchanger network synthesis",
+      "fouling",
+      "cleaning-in-place",
+      "utility consumption",
+      "heat transfer area",
+      "production availability",
+      "mixed-integer nonlinear programming"
+    ],
+    "authors": [
+      "Xin Bin",
+      "Hamid Ghanbari",
+      "Dragana Arlov",
+      "Martin Andersson"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7172286075",
+    "title": "A lightweight TiO2/graphene heterostructure with high reflectivity and superior heat dissipation for long–duration continuous–wave laser protection",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134177",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134177",
+    "cited_by_count": 0,
+    "keywords": [
+      "TiO2 coating",
+      "graphene films",
+      "heterostructures",
+      "continuous-wave laser irradiation",
+      "thermal management",
+      "heat dissipation",
+      "thermal barrier",
+      "laser reflectivity",
+      "anisotropic thermal transport"
+    ],
+    "authors": [
+      "Wei Sun",
+      "Zhuang Ma",
+      "Peng Li",
+      "Lihong Gao"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240031919",
+    "title": "Bin-resolution-independent radiative flux mapping and assessment for cylindrical solar receivers",
+    "abstract": "Conventional spatial binning in Monte Carlo Ray Tracing (MCRT) flux mapping couples bin resolution to statistical noise suppression into a single, inseparable parameter, producing step-discontinuous flux fields with artificially inflated hot spots that corrupt the thermal boundary condition used in conjugate heat transfer simulations of solar receivers. This work formulates two density-estimation methods: k -nearest neighbor ( k -NN) and Gaussian kernel density estimation (KDE) for flux reconstruction in cylindrical solar receivers using per-ray spectral weights from a single Monte Carlo ray-tracing run. The flux transfer quality from MCRT to the target mesh is assessed prior to fluid-solver execution using a five-metric Flux Transfer Performance (FTP) index comprising energy conservation, peak flux accuracy, spatial gradients, information loss, and resolution compatibility. The methodology is tested across a 6 × 6 cross-resolution matrix on the LS-3 parabolic trough receiver using a spectrally resolved optical simulation. The density-estimation methods maintain stable transfer quality and produce accurate, longitudinally smooth flux profiles even at fine resolutions, eliminating false hot spots produced by the bin-based method. A Fast Fourier Transform-accelerated KDE variant reduces reconstruction runtimes from hours to seconds. Relative to bin-based mapping, KDE reduces peak flux inflation from 225% to 98% of the physical reference at fine resolution and lowers adjacent-face flux discontinuities by 58%, while maintaining FTP ≥ 0.68 across all tested resolution mismatches, surpassing FTP = 0.49 by the bin-based method. The methodology provides an a priori quality check for flux mapping in cylindrical solar receivers, identifying potential boundary-condition defects and spatial discontinuities prior to thermal simulations.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134149",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134149",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Sainath A. Waghmare",
+      "Gabriel Cardona",
+      "Ramón Pujol-Nadal"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240038816",
+    "title": "Architecture evaluation and screening of a liquid hydrogen cold energy and low-grade heat recovery system for marine liquid hydrogen fuel utilisation",
+    "abstract": "Architecture selection for the combined recovery of liquid hydrogen cold energy and low-grade engine waste heat in marine applications requires balancing power generation, economic cost, and system integration burden. This study adopts a baseline comprising a direct expansion branch and a closed recuperative supercritical hydrogen Brayton cycle. Connection rules for one or two organic Rankine cycles in series along the fuel stream, with optional parallel augmentation, generate four additional configurations. A system integration burden index is proposed to combine equipment mass, volume, and structural complexity. Process simulation and a genetic algorithm are used for three-objective optimisation of net power output, total annualised cost, and integration burden. The results show that cycle connections directly affect power distribution. At the compromise operating points, increased organic Rankine cycle output in the configurations with parallel augmentation is offset by reduced output from the other cycles, yielding no system net power gain. The configuration with one organic Rankine cycle in series is selected as the preferred option. It produces 375.78 kW, 17.98% above the baseline, achieves a net present value of $2.546 million, and has the lowest total annualised cost and integration burden among the configurations incorporating organic Rankine cycles. Two cycles in series increase the maximum net power output to 700.80 kW, only 1.48% above the corresponding maximum for one cycle. Structural complexity dominates differences in integration burden. At fixed compromise operating points, the burden ranking remains unchanged under five weighting schemes and simultaneous ± 5 % changes in the mass and volume scaling coefficients.",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134141",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134141",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yinhua Liu",
+      "Peilin Zhou",
+      "Haibin Wang",
+      "Binteng Gu",
+      "Lin Yang"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240039857",
+    "title": "Market-oriented dispatch and techno-economic evaluation of a 660 MW CHP plant with a dual-steam-extraction molten salt heat storage system",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134117",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134117",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Chunhao Zhao",
+      "Yuhang Zhu",
+      "Chao Cheng",
+      "Qinghe Liang",
+      "Heng Zhang",
+      "Dan Gao",
+      "Jizhen Liu"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240046025",
+    "title": "Thermodynamics-informed multimodal pre-trained language model for thermal-state monitoring of steam turbines in thermal power plants",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134145",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134145",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Bohua Chen",
+      "Zhitai Xing",
+      "Ruibin Ban",
+      "Ling Xiang",
+      "Xiaolong Wang",
+      "HU Aijun"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240047776",
+    "title": "Model predictive control for battery fast charging based on 2D reduced-order thermal models",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134120",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134120",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Victor Tomanik",
+      "Benjamín Plá",
+      "Pau Bares",
+      "André Nakaema Aronis"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240048642",
+    "title": "Physics-conditioned latent diffusion surrogate for high-resolution multi-field prediction and rapid process screening of industrial kiln combustion",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134061",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134061",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Jinhyeok Yun",
+      "Gyosoon Kim",
+      "Hong-Seok Ahn",
+      "Dowon Kim"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240063009",
+    "title": "Direction-dependent thermal–hydraulic response of supercritical CO₂ in a high-aspect-ratio microchannel under variable acceleration loading",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134142",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134142",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Guangsheng Wu",
+      "Jianyu Tan",
+      "Junming Zhao",
+      "Kim Tiow Ooi",
+      "Xiaoguang Chen"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240078108",
+    "title": "Physics-motivated lag-aware reinforcement learning with neural surrogate acceleration for liquid-cooled battery thermal management",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134167",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134167",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Yansen Zhang",
+      "Weikuo Zhang",
+      "Wenjun Kong"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240080188",
+    "title": "Experimental study on ignition and combustion characteristics of direct-injected methanol ignited by trace heavy fuel oil for marine applications",
+    "abstract": "",
+    "journal_name": "Applied Thermal Engineering",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.applthermaleng.2026.134181",
+    "doi": "https://doi.org/10.1016/j.applthermaleng.2026.134181",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Lijiang Wei",
+      "Chen Huang",
+      "Jiayue Wang",
+      "Haokun Shi",
+      "En Ke"
+    ],
+    "category": "heat-transfer"
+  },
+  {
+    "openalex_id": "W7240082003",
+    "title": "Plasma-swirled free jets",
+    "abstract": "This study explores the use of dielectric barrier discharge plasma actuators to induce swirl into a free jet flow. This is achieved by the combined action of four actuators, equally spaced along the cylindrical surface of a swirler insert, leading to an induced azimuthal velocity. The electrical performance of the device and the induced flow field are investigated. The latter is examined through crossflow stereoscopic particle image velocimetry measurements in planes located at different axial locations between 0.5 and 3.5 nozzle diameters. The resulting flow fields are compared to those obtained with more commonly employed passive swirlers. The results show that the dielectric barrier discharge plasma actuators can induce a swirl comparable to traditional passive devices, and that there is control authority based upon the amplitude of the supplied voltage signal. Moreover, it is shown that the presented swirlers enhance the spatial homogeneity of the controlled flow compared to multichannel passive swirlers, in particular close to the jet’s nozzle exit section.",
+    "journal_name": "Experimental Thermal and Fluid Science",
+    "published_date": "2026-11-26",
+    "url": "https://doi.org/10.1016/j.expthermflusci.2026.111869",
+    "doi": "https://doi.org/10.1016/j.expthermflusci.2026.111869",
+    "cited_by_count": 0,
+    "keywords": [],
+    "authors": [
+      "Paolo Comunian",
+      "Enrico Amico",
+      "G. Putignano",
+      "M. Zannone",
+      "Gioacchino Cafiero",
+      "Jacopo Serpieri"
+    ],
+    "category": "heat-transfer"
   }
 ]
